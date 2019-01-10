@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <title>Common Shortcuts</title>
     <link
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
       rel="stylesheet"
@@ -14,13 +15,16 @@
       crossorigin="anonymous"
     />
     <style>
+      body {
+        background: #fafafa;
+      }
       #app {
         font-family: "Avenir", Helvetica, Arial, sans-serif;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
         text-align: center;
         color: #2c3e50;
-        margin-top: 60px;
+        margin-top: 20px;
         padding: 10px;
       }
       h1 {
@@ -41,6 +45,10 @@
       a {
         color: #42b983;
       }
+      b {
+        opacity: 0.7;
+        user-select: none;
+      }
 
       .p-0 {
         padding: 0px !important;
@@ -51,15 +59,47 @@
       .mb-10 {
         margin-bottom: 10px;
       }
+      .mb-30 {
+        margin-bottom: 30px;
+      }
+      .width-100 {
+        width: 100%;
+      }
+      .width-90 {
+        flex: 0 0 90%;
+        max-width: 90%;
+      }
+      .pointer {
+        cursor: pointer;
+      }
 
       .cards {
-        border: 1px solid #ddd;
-        border-bottom: 4px solid #eeeeee;
+        /* background: #fff; */
+        /* border: 1px solid #ddd; */
+        border-bottom: 3px dotted #eeeeee;
+        width: 100%;
+        /* margin-bottom: 10px; */
+        border-radius: 5px;
+        padding: 10px 15px;
+      }
+      .cards:hover .bookmark {
+        display: block;
+      }
+      .bookmark {
+        cursor: pointer;
+        display: none;
+      }
+      .bookmark:hover {
+        color: rgb(0, 132, 255);
+      }
+      .bookmark-selected {
+        cursor: pointer;
+        display: block;
+        color: rgb(0, 132, 255);
+      }
+      .wrapper {
         width: 100%;
         max-width: 650px;
-        margin-bottom: 20px;
-        border-radius: 5px;
-        padding: 15px;
       }
       .desc {
         font-size: 18px;
@@ -73,6 +113,7 @@
       .keys {
         font-size: 14px;
         margin-bottom: 0px;
+        user-select: none;
       }
       .keys-windows {
       }
@@ -110,17 +151,42 @@
         margin-bottom: 3px;
       }
       .symbol {
+        background: #fff;
         border: 1px solid #ddd;
         padding: 0 5px;
         border-radius: 5px;
-        margin-bottom: 3px;
       }
       .operator {
         padding: 0 5px;
-        margin-bottom: 3px;
+      }
+      .dash {
+        padding: 0 5px 0 10px;
+        font-weight: 300;
+      }
+      .description {
+        padding: 0 5px;
+        text-align: left;
       }
       .search-box:focus {
         outline: none;
+      }
+      .label {
+        user-select: none;
+        opacity: 0.7;
+        padding: 0 5px;
+        cursor: pointer;
+      }
+      .label-selected {
+        font-weight: 600;
+      }
+      .platform {
+        opacity: 0.5;
+        padding: 0 5px;
+        cursor: pointer;
+      }
+      .platform-selected {
+        opacity: 1;
+        font-weight: 600;
       }
     </style>
   </head>
@@ -130,81 +196,173 @@
         class="hello d-flex flex-column justify-content-center align-items-center"
       >
         <h1>
-          <i class="fa fa-file-excel-o" aria-hidden="true"></i> Common Excel
-          Shortcuts
+          <i class="fa fa-file-excel-o" aria-hidden="true"></i> Common
+          <u>Excel</u> Shortcuts
         </h1>
         <input v-model="search" class="search-box" placeholder="Search..." />
-        <div
-          v-for="(shortcut, index) in filteredShortcuts"
-          :key="index"
-          class="d-flex flex-column cards"
-        >
-          <p class="info text-left">{{ shortcut.category }}</p>
-          <p class="desc text-left">{{ shortcut.description }}</p>
-          <div class="d-flex flex-row justify-content-between p-0">
+
+        <div class="wrapper d-flex flex-row justify-content-between mb-10">
+          <div class="d-flex flex-row">
+            <p :class="classTab('shortcuts')" @click="viewTab('shortcuts')">
+              Shortcuts
+            </p>
+            <p :class="classTab('bookmarks')" @click="viewTab('bookmarks')">
+              Bookmarked
+            </p>
+          </div>
+          <div class="d-flex flex-row">
             <p
-              class="keys keys-windows d-flex flex-row align-items-center flex-wrap"
+              :class="classPlatform('windows')"
+              @click="viewPlatform('windows')"
             >
               <i class="fa fa-windows icon" aria-hidden="true"></i>
-              <span
-                v-for="(key, keyIn) in shortcut.windows"
-                :key="keyIn"
-                :class="keyClass(key.type)"
-                v-if="shortcut.windows.length"
-              >
-                {{ key.val }}
-              </span>
-              <span v-if="!shortcut.windows.length" class="operator"> - </span>
             </p>
-            <p
-              class="keys keys-mac d-flex flex-row align-items-center flex-wrap"
-            >
+            <p :class="classPlatform('mac')" @click="viewPlatform('mac')">
               <i class="fa fa-apple icon" aria-hidden="true"></i>
-              <span
-                v-for="(key, keyIn) in shortcut.mac"
-                :key="keyIn"
-                :class="keyClass(key.type)"
-                v-if="shortcut.mac.length !== 0"
-              >
-                {{ key.val }}
-              </span>
-              <span v-if="!shortcut.mac.length" class="operator"> - </span>
             </p>
           </div>
         </div>
 
+        <div class="row width-100">
+          <div class="col-md-4 col-12 mb-30">
+            <p class="text-left pointer" @click="viewCollapse('Common')">
+              <b
+                >Common
+                <i
+                  :class="classCollapse('Common') ? 'fa fa-caret-down' : 'fa fa-caret-up'"
+                  aria-hidden="true"
+                ></i
+              ></b>
+            </p>
+            <div
+              v-for="(shortcut, index) in filteredShortcuts('Common')"
+              :key="index"
+              class="d-flex flex-column cards"
+              v-if="shortcut[platform].length !== 0 && classCollapse('Common')"
+            >
+              <div
+                class="keys keys-windows d-flex flex-row align-items-center flex-wrap justify-content-between pointer"
+                @click="bookmark(shortcut.id, 'Common')"
+              >
+                <div class="width-90 d-flex flex-row align-items-center">
+                  <i
+                    :class="platform === 'windows' ? 'fa fa-windows icon' : 'fa fa-apple icon'"
+                    aria-hidden="true"
+                  ></i>
+                  <span
+                    v-for="(key, keyIn) in shortcut[platform]"
+                    :key="keyIn"
+                    :class="keyClass(key.type)"
+                    v-if="shortcut[platform].length"
+                  >
+                    {{ key.val }}
+                  </span>
+                  <span class="dash">-</span>
+                  <span v-if="!shortcut[platform].length" class="operator">
+                    -
+                  </span>
+                  <span class="description">{{ shortcut.description }}</span>
+                </div>
+                <i
+                  :class="bookmarkStar(shortcut.id, 'Common')"
+                  aria-hidden="true"
+                ></i>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-12 mb-30">
+            <p class="text-left pointer" @click="viewCollapse('General')">
+              <b>General <i class="fa fa-caret-down" aria-hidden="true"></i></b>
+            </p>
+            <div
+              v-for="(shortcut, index) in filteredShortcuts('General')"
+              :key="index"
+              class="d-flex flex-column cards"
+              v-if="shortcut[platform].length !== 0 && classCollapse('General')"
+            >
+              <div
+                class="keys keys-windows d-flex flex-row align-items-center flex-wrap justify-content-between pointer"
+                @click="bookmark(shortcut.id, 'General')"
+              >
+                <div class="width-90 d-flex flex-row align-items-center">
+                  <i
+                    :class="platform === 'windows' ? 'fa fa-windows icon' : 'fa fa-apple icon'"
+                    aria-hidden="true"
+                  ></i>
+                  <span
+                    v-for="(key, keyIn) in shortcut[platform]"
+                    :key="keyIn"
+                    :class="keyClass(key.type)"
+                    v-if="shortcut[platform].length"
+                  >
+                    {{ key.val }}
+                  </span>
+                  <span class="dash">-</span>
+                  <span v-if="!shortcut[platform].length" class="operator">
+                    -
+                  </span>
+                  <span class="description">{{ shortcut.description }}</span>
+                </div>
+                <i
+                  :class="bookmarkStar(shortcut.id, 'General')"
+                  aria-hidden="true"
+                ></i>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-12 mb-30">
+            <p class="text-left pointer" @click="viewCollapse('Workbooks')">
+              <b
+                >Workbooks <i class="fa fa-caret-down" aria-hidden="true"></i
+              ></b>
+            </p>
+            <div
+              v-for="(shortcut, index) in filteredShortcuts('Workbooks')"
+              :key="index"
+              class="d-flex flex-column cards"
+              v-if="shortcut[platform].length !== 0 && classCollapse('Workbooks')"
+            >
+              <div
+                class="keys keys-windows d-flex flex-row align-items-center flex-wrap justify-content-between pointer"
+                @click="bookmark(shortcut.id, 'Workbooks')"
+              >
+                <div class="width-90 d-flex flex-row align-items-center">
+                  <i
+                    :class="platform === 'windows' ? 'fa fa-windows icon' : 'fa fa-apple icon'"
+                    aria-hidden="true"
+                  ></i>
+                  <span
+                    v-for="(key, keyIn) in shortcut[platform]"
+                    :key="keyIn"
+                    :class="keyClass(key.type)"
+                    v-if="shortcut[platform].length"
+                  >
+                    {{ key.val }}
+                  </span>
+                  <span class="dash">-</span>
+                  <span v-if="!shortcut[platform].length" class="operator">
+                    -
+                  </span>
+                  <span class="description">{{ shortcut.description }}</span>
+                </div>
+                <i
+                  :class="bookmarkStar(shortcut.id, 'Workbooks')"
+                  aria-hidden="true"
+                ></i>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <ul>
-          <li><a href="https://vuejs.org" target="_blank"> Core Docs </a></li>
-          <li><a href="https://forum.vuejs.org" target="_blank"> Forum </a></li>
           <li>
-            <a href="https://chat.vuejs.org" target="_blank">
-              Community Chat
+            <a href="https://marcelchristianis.com" target="_blank">
+              Marcel Christianis
             </a>
           </li>
           <li>
-            <a href="https://twitter.com/vuejs" target="_blank"> Twitter </a>
-          </li>
-          <br />
-          <li>
-            <a href="http://vuejs-templates.github.io/webpack/" target="_blank">
-              Docs for This Template
-            </a>
-          </li>
-        </ul>
-        <h2>Ecosystem</h2>
-        <ul>
-          <li>
-            <a href="http://router.vuejs.org/" target="_blank"> vue-router </a>
-          </li>
-          <li><a href="http://vuex.vuejs.org/" target="_blank"> vuex </a></li>
-          <li>
-            <a href="http://vue-loader.vuejs.org/" target="_blank">
-              vue-loader
-            </a>
-          </li>
-          <li>
-            <a href="https://github.com/vuejs/awesome-vue" target="_blank">
-              awesome-vue
+            <a href="https://marcelchristianis.com" target="_blank">
+              Give Feedback
             </a>
           </li>
         </ul>
@@ -219,28 +377,96 @@
           let self = this;
           axios
             .get(
-              "https://www.googleapis.com/storage/v1/b/commonshortcuts/o/shortcuts.json?alt=media",
+              "https://www.googleapis.com/storage/v1/b/commonshortcuts/o/shortcuts2.json?alt=media",
               { crossdomain: true }
             )
             .then(function(res) {
-              console.log(res.data);
-              self.shortcuts = res.data;
+              self.shortcuts = res.data.map((x, i) => {
+                return {
+                  ...x,
+                  id: i
+                };
+              });
             });
         },
         data: {
           shortcuts: [],
           search: "",
-          bookmarks: []
+          bookmarks: [],
+          tab: "shortcuts",
+          collapse: [],
+          platform: "windows"
         },
-        computed: {
-          filteredShortcuts: function() {
-            let self = this;
-            return this.shortcuts.filter(x => {
-              return x.description.toLowerCase().includes(self.search);
-            });
-          }
-        },
+        computed: {},
         methods: {
+          viewCollapse: function(category) {
+            let check = this.collapse.includes(category);
+            if (check) {
+              this.collapse = this.collapse.filter(x => x !== category);
+            } else {
+              this.collapse = this.collapse.concat(category);
+            }
+          },
+          classCollapse: function(category) {
+            let check = this.collapse.includes(category);
+            return check ? false : true;
+          },
+          filteredShortcuts: function(category) {
+            let self = this;
+            let bucket =
+              this.tab === "shortcuts" ? this.shortcuts : this.bookmarks;
+            let search = self.search.split(" ");
+
+            function queryCheck(query) {
+              let check = true;
+              search.forEach(x => {
+                if (check === true) {
+                  check = query.description.toLowerCase().includes(x);
+                }
+              });
+              return check;
+            }
+
+            return bucket.filter(x => {
+              return queryCheck(x) && x.category === category;
+            });
+          },
+          viewTab: function(tab) {
+            this.tab = tab;
+          },
+          classTab: function(tab) {
+            return this.tab === tab ? "label label-selected" : "label";
+          },
+          viewPlatform: function(platform) {
+            this.platform = platform;
+          },
+          classPlatform: function(platform) {
+            return this.platform === platform
+              ? "platform platform-selected"
+              : "platform";
+          },
+          bookmark: function(id, category) {
+            let data = this.shortcuts.filter(x => x.id === id)[0];
+            let check =
+              this.bookmarks.filter(x => x.id === data.id).length === 0;
+
+            if (check) {
+              this.bookmarks = this.bookmarks.concat(data);
+            } else {
+              this.bookmarks = this.bookmarks.filter(x => x.id !== data.id);
+            }
+          },
+          bookmarkStar: function(id, category) {
+            if (this.tab === "shortcuts") {
+              let data = this.shortcuts.filter(x => x.id === id)[0];
+              let check =
+                this.bookmarks.filter(x => x.id === data.id).length === 0;
+              return check
+                ? "fa fa-star-o bookmark"
+                : "fa fa-star bookmark-selected";
+            }
+            return "fa fa-star bookmark-selected";
+          },
           cleanKeys: function(string) {
             let temp = string.replace(/+/gi, ",+");
             let result = temp.split(",");
