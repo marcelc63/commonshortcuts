@@ -74,8 +74,11 @@
       }
 
       .cards {
+        /* background: #fff; */
+        /* border: 1px solid #ddd; */
         border-bottom: 3px dotted #eeeeee;
         width: 100%;
+        /* margin-bottom: 10px; */
         border-radius: 5px;
         padding: 10px 15px;
       }
@@ -193,18 +196,9 @@
         class="hello d-flex flex-column justify-content-center align-items-center"
       >
         <h1>
-          <i class="fa fa-keyboard-o" aria-hidden="true"></i> Common
-          <u>{{ ucfirst(software) }}</u> Shortcuts
+          <i class="fa fa-file-excel-o" aria-hidden="true"></i> Common
+          <u>Excel</u> Shortcuts
         </h1>
-        <div
-          class="wrapper d-flex flex-row align-items-center justify-content-center mb-10"
-        >
-          <p :class="classSoftware('excel')" @click="viewSoftware('excel')">
-            Excel
-          </p>
-          <p :class="classSoftware('vim')" @click="viewSoftware('vim')">Vim</p>
-        </div>
-
         <input v-model="search" class="search-box" placeholder="Search..." />
 
         <div class="wrapper d-flex flex-row justify-content-between mb-10">
@@ -230,60 +224,131 @@
         </div>
 
         <div class="row width-100">
-          <div
-            class="col-md-4 col-12"
-            v-for="(group, groupIn) in groups"
-            :key="groupIn"
-          >
+          <div class="col-md-4 col-12 mb-30">
+            <p class="text-left pointer" @click="viewCollapse('Common')">
+              <b
+                >Common
+                <i
+                  :class="classCollapse('Common') ? 'fa fa-caret-down' : 'fa fa-caret-up'"
+                  aria-hidden="true"
+                ></i
+              ></b>
+            </p>
             <div
-              v-for="(category, categoryIn) in group"
-              :key="categoryIn"
-              class="mb-30"
-              v-if="filteredShortcuts(category).length !== 0"
+              v-for="(shortcut, index) in filteredShortcuts('Common')"
+              :key="index"
+              class="d-flex flex-column cards"
+              v-if="shortcut[platform].length !== 0 && classCollapse('Common')"
             >
-              <p class="text-left pointer" @click="viewCollapse(category)">
-                <b
-                  >{{ category }}
-                  <i
-                    :class="classCollapse(category) ? 'fa fa-caret-down' : 'fa fa-caret-up'"
-                    aria-hidden="true"
-                  ></i
-                ></b>
-              </p>
               <div
-                v-for="(shortcut, index) in filteredShortcuts(category)"
-                :key="index"
-                class="d-flex flex-column cards"
-                v-if="shortcut[platform].length !== 0 && classCollapse(category)"
+                class="keys keys-windows d-flex flex-row align-items-center flex-wrap justify-content-between pointer"
+                @click="bookmark(shortcut.id, 'Common')"
               >
-                <div
-                  class="keys keys-windows d-flex flex-row align-items-center flex-wrap justify-content-between pointer"
-                  @click="bookmark(shortcut.id, category)"
-                >
-                  <div class="width-90 d-flex flex-row align-items-center">
-                    <i
-                      :class="platform === 'windows' ? 'fa fa-windows icon' : 'fa fa-apple icon'"
-                      aria-hidden="true"
-                    ></i>
-                    <span
-                      v-for="(key, keyIn) in shortcut[platform]"
-                      :key="keyIn"
-                      :class="keyClass(key.type)"
-                      v-if="shortcut[platform].length"
-                    >
-                      {{ key.val }}
-                    </span>
-                    <span class="dash">-</span>
-                    <span v-if="!shortcut[platform].length" class="operator">
-                      -
-                    </span>
-                    <span class="description">{{ shortcut.description }}</span>
-                  </div>
+                <div class="width-90 d-flex flex-row align-items-center">
                   <i
-                    :class="bookmarkStar(shortcut.id, category)"
+                    :class="platform === 'windows' ? 'fa fa-windows icon' : 'fa fa-apple icon'"
                     aria-hidden="true"
                   ></i>
+                  <span
+                    v-for="(key, keyIn) in shortcut[platform]"
+                    :key="keyIn"
+                    :class="keyClass(key.type)"
+                    v-if="shortcut[platform].length"
+                  >
+                    {{ key.val }}
+                  </span>
+                  <span class="dash">-</span>
+                  <span v-if="!shortcut[platform].length" class="operator">
+                    -
+                  </span>
+                  <span class="description">{{ shortcut.description }}</span>
                 </div>
+                <i
+                  :class="bookmarkStar(shortcut.id, 'Common')"
+                  aria-hidden="true"
+                ></i>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-12 mb-30">
+            <p class="text-left pointer" @click="viewCollapse('General')">
+              <b>General <i class="fa fa-caret-down" aria-hidden="true"></i></b>
+            </p>
+            <div
+              v-for="(shortcut, index) in filteredShortcuts('General')"
+              :key="index"
+              class="d-flex flex-column cards"
+              v-if="shortcut[platform].length !== 0 && classCollapse('General')"
+            >
+              <div
+                class="keys keys-windows d-flex flex-row align-items-center flex-wrap justify-content-between pointer"
+                @click="bookmark(shortcut.id, 'General')"
+              >
+                <div class="width-90 d-flex flex-row align-items-center">
+                  <i
+                    :class="platform === 'windows' ? 'fa fa-windows icon' : 'fa fa-apple icon'"
+                    aria-hidden="true"
+                  ></i>
+                  <span
+                    v-for="(key, keyIn) in shortcut[platform]"
+                    :key="keyIn"
+                    :class="keyClass(key.type)"
+                    v-if="shortcut[platform].length"
+                  >
+                    {{ key.val }}
+                  </span>
+                  <span class="dash">-</span>
+                  <span v-if="!shortcut[platform].length" class="operator">
+                    -
+                  </span>
+                  <span class="description">{{ shortcut.description }}</span>
+                </div>
+                <i
+                  :class="bookmarkStar(shortcut.id, 'General')"
+                  aria-hidden="true"
+                ></i>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-12 mb-30">
+            <p class="text-left pointer" @click="viewCollapse('Workbooks')">
+              <b
+                >Workbooks <i class="fa fa-caret-down" aria-hidden="true"></i
+              ></b>
+            </p>
+            <div
+              v-for="(shortcut, index) in filteredShortcuts('Workbooks')"
+              :key="index"
+              class="d-flex flex-column cards"
+              v-if="shortcut[platform].length !== 0 && classCollapse('Workbooks')"
+            >
+              <div
+                class="keys keys-windows d-flex flex-row align-items-center flex-wrap justify-content-between pointer"
+                @click="bookmark(shortcut.id, 'Workbooks')"
+              >
+                <div class="width-90 d-flex flex-row align-items-center">
+                  <i
+                    :class="platform === 'windows' ? 'fa fa-windows icon' : 'fa fa-apple icon'"
+                    aria-hidden="true"
+                  ></i>
+                  <span
+                    v-for="(key, keyIn) in shortcut[platform]"
+                    :key="keyIn"
+                    :class="keyClass(key.type)"
+                    v-if="shortcut[platform].length"
+                  >
+                    {{ key.val }}
+                  </span>
+                  <span class="dash">-</span>
+                  <span v-if="!shortcut[platform].length" class="operator">
+                    -
+                  </span>
+                  <span class="description">{{ shortcut.description }}</span>
+                </div>
+                <i
+                  :class="bookmarkStar(shortcut.id, 'Workbooks')"
+                  aria-hidden="true"
+                ></i>
               </div>
             </div>
           </div>
@@ -309,110 +374,47 @@
       var app = new Vue({
         el: "#app",
         created: function() {
-          this.getShortcuts("excel");
-          this.getShortcuts("vim");
+          let self = this;
+          axios
+            .get(
+              "https://www.googleapis.com/storage/v1/b/commonshortcuts/o/shortcuts2.json?alt=media",
+              { crossdomain: true }
+            )
+            .then(function(res) {
+              self.shortcuts = res.data.map((x, i) => {
+                return {
+                  ...x,
+                  id: i
+                };
+              });
+            });
         },
         data: {
-          shortcuts: { excel: [], vim: [] },
+          shortcuts: [],
           search: "",
-          bookmarks: { excel: [], vim: [] },
+          bookmarks: [],
           tab: "shortcuts",
-          collapse: { excel: [], vim: [] },
-          platform: "windows",
-          software: "excel"
+          collapse: [],
+          platform: "windows"
         },
-        computed: {
-          groups: function() {
-            let software = this.software;
-
-            let groupA,
-              groupB,
-              groupC = [];
-
-            if (software === "vim") {
-              groupA = [
-                "Global",
-                "Cursor Movement",
-                "Insert Mode",
-                "Multiple Files"
-              ];
-              groupB = [
-                "Editing",
-                "Marketing Text",
-                "Visual Commands",
-                "Registers",
-                "Marks",
-                "Macros",
-                "Tabs"
-              ];
-              groupC = [
-                "Cut and Paste",
-                "Exiting",
-                "Search and Replace",
-                "Search in Multiple Files"
-              ];
-            } else if (software === "excel") {
-              groupA = ["Common", "Navigation", "Data Entry"];
-              groupB = ["General", "Charts", "Macros", "Selection"];
-              groupC = [
-                "Workbooks",
-                "Worksheets",
-                "Format Cells",
-                "Number Format",
-                "Rows and Columns",
-                "Formulas and Functions"
-              ];
-            }
-            return [groupA, groupB, groupC];
-          }
-        },
+        computed: {},
         methods: {
-          ucfirst: function(string) {
-            return string.charAt(0).toUpperCase() + string.slice(1);
-          },
-          getShortcuts: function(software) {
-            let self = this;
-            axios
-              .get(
-                "https://www.googleapis.com/storage/v1/b/commonshortcuts/o/" +
-                  software +
-                  ".json?alt=media",
-                { crossdomain: true }
-              )
-              .then(function(res) {
-                self.shortcuts[software] = res.data.map((x, i) => {
-                  return {
-                    ...x,
-                    id: software + i
-                  };
-                });
-              });
-          },
           viewCollapse: function(category) {
-            let software = this.software;
-            let check = this.collapse[software].includes(category);
+            let check = this.collapse.includes(category);
             if (check) {
-              this.collapse[software] = this.collapse[software].filter(
-                x => x !== category
-              );
+              this.collapse = this.collapse.filter(x => x !== category);
             } else {
-              this.collapse[software] = this.collapse[software].concat(
-                category
-              );
+              this.collapse = this.collapse.concat(category);
             }
           },
           classCollapse: function(category) {
-            let software = this.software;
-            let check = this.collapse[software].includes(category);
+            let check = this.collapse.includes(category);
             return check ? false : true;
           },
           filteredShortcuts: function(category) {
             let self = this;
-            let software = this.software;
             let bucket =
-              this.tab === "shortcuts"
-                ? this.shortcuts[software]
-                : this.bookmarks[software];
+              this.tab === "shortcuts" ? this.shortcuts : this.bookmarks;
             let search = self.search.split(" ");
 
             function queryCheck(query) {
@@ -429,14 +431,6 @@
               return queryCheck(x) && x.category === category;
             });
           },
-          viewSoftware: function(software) {
-            this.software = software;
-          },
-          classSoftware: function(software) {
-            return this.software === software
-              ? "label label-selected"
-              : "label";
-          },
           viewTab: function(tab) {
             this.tab = tab;
           },
@@ -452,27 +446,21 @@
               : "platform";
           },
           bookmark: function(id, category) {
-            let software = this.software;
-            let data = this.shortcuts[software].filter(x => x.id === id)[0];
+            let data = this.shortcuts.filter(x => x.id === id)[0];
             let check =
-              this.bookmarks[software].filter(x => x.id === data.id).length ===
-              0;
+              this.bookmarks.filter(x => x.id === data.id).length === 0;
 
             if (check) {
-              this.bookmarks[software] = this.bookmarks[software].concat(data);
+              this.bookmarks = this.bookmarks.concat(data);
             } else {
-              this.bookmarks[software] = this.bookmarks[software].filter(
-                x => x.id !== data.id
-              );
+              this.bookmarks = this.bookmarks.filter(x => x.id !== data.id);
             }
           },
           bookmarkStar: function(id, category) {
-            let software = this.software;
             if (this.tab === "shortcuts") {
-              let data = this.shortcuts[software].filter(x => x.id === id)[0];
+              let data = this.shortcuts.filter(x => x.id === id)[0];
               let check =
-                this.bookmarks[software].filter(x => x.id === data.id)
-                  .length === 0;
+                this.bookmarks.filter(x => x.id === data.id).length === 0;
               return check
                 ? "fa fa-star-o bookmark"
                 : "fa fa-star bookmark-selected";

@@ -1,0 +1,1125 @@
+[
+  {
+    "description": "Open help for keyword",
+    "category": "Global",
+    "windows": [{ "type": "symbol", "val": ":help keyword" }],
+    "mac": [{ "type": "symbol", "val": ":help keyword" }]
+  },
+  {
+    "description": "Save file as",
+    "category": "Global",
+    "windows": [{ "type": "symbol", "val": ":saveas file" }],
+    "mac": [{ "type": "symbol", "val": ":saveas file" }]
+  },
+  {
+    "description": "Close current pane",
+    "category": "Global",
+    "windows": [{ "type": "symbol", "val": ":close" }],
+    "mac": [{ "type": "symbol", "val": ":close" }]
+  },
+  {
+    "description": "Open man page for word under the cursor",
+    "category": "Global",
+    "windows": [{ "type": "symbol", "val": "K" }],
+    "mac": [{ "type": "symbol", "val": "K" }]
+  },
+  {
+    "description": "Move cursor left",
+    "category": "Cursor Movement",
+    "windows": [
+      {
+        "type": "symbol",
+        "val": "h"
+      }
+    ],
+    "mac": [
+      {
+        "type": "symbol",
+        "val": "h"
+      }
+    ]
+  },
+  {
+    "description": "Move cursor down",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "j" }],
+    "mac": [{ "type": "symbol", "val": "j" }]
+  },
+  {
+    "description": "Move cursor up",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "k" }],
+    "mac": [{ "type": "symbol", "val": "k" }]
+  },
+  {
+    "description": "Move cursor right",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "l" }],
+    "mac": [{ "type": "symbol", "val": "l" }]
+  },
+  {
+    "description": "Move to top of screen",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "H" }],
+    "mac": [{ "type": "symbol", "val": "H" }]
+  },
+  {
+    "description": "Move to middle of screen",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "M" }],
+    "mac": [{ "type": "symbol", "val": "M" }]
+  },
+  {
+    "description": "Move to bottom of screen",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "L" }],
+    "mac": [{ "type": "symbol", "val": "L" }]
+  },
+  {
+    "description": "Jump forwards to the start of a word",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "w" }],
+    "mac": [{ "type": "symbol", "val": "w" }]
+  },
+  {
+    "description": "Jump forwards to the start of a word (words can contain punctuation)",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "W" }],
+    "mac": [{ "type": "symbol", "val": "W" }]
+  },
+  {
+    "description": "Jump forwards to the end of a word",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "e" }],
+    "mac": [{ "type": "symbol", "val": "e" }]
+  },
+  {
+    "description": "Jump forwards to the end of a word (words can contain punctuation)",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "E" }],
+    "mac": [{ "type": "symbol", "val": "E" }]
+  },
+  {
+    "description": "Jump backwards to the start of a word",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "b" }],
+    "mac": [{ "type": "symbol", "val": "b" }]
+  },
+  {
+    "description": "Jump backwards to the start of a word (words can contain punctuation)",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "B" }],
+    "mac": [{ "type": "symbol", "val": "B" }]
+  },
+  {
+    "description": "Move to matching character (default supported pairs: '()', '{}', '[]'",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "%" }],
+    "mac": [{ "type": "symbol", "val": "%" }]
+  },
+  {
+    "description": "Jump to the start of the line",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "0" }],
+    "mac": [{ "type": "symbol", "val": "0" }]
+  },
+  {
+    "description": "Jump to the first non",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "^" }],
+    "mac": [{ "type": "symbol", "val": "^" }]
+  },
+  {
+    "description": "Jump to the end of the line",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "$" }],
+    "mac": [{ "type": "symbol", "val": "$" }]
+  },
+  {
+    "description": "Jump to the last non",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "g_" }],
+    "mac": [{ "type": "symbol", "val": "g_" }]
+  },
+  {
+    "description": "Go to the first line of the document",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "gg" }],
+    "mac": [{ "type": "symbol", "val": "gg" }]
+  },
+  {
+    "description": "Go to the last line of the document",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "G" }],
+    "mac": [{ "type": "symbol", "val": "G" }]
+  },
+  {
+    "description": "Go to line 5",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "5G" }],
+    "mac": [{ "type": "symbol", "val": "5G" }]
+  },
+  {
+    "description": "Jump to next occurrence of character x",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "fx" }],
+    "mac": [{ "type": "symbol", "val": "fx" }]
+  },
+  {
+    "description": "Jump to before next occurrence of character x",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "tx" }],
+    "mac": [{ "type": "symbol", "val": "tx" }]
+  },
+  {
+    "description": "Jump to previous occurence of character x",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "Fx" }],
+    "mac": [{ "type": "symbol", "val": "Fx" }]
+  },
+  {
+    "description": "Jump to after previous occurence of character x",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "Tx" }],
+    "mac": [{ "type": "symbol", "val": "Tx" }]
+  },
+  {
+    "description": "Repeat previous f, t, F or T movement",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": ";" }],
+    "mac": [{ "type": "symbol", "val": ";" }]
+  },
+  {
+    "description": "Repeat previous f, t, F or T movement, backwards",
+    "category": "Cursor Movement",
+    "windows": [
+      { "type": "symbol", "val": "" },
+      { "type": "symbol", "val": "" }
+    ],
+    "mac": [{ "type": "symbol", "val": "" }, { "type": "symbol", "val": "" }]
+  },
+  {
+    "description": "Jump to next paragraph (or function/block, when editing code)",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "}" }],
+    "mac": [{ "type": "symbol", "val": "}" }]
+  },
+  {
+    "description": "Jump to previous paragraph (or function/block, when editing code)",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "{" }],
+    "mac": [{ "type": "symbol", "val": "{" }]
+  },
+  {
+    "description": "Center cursor on screen",
+    "category": "Cursor Movement",
+    "windows": [{ "type": "symbol", "val": "zz" }],
+    "mac": [{ "type": "symbol", "val": "zz" }]
+  },
+  {
+    "description": "Move screen down one line (without moving cursor)",
+    "category": "Cursor Movement",
+    "windows": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " e" }
+    ],
+    "mac": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " e" }
+    ]
+  },
+  {
+    "description": "Move screen up one line (without moving cursor)",
+    "category": "Cursor Movement",
+    "windows": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " y" }
+    ],
+    "mac": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " y" }
+    ]
+  },
+  {
+    "description": "Move back one full screen",
+    "category": "Cursor Movement",
+    "windows": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " b" }
+    ],
+    "mac": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " b" }
+    ]
+  },
+  {
+    "description": "Move forward one full screen",
+    "category": "Cursor Movement",
+    "windows": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " f" }
+    ],
+    "mac": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " f" }
+    ]
+  },
+  {
+    "description": "Move forward 1/2 a screen",
+    "category": "Cursor Movement",
+    "windows": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " d" }
+    ],
+    "mac": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " d" }
+    ]
+  },
+  {
+    "description": "Move back 1/2 a screen",
+    "category": "Cursor Movement",
+    "windows": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " u" }
+    ],
+    "mac": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " u" }
+    ]
+  },
+  {
+    "description": "Insert before the cursor",
+    "category": "Insert Mode",
+    "windows": [
+      {
+        "type": "symbol",
+        "val": "i"
+      }
+    ],
+    "mac": [
+      {
+        "type": "symbol",
+        "val": "i"
+      }
+    ]
+  },
+  {
+    "description": "Insert at the beginning of the line",
+    "category": "Insert Mode",
+    "windows": [{ "type": "symbol", "val": "I" }],
+    "mac": [{ "type": "symbol", "val": "I" }]
+  },
+  {
+    "description": "Insert (append) after the cursor",
+    "category": "Insert Mode",
+    "windows": [{ "type": "symbol", "val": "a" }],
+    "mac": [{ "type": "symbol", "val": "a" }]
+  },
+  {
+    "description": "Insert (append) at the end of the line",
+    "category": "Insert Mode",
+    "windows": [{ "type": "symbol", "val": "A" }],
+    "mac": [{ "type": "symbol", "val": "A" }]
+  },
+  {
+    "description": "Append (open) a new line below the current line",
+    "category": "Insert Mode",
+    "windows": [{ "type": "symbol", "val": "o" }],
+    "mac": [{ "type": "symbol", "val": "o" }]
+  },
+  {
+    "description": "Append (open) a new line above the current line",
+    "category": "Insert Mode",
+    "windows": [{ "type": "symbol", "val": "O" }],
+    "mac": [{ "type": "symbol", "val": "O" }]
+  },
+  {
+    "description": "Insert (append) at the end of the word",
+    "category": "Insert Mode",
+    "windows": [{ "type": "symbol", "val": "ea" }],
+    "mac": [{ "type": "symbol", "val": "ea" }]
+  },
+  {
+    "description": "Exit insert mode",
+    "category": "Insert Mode",
+    "windows": [{ "type": "symbol", "val": "Esc" }],
+    "mac": [{ "type": "symbol", "val": "Esc" }]
+  },
+  {
+    "description": "Replace a single character",
+    "category": "Editing",
+    "windows": [{ "type": "symbol", "val": "r" }],
+    "mac": [{ "type": "symbol", "val": "r" }]
+  },
+  {
+    "description": "Join line below to the current one with one space in between",
+    "category": "Editing",
+    "windows": [{ "type": "symbol", "val": "J" }],
+    "mac": [{ "type": "symbol", "val": "J" }]
+  },
+  {
+    "description": "Join line below to the current one without space in between",
+    "category": "Editing",
+    "windows": [{ "type": "symbol", "val": "gJ" }],
+    "mac": [{ "type": "symbol", "val": "gJ" }]
+  },
+  {
+    "description": "Reflow paragraph",
+    "category": "Editing",
+    "windows": [{ "type": "symbol", "val": "gwip" }],
+    "mac": [{ "type": "symbol", "val": "gwip" }]
+  },
+  {
+    "description": "Change (replace) entire line",
+    "category": "Editing",
+    "windows": [{ "type": "symbol", "val": "cc" }],
+    "mac": [{ "type": "symbol", "val": "cc" }]
+  },
+  {
+    "description": "Change (replace) to the end of the line",
+    "category": "Editing",
+    "windows": [{ "type": "symbol", "val": "C" }],
+    "mac": [{ "type": "symbol", "val": "C" }]
+  },
+  {
+    "description": "Change (replace) to the end of the line",
+    "category": "Editing",
+    "windows": [{ "type": "symbol", "val": "c$" }],
+    "mac": [{ "type": "symbol", "val": "c$" }]
+  },
+  {
+    "description": "Change (replace) entire word",
+    "category": "Editing",
+    "windows": [{ "type": "symbol", "val": "ciw" }],
+    "mac": [{ "type": "symbol", "val": "ciw" }]
+  },
+  {
+    "description": "Change (replace) to the end of the word",
+    "category": "Editing",
+    "windows": [{ "type": "symbol", "val": "cw" }],
+    "mac": [{ "type": "symbol", "val": "cw" }]
+  },
+  {
+    "description": "Delete character and substitute text",
+    "category": "Editing",
+    "windows": [{ "type": "symbol", "val": "s" }],
+    "mac": [{ "type": "symbol", "val": "s" }]
+  },
+  {
+    "description": "Delete line and substitute text (same as cc)",
+    "category": "Editing",
+    "windows": [{ "type": "symbol", "val": "S" }],
+    "mac": [{ "type": "symbol", "val": "S" }]
+  },
+  {
+    "description": "Transpose two letters (delete and paste)",
+    "category": "Editing",
+    "windows": [{ "type": "symbol", "val": "xp" }],
+    "mac": [{ "type": "symbol", "val": "xp" }]
+  },
+  {
+    "description": "Undo",
+    "category": "Editing",
+    "windows": [{ "type": "symbol", "val": "u" }],
+    "mac": [{ "type": "symbol", "val": "u" }]
+  },
+  {
+    "description": "Redo",
+    "category": "Editing",
+    "windows": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " r" }
+    ],
+    "mac": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " r" }
+    ]
+  },
+  {
+    "description": "Repeat last command",
+    "category": "Editing",
+    "windows": [{ "type": "symbol", "val": "." }],
+    "mac": [{ "type": "symbol", "val": "." }]
+  },
+  {
+    "description": "Start visual mode, mark lines, then do a command (like y-yank)",
+    "category": "Marking Text",
+    "windows": [{ "type": "symbol", "val": "v" }],
+    "mac": [{ "type": "symbol", "val": "v" }]
+  },
+  {
+    "description": "Start linewise visual mode",
+    "category": "Marking Text",
+    "windows": [{ "type": "symbol", "val": "V" }],
+    "mac": [{ "type": "symbol", "val": "V" }]
+  },
+  {
+    "description": "Move to other end of marked area",
+    "category": "Marking Text",
+    "windows": [{ "type": "symbol", "val": "o" }],
+    "mac": [{ "type": "symbol", "val": "o" }]
+  },
+  {
+    "description": "Start visual block mode",
+    "category": "Marking Text",
+    "windows": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " v" }
+    ],
+    "mac": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " v" }
+    ]
+  },
+  {
+    "description": "Move to other corner of block",
+    "category": "Marking Text",
+    "windows": [{ "type": "symbol", "val": "O" }],
+    "mac": [{ "type": "symbol", "val": "O" }]
+  },
+  {
+    "description": "Mark a word",
+    "category": "Marking Text",
+    "windows": [{ "type": "symbol", "val": "aw" }],
+    "mac": [{ "type": "symbol", "val": "aw" }]
+  },
+  {
+    "description": "A block with ()",
+    "category": "Marking Text",
+    "windows": [{ "type": "symbol", "val": "ab" }],
+    "mac": [{ "type": "symbol", "val": "ab" }]
+  },
+  {
+    "description": "A block with {}",
+    "category": "Marking Text",
+    "windows": [{ "type": "symbol", "val": "aB" }],
+    "mac": [{ "type": "symbol", "val": "aB" }]
+  },
+  {
+    "description": "Inner block with ()",
+    "category": "Marking Text",
+    "windows": [{ "type": "symbol", "val": "ib" }],
+    "mac": [{ "type": "symbol", "val": "ib" }]
+  },
+  {
+    "description": "Inner block with {}",
+    "category": "Marking Text",
+    "windows": [{ "type": "symbol", "val": "iB" }],
+    "mac": [{ "type": "symbol", "val": "iB" }]
+  },
+  {
+    "description": "Exit visual mode",
+    "category": "Marking Text",
+    "windows": [{ "type": "symbol", "val": "Esc" }],
+    "mac": [{ "type": "symbol", "val": "Esc" }]
+  },
+  {
+    "description": "Shift text right",
+    "category": "Visual Commands",
+    "windows": [
+      {
+        "type": "symbol",
+        "val": ">"
+      }
+    ],
+    "mac": [
+      {
+        "type": "symbol",
+        "val": ">"
+      }
+    ]
+  },
+  {
+    "description": "Shift text left",
+    "category": "Visual Commands",
+    "windows": [{ "type": "symbol", "val": "<" }],
+    "mac": [{ "type": "symbol", "val": "<" }]
+  },
+  {
+    "description": "Yank (copy) marked text",
+    "category": "Visual Commands",
+    "windows": [{ "type": "symbol", "val": "y" }],
+    "mac": [{ "type": "symbol", "val": "y" }]
+  },
+  {
+    "description": "Delete marked text",
+    "category": "Visual Commands",
+    "windows": [{ "type": "symbol", "val": "d" }],
+    "mac": [{ "type": "symbol", "val": "d" }]
+  },
+  {
+    "description": "Switch case",
+    "category": "Visual Commands",
+    "windows": [{ "type": "symbol", "val": "~" }],
+    "mac": [{ "type": "symbol", "val": "~" }]
+  },
+  {
+    "description": "Show registers content",
+    "category": "Registers",
+    "windows": [
+      {
+        "type": "symbol",
+        "val": ":reg"
+      }
+    ],
+    "mac": [
+      {
+        "type": "symbol",
+        "val": ":reg"
+      }
+    ]
+  },
+  {
+    "description": "Yank into register x",
+    "category": "Registers",
+    "windows": [{ "type": "symbol", "val": "\"xy" }],
+    "mac": [{ "type": "symbol", "val": "\"xy" }]
+  },
+  {
+    "description": "Paste contents of register x",
+    "category": "Registers",
+    "windows": [{ "type": "symbol", "val": "\"xp" }],
+    "mac": [{ "type": "symbol", "val": "\"xp" }]
+  },
+  {
+    "description": "List of marks",
+    "category": "Marks",
+    "windows": [
+      {
+        "type": "symbol",
+        "val": ":marks"
+      }
+    ],
+    "mac": [
+      {
+        "type": "symbol",
+        "val": ":marks"
+      }
+    ]
+  },
+  {
+    "description": "Set current position for mark A",
+    "category": "Marks",
+    "windows": [{ "type": "symbol", "val": "ma" }],
+    "mac": [{ "type": "symbol", "val": "ma" }]
+  },
+  {
+    "description": "Jump to position of mark A",
+    "category": "Marks",
+    "windows": [{ "type": "symbol", "val": "`a" }],
+    "mac": [{ "type": "symbol", "val": "`a" }]
+  },
+  {
+    "description": "Yank text to position of mark A",
+    "category": "Marks",
+    "windows": [{ "type": "symbol", "val": "y`a" }],
+    "mac": [{ "type": "symbol", "val": "y`a" }]
+  },
+  {
+    "description": "Record macro a",
+    "category": "Macros",
+    "windows": [
+      {
+        "type": "symbol",
+        "val": "qa"
+      }
+    ],
+    "mac": [
+      {
+        "type": "symbol",
+        "val": "qa"
+      }
+    ]
+  },
+  {
+    "description": "Stop recording macro",
+    "category": "Macros",
+    "windows": [{ "type": "symbol", "val": "q" }],
+    "mac": [{ "type": "symbol", "val": "q" }]
+  },
+  {
+    "description": "Run macro a",
+    "category": "Macros",
+    "windows": [{ "type": "symbol", "val": "@a" }],
+    "mac": [{ "type": "symbol", "val": "@a" }]
+  },
+  {
+    "description": "Rerun last run macro",
+    "category": "Macros",
+    "windows": [{ "type": "symbol", "val": "@@" }],
+    "mac": [{ "type": "symbol", "val": "@@" }]
+  },
+  {
+    "description": "Yank (copy) a line",
+    "category": "Cut and Paste",
+    "windows": [
+      {
+        "type": "symbol",
+        "val": "yy"
+      }
+    ],
+    "mac": [
+      {
+        "type": "symbol",
+        "val": "yy"
+      }
+    ]
+  },
+  {
+    "description": "Yank (copy) 2 lines",
+    "category": "Cut and Paste",
+    "windows": [{ "type": "symbol", "val": "2yy" }],
+    "mac": [{ "type": "symbol", "val": "2yy" }]
+  },
+  {
+    "description": "Yank (copy) the characters of the word from the cursor position to the start of the next word",
+    "category": "Cut and Paste",
+    "windows": [{ "type": "symbol", "val": "yw" }],
+    "mac": [{ "type": "symbol", "val": "yw" }]
+  },
+  {
+    "description": "Yank (copy) to end of line",
+    "category": "Cut and Paste",
+    "windows": [{ "type": "symbol", "val": "y$" }],
+    "mac": [{ "type": "symbol", "val": "y$" }]
+  },
+  {
+    "description": "Put (paste) the clipboard after cursor",
+    "category": "Cut and Paste",
+    "windows": [{ "type": "symbol", "val": "p" }],
+    "mac": [{ "type": "symbol", "val": "p" }]
+  },
+  {
+    "description": "Put (paste) before cursor",
+    "category": "Cut and Paste",
+    "windows": [{ "type": "symbol", "val": "P" }],
+    "mac": [{ "type": "symbol", "val": "P" }]
+  },
+  {
+    "description": "Delete (cut) a line",
+    "category": "Cut and Paste",
+    "windows": [{ "type": "symbol", "val": "dd" }],
+    "mac": [{ "type": "symbol", "val": "dd" }]
+  },
+  {
+    "description": "Delete (cut) 2 lines",
+    "category": "Cut and Paste",
+    "windows": [{ "type": "symbol", "val": "2dd" }],
+    "mac": [{ "type": "symbol", "val": "2dd" }]
+  },
+  {
+    "description": "Delete (cut) the characters of the word from the cursor position to the start of the next word",
+    "category": "Cut and Paste",
+    "windows": [{ "type": "symbol", "val": "dw" }],
+    "mac": [{ "type": "symbol", "val": "dw" }]
+  },
+  {
+    "description": "Delete (cut) to the end of the line",
+    "category": "Cut and Paste",
+    "windows": [{ "type": "symbol", "val": "D" }],
+    "mac": [{ "type": "symbol", "val": "D" }]
+  },
+  {
+    "description": "Delete (cut) to the end of the line",
+    "category": "Cut and Paste",
+    "windows": [{ "type": "symbol", "val": "d$" }],
+    "mac": [{ "type": "symbol", "val": "d$" }]
+  },
+  {
+    "description": "Delete (cut) character",
+    "category": "Cut and Paste",
+    "windows": [{ "type": "symbol", "val": "x" }],
+    "mac": [{ "type": "symbol", "val": "x" }]
+  },
+  {
+    "description": "Write (save) the file, but don't exit",
+    "category": "Exiting",
+    "windows": [{ "type": "symbol", "val": ":w" }],
+    "mac": [{ "type": "symbol", "val": ":w" }]
+  },
+  {
+    "description": "Write out the current file using sudo",
+    "category": "Exiting",
+    "windows": [
+      {
+        "type": "symbol",
+        "val": ":w !sudo tee %"
+      }
+    ],
+    "mac": [
+      {
+        "type": "symbol",
+        "val": ":w !sudo tee %"
+      }
+    ]
+  },
+  {
+    "description": "Write (save) and quit",
+    "category": "Exiting",
+    "windows": [{ "type": "symbol", "val": ":wq or :x or ZZ" }],
+    "mac": [{ "type": "symbol", "val": ":wq or :x or ZZ" }]
+  },
+  {
+    "description": "Quit (fails if there are unsaved changes)",
+    "category": "Exiting",
+    "windows": [{ "type": "symbol", "val": ":q" }],
+    "mac": [{ "type": "symbol", "val": ":q" }]
+  },
+  {
+    "description": "Quit and throw away unsaved changes",
+    "category": "Exiting",
+    "windows": [{ "type": "symbol", "val": ":q! or ZQ" }],
+    "mac": [{ "type": "symbol", "val": ":q! or ZQ" }]
+  },
+  {
+    "description": "Write (save) and quit on all tabs",
+    "category": "Exiting",
+    "windows": [{ "type": "symbol", "val": ":wqa" }],
+    "mac": [{ "type": "symbol", "val": ":wqa" }]
+  },
+  {
+    "description": "Search for pattern",
+    "category": "Search and Replace",
+    "windows": [
+      {
+        "type": "symbol",
+        "val": "/pattern"
+      }
+    ],
+    "mac": [
+      {
+        "type": "symbol",
+        "val": "/pattern"
+      }
+    ]
+  },
+  {
+    "description": "Search backward for pattern",
+    "category": "Search and Replace",
+    "windows": [{ "type": "symbol", "val": "?pattern" }],
+    "mac": [{ "type": "symbol", "val": "?pattern" }]
+  },
+  {
+    "description": "'very magic' pattern: non-alphanumeric characters are interpreted as special regex symbols (no escaping needed)",
+    "category": "Search and Replace",
+    "windows": [{ "type": "symbol", "val": "\\vpattern" }],
+    "mac": [{ "type": "symbol", "val": "\\vpattern" }]
+  },
+  {
+    "description": "Repeat search in same direction",
+    "category": "Search and Replace",
+    "windows": [{ "type": "symbol", "val": "n" }],
+    "mac": [{ "type": "symbol", "val": "n" }]
+  },
+  {
+    "description": "Repeat search in opposite direction",
+    "category": "Search and Replace",
+    "windows": [{ "type": "symbol", "val": "N" }],
+    "mac": [{ "type": "symbol", "val": "N" }]
+  },
+  {
+    "description": "Replace all old with new throughout file",
+    "category": "Search and Replace",
+    "windows": [{ "type": "symbol", "val": ":%s/old/new/g" }],
+    "mac": [{ "type": "symbol", "val": ":%s/old/new/g" }]
+  },
+  {
+    "description": "Replace all old with new throughout file with confirmations",
+    "category": "Search and Replace",
+    "windows": [{ "type": "symbol", "val": ":%s/old/new/gc" }],
+    "mac": [{ "type": "symbol", "val": ":%s/old/new/gc" }]
+  },
+  {
+    "description": "Remove highlighting of search matches",
+    "category": "Search and Replace",
+    "windows": [{ "type": "symbol", "val": ":noh" }],
+    "mac": [{ "type": "symbol", "val": ":noh" }]
+  },
+  {
+    "description": "Search for pattern in multiple files",
+    "category": "Search in Multiple Files",
+    "windows": [
+      {
+        "type": "symbol",
+        "val": ":vimgrep /pattern/ {file}"
+      }
+    ],
+    "mac": [
+      {
+        "type": "symbol",
+        "val": ":vimgrep /pattern/ {file}"
+      }
+    ]
+  },
+  {
+    "description": "Jump to the next match",
+    "category": "Search in Multiple Files",
+    "windows": [{ "type": "symbol", "val": ":cn" }],
+    "mac": [{ "type": "symbol", "val": ":cn" }]
+  },
+  {
+    "description": "Jump to the previous match",
+    "category": "Search in Multiple Files",
+    "windows": [{ "type": "symbol", "val": ":cp" }],
+    "mac": [{ "type": "symbol", "val": ":cp" }]
+  },
+  {
+    "description": "Open a window containing the list of matches",
+    "category": "Search in Multiple Files",
+    "windows": [{ "type": "symbol", "val": ":copen" }],
+    "mac": [{ "type": "symbol", "val": ":copen" }]
+  },
+  {
+    "description": "Edit a file in a new buffer",
+    "category": "Multiple Files",
+    "windows": [
+      {
+        "type": "symbol",
+        "val": ":e file"
+      }
+    ],
+    "mac": [
+      {
+        "type": "symbol",
+        "val": ":e file"
+      }
+    ]
+  },
+  {
+    "description": "Go to the next buffer",
+    "category": "Multiple Files",
+    "windows": [{ "type": "symbol", "val": ":bnext or :bn" }],
+    "mac": [{ "type": "symbol", "val": ":bnext or :bn" }]
+  },
+  {
+    "description": "Go to the previous buffer",
+    "category": "Multiple Files",
+    "windows": [{ "type": "symbol", "val": ":bprev or :bp" }],
+    "mac": [{ "type": "symbol", "val": ":bprev or :bp" }]
+  },
+  {
+    "description": "Delete a buffer (close a file)",
+    "category": "Multiple Files",
+    "windows": [{ "type": "symbol", "val": ":bd" }],
+    "mac": [{ "type": "symbol", "val": ":bd" }]
+  },
+  {
+    "description": "List all open buffers",
+    "category": "Multiple Files",
+    "windows": [{ "type": "symbol", "val": ":ls" }],
+    "mac": [{ "type": "symbol", "val": ":ls" }]
+  },
+  {
+    "description": "Open a file in a new buffer and split window",
+    "category": "Multiple Files",
+    "windows": [{ "type": "symbol", "val": ":sp file" }],
+    "mac": [{ "type": "symbol", "val": ":sp file" }]
+  },
+  {
+    "description": "Open a file in a new buffer and vertically split window",
+    "category": "Multiple Files",
+    "windows": [{ "type": "symbol", "val": ":vsp file" }],
+    "mac": [{ "type": "symbol", "val": ":vsp file" }]
+  },
+  {
+    "description": "Split window",
+    "category": "Multiple Files",
+    "windows": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " ws" }
+    ],
+    "mac": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " ws" }
+    ]
+  },
+  {
+    "description": "Switch windows",
+    "category": "Multiple Files",
+    "windows": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " ww" }
+    ],
+    "mac": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " ww" }
+    ]
+  },
+  {
+    "description": "Quit a window",
+    "category": "Multiple Files",
+    "windows": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " wq" }
+    ],
+    "mac": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " wq" }
+    ]
+  },
+  {
+    "description": "Split window vertically",
+    "category": "Multiple Files",
+    "windows": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " wv" }
+    ],
+    "mac": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " wv" }
+    ]
+  },
+  {
+    "description": "Move cursor to the left window (vertical split)",
+    "category": "Multiple Files",
+    "windows": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " wh" }
+    ],
+    "mac": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " wh" }
+    ]
+  },
+  {
+    "description": "Move cursor to the right window (vertical split)",
+    "category": "Multiple Files",
+    "windows": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " wl" }
+    ],
+    "mac": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " wl" }
+    ]
+  },
+  {
+    "description": "Move cursor to the window below (horizontal split)",
+    "category": "Multiple Files",
+    "windows": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " wj" }
+    ],
+    "mac": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " wj" }
+    ]
+  },
+  {
+    "description": "Move cursor to the window above (horizontal split)",
+    "category": "Multiple Files",
+    "windows": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " wk" }
+    ],
+    "mac": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " wk" }
+    ]
+  },
+  {
+    "description": "Open a file in a new tab",
+    "category": "Tabs",
+    "windows": [
+      {
+        "type": "symbol",
+        "val": ":tabnew or :tabnew file"
+      }
+    ],
+    "mac": [
+      {
+        "type": "symbol",
+        "val": ":tabnew or :tabnew file"
+      }
+    ]
+  },
+  {
+    "description": "Move the current split window into its own tab",
+    "category": "Tabs",
+    "windows": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " wT" }
+    ],
+    "mac": [
+      { "type": "symbol", "val": "Ctrl " },
+      { "type": "operator", "val": "+" },
+      { "type": "symbol", "val": " wT" }
+    ]
+  },
+  {
+    "description": "Move to the next tab",
+    "category": "Tabs",
+    "windows": [{ "type": "symbol", "val": "gt or :tabnext or :tabn" }],
+    "mac": [{ "type": "symbol", "val": "gt or :tabnext or :tabn" }]
+  },
+  {
+    "description": "Move to the previous tab",
+    "category": "Tabs",
+    "windows": [{ "type": "symbol", "val": "gT or :tabprev or :tabp" }],
+    "mac": [{ "type": "symbol", "val": "gT or :tabprev or :tabp" }]
+  },
+  {
+    "description": "Move to tab number #",
+    "category": "Tabs",
+    "windows": [{ "type": "symbol", "val": "#gt" }],
+    "mac": [{ "type": "symbol", "val": "#gt" }]
+  },
+  {
+    "description": "Move current tab to the #th position (indexed from 0)",
+    "category": "Tabs",
+    "windows": [{ "type": "symbol", "val": ":tabmove #" }],
+    "mac": [{ "type": "symbol", "val": ":tabmove #" }]
+  },
+  {
+    "description": "Close the current tab and all its windows",
+    "category": "Tabs",
+    "windows": [{ "type": "symbol", "val": ":tabclose or :tabc" }],
+    "mac": [{ "type": "symbol", "val": ":tabclose or :tabc" }]
+  },
+  {
+    "description": "Close all tabs except for the current one",
+    "category": "Tabs",
+    "windows": [{ "type": "symbol", "val": ":tabonly or :tabo" }],
+    "mac": [{ "type": "symbol", "val": ":tabonly or :tabo" }]
+  },
+  {
+    "description": "Run the command on all tabs (e.g. :tabdo q",
+    "category": "Tabs",
+    "windows": [{ "type": "symbol", "val": ":tabdo command" }],
+    "mac": [{ "type": "symbol", "val": ":tabdo command" }]
+  }
+]
