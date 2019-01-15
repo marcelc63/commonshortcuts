@@ -382,10 +382,13 @@
               .then(function(res) {
                 self.shortcuts[software] = res.data.map((x, i) => {
                   return {
-                    ...x,
+                    category,
+                    description,
+                    mac,
+                    windows,
                     id: software + i
                   };
-                });
+                });                
               });
           },
           viewCollapse: function(category) {
