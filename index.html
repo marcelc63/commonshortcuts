@@ -481,12 +481,7 @@
                 : "fa fa-star bookmark-selected";
             }
             return "fa fa-star bookmark-selected";
-          },
-          cleanKeys: function(string) {
-            let temp = string.replace(/+/gi, ",+");
-            let result = temp.split(",");
-            return result;
-          },
+          },          
           keyClass: function(type) {
             return type === "symbol" ? "symbol" : "operator";
           }
