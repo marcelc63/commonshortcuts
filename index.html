@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Common Shortcuts</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
       rel="stylesheet"
@@ -312,6 +312,7 @@
         created: function() {
           this.getShortcuts("excel");
           this.getShortcuts("vim");
+          this.getStorage();
         },
         data: {
           shortcuts: { excel: [], vim: [] },
@@ -368,6 +369,25 @@
           }
         },
         methods: {
+          getStorage: function() {            
+            this.loadStorage("bookmarks");
+            this.loadStorage("platform");
+            this.loadStorage("software");
+            this.loadStorage("tab");
+            this.loadStorage("collapse");
+          },
+          loadStorage: function(store) {
+            let storage = window.localStorage;
+            let data = storage.getItem(store);
+            if (data !== null) {
+              this[store] = JSON.parse(data);
+            }
+          },
+          saveStorage: function(store, val) {
+            let storage = window.localStorage;
+            let toStore = JSON.stringify(val);
+            storage.setItem(store, toStore);
+          },
           ucfirst: function(string) {
             return string.charAt(0).toUpperCase() + string.slice(1);
           },
@@ -403,6 +423,7 @@
                 category
               );
             }
+            this.saveStorage("collapse", this.collapse);
           },
           classCollapse: function(category) {
             let software = this.software;
@@ -434,6 +455,7 @@
           },
           viewSoftware: function(software) {
             this.software = software;
+            this.saveStorage("software", this.software);
           },
           classSoftware: function(software) {
             return this.software === software
@@ -442,12 +464,14 @@
           },
           viewTab: function(tab) {
             this.tab = tab;
+            this.saveStorage("tab", this.tab);
           },
           classTab: function(tab) {
             return this.tab === tab ? "label label-selected" : "label";
           },
           viewPlatform: function(platform) {
             this.platform = platform;
+            this.saveStorage("platform", this.platform);
           },
           classPlatform: function(platform) {
             return this.platform === platform
@@ -468,6 +492,8 @@
                 x => x.id !== data.id
               );
             }
+
+            this.saveStorage("bookmarks", this.bookmarks);
           },
           bookmarkStar: function(id, category) {
             let software = this.software;
