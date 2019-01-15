@@ -382,13 +382,13 @@
               .then(function(res) {
                 self.shortcuts[software] = res.data.map((x, i) => {
                   return {
-                    category,
-                    description,
-                    mac,
-                    windows,
+                    category: x.category,
+                    description: x.description,
+                    mac: x.mac,
+                    windows: x.windows,
                     id: software + i
                   };
-                });                
+                });
               });
           },
           viewCollapse: function(category) {
@@ -481,7 +481,7 @@
                 : "fa fa-star bookmark-selected";
             }
             return "fa fa-star bookmark-selected";
-          },          
+          },
           keyClass: function(type) {
             return type === "symbol" ? "symbol" : "operator";
           }
