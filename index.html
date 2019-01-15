@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Common Shortcuts</title>
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width" />
     <link
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
       rel="stylesheet"
@@ -377,8 +377,7 @@
               .get(
                 "https://www.googleapis.com/storage/v1/b/commonshortcuts/o/" +
                   software +
-                  ".json?alt=media",
-                { crossdomain: true }
+                  ".json?alt=media"
               )
               .then(function(res) {
                 self.shortcuts[software] = res.data.map((x, i) => {
