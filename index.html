@@ -272,6 +272,20 @@
         font-size: 14px;
       }
     </style>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-111342283-3"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "UA-111342283-3");
+    </script>
   </head>
   <body>
     <div id="app" v-if="isLoaded">
@@ -414,16 +428,22 @@
           <p class="aboutus__headline">About Me</p>
           <p class="aboutus__text">
             My name is
-            <a href="https://marcelchristianis.com" target="_blank">Marcel Christianis</a>, 22
-            years old, from Indonesia. I believe in the intersection of code,
-            design, and business. Follow me on <a href="https://twitter.com/marcelc63" target="_blank">twitter</a> :)
+            <a href="https://marcelchristianis.com" target="_blank"
+              >Marcel Christianis</a
+            >, 22 years old, from Indonesia. I believe in the intersection of
+            code, design, and business. Follow me on
+            <a href="https://twitter.com/marcelc63" target="_blank">twitter</a>
+            :)
           </p>
 
           <p class="aboutus__headline">Credits</p>
           <p class="aboutus__text">
             Shortcuts sourced for Vim from
-            <a href="https://vim.rtorr.com" target="_blank">vim.rtorr.com</a> and Excel from
-            <a href="https://office-hack.com/en/excel/shortcutkey-list/" target="_blank"
+            <a href="https://vim.rtorr.com" target="_blank">vim.rtorr.com</a>
+            and Excel from
+            <a
+              href="https://office-hack.com/en/excel/shortcutkey-list/"
+              target="_blank"
               >office-hacks</a
             >
           </p>
