@@ -663,7 +663,7 @@
               let check = true;
               search.forEach(x => {
                 if (check === true) {
-                  check = query.description.toLowerCase().includes(x);
+                  check = query.description.toLowerCase().includes(x.toLowerCase());
                 }
               });
               return check;
