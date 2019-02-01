@@ -2823,7 +2823,17 @@
     "description": "Switch cell references from relative to partially absolute to absolute",
     "category": "Formulas and Functions",
     "windows": [{ "type": "symbol", "val": "F4" }],
-    "mac": [{ "type": "symbol", "val": "F4" }]
+    "mac": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      { "type": "symbol", "val": "T" }
+    ]
   },
   {
     "description": "Create an enbedded chart from the selected range",
