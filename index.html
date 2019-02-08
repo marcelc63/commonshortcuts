@@ -2,23 +2,38 @@
 <html>
   <head>
     <title>Common Shortcuts - Find and bookmark shortcuts you need</title>
-    <meta name="description" content="A simple tool to find and bookmark shortcuts you need so you no longer have to dig the web. It's made to save everyone's time when using softwares they interact with daily.">
-    <meta name="author" content="Marcel Christianis">    
-    <meta name="robots" content="index, follow">
+    <meta
+      name="description"
+      content="A simple tool to find and bookmark shortcuts you need so you no longer have to dig the web. It's made to save everyone's time when using softwares they interact with daily."
+    />
+    <meta name="author" content="Marcel Christianis" />
+    <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://commonshortcuts.netlify.com/" />
 
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Common Shortcuts - Find and bookmark shortcuts you need" />
-    <meta property="og:description" content="A simple tool to find and bookmark shortcuts you need so you no longer have to dig the web. It's made to save everyone's time when using softwares they interact with daily." />
+    <meta
+      property="og:title"
+      content="Common Shortcuts - Find and bookmark shortcuts you need"
+    />
+    <meta
+      property="og:description"
+      content="A simple tool to find and bookmark shortcuts you need so you no longer have to dig the web. It's made to save everyone's time when using softwares they interact with daily."
+    />
     <meta property="og:image" content="https://i.imgur.com/JrgysJQ.png" />
     <meta property="og:url" content="https://commonshortcuts.netlify.com" />
     <meta property="og:site_name" content="Common Shortcuts" />
 
-    <meta name="twitter:title" content="Common Shortcuts - Find and bookmark shortcuts you need">
-    <meta name="twitter:description" content="A simple tool to find and bookmark shortcuts you need so you no longer have to dig the web. It's made to save everyone's time when using softwares they interact with daily.">
-    <meta name="twitter:image" content="https://i.imgur.com/JrgysJQ.png">
-    <meta name="twitter:site" content="https://commonshortcuts.netlify.com">
-    <meta name="twitter:creator" content="@marcelc63">
+    <meta
+      name="twitter:title"
+      content="Common Shortcuts - Find and bookmark shortcuts you need"
+    />
+    <meta
+      name="twitter:description"
+      content="A simple tool to find and bookmark shortcuts you need so you no longer have to dig the web. It's made to save everyone's time when using softwares they interact with daily."
+    />
+    <meta name="twitter:image" content="https://i.imgur.com/JrgysJQ.png" />
+    <meta name="twitter:site" content="https://commonshortcuts.netlify.com" />
+    <meta name="twitter:creator" content="@marcelc63" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link
@@ -109,11 +124,11 @@
       }
       .bookmark {
         cursor: pointer;
-        display: none;
+        /* display: none; */
       }
-      .bookmark:hover {
+      /* .bookmark:hover {
         color: rgb(0, 132, 255);
-      }
+      } */
       .bookmark-selected {
         cursor: pointer;
         display: block;
@@ -136,7 +151,7 @@
         font-size: 14px;
         margin-bottom: 0px;
         user-select: none;
-      }      
+      }
       .keys-mac .symbol {
         background: #616161;
         color: #fff;
@@ -217,9 +232,11 @@
         top: 0;
         left: 0;
         cursor: pointer;
+        /* padding: 20px; */
       }
 
       .aboutus__inner {
+        /* width: 100%; */
         max-width: 500px;
         background: #fafafa;
         border-radius: 5px;
@@ -289,15 +306,19 @@
       }
     </style>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-61938466-11"></script>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-61938466-11"
+    ></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-      function gtag() { dataLayer.push(arguments); }
-      gtag('js', new Date());
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-      gtag('config', 'UA-61938466-11');
+      gtag("config", "UA-61938466-11");
     </script>
-
   </head>
   <body>
     <div id="app" v-if="isLoaded">
@@ -552,7 +573,7 @@
           collapse: { excel: [], vim: [] },
           platform: "windows",
           software: "excel",
-          aboutus: true
+          aboutus: false
         },
         computed: {
           groups: function() {
@@ -679,7 +700,9 @@
               let check = true;
               search.forEach(x => {
                 if (check === true) {
-                  check = query.description.toLowerCase().includes(x.toLowerCase());
+                  check = query.description
+                    .toLowerCase()
+                    .includes(x.toLowerCase());
                 }
               });
               return check;
