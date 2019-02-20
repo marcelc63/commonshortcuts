@@ -37,9 +37,12 @@ export default {
 
 <style scoped lang="scss">
 .toolbar {
+  background: rgb(28, 32, 34);
+  color: rgba(255, 255, 255, 0.6);
   width: 100%;
-  padding: 0 10px;
-  margin-bottom: 10px;
+  padding: 10px 10px;
+  min-height: 45px;
+  border-bottom: 1px solid rgb(18, 21, 22);
 }
 .toolbar__option {
   padding: 0 10px;

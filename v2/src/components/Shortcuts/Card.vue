@@ -1,57 +1,129 @@
 <style scoped lang="scss">
-.width-100 {
-  width: 100%;
+.label {
+  user-select: none;
+  opacity: 0.7;
+  padding: 0 5px;
+  cursor: pointer;
 }
-.width-90 {
-  flex: 0 0 90%;
-  max-width: 90%;
+.label-selected {
+  font-weight: 600;
 }
-.shortcuts {
-  max-width: 1000px;
-  width: 100%;
-  height: 100%;
-  margin-top: 150px;
+
+.icon {
+  padding: 0px 10px 0px 0px;
+  margin-bottom: 3px;
+}
+.symbol {
+  background: #fff;
+  border: 1px solid #ddd;
+  padding: 0 5px;
+  border-radius: 5px;
+}
+.operator {
+  padding: 0 5px;
+}
+.dash {
+  padding: 0 5px 0 10px;
+  font-weight: 300;
+}
+.description {
+  padding: 0 5px;
+  text-align: right;
 }
 @media only screen and (max-width: 600px) {
-  .shortcuts {
-    margin-top: 100px;
+  .description {
+    margin-top: 2px;
+    text-align: left;
   }
+}
+
+.bookmark {
+  cursor: pointer;
+  display: none;
+}
+.bookmark:hover {
+  color: rgb(0, 132, 255);
+}
+.bookmark-selected {
+  cursor: pointer;
+  display: block;
+  color: rgb(0, 132, 255);
+}
+
+.desc {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.info {
+  font-size: 12px;
+  margin-bottom: 5px;
+  opacity: 0.7;
+}
+.keys {
+  width: 100%;
+  font-size: 14px;
+  margin-bottom: 0px;
+  user-select: none;
+  padding: 7px 10px;
+  border-bottom: 1px dotted #e8e7e4;
+  cursor: pointer;
+}
+@media only screen and (min-width: 600px) {
+  .keys {
+    &:hover {
+      background-color: #e8e7e4;
+      border-radius: 2px;
+    }
+  }
+}
+.keys--highlight {
+  background-color: #e8e7e4;
+  border-radius: 2px;
+  border-bottom: 1px solid #e8e7e4;
+  // color: #fff;
+  .symbol {
+    color: rgb(36, 40, 42) !important;
+  }
+}
+.usecase {
+  font-size: 10px;
+  margin-bottom: 0px;
+  text-align: left;
+  background: #eeeeee;
+  padding: 5px 10px;
+  color: #aaa;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
 }
 </style>
 
-
 <template>
-  <div class="shortcuts d-flex flex-row row">
-    <div class="col-md-6" v-for="(group, groupIn) in groups" :key="groupIn">
-      <div v-for="(category, categoryIn) in group" :key="categoryIn" class="mb-30">
-        <div v-if="filteredShortcuts(category).length !== 0">
-          <p class="text-left pointer" @click="viewCollapse(category)">
-            <b>
-              {{ category }}
-              <i
-                :class="classCollapse(category) ? 'fa fa-caret-down' : 'fa fa-caret-up'"
-                aria-hidden="true"
-              ></i>
-            </b>
-          </p>
-          <Card :category="category"/>
+  <div v-if="classCollapse(category)" class="cards__wrapper">
+    <div v-for="(shortcut, index) in filteredShortcuts(category)" :key="index">
+      <div
+        :class="bookmarkKey(shortcut.id, category)"
+        @click="bookmark(shortcut.id, category)"
+        v-if="shortcut[platform].length !== 0"
+      >
+        <div>
+          <span
+            v-for="(key, keyIn) in shortcut[platform]"
+            :key="keyIn"
+            :class="keyClass(key.type)"
+          >{{ key.val }}</span>
+          <span v-if="!shortcut[platform].length" class="operator">-</span>
         </div>
+        <span class="description">{{ shortcut.description }}</span>
       </div>
     </div>
   </div>
 </template>
 
 <script>
-import Card from "@/components/Shortcuts/Card.vue";
-
 export default {
-  name: "Shortcuts",
-  props: {},
-  data: function() {
-    return {};
-  },
-  components: {
-    Card
+  name: "Card",
+  props: {
+    category: String
   },
   computed: {
     search: function() {
@@ -74,44 +146,6 @@ export default {
     },
     platform: function() {
       return this.$store.state.platform;
-    },
-    groups: function() {
-      let software = this.software;
-
-      let groupA,
-        groupB,
-        groupC = [];
-
-      if (software === "vim") {
-        groupA = ["Global", "Cursor Movement", "Insert Mode", "Multiple Files"];
-        groupB = [
-          "Editing",
-          "Marketing Text",
-          "Visual Commands",
-          "Registers",
-          "Marks",
-          "Macros",
-          "Tabs"
-        ];
-        groupC = [
-          "Cut and Paste",
-          "Exiting",
-          "Search and Replace",
-          "Search in Multiple Files"
-        ];
-      } else if (software === "excel") {
-        groupA = ["Common", "Navigation", "Data Entry"];
-        groupB = ["General", "Charts", "Macros", "Selection"];
-        groupC = [
-          "Workbooks",
-          "Worksheets",
-          "Format Cells",
-          "Number Format",
-          "Rows and Columns",
-          "Formulas and Functions"
-        ];
-      }
-      return [groupA, groupB];
     }
   },
   methods: {
@@ -172,6 +206,29 @@ export default {
       }
 
       this.$store.dispatch("save", { key: "bookmarks", data: bookmarks });
+    },
+    bookmarkKey: function(id, category) {
+      let software = this.software;
+      let desktop = screen.width > 628 ? true : false;
+      if (this.tab === "shortcuts") {
+        let data = this.shortcuts[software].filter(x => x.id === id)[0];
+        let check =
+          this.bookmarks[software].filter(x => x.id === data.id).length === 0;
+
+        if (desktop) {
+          return check
+            ? "keys d-flex flex-row align-items-center justify-content-between"
+            : "keys keys--highlight d-flex flex-row align-items-center justify-content-between";
+        } else {
+          return check
+            ? "keys d-flex flex-column align-items-left justify-content-between"
+            : "keys keys--highlight d-flex flex-column align-items-left justify-content-between";
+        }
+      }
+      if (desktop) {
+        return "keys d-flex flex-row align-items-center justify-content-between";
+      }
+      return "keys d-flex flex-column align-items-left justify-content-between";
     },
     bookmarkStar: function(id, category) {
       let software = this.software;

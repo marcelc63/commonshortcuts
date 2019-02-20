@@ -1,5 +1,5 @@
 <template>
-  <div id="app">    
+  <div id="app">
     <router-view/>
   </div>
 </template>
@@ -7,16 +7,22 @@
 <style lang="scss">
 // Default
 body {
-  background: #fafafa;
+  // background: rgb(36, 40, 42);
+  background: rgb(255, 255, 255);
+  margin: 0px; /*removes default style*/
+  display: flex; /*enables flex content for its children*/
+  box-sizing: border-box;
 }
 #app {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+  // text-align: center;
+  // color: #2c3e50;
+  color: rgb(55, 53, 47);
+  // color: #ccc;
   margin-top: 0px;
-  // padding: 10px;
+  width: 100%;
 }
 h1 {
   font-weight: normal;
@@ -35,6 +41,7 @@ li {
 }
 a {
   color: #3183ff;
+  // color: rgb(65, 184, 131);
 }
 a:hover {
   color: #185bc0;

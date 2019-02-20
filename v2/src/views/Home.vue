@@ -1,12 +1,25 @@
-<template>
-  <div class="home d-flex flex-row">
-    <Menubar/>
-    <div class="hello d-flex flex-column justify-content-center align-items-center" v-if="isLoaded">
-      <Toolbar/>
-      <Control/>
-      <Options/>
+<style scoped lang="scss">
+.home {
+  overflow-y: hidden;
+  height: 100vh;
+  width: 100%;
+}
+.hello {
+  overflow-y: scroll;
+  width: 100%;
+}
+</style>
 
-      <Shortcuts/>
+<template>
+  <div class="home d-flex flex-column">
+    <!-- <Toolbar/> -->
+    <div class="d-flex flex-row">
+      <Menubar/>
+      <div class="hello d-flex flex-column align-items-center" v-if="isLoaded">
+        <!-- <Control/> -->
+        <Options/>
+        <Shortcuts/>
+      </div>
     </div>
     <AboutUs/>
   </div>
@@ -76,6 +89,9 @@ export default {
   computed: {
     shortcuts: function() {
       return this.$store.state.shortcuts;
+    },
+    homeContainer: function() {
+      return screen.width > 628 ? "d-flex flex-row" : "d-flex flex-column";
     }
   },
   methods: {
@@ -105,60 +121,7 @@ export default {
     },
     ucfirst: function(string) {
       return string.charAt(0).toUpperCase() + string.slice(1);
-    },
-    getShortcuts: function(toGet) {
-      let count = 0;
-      let temp = [];
-      toGet.forEach(name => {
-        temp[name] = [];
-      });
-      console.log("test", temp);
-      this.$store.dispatch("load", {
-        key: "shortcuts",
-        data: temp
-      });
-
-      toGet.forEach(name => {
-        count++;
-        this.makeRequest(name, () => {
-          console.log(count);
-          if (toGet.length === count) {
-          }
-        });
-      });
-
-      this.isLoaded = true;
-    },
-    makeRequest: function(software, callback) {
-      let self = this;
-      let temp = this.shortcuts;
-      axios
-        .get(
-          "https://www.googleapis.com/storage/v1/b/commonshortcuts/o/" +
-            software +
-            ".json?alt=media"
-        )
-        .then(function(res) {
-          temp[software] = res.data.map((x, i) => {
-            return {
-              category: x.category,
-              description: x.description,
-              mac: x.mac,
-              windows: x.windows,
-              id: software + i
-            };
-          });
-          console.log(temp);
-          self.$store.dispatch("load", {
-            key: "shortcuts",
-            data: temp
-          });
-          callback();
-        });
     }
   }
 };
 </script>
-
-<style>
-</style>

@@ -13,6 +13,7 @@ function saveStorage(key, val) {
 export default new Vuex.Store({
   state: {
     isLoaded: false,
+    showNav: screen.width > 628 ? true : false,
     shortcuts: [],
     search: "",
     bookmarks: { excel: [], vim: [] },
@@ -26,6 +27,9 @@ export default new Vuex.Store({
     change(state, payload) {
       let { key, data } = payload;
       state[key] = data;
+    },
+    nav(state, payload) {
+      state.showNav = !state.showNav;
     }
   },
   actions: {
@@ -36,6 +40,9 @@ export default new Vuex.Store({
       let { key, data } = payload;
       commit("change", payload);
       saveStorage(key, data);
+    },
+    nav({ commit }) {
+      commit("nav");
     }
   }
 });
