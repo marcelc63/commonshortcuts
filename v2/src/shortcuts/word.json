@@ -1,0 +1,34 @@
+[
+    {
+        "description": "Open a new Word Doc",
+        "category": "Basics",
+        "windows": [
+            {
+                "type": "symbol",
+                "val": "Ctrl"
+            },
+            {
+                "type": "operator",
+                "val": "+"
+            },
+            {
+                "type": "symbol",
+                "val": "N"
+            }
+        ],
+        "mac": [
+            {
+                "type": "symbol",
+                "val": "⌘"
+            },
+            {
+                "type": "operator",
+                "val": "+"
+            },
+            {
+                "type": "symbol",
+                "val": "N"
+            }
+        ]
+    }
+]

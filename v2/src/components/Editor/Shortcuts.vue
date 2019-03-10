@@ -42,7 +42,7 @@
 </template>
 
 <script>
-import Card from "@/components/Shortcuts/Card.vue";
+import Card from "@/components/Editor/Card.vue";
 
 export default {
   name: "Shortcuts",
@@ -159,7 +159,7 @@ export default {
         return (
           queryCheck(x) && x.category === category && x[platform].length !== 0
         );
-      });      
+      });
 
       return final;
     },

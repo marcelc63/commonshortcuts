@@ -12,13 +12,17 @@
   padding: 0px 10px;
   font-size: 28px;
   border-radius: 5px;
-  border: 1px solid #e8e7e4;
-  box-shadow: 0px 0px 15px 5px rgb(247, 246, 243);
-  color: rgb(55, 53, 47);
+  // border: 1px solid #e8e7e4; //Three
+  // box-shadow: 0px 0px 15px 5px rgb(247, 246, 243); //Two
+  // color: rgb(55, 53, 47); //Five
+  border: 1px solid #e8e8e8; //Three
+  box-shadow: 0px 0px 15px 5px #f7f7f7; //Two
+  color: #383838; //Five
 }
 .search-box::placeholder {
   font-size: 20px;
-  color: #d1d1d1;
+  // color: #A1A09C; //Four
+  color: #a0a0a0; //Four
 }
 .search-box:focus {
   outline: none;
@@ -41,7 +45,8 @@
 
 .nav {
   padding: 0 10px;
-  color: #37352e;
+  // color: #37352e; //Five
+  color: #383838; //Five
   cursor: pointer;
 }
 </style>

@@ -7,8 +7,7 @@
 <style lang="scss">
 // Default
 body {
-  // background: rgb(36, 40, 42);
-  background: rgb(255, 255, 255);
+  background: #ffffff; //One
   margin: 0px; /*removes default style*/
   display: flex; /*enables flex content for its children*/
   box-sizing: border-box;
@@ -17,10 +16,8 @@ body {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  // text-align: center;
-  // color: #2c3e50;
-  color: rgb(55, 53, 47);
-  // color: #ccc;
+  // color: rgb(55, 53, 47); //Five
+  color: #383838; //Five
   margin-top: 0px;
   width: 100%;
 }
