@@ -1,0 +1,3095 @@
+[
+  {
+    "description": "Navigate by one cell at a time in any direction",
+    "category": "Navigate Worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "exw0"
+  },
+  {
+    "description": "Move one screen down/ up",
+    "category": "Navigate Worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Down/Page Up"
+      }
+    ],
+    "id": "exw1"
+  },
+  {
+    "description": "Move one screen right/ left",
+    "category": "Navigate Worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down/Page Up"
+      }
+    ],
+    "id": "exw2"
+  },
+  {
+    "description": "Move one cell to the right/ to the left in a worksheet",
+    "category": "Navigate Worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "exw3"
+  },
+  {
+    "description": "Move to the edge of next data region (cells that contains data)",
+    "category": "Navigate Worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "exw4"
+  },
+  {
+    "description": "Move to the beginning of row",
+    "category": "Navigate Worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "exw5"
+  },
+  {
+    "description": "Move to the beginning of worksheet",
+    "category": "Navigate Worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "exw6"
+  },
+  {
+    "description": "Move to the last cell with content of worksheet",
+    "category": "Navigate Worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "exw7"
+  },
+  {
+    "description": "Display the GoTo dialog box",
+    "category": "Navigate Worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "exw8"
+  },
+  {
+    "description": "Go to line 50, Column A",
+    "category": "Navigate Worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G then type e.g. A50"
+      }
+    ],
+    "id": "exw9"
+  },
+  {
+    "description": "Go to column G, Line 1",
+    "category": "Navigate Worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G then type e.g. G1"
+      }
+    ],
+    "id": "exw10"
+  },
+  {
+    "description": "Select single row; then delete",
+    "category": "Juggle Rows, Columns, and Cells",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      },
+      {
+        "type": "symbol",
+        "val": " then Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
+      }
+    ],
+    "id": "exw11"
+  },
+  {
+    "description": "Select multiple rows; then delete",
+    "category": "Juggle Rows, Columns, and Cells",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      },
+      {
+        "type": "symbol",
+        "val": " \n\nShift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up/Arrow Down"
+      },
+      {
+        "type": "symbol",
+        "val": " \nthen Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
+      }
+    ],
+    "id": "exw12"
+  },
+  {
+    "description": "Select single row; then insert one row above",
+    "category": "Juggle Rows, Columns, and Cells",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      },
+      {
+        "type": "symbol",
+        "val": " \n\nCtrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      }
+    ],
+    "id": "exw13"
+  },
+  {
+    "description": "Select multiple rows; then insert the same number rows below",
+    "category": "Juggle Rows, Columns, and Cells",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      },
+      {
+        "type": "symbol",
+        "val": " \n\nShift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up/Arrow Down"
+      },
+      {
+        "type": "symbol",
+        "val": " \n\nthen Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      }
+    ],
+    "id": "exw14"
+  },
+  {
+    "description": "Select single (or multiple) columns, then delete",
+    "category": "Juggle Rows, Columns, and Cells",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      },
+      {
+        "type": "symbol",
+        "val": " \n\nthen Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
+      }
+    ],
+    "id": "exw15"
+  },
+  {
+    "description": "Select single row, then insert row below. Select multiple rows to insert multiple rows",
+    "category": "Juggle Rows, Columns, and Cells",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      },
+      {
+        "type": "symbol",
+        "val": " \n\nthen Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      }
+    ],
+    "id": "exw16"
+  },
+  {
+    "description": "Paste Insert - paste row(s) from clipboard and shift existing content downward",
+    "category": "Juggle Rows, Columns, and Cells",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " \nwith row(s) in clipboard and a row selected"
+      }
+    ],
+    "id": "exw17"
+  },
+  {
+    "description": "Paste Insert - paste column(s) from clipboard and shift existing content to the right",
+    "category": "Juggle Rows, Columns, and Cells",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " \nwith column(s) in clipboard and column selected"
+      }
+    ],
+    "id": "exw18"
+  },
+  {
+    "description": "With cells that are not complete rows/columns - Open insert cell/ row/ column menu",
+    "category": "Juggle Rows, Columns, and Cells",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      }
+    ],
+    "id": "exw19"
+  },
+  {
+    "description": "With cells that are not complete rows/columns - Open delete cell/ row/ column menu",
+    "category": "Juggle Rows, Columns, and Cells",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
+      }
+    ],
+    "id": "exw20"
+  },
+  {
+    "description": "Fill single cell content down to all cells selected with Shift+Arrow Down",
+    "category": "Juggle Rows, Columns, and Cells",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      },
+      {
+        "type": "symbol",
+        "val": " \nF2"
+      },
+      {
+        "type": "symbol",
+        "val": " then Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "exw21"
+  },
+  {
+    "description": "Fill single cell content upto all cells selected with Shift+Arrow Down",
+    "category": "Juggle Rows, Columns, and Cells",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      },
+      {
+        "type": "symbol",
+        "val": " \nF2"
+      },
+      {
+        "type": "symbol",
+        "val": " then Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "exw22"
+  },
+  {
+    "description": "Edit cell. Press Escape to cancel",
+    "category": "Edit Cell Content",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "exw23"
+  },
+  {
+    "description": "Jump to beginning/ end of cell",
+    "category": "Edit Cell Content",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home/End"
+      }
+    ],
+    "id": "exw24"
+  },
+  {
+    "description": "Navigate by one character left/ right or one line up/ down",
+    "category": "Edit Cell Content",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "exw25"
+  },
+  {
+    "description": "Navigate by one word left/ right",
+    "category": "Edit Cell Content",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left/ Arrow Right"
+      }
+    ],
+    "id": "exw26"
+  },
+  {
+    "description": "Select one character to the left/ right (or one line up/down)",
+    "category": "Edit Cell Content",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "exw27"
+  },
+  {
+    "description": "Select from the insertion point to beginning/ end of cell",
+    "category": "Edit Cell Content",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " Home/End"
+      }
+    ],
+    "id": "exw28"
+  },
+  {
+    "description": "Select or unselect one word to the left/ right",
+    "category": "Edit Cell Content",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left/Arrow Right"
+      }
+    ],
+    "id": "exw29"
+  },
+  {
+    "description": "Delete one character to the right/ left of cursor",
+    "category": "Edit Cell Content",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Delete/Backspace"
+      }
+    ],
+    "id": "exw30"
+  },
+  {
+    "description": "Delete from cursor to end of cell",
+    "category": "Edit Cell Content",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "exw31"
+  },
+  {
+    "description": "Start a new line inside cell",
+    "category": "Edit Cell Content",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "exw32"
+  },
+  {
+    "description": "Complete cell entry and move one cell down/ up",
+    "category": "Edit Cell Content",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "exw33"
+  },
+  {
+    "description": "Complete cell entry and move one cell right/ left",
+    "category": "Edit Cell Content",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "exw34"
+  },
+  {
+    "description": "Complete cell entry and don't move selection",
+    "category": "Edit Cell Content",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "exw35"
+  },
+  {
+    "description": "Duplicate value from Cell above into current cell at cursor position",
+    "category": "Edit Cell Content",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "'"
+      }
+    ],
+    "id": "exw36"
+  },
+  {
+    "description": "Insert current date at cursor position",
+    "category": "Edit Cell Content",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ";"
+      }
+    ],
+    "id": "exw37"
+  },
+  {
+    "description": "Insert current time at cursor position",
+    "category": "Edit Cell Content",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ";"
+      }
+    ],
+    "id": "exw38"
+  },
+  {
+    "description": "Fill Down from cell(s) above  into current cell(s)",
+    "category": "Duplicate Cells, Rows, and Columns",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "exw39"
+  },
+  {
+    "description": "Duplicate row via fill down - Fill current row with content from row above.",
+    "category": "Duplicate Cells, Rows, and Columns",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D with a row selected"
+      }
+    ],
+    "id": "exw40"
+  },
+  {
+    "description": "Duplicate content of first cell(s) in first row to all cells in selection downward.",
+    "category": "Duplicate Cells, Rows, and Columns",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D with multiple empty cells selected"
+      }
+    ],
+    "id": "exw41"
+  },
+  {
+    "description": "Fill Rright from cell(s) on the left into current cell(s)",
+    "category": "Duplicate Cells, Rows, and Columns",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "exw42"
+  },
+  {
+    "description": "Duplicate column via fill right - Fill current column with content from column on the left.",
+    "category": "Duplicate Cells, Rows, and Columns",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R with a column selected"
+      }
+    ],
+    "id": "exw43"
+  },
+  {
+    "description": "Duplicate content first cell(s) in first column to all cells in selection to the right.",
+    "category": "Duplicate Cells, Rows, and Columns",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D with multiple empty cells selected"
+      }
+    ],
+    "id": "exw44"
+  },
+  {
+    "description": "Duplicate formula from cell above",
+    "category": "Duplicate Cells, Rows, and Columns",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "'"
+      }
+    ],
+    "id": "exw45"
+  },
+  {
+    "description": "Undo",
+    "category": "Undo, Redo, and Repeat Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "exw46"
+  },
+  {
+    "description": "Redo (after undo) or Repeat (e.g. when applying formats)",
+    "category": "Undo, Redo, and Repeat Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "exw47"
+  },
+  {
+    "description": "Undo list (via quick access). Use Arrow Down to extend undo range.",
+    "category": "Undo, Redo, and Repeat Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "2"
+      }
+    ],
+    "id": "exw48"
+  },
+  {
+    "description": "Redo list (via quick access). Use Arrow Down to extend redo range.",
+    "category": "Undo, Redo, and Repeat Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "3"
+      }
+    ],
+    "id": "exw49"
+  },
+  {
+    "description": "Repeat last action. E.g. try to set a cell bold with Ctrl+B, then go to a different cell and press Alt+Enter; great to cascade formatting across multiple cells",
+    "category": "Undo, Redo, and Repeat Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter outside edit cell mode"
+      }
+    ],
+    "id": "exw50"
+  },
+  {
+    "description": "Cut cell(s) to clipoard",
+    "category": "Cut, Copy, Paste, and Paste Special",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "exw51"
+  },
+  {
+    "description": "Copy cell(s) to clipboard",
+    "category": "Cut, Copy, Paste, and Paste Special",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "exw52"
+  },
+  {
+    "description": "Paste cell(s) from clipboard",
+    "category": "Cut, Copy, Paste, and Paste Special",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "exw53"
+  },
+  {
+    "description": "Insert Paste - Paste cell and push content downward or rightward. Works great for entire rows and columns.",
+    "category": "Cut, Copy, Paste, and Paste Special",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      }
+    ],
+    "id": "exw54"
+  },
+  {
+    "description": "Open Paste Special Menu (requires a prior copy to Clipboard)",
+    "category": "Cut, Copy, Paste, and Paste Special",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "exw55"
+  },
+  {
+    "description": "Paste Values",
+    "category": "Cut, Copy, Paste, and Paste Special",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      },
+      {
+        "type": "symbol",
+        "val": " then V"
+      },
+      {
+        "type": "symbol",
+        "val": " Enter"
+      }
+    ],
+    "id": "exw56"
+  },
+  {
+    "description": "Paste Formats",
+    "category": "Cut, Copy, Paste, and Paste Special",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      },
+      {
+        "type": "symbol",
+        "val": " then T"
+      },
+      {
+        "type": "symbol",
+        "val": " Enter"
+      }
+    ],
+    "id": "exw57"
+  },
+  {
+    "description": "Paste Transposed",
+    "category": "Cut, Copy, Paste, and Paste Special",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      },
+      {
+        "type": "symbol",
+        "val": " then E"
+      },
+      {
+        "type": "symbol",
+        "val": " Enter"
+      }
+    ],
+    "id": "exw58"
+  },
+  {
+    "description": "Paste Column Width",
+    "category": "Cut, Copy, Paste, and Paste Special",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      },
+      {
+        "type": "symbol",
+        "val": " then W"
+      },
+      {
+        "type": "symbol",
+        "val": " Enter"
+      }
+    ],
+    "id": "exw59"
+  },
+  {
+    "description": "Paste Values and Number Formats",
+    "category": "Cut, Copy, Paste, and Paste Special",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      },
+      {
+        "type": "symbol",
+        "val": " then U"
+      },
+      {
+        "type": "symbol",
+        "val": " Enter"
+      }
+    ],
+    "id": "exw60"
+  },
+  {
+    "description": "Paste a defined name into a formula",
+    "category": "Cut, Copy, Paste, and Paste Special",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "exw61"
+  },
+  {
+    "description": "Display the Find and Replace dialog box (with find selected)",
+    "category": "Find and Replace",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "exw62"
+  },
+  {
+    "description": "Display the find and replace dialog box (with replace selected)",
+    "category": "Find and Replace",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "exw63"
+  },
+  {
+    "description": "Close the find and replace dialog Box (with focus on dialog box)",
+    "category": "Find and Replace",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Escape"
+      }
+    ],
+    "id": "exw64"
+  },
+  {
+    "description": "Find bext (with search box closed)",
+    "category": "Find and Replace",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "exw65"
+  },
+  {
+    "description": "Find previous (with search box closed)",
+    "category": "Find and Replace",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "exw66"
+  },
+  {
+    "description": "Toggle focus between find/ replace dialog box and worksheet",
+    "category": "Find and Replace",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      },
+      {
+        "type": "symbol",
+        "val": " or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F/H when losing focus"
+      }
+    ],
+    "id": "exw67"
+  },
+  {
+    "description": "Find next with find dialog box active",
+    "category": "Find and Replace",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "exw68"
+  },
+  {
+    "description": "Find all with find dialog box active",
+    "category": "Find and Replace",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "exw69"
+  },
+  {
+    "description": "Use as asterix for searching multiple characters",
+    "category": "Find and Replace",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "* in search option"
+      }
+    ],
+    "id": "exw70"
+  },
+  {
+    "description": "Use as wildcard for searching any single character, Use '~' before '?' when searching special characters. ~* searches for * ~~ searches for ~ ~? searches  for ?",
+    "category": "Find and Replace",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "? in search options"
+      }
+    ],
+    "id": "exw71"
+  },
+  {
+    "description": "Move to the next/ previous worksheet in current workbook",
+    "category": "Manage Worksheet Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down/Page Up"
+      }
+    ],
+    "id": "exw72"
+  },
+  {
+    "description": "Insert worksheet (Home - Insert Sheet)",
+    "category": "Manage Worksheet Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      },
+      {
+        "type": "symbol",
+        "val": " IS"
+      }
+    ],
+    "id": "exw73"
+  },
+  {
+    "description": "Delete worksheet Home - Delete Sheet",
+    "category": "Manage Worksheet Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      },
+      {
+        "type": "symbol",
+        "val": " DS"
+      }
+    ],
+    "id": "exw74"
+  },
+  {
+    "description": "Rename worksheet (Home - Format - Rename worksheet)",
+    "category": "Manage Worksheet Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      },
+      {
+        "type": "symbol",
+        "val": " OR"
+      }
+    ],
+    "id": "exw75"
+  },
+  {
+    "description": "Move worksheet (Home - Format - Move worksheet)",
+    "category": "Manage Worksheet Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      },
+      {
+        "type": "symbol",
+        "val": " OM"
+      }
+    ],
+    "id": "exw76"
+  },
+  {
+    "description": "Worksheet tab color, continue with mouse or arrow keys (Home - Format - Tab color)",
+    "category": "Manage Worksheet Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      },
+      {
+        "type": "symbol",
+        "val": " OT"
+      }
+    ],
+    "id": "exw77"
+  },
+  {
+    "description": "View - Freeze or unfreeze; unfreeze works for any Freeze Setting",
+    "category": "Freeze, Split, and Hide",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "FF"
+      }
+    ],
+    "id": "exw78"
+  },
+  {
+    "description": "View - Freeze first visible Row on screen",
+    "category": "Freeze, Split, and Hide",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "exw79"
+  },
+  {
+    "description": "View - Freeze first Column on screen",
+    "category": "Freeze, Split, and Hide",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "exw80"
+  },
+  {
+    "description": "Hide selected rows",
+    "category": "Freeze, Split, and Hide",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "9"
+      }
+    ],
+    "id": "exw81"
+  },
+  {
+    "description": "Unhide hidden rows within the selection",
+    "category": "Freeze, Split, and Hide",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "9"
+      }
+    ],
+    "id": "exw82"
+  },
+  {
+    "description": "Hide selected columns",
+    "category": "Freeze, Split, and Hide",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "0"
+      }
+    ],
+    "id": "exw83"
+  },
+  {
+    "description": "Unhide selected columns (Ctrl+Shift+0 not working in Excel 2010, 2013, or 2016)",
+    "category": "Freeze, Split, and Hide",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F10"
+      },
+      {
+        "type": "symbol",
+        "val": " then U"
+      }
+    ],
+    "id": "exw84"
+  },
+  {
+    "description": "Split or unsplit Worksheet at current position",
+    "category": "Freeze, Split, and Hide",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W S"
+      }
+    ],
+    "id": "exw85"
+  },
+  {
+    "description": "Turn Autofilter on or off. Select table as necessary but many times Excel figures out what you want.",
+    "category": "Auto Filter",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "exw86"
+  },
+  {
+    "description": "On the field with column head, display the AutoFilter list for the current column. Press Escape to cancel",
+    "category": "Auto Filter",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "exw87"
+  },
+  {
+    "description": "Select the next/ previous item in the AutoFilter list",
+    "category": "Auto Filter",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Down/Arrow Up and Sace"
+      }
+    ],
+    "id": "exw88"
+  },
+  {
+    "description": "Close the AutoFilter list for the current column",
+    "category": "Auto Filter",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "exw89"
+  },
+  {
+    "description": "Select the first item/ last item in the AutoFilter list",
+    "category": "Auto Filter",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home/End"
+      }
+    ],
+    "id": "exw90"
+  },
+  {
+    "description": "Home - Format Worksheet",
+    "category": "Column Width and Row Height",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "HO"
+      }
+    ],
+    "id": "exw91"
+  },
+  {
+    "description": "Set row Height",
+    "category": "Column Width and Row Height",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "H  (in Format Worksheet Menu)"
+      }
+    ],
+    "id": "exw92"
+  },
+  {
+    "description": "Autofit row height",
+    "category": "Column Width and Row Height",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "exw93"
+  },
+  {
+    "description": "Set column Width",
+    "category": "Column Width and Row Height",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "exw94"
+  },
+  {
+    "description": "Autofit column width (Based on current cell; mark column if you want to autfit column based on widest cell)",
+    "category": "Column Width and Row Height",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "exw95"
+  },
+  {
+    "description": "Set Default width (for all columns that haven't been changed yet)",
+    "category": "Column Width and Row Height",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "exw96"
+  },
+  {
+    "description": "Move active cell right/ left in selection",
+    "category": "Navigate Multi-Cell Selections",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "exw97"
+  },
+  {
+    "description": "Move active cell down/ up in selection",
+    "category": "Navigate Multi-Cell Selections",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "exw98"
+  },
+  {
+    "description": "Select only the active cell when multiple cells are selected",
+    "category": "Navigate Multi-Cell Selections",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Backspace"
+      }
+    ],
+    "id": "exw99"
+  },
+  {
+    "description": "Show active cell within selection; helps with large selections when active cell is off screen",
+    "category": "Navigate Multi-Cell Selections",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Backspace"
+      }
+    ],
+    "id": "exw100"
+  },
+  {
+    "description": "Move clockwise between the four courners of a selection",
+    "category": "Navigate Multi-Cell Selections",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "."
+      }
+    ],
+    "id": "exw101"
+  },
+  {
+    "description": "Move to the right/ to the left between non-adjacent selections (with multiple ranges selected)",
+    "category": "Navigate Multi-Cell Selections",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right/ Arrow Left"
+      }
+    ],
+    "id": "exw102"
+  },
+  {
+    "description": "Cancel Selection",
+    "category": "Navigate Multi-Cell Selections",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Keys with active Selection"
+      }
+    ],
+    "id": "exw103"
+  },
+  {
+    "description": "Insert or edit hyperlinK (for complete cell only)",
+    "category": "Comments and Hyperlinks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "exw104"
+  },
+  {
+    "description": "Remove one or multiple hyperlink(s)",
+    "category": "Comments and Hyperlinks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F10"
+      },
+      {
+        "type": "symbol",
+        "val": " then R"
+      }
+    ],
+    "id": "exw105"
+  },
+  {
+    "description": "Open hyperlink (In the Excel 2016 Contextmenu, 'O' is double-assigned which require the extra keys)",
+    "category": "Comments and Hyperlinks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F10"
+      },
+      {
+        "type": "symbol",
+        "val": " then 2x O"
+      },
+      {
+        "type": "symbol",
+        "val": " then Enter"
+      }
+    ],
+    "id": "exw106"
+  },
+  {
+    "description": "Insert/ edit a cell comment",
+    "category": "Comments and Hyperlinks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "exw107"
+  },
+  {
+    "description": "Move comment",
+    "category": "Comments and Hyperlinks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "1x Escape when in Comment"
+      },
+      {
+        "type": "symbol",
+        "val": " then Arrow Keys"
+      }
+    ],
+    "id": "exw108"
+  },
+  {
+    "description": "Escape comment editing and return to cell",
+    "category": "Comments and Hyperlinks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "2x Escape when in Comment"
+      }
+    ],
+    "id": "exw109"
+  },
+  {
+    "description": "Select all cells with comments",
+    "category": "Comments and Hyperlinks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "exw110"
+  },
+  {
+    "description": "Delete single comment (or multipe with multiple comments selected)",
+    "category": "Comments and Hyperlinks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F10"
+      },
+      {
+        "type": "symbol",
+        "val": " then M"
+      }
+    ],
+    "id": "exw111"
+  },
+  {
+    "description": "Insert PivotTable after selecting data range. Follow up with Alt+E for existing worksheet if desired, Tab, and type the cell reference where it should go (e.g. C1)",
+    "category": "Pivot Tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "NV"
+      }
+    ],
+    "id": "exw112"
+  },
+  {
+    "description": "Refresh PivotTable",
+    "category": "Pivot Tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F10"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "exw113"
+  },
+  {
+    "description": "Hide selected item",
+    "category": "Pivot Tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
+      }
+    ],
+    "id": "exw114"
+  },
+  {
+    "description": "Unhide item(s) by opening header drop-down and using Arrow Keys and Space to unhide item",
+    "category": "Pivot Tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down in header"
+      }
+    ],
+    "id": "exw115"
+  },
+  {
+    "description": "Unhide item(s) (assume you have two fields 'color', and 'size' and you hid 'color'. Go into 'size' field and type 'color' - this will unhide the 'color' field",
+    "category": "Pivot Tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Type over any field with the value hidden"
+      }
+    ],
+    "id": "exw116"
+  },
+  {
+    "description": "Flip current field value with the value typed",
+    "category": "Pivot Tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Type over any field with another field in same table"
+      }
+    ],
+    "id": "exw117"
+  },
+  {
+    "description": "Select the entire PivotTable report",
+    "category": "Pivot Tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "*"
+      }
+    ],
+    "id": "exw118"
+  },
+  {
+    "description": "Group selected PivotTable items",
+    "category": "Pivot Tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "exw119"
+  },
+  {
+    "description": "Ungroup selected PivotTable items when on group header",
+    "category": "Pivot Tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "exw120"
+  },
+  {
+    "description": "Exand all fields",
+    "category": "Pivot Tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "ALT"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "JTX"
+      }
+    ],
+    "id": "exw121"
+  },
+  {
+    "description": "Collapse all fields",
+    "category": "Pivot Tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "ALT"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "JTP"
+      }
+    ],
+    "id": "exw122"
+  },
+  {
+    "description": "Insert pivot formula/ calculated field",
+    "category": "Pivot Tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      }
+    ],
+    "id": "exw123"
+  },
+  {
+    "description": "Create Pivot Chart in same Worksheet",
+    "category": "Pivot Tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F1"
+      }
+    ],
+    "id": "exw124"
+  },
+  {
+    "description": "Create Pivot Chart in new Worksheet",
+    "category": "Pivot Tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F1"
+      }
+    ],
+    "id": "exw125"
+  },
+  {
+    "description": "Group rows or columns",
+    "category": "Group Rows and Columns",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "exw126"
+  },
+  {
+    "description": "Ungroup rows or columns",
+    "category": "Group Rows and Columns",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "exw127"
+  },
+  {
+    "description": "Data Hide detail",
+    "category": "Group Rows and Columns",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "AH"
+      }
+    ],
+    "id": "exw128"
+  },
+  {
+    "description": "Data Show Detail (j is next to h on keyboard that’s probably why they picked 'J' isntead of somthing else)",
+    "category": "Group Rows and Columns",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "AJ"
+      }
+    ],
+    "id": "exw129"
+  },
+  {
+    "description": "Display or hides the outline symbols",
+    "category": "Group Rows and Columns",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "8"
+      }
+    ],
+    "id": "exw130"
+  },
+  {
+    "description": "Enter ASCII code, e.g. Alt+0169 inserts © Symbol",
+    "category": "Group Rows and Columns",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "ASCII Code"
+      }
+    ],
+    "id": "exw131"
+  },
+  {
+    "description": "Minimize/ restore Excel ribbons",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F1"
+      }
+    ],
+    "id": "exw132"
+  },
+  {
+    "description": "Display format, chart, totals, tables, and sparklines menus",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl after selecting at least 2 rows and 2 columns"
+      }
+    ],
+    "id": "exw133"
+  },
+  {
+    "description": "Display the thesaurus dialog box",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "exw134"
+  },
+  {
+    "description": "Display the spelling dialog box",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "exw135"
+  },
+  {
+    "description": "\"Enable Editing for protected wiew (File Info Enable Editing)",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      },
+      {
+        "type": "symbol",
+        "val": " IE"
+      }
+    ],
+    "id": "exw136"
+  },
+  {
+    "description": "Close Excel",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "exw137"
+  },
+  {
+    "description": "Help",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F1"
+      }
+    ],
+    "id": "exw138"
+  },
+  {
+    "description": "Style dialog box",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "'"
+      }
+    ],
+    "id": "exw139"
+  },
+  {
+    "description": "Define a name or dialog",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "exw140"
+  },
+  {
+    "description": "Create names from row and column labels",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "exw141"
+  },
+  {
+    "description": "Create and insert chart with data in current range as embedded Chart Object",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F1"
+      }
+    ],
+    "id": "exw142"
+  },
+  {
+    "description": "Create and insert chart with data in current range in a separate Chart Sheet",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "exw143"
+  },
+  {
+    "description": "Open VBA editor window",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "exw144"
+  },
+  {
+    "description": "Scroll between open workbooks",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "exw145"
+  },
+  {
+    "description": "Display macro dialog box",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "exw146"
+  }
+]

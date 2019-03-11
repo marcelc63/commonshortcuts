@@ -1,0 +1,1387 @@
+[
+  {
+    "description": "Go to Inbox",
+    "category": "Navigate Main Gmail Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "G"
+      },
+      {
+        "type": "symbol",
+        "val": " then I"
+      }
+    ],
+    "id": "gmm0"
+  },
+  {
+    "description": "Go to starred conversations",
+    "category": "Navigate Main Gmail Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "G"
+      },
+      {
+        "type": "symbol",
+        "val": " then S"
+      }
+    ],
+    "id": "gmm1"
+  },
+  {
+    "description": "Go to sent mail",
+    "category": "Navigate Main Gmail Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "G"
+      },
+      {
+        "type": "symbol",
+        "val": " then T"
+      }
+    ],
+    "id": "gmm2"
+  },
+  {
+    "description": "Go to Drafts",
+    "category": "Navigate Main Gmail Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "G"
+      },
+      {
+        "type": "symbol",
+        "val": " then D"
+      }
+    ],
+    "id": "gmm3"
+  },
+  {
+    "description": "Go to all mail",
+    "category": "Navigate Main Gmail Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "G"
+      },
+      {
+        "type": "symbol",
+        "val": " then A"
+      }
+    ],
+    "id": "gmm4"
+  },
+  {
+    "description": "Go to Contacts",
+    "category": "Navigate Main Gmail Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "G"
+      },
+      {
+        "type": "symbol",
+        "val": " then C"
+      }
+    ],
+    "id": "gmm5"
+  },
+  {
+    "description": "Go to Label. Use arrow keys from here",
+    "category": "Navigate Main Gmail Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "G"
+      },
+      {
+        "type": "symbol",
+        "val": " then L"
+      }
+    ],
+    "id": "gmm6"
+  },
+  {
+    "description": "Generally resets state. Often necessary before using a Keyboard Shortcut to move out of the current task or field. Sometimes reloading page helps via Command+R.",
+    "category": "Navigate Main Gmail Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "gmm7"
+  },
+  {
+    "description": "Undo previous action",
+    "category": "Navigate Main Gmail Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "gmm8"
+  },
+  {
+    "description": "Move to next (older) / move to previous (newer) e-mail or conversation",
+    "category": "Main Window - Manage Message List",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "J/K"
+      }
+    ],
+    "id": "gmm9"
+  },
+  {
+    "description": "Select or unselect current conversation",
+    "category": "Main Window - Manage Message List",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "gmm10"
+  },
+  {
+    "description": "Select all conversations / Un select all conversations",
+    "category": "Main Window - Manage Message List",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "*"
+      },
+      {
+        "type": "symbol",
+        "val": " then A / *"
+      },
+      {
+        "type": "symbol",
+        "val": " then N"
+      }
+    ],
+    "id": "gmm11"
+  },
+  {
+    "description": "Select all read conversations / Select all unread conversations",
+    "category": "Main Window - Manage Message List",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "*"
+      },
+      {
+        "type": "symbol",
+        "val": " then R/*"
+      },
+      {
+        "type": "symbol",
+        "val": " then U"
+      }
+    ],
+    "id": "gmm12"
+  },
+  {
+    "description": "Select all starred conversations / Select all unstarred conversations",
+    "category": "Main Window - Manage Message List",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "*"
+      },
+      {
+        "type": "symbol",
+        "val": " then S/*"
+      },
+      {
+        "type": "symbol",
+        "val": " then T"
+      }
+    ],
+    "id": "gmm13"
+  },
+  {
+    "description": "Mark selected messages as unread / Mark selected messages as read",
+    "category": "Main Window - Manage Message List",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "gmm14"
+  },
+  {
+    "description": "Open message",
+    "category": "Main Window - Manage Message List",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "O or Enter"
+      }
+    ],
+    "id": "gmm15"
+  },
+  {
+    "description": "Delete selected message",
+    "category": "Main Window - Manage Message List",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "#"
+      }
+    ],
+    "id": "gmm16"
+  },
+  {
+    "description": "Mov selected message. Use Arrow Keys and Enter to proceed",
+    "category": "Main Window - Manage Message List",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "gmm17"
+  },
+  {
+    "description": "Add Label to message, opens label menu. Use Arrow Keys and enter to proceed",
+    "category": "Main Window - Manage Message List",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "gmm18"
+  },
+  {
+    "description": "Archive selected messages",
+    "category": "Main Window - Manage Message List",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "gmm19"
+  },
+  {
+    "description": "Mark selected messages as spam",
+    "category": "Main Window - Manage Message List",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "!"
+      }
+    ],
+    "id": "gmm20"
+  },
+  {
+    "description": "Mute selected message. Archives the conversation and all future messages",
+    "category": "Main Window - Manage Message List",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "gmm21"
+  },
+  {
+    "description": "Star or unstar message",
+    "category": "Main Window - Manage Message List",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "gmm22"
+  },
+  {
+    "description": "Remove from current view: To archive while in Inbox, to Inbox while in Trash, remove star while in Starred Conversation, remove Label while in Labels.",
+    "category": "Main Window - Manage Message List",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "gmm23"
+  },
+  {
+    "description": "Move to next (older) / move to previous (newer) e-mail or conversation",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "J/K"
+      }
+    ],
+    "id": "gmm24"
+  },
+  {
+    "description": "Move to next part / previous part of conversation in message",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "N/P"
+      }
+    ],
+    "id": "gmm25"
+  },
+  {
+    "description": "Reply to sender",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "gmm26"
+  },
+  {
+    "description": "Reply to sender in new window",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "gmm27"
+  },
+  {
+    "description": "Reply to all",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "gmm28"
+  },
+  {
+    "description": "Reply to all in new window",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "gmm29"
+  },
+  {
+    "description": "Forward message",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "gmm30"
+  },
+  {
+    "description": "Forward message in new window",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "gmm31"
+  },
+  {
+    "description": "Save Message. Cursor should be in field",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "gmm32"
+  },
+  {
+    "description": "Remove from current view and move to older / move to newer message (won't delete message, just changes view)",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "[/Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "]"
+      }
+    ],
+    "id": "gmm33"
+  },
+  {
+    "description": "Archive and move to older message / move to newer message",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "{/Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "}"
+      }
+    ],
+    "id": "gmm34"
+  },
+  {
+    "description": "Return to inbox or conversation list",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "gmm35"
+  },
+  {
+    "description": "Delete selected message and jump back to the message list",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "#"
+      }
+    ],
+    "id": "gmm36"
+  },
+  {
+    "description": "Move selected message",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "gmm37"
+  },
+  {
+    "description": "Add label to message, opens label menu and jump back to the message list",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "gmm38"
+  },
+  {
+    "description": "Archive selected messages and jump back to the message list",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "E/["
+      }
+    ],
+    "id": "gmm39"
+  },
+  {
+    "description": "Mark selected messages as spam and jump back to the message list",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "!"
+      }
+    ],
+    "id": "gmm40"
+  },
+  {
+    "description": "Mute selected message and jump back to the message list",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "gmm41"
+  },
+  {
+    "description": "Star or unstar message",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "gmm42"
+  },
+  {
+    "description": "Remove from current view and jump back to the message list",
+    "category": "Main Window - Manage Single Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "gmm43"
+  },
+  {
+    "description": "Compose a new message (Press Escape to cancel)",
+    "category": "Compose Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "gmm44"
+  },
+  {
+    "description": "Send Message",
+    "category": "Compose Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gmm45"
+  },
+  {
+    "description": "Move cursor to next / move cursor to previous chat or compose window (or to main window)",
+    "category": "Compose Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "./Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      }
+    ],
+    "id": "gmm46"
+  },
+  {
+    "description": "Add Cc recipient",
+    "category": "Compose Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "gmm47"
+  },
+  {
+    "description": "Add Bcc recipient",
+    "category": "Compose Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "gmm48"
+  },
+  {
+    "description": "Change From address",
+    "category": "Compose Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "gmm49"
+  },
+  {
+    "description": "Increase / decrease the font size of all or some text",
+    "category": "Format Text in Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "/-"
+      }
+    ],
+    "id": "gmm50"
+  },
+  {
+    "description": "Change font to the previous font / to the next font as listed in the menu",
+    "category": "Format Text in Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "5/6"
+      }
+    ],
+    "id": "gmm51"
+  },
+  {
+    "description": "Bold formatting",
+    "category": "Format Text in Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "gmm52"
+  },
+  {
+    "description": "Italic formatting",
+    "category": "Format Text in Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "gmm53"
+  },
+  {
+    "description": "Uunderline formatting",
+    "category": "Format Text in Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "gmm54"
+  },
+  {
+    "description": "Create Numbered List",
+    "category": "Format Text in Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "7"
+      }
+    ],
+    "id": "gmm55"
+  },
+  {
+    "description": "Create Bulleted List",
+    "category": "Format Text in Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "8"
+      }
+    ],
+    "id": "gmm56"
+  },
+  {
+    "description": "Left align",
+    "category": "Format Text in Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "gmm57"
+  },
+  {
+    "description": "Center align",
+    "category": "Format Text in Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "gmm58"
+  },
+  {
+    "description": "Right align",
+    "category": "Format Text in Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "gmm59"
+  },
+  {
+    "description": "Increase indent/ decrease indent",
+    "category": "Format Text in Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "]/["
+      }
+    ],
+    "id": "gmm60"
+  },
+  {
+    "description": "Format text block to Quote",
+    "category": "Format Text in Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "9"
+      }
+    ],
+    "id": "gmm61"
+  },
+  {
+    "description": "Change text directionality to Right-to-Left",
+    "category": "Format Text in Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "."
+      }
+    ],
+    "id": "gmm62"
+  },
+  {
+    "description": "Change text directionality to Left-to-Right",
+    "category": "Format Text in Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      }
+    ],
+    "id": "gmm63"
+  },
+  {
+    "description": "Insert hyperlink",
+    "category": "Format Text in Messages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "gmm64"
+  },
+  {
+    "description": "Go to task window or opens task window (see limitations above)",
+    "category": "Tasks in Gmail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "G"
+      },
+      {
+        "type": "symbol",
+        "val": " then K"
+      }
+    ],
+    "id": "gmm65"
+  },
+  {
+    "description": "Add message(s) to Tasks",
+    "category": "Tasks in Gmail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "gmm66"
+  },
+  {
+    "description": "Move cursor up and down in task list",
+    "category": "Tasks in Gmail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "gmm67"
+  },
+  {
+    "description": "Move current task up and down in task list",
+    "category": "Tasks in Gmail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Up Arrow /Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Down Arrow"
+      }
+    ],
+    "id": "gmm68"
+  },
+  {
+    "description": "Increase / Decrease Indent",
+    "category": "Tasks in Gmail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "gmm69"
+  },
+  {
+    "description": "Edit task details, including due date or notes.",
+    "category": "Tasks in Gmail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gmm70"
+  },
+  {
+    "description": "Shift the cursor from tasks to Gmail, but only one-way",
+    "category": "Tasks in Gmail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "gmm71"
+  },
+  {
+    "description": "Closes Task Window if focus is on it (see limitations above)",
+    "category": "Tasks in Gmail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "gmm72"
+  },
+  {
+    "description": "One page back / one page forward",
+    "category": "Control Main Browser Window (General Browser Shortcuts)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left/Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "gmm73"
+  },
+  {
+    "description": "Jump to beginning of page / end of page",
+    "category": "Control Main Browser Window (General Browser Shortcuts)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "End/Home"
+      }
+    ],
+    "id": "gmm74"
+  },
+  {
+    "description": "Jump one page up / one page down",
+    "category": "Control Main Browser Window (General Browser Shortcuts)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Up/Page Down"
+      }
+    ],
+    "id": "gmm75"
+  },
+  {
+    "description": "Move the focus of the browser to the main window. Jumps to the address bar first, then through toolbars until landing at the main window.",
+    "category": "Control Main Browser Window (General Browser Shortcuts)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "d"
+      },
+      {
+        "type": "symbol",
+        "val": " then multiple tab's"
+      }
+    ],
+    "id": "gmm76"
+  },
+  {
+    "description": "Jump forward / jump backwards between input fields",
+    "category": "Control Main Browser Window (General Browser Shortcuts)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "gmm77"
+  },
+  {
+    "description": "Refresh page. Sometimes GMail seems to get stuck on certain pages won't allow shortcuts. Things tend to work fine after a page refresh.",
+    "category": "Control Main Browser Window (General Browser Shortcuts)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "gmm78"
+  }
+]

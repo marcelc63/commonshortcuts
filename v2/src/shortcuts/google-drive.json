@@ -1,0 +1,576 @@
+[
+  {
+    "description": "Go to navigation panel (the folders list)",
+    "category": "Navigation and Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "g then n or g then f"
+      }
+    ],
+    "id": "gd0"
+  },
+  {
+    "description": "Go to items view",
+    "category": "Navigation and Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "g then l"
+      }
+    ],
+    "id": "gd1"
+  },
+  {
+    "description": "Toggle grid view and list view",
+    "category": "Navigation and Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "v"
+      }
+    ],
+    "id": "gd2"
+  },
+  {
+    "description": "Go to details pane",
+    "category": "Navigation and Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "g then d"
+      }
+    ],
+    "id": "gd3"
+  },
+  {
+    "description": "Go to top of application",
+    "category": "Navigation and Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "g then t"
+      }
+    ],
+    "id": "gd4"
+  },
+  {
+    "description": "Go to download status",
+    "category": "Navigation and Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "g then a"
+      }
+    ],
+    "id": "gd5"
+  },
+  {
+    "description": "Go to upload status",
+    "category": "Navigation and Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "g then u"
+      }
+    ],
+    "id": "gd6"
+  },
+  {
+    "description": "Show or hide the details pane",
+    "category": "Navigation and Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "d"
+      }
+    ],
+    "id": "gd7"
+  },
+  {
+    "description": "Show or hide the activity pane",
+    "category": "Navigation and Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "i"
+      }
+    ],
+    "id": "gd8"
+  },
+  {
+    "description": "Select or deselect item",
+    "category": "Item Selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "x"
+      }
+    ],
+    "id": "gd9"
+  },
+  {
+    "description": "Select next item down",
+    "category": "Item Selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "j or down"
+      }
+    ],
+    "id": "gd10"
+  },
+  {
+    "description": "Select next item up",
+    "category": "Item Selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "k or up"
+      }
+    ],
+    "id": "gd11"
+  },
+  {
+    "description": "Select next item to the left",
+    "category": "Item Selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "h or left"
+      }
+    ],
+    "id": "gd12"
+  },
+  {
+    "description": "Select next item to the right",
+    "category": "Item Selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "l or right"
+      }
+    ],
+    "id": "gd13"
+  },
+  {
+    "description": "Expand selection up/down/left/right",
+    "category": "Item Selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "up/down/left/right"
+      }
+    ],
+    "id": "gd14"
+  },
+  {
+    "description": "Move focus up/down/left/right without changing selection",
+    "category": "Item Selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "up/down/left/right"
+      }
+    ],
+    "id": "gd15"
+  },
+  {
+    "description": "Select all visible items",
+    "category": "Item Selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "a"
+      }
+    ],
+    "id": "gd16"
+  },
+  {
+    "description": "Select none (clear selection)",
+    "category": "Item Selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "n"
+      }
+    ],
+    "id": "gd17"
+  },
+  {
+    "description": "Open selected item",
+    "category": "Item Actions",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "o or enter"
+      }
+    ],
+    "id": "gd18"
+  },
+  {
+    "description": "Rename selected item",
+    "category": "Item Actions",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "n"
+      }
+    ],
+    "id": "gd19"
+  },
+  {
+    "description": "Share selected item",
+    "category": "Item Actions",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "."
+      }
+    ],
+    "id": "gd20"
+  },
+  {
+    "description": "Move selected item to folder",
+    "category": "Item Actions",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "z"
+      }
+    ],
+    "id": "gd21"
+  },
+  {
+    "description": "Add selected item to folder (Note: items can appear in more than one folder at once in Google Drive)",
+    "category": "Item Actions",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "z"
+      }
+    ],
+    "id": "gd22"
+  },
+  {
+    "description": "Star or unstar selected item",
+    "category": "Item Actions",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "s"
+      }
+    ],
+    "id": "gd23"
+  },
+  {
+    "description": "Remove selected item",
+    "category": "Item Actions",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "#"
+      }
+    ],
+    "id": "gd24"
+  },
+  {
+    "description": "Undo last action",
+    "category": "Item Actions",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "z"
+      }
+    ],
+    "id": "gd25"
+  },
+  {
+    "description": "Redo last action",
+    "category": "Item Actions",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "z"
+      }
+    ],
+    "id": "gd26"
+  },
+  {
+    "description": "Create new document",
+    "category": "Create New Items",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "t"
+      }
+    ],
+    "id": "gd27"
+  },
+  {
+    "description": "Create new presentation",
+    "category": "Create New Items",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "p"
+      }
+    ],
+    "id": "gd28"
+  },
+  {
+    "description": "Create new spreadsheet",
+    "category": "Create New Items",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "s"
+      }
+    ],
+    "id": "gd29"
+  },
+  {
+    "description": "Create new drawing",
+    "category": "Create New Items",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "d"
+      }
+    ],
+    "id": "gd30"
+  },
+  {
+    "description": "Create new folder",
+    "category": "Create New Items",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "f"
+      }
+    ],
+    "id": "gd31"
+  },
+  {
+    "description": "Create new form",
+    "category": "Create New Items",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "o"
+      }
+    ],
+    "id": "gd32"
+  },
+  {
+    "description": "Open create menu",
+    "category": "Open Menus",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "c"
+      }
+    ],
+    "id": "gd33"
+  },
+  {
+    "description": "Open actions menu",
+    "category": "Open Menus",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "a"
+      }
+    ],
+    "id": "gd34"
+  },
+  {
+    "description": "Open folder menu",
+    "category": "Open Menus",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "f"
+      }
+    ],
+    "id": "gd35"
+  },
+  {
+    "description": "Open sort menu",
+    "category": "Open Menus",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "r"
+      }
+    ],
+    "id": "gd36"
+  },
+  {
+    "description": "Open settings menu",
+    "category": "Open Menus",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "t"
+      }
+    ],
+    "id": "gd37"
+  },
+  {
+    "description": "Display keyboard shortcuts list",
+    "category": "Application Actions",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "?"
+      }
+    ],
+    "id": "gd38"
+  },
+  {
+    "description": "Cycle through visual density options (row height and element spacing)",
+    "category": "Application Actions",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "q then q"
+      }
+    ],
+    "id": "gd39"
+  },
+  {
+    "description": "Show last message",
+    "category": "Application Actions",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "m"
+      }
+    ],
+    "id": "gd40"
+  },
+  {
+    "description": "Search your Drive",
+    "category": "Application Actions",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "/"
+      }
+    ],
+    "id": "gd41"
+  }
+]

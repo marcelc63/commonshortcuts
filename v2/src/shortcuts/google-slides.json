@@ -1,0 +1,1143 @@
+[
+  {
+    "description": "New slide",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "gsl0"
+  },
+  {
+    "description": "Copy",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "gsl1"
+  },
+  {
+    "description": "Paste",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "gsl2"
+  },
+  {
+    "description": "Undo",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "gsl3"
+  },
+  {
+    "description": "Redo",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "gsl4"
+  },
+  {
+    "description": "Insert or edit link",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "gsl5"
+  },
+  {
+    "description": "Delete",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "gsl6"
+  },
+  {
+    "description": "Find",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "gsl7"
+  },
+  {
+    "description": "Find and replace",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "gsl8"
+  },
+  {
+    "description": "Open",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "gsl9"
+  },
+  {
+    "description": "Save",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "gsl10"
+  },
+  {
+    "description": "Print",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "gsl11"
+  },
+  {
+    "description": "Select all",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "gsl12"
+  },
+  {
+    "description": "Select none",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "gsl13"
+  },
+  {
+    "description": "Open link",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gsl14"
+  },
+  {
+    "description": "Find again",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "gsl15"
+  },
+  {
+    "description": "Find previous",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "gsl16"
+  },
+  {
+    "description": "Duplicate slide",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "gsl17"
+  },
+  {
+    "description": "Show common keyboard shortcut",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "/"
+      }
+    ],
+    "id": "gsl18"
+  },
+  {
+    "description": "Search menus",
+    "category": "General Slides Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "/"
+      }
+    ],
+    "id": "gsl19"
+  },
+  {
+    "description": "Move to 1st slide / Move to last slide",
+    "category": "Working Point Navigation Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home / End"
+      }
+    ],
+    "id": "gsl20"
+  },
+  {
+    "description": "Slide up / down",
+    "category": "Working Point Navigation Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up / Arrow Down"
+      }
+    ],
+    "id": "gsl21"
+  },
+  {
+    "description": "Slide to beginning/ end",
+    "category": "Working Point Navigation Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up / Arrow Down"
+      }
+    ],
+    "id": "gsl22"
+  },
+  {
+    "description": "Select previous / next slide",
+    "category": "Working Point Navigation Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up / Arrow Down"
+      }
+    ],
+    "id": "gsl23"
+  },
+  {
+    "description": "Select first slide / Select last slide",
+    "category": "Working Point Navigation Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home / Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "gsl24"
+  },
+  {
+    "description": "Move to previous slide / Move to next slide",
+    "category": "Working Point Navigation Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Up / Page Down"
+      }
+    ],
+    "id": "gsl25"
+  },
+  {
+    "description": "Zoom in",
+    "category": "Working Point Navigation Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "="
+      }
+    ],
+    "id": "gsl26"
+  },
+  {
+    "description": "Zoom out",
+    "category": "Working Point Navigation Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
+      }
+    ],
+    "id": "gsl27"
+  },
+  {
+    "description": "Move to canvas",
+    "category": "Working Point Navigation Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "gsl28"
+  },
+  {
+    "description": "Move to filmstrip",
+    "category": "Working Point Navigation Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "gsl29"
+  },
+  {
+    "description": "Open animation panel",
+    "category": "Working Point Navigation Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "gsl30"
+  },
+  {
+    "description": "Open speaker notes panel",
+    "category": "Working Point Navigation Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "gsl31"
+  },
+  {
+    "description": "Change to HTML view",
+    "category": "Working Point Navigation Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "gsl32"
+  },
+  {
+    "description": "Present slide",
+    "category": "Working Point Navigation Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "gsl33"
+  },
+  {
+    "description": "Present slide from beginning",
+    "category": "Working Point Navigation Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "gsl34"
+  },
+  {
+    "description": "Play the selected video",
+    "category": "Working Point Navigation Action",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gsl35"
+  },
+  {
+    "description": "Bold",
+    "category": "Text Editing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "gsl36"
+  },
+  {
+    "description": "Underline",
+    "category": "Text Editing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "gsl37"
+  },
+  {
+    "description": "Subscript",
+    "category": "Text Editing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      }
+    ],
+    "id": "gsl38"
+  },
+  {
+    "description": "Superscript",
+    "category": "Text Editing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "."
+      }
+    ],
+    "id": "gsl39"
+  },
+  {
+    "description": "Italic",
+    "category": "Text Editing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "gsl40"
+  },
+  {
+    "description": "Increse indent",
+    "category": "Text Editing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "]"
+      }
+    ],
+    "id": "gsl41"
+  },
+  {
+    "description": "Decrese indent",
+    "category": "Text Editing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "["
+      }
+    ],
+    "id": "gsl42"
+  },
+  {
+    "description": "Justify",
+    "category": "Text Editing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "gsl43"
+  },
+  {
+    "description": "Bullet list",
+    "category": "Text Editing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "8"
+      }
+    ],
+    "id": "gsl44"
+  },
+  {
+    "description": "Numbered list",
+    "category": "Text Editing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "7"
+      }
+    ],
+    "id": "gsl45"
+  },
+  {
+    "description": "Center align",
+    "category": "Text Editing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "gsl46"
+  },
+  {
+    "description": "Right",
+    "category": "Text Editing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "gsl47"
+  },
+  {
+    "description": "Left",
+    "category": "Text Editing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "gsl48"
+  },
+  {
+    "description": "Increse font size",
+    "category": "Text Editing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ">"
+      }
+    ],
+    "id": "gsl49"
+  },
+  {
+    "description": "Decrese font size",
+    "category": "Text Editing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "<"
+      }
+    ],
+    "id": "gsl50"
+  }
+]

@@ -1,0 +1,2846 @@
+[
+  {
+    "description": "Save an item",
+    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "oum0"
+  },
+  {
+    "description": "Print an item",
+    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "oum1"
+  },
+  {
+    "description": "Undo the last action",
+    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "oum2"
+  },
+  {
+    "description": "Redo the last action",
+    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "oum3"
+  },
+  {
+    "description": "Minimize the active window",
+    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "oum4"
+  },
+  {
+    "description": "Create a new folder in the navigation pane",
+    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "oum5"
+  },
+  {
+    "description": "Create new email (in Mail view)",
+    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "oum6"
+  },
+  {
+    "description": "Hide the reading pane or show it on the right",
+    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "\\ (Backslash)"
+      }
+    ],
+    "id": "oum7"
+  },
+  {
+    "description": "Hide the reading pane or show it below",
+    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "\\ (Backslash)"
+      }
+    ],
+    "id": "oum8"
+  },
+  {
+    "description": "Move the selected item to a different folder",
+    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "oum9"
+  },
+  {
+    "description": "Copy the selected item to a different folder",
+    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "oum10"
+  },
+  {
+    "description": "Select all items in the item list, if the item list is the active pane",
+    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "oum11"
+  },
+  {
+    "description": "Minimize or expand the ribbon",
+    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "oum12"
+  },
+  {
+    "description": "Hide Outlook",
+    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "oum13"
+  },
+  {
+    "description": "Quit Outlook",
+    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Q"
+      }
+    ],
+    "id": "oum14"
+  },
+  {
+    "description": "Start dictation",
+    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Fn"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Fn"
+      }
+    ],
+    "id": "oum15"
+  },
+  {
+    "description": "Insert emoji",
+    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "\" \" (Spacebar)"
+      }
+    ],
+    "id": "oum16"
+  },
+  {
+    "description": "Go to Mail view",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "1"
+      }
+    ],
+    "id": "oum17"
+  },
+  {
+    "description": "Go to Calendar view",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "2"
+      }
+    ],
+    "id": "oum18"
+  },
+  {
+    "description": "Go to Contacts view",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "3"
+      }
+    ],
+    "id": "oum19"
+  },
+  {
+    "description": "Go to Tasks view",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "4"
+      }
+    ],
+    "id": "oum20"
+  },
+  {
+    "description": "Go to Notes view",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "5"
+      }
+    ],
+    "id": "oum21"
+  },
+  {
+    "description": "Open the Sync Status window or make it the active window",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "7"
+      }
+    ],
+    "id": "oum22"
+  },
+  {
+    "description": "Open the Sync Errors or make it the active window",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "8"
+      }
+    ],
+    "id": "oum23"
+  },
+  {
+    "description": "Open the Contacts Search window",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "0 (Zero)"
+      }
+    ],
+    "id": "oum24"
+  },
+  {
+    "description": "Open the Outlook Preferences dialog box",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "symbol",
+        "val": " (Comma)"
+      }
+    ],
+    "id": "oum25"
+  },
+  {
+    "description": "Cycle forward through open windows",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "~ (Tilde)"
+      }
+    ],
+    "id": "oum26"
+  },
+  {
+    "description": "Cycle back through open windows",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "~ (Tilde)"
+      }
+    ],
+    "id": "oum27"
+  },
+  {
+    "description": "Close the active window",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "oum28"
+  },
+  {
+    "description": "Open the selected item",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "oum29"
+  },
+  {
+    "description": "Move forward through controls in a window",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "oum30"
+  },
+  {
+    "description": "Move back through controls in a window",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "oum31"
+  },
+  {
+    "description": "Create a new message",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "oum32"
+  },
+  {
+    "description": "Send the open message",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Return"
+      }
+    ],
+    "id": "oum33"
+  },
+  {
+    "description": "Send all messages in the Outbox and receive all incoming messages",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "oum34"
+  },
+  {
+    "description": "Send all the messages in the Outbox",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "oum35"
+  },
+  {
+    "description": "Save the open message and store it in the Drafts folder",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "oum36"
+  },
+  {
+    "description": "Add an attachment to the open message",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "oum37"
+  },
+  {
+    "description": "Open the Spelling and Grammar dialog box",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ": (Colon)"
+      }
+    ],
+    "id": "oum38"
+  },
+  {
+    "description": "Check recipient names in the open messages",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "oum39"
+  },
+  {
+    "description": "Reply to the sender of the message or, if the message is from a mailing list, reply to the mailing list",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "oum40"
+  },
+  {
+    "description": "Reply to all",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "oum41"
+  },
+  {
+    "description": "Forward the message",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "oum42"
+  },
+  {
+    "description": "Open the selected message in a separate window",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "oum43"
+  },
+  {
+    "description": "Clear the flag for the selected message",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "' (Apostrophe)"
+      }
+    ],
+    "id": "oum44"
+  },
+  {
+    "description": "Mark the selected message as junk mail",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "oum45"
+  },
+  {
+    "description": "Mark the selected message as not junk mail",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "oum46"
+  },
+  {
+    "description": "Display the previous message",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "   (Opening Bracket)"
+      }
+    ],
+    "id": "oum47"
+  },
+  {
+    "description": "Display the next message",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "   (Closing Bracket)"
+      }
+    ],
+    "id": "oum48"
+  },
+  {
+    "description": "Navigate to the previous pane in the Mail view",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "   (Opening Bracket)"
+      }
+    ],
+    "id": "oum49"
+  },
+  {
+    "description": "Navigate to the next pane in the Mail view",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "   (Closing Bracket)"
+      }
+    ],
+    "id": "oum50"
+  },
+  {
+    "description": "Move the selected message to a folder",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "oum51"
+  },
+  {
+    "description": "Decrease the display size of text in an open message or in the reading pane",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "- (Hyphen)"
+      }
+    ],
+    "id": "oum52"
+  },
+  {
+    "description": "Increase the display size of text in an open message or in the reading pane",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " (Plus Sign)"
+      }
+    ],
+    "id": "oum53"
+  },
+  {
+    "description": "Scroll down to the next screen of text or, if you are at the end of a message, display the next message",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "\" \" (Spacebar)"
+      }
+    ],
+    "id": "oum54"
+  },
+  {
+    "description": "Scroll up to the previous screen of text or, if you are at the beginning of a message, display the previous message",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "\" \" (Spacebar)"
+      }
+    ],
+    "id": "oum55"
+  },
+  {
+    "description": "Delete the selected message",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "oum56"
+  },
+  {
+    "description": "Permanently delete the selected message",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "oum57"
+  },
+  {
+    "description": "Delete the current message, and, if the message window is open, close it",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "oum58"
+  },
+  {
+    "description": "Mark selected messages as read",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "oum59"
+  },
+  {
+    "description": "Mark selected messages as unread",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "oum60"
+  },
+  {
+    "description": "Mark all messages in a folder as read",
+    "category": "Send and receive mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "oum61"
+  },
+  {
+    "description": "Search current folder",
+    "category": "Use Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "oum62"
+  },
+  {
+    "description": "Do an advanced search in Outlook (add Item Contains filter for searching)",
+    "category": "Use Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "oum63"
+  },
+  {
+    "description": "Find text within an item",
+    "category": "Use Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "oum64"
+  },
+  {
+    "description": "Find the next instance of the text you searched for in an item",
+    "category": "Use Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "oum65"
+  },
+  {
+    "description": "Find the previous instance of the text you searched for in an item",
+    "category": "Use Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "oum66"
+  },
+  {
+    "description": "Open the Calendar window",
+    "category": "Use the Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "2"
+      }
+    ],
+    "id": "oum67"
+  },
+  {
+    "description": "Create a new appointment",
+    "category": "Use the Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "oum68"
+  },
+  {
+    "description": "Open the selected calendar event",
+    "category": "Use the Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "oum69"
+  },
+  {
+    "description": "Delete the calendar event",
+    "category": "Use the Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "oum70"
+  },
+  {
+    "description": "Switch the view to include today",
+    "category": "Use the Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "oum71"
+  },
+  {
+    "description": "In Day view, move to the previous day. In Week and Work Week views, move to the previous week. In Month view, move to the previous month.",
+    "category": "Use the Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "oum72"
+  },
+  {
+    "description": "In Day view, move to the next day. In Week and Work Week views, move to the next week. In Month view, move to the next month.",
+    "category": "Use the Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "oum73"
+  },
+  {
+    "description": "Navigate to the previous pane in the Calendar view",
+    "category": "Use the Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "   (Opening Bracket)"
+      }
+    ],
+    "id": "oum74"
+  },
+  {
+    "description": "Navigate to the next pane in the Calendar view",
+    "category": "Use the Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "   (Closing Bracket)"
+      }
+    ],
+    "id": "oum75"
+  },
+  {
+    "description": "Create a new contact",
+    "category": "Work with people and contacts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "oum76"
+  },
+  {
+    "description": "Open the selected contact",
+    "category": "Work with people and contacts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "oum77"
+  },
+  {
+    "description": "Delete the contact",
+    "category": "Work with people and contacts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "oum78"
+  },
+  {
+    "description": "Close the current open contact and open the previous contact",
+    "category": "Work with people and contacts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "   (Opening Bracket)"
+      }
+    ],
+    "id": "oum79"
+  },
+  {
+    "description": "Close the current open contact and open the next contact",
+    "category": "Work with people and contacts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "   (Closing Bracket)"
+      }
+    ],
+    "id": "oum80"
+  },
+  {
+    "description": "Navigate to the previous pane in the People view",
+    "category": "Work with people and contacts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "   (Opening Bracket)"
+      }
+    ],
+    "id": "oum81"
+  },
+  {
+    "description": "Navigate to the next pane in the People view",
+    "category": "Work with people and contacts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "   (Closing Bracket)"
+      }
+    ],
+    "id": "oum82"
+  },
+  {
+    "description": "Move to the Task window",
+    "category": "Manage tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "4"
+      }
+    ],
+    "id": "oum83"
+  },
+  {
+    "description": "Create a new task",
+    "category": "Manage tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "oum84"
+  },
+  {
+    "description": "Open the selected task",
+    "category": "Manage tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "oum85"
+  },
+  {
+    "description": "Delete the task",
+    "category": "Manage tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "oum86"
+  },
+  {
+    "description": "Close the current open task and open the previous task in the Tasks list",
+    "category": "Manage tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "   (Opening Bracket)"
+      }
+    ],
+    "id": "oum87"
+  },
+  {
+    "description": "Close the current open task and open the next task in the Tasks list",
+    "category": "Manage tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "   (Closing Bracket)"
+      }
+    ],
+    "id": "oum88"
+  },
+  {
+    "description": "Navigate to the previous pane in the Tasks view",
+    "category": "Manage tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "   (Opening Bracket)"
+      }
+    ],
+    "id": "oum89"
+  },
+  {
+    "description": "Navigate to the next pane in the Tasks view",
+    "category": "Manage tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "   (Closing Bracket)"
+      }
+    ],
+    "id": "oum90"
+  },
+  {
+    "description": "Move to the Notes window",
+    "category": "Use notes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "5"
+      }
+    ],
+    "id": "oum91"
+  },
+  {
+    "description": "Create a new note",
+    "category": "Use notes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "oum92"
+  },
+  {
+    "description": "Open the selected note",
+    "category": "Use notes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "oum93"
+  },
+  {
+    "description": "Delete the note",
+    "category": "Use notes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "oum94"
+  },
+  {
+    "description": "Close the current open note and open the previous note in the Notes list",
+    "category": "Use notes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "   (Opening Bracket)"
+      }
+    ],
+    "id": "oum95"
+  },
+  {
+    "description": "Close the current open note and open the next note in the Notes list",
+    "category": "Use notes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "   (Closing Bracket)"
+      }
+    ],
+    "id": "oum96"
+  },
+  {
+    "description": "Navigate to the previous pane in the Notes view",
+    "category": "Use notes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "   (Opening Bracket)"
+      }
+    ],
+    "id": "oum97"
+  },
+  {
+    "description": "Navigate to the next pane in the Notes view",
+    "category": "Use notes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "   (Closing Bracket)"
+      }
+    ],
+    "id": "oum98"
+  },
+  {
+    "description": "Send a note as an email",
+    "category": "Use notes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "oum99"
+  },
+  {
+    "description": "Send a note as an HTML attachment to an email. First place the focus on the note in the list of notes.",
+    "category": "Use notes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "oum100"
+  },
+  {
+    "description": "Cut the selected text to the clipboard",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "oum101"
+  },
+  {
+    "description": "Copy a selection to the clipboard",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "oum102"
+  },
+  {
+    "description": "Paste a selection from the clipboard",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "oum103"
+  },
+  {
+    "description": "Paste a selection from the clipboard and match the destination style",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "oum104"
+  },
+  {
+    "description": "Make the selected text bold",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "oum105"
+  },
+  {
+    "description": "Make the selected text italic",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "oum106"
+  },
+  {
+    "description": "Underline the selected text",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "oum107"
+  },
+  {
+    "description": "Strike through the selected text",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "oum108"
+  },
+  {
+    "description": "Insert a hyperlink",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "oum109"
+  },
+  {
+    "description": "Move the cursor left one character",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "oum110"
+  },
+  {
+    "description": "Move the cursor right one character",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "oum111"
+  },
+  {
+    "description": "Move the cursor up one line",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "oum112"
+  },
+  {
+    "description": "Move the cursor down one line",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "oum113"
+  },
+  {
+    "description": "Move the cursor to the beginning of the current paragraph",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "oum114"
+  },
+  {
+    "description": "Move the cursor to the end of the current paragraph",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "oum115"
+  },
+  {
+    "description": "Move the cursor to the beginning of the current word",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "oum116"
+  },
+  {
+    "description": "Move the cursor to the end of the current word",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "oum117"
+  },
+  {
+    "description": "Decrease indent",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Forward Delete"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " {  (Opening Brace)"
+      }
+    ],
+    "id": "oum118"
+  },
+  {
+    "description": "Increase indent",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Forward Delete"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " }  (Closing Brace)"
+      }
+    ],
+    "id": "oum119"
+  },
+  {
+    "description": "Delete the character to the left of the cursor, or delete the selected text",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "oum120"
+  },
+  {
+    "description": "Delete the character to the right side of the cursor, or delete the selected text",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Forward Delete or if your keyboard doesn't have a Forward Delete key"
+      },
+      {
+        "type": "symbol",
+        "val": " use FN"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "oum121"
+  },
+  {
+    "description": "Insert a tab stop",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "oum122"
+  },
+  {
+    "description": "Move the cursor to the beginning of the line",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "oum123"
+  },
+  {
+    "description": "Move the cursor to the end of the line",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "oum124"
+  },
+  {
+    "description": "Move the cursor to the top of the message body",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "oum125"
+  },
+  {
+    "description": "Move the cursor to the bottom of the message body",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "oum126"
+  },
+  {
+    "description": "Move the cursor to the beginning of the selected text",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "oum127"
+  },
+  {
+    "description": "Move the cursor to the end of the selected text",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "oum128"
+  },
+  {
+    "description": "Scroll up",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page up"
+      }
+    ],
+    "id": "oum129"
+  },
+  {
+    "description": "Scroll down",
+    "category": "Edit and format text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page down"
+      }
+    ],
+    "id": "oum130"
+  },
+  {
+    "description": "Flag the selected item for follow up, with Today as Due Date",
+    "category": "Flag messages, contacts, and tasks for follow up",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "1"
+      }
+    ],
+    "id": "oum131"
+  },
+  {
+    "description": "Flag the selected item for follow up, with Tomorrow as Due Date",
+    "category": "Flag messages, contacts, and tasks for follow up",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "2"
+      }
+    ],
+    "id": "oum132"
+  },
+  {
+    "description": "Flag the selected item for follow up, with This Week as Due Date",
+    "category": "Flag messages, contacts, and tasks for follow up",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "3"
+      }
+    ],
+    "id": "oum133"
+  },
+  {
+    "description": "Flag the selected item for follow up, with Next Week as Due Date",
+    "category": "Flag messages, contacts, and tasks for follow up",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "4"
+      }
+    ],
+    "id": "oum134"
+  },
+  {
+    "description": "Flag the selected item for follow up, with No Due Date",
+    "category": "Flag messages, contacts, and tasks for follow up",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "5"
+      }
+    ],
+    "id": "oum135"
+  },
+  {
+    "description": "Flag the selected item for follow up, and add a custom Due Date",
+    "category": "Flag messages, contacts, and tasks for follow up",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "6"
+      }
+    ],
+    "id": "oum136"
+  },
+  {
+    "description": "Flag the selected item for follow up, and add a reminder",
+    "category": "Flag messages, contacts, and tasks for follow up",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "= (Equal Sign)"
+      }
+    ],
+    "id": "oum137"
+  },
+  {
+    "description": "Mark the selected item as Complete",
+    "category": "Flag messages, contacts, and tasks for follow up",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "0 (Zero)"
+      }
+    ],
+    "id": "oum138"
+  },
+  {
+    "description": "Clear the selected item's follow-up flag",
+    "category": "Flag messages, contacts, and tasks for follow up",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "' (Apostrophe)"
+      }
+    ],
+    "id": "oum139"
+  }
+]

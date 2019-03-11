@@ -1,0 +1,2874 @@
+[
+  {
+    "description": "Open a new tab",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "gcw0"
+  },
+  {
+    "description": "Reopen the last tab closed (up to 10 tabs)",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "gcw1"
+  },
+  {
+    "description": "Close the tab(or close Chrome if only one tab is open)",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W/\nCtrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "gcw2"
+  },
+  {
+    "description": "Switch to the first tab, the second, etc.",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "1 through Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "8"
+      }
+    ],
+    "id": "gcw3"
+  },
+  {
+    "description": "Switch to the last tab",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "9"
+      }
+    ],
+    "id": "gcw4"
+  },
+  {
+    "description": "Switch to the next tab",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab/Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up"
+      }
+    ],
+    "id": "gcw5"
+  },
+  {
+    "description": "Switch to the previous tab",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab/Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
+      }
+    ],
+    "id": "gcw6"
+  },
+  {
+    "description": "Open a new window",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "gcw7"
+  },
+  {
+    "description": "Open a new incognito window",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "gcw8"
+  },
+  {
+    "description": "Close the current window",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W/\nAlt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "gcw9"
+  },
+  {
+    "description": "Open the link in a new background tab",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "left-click"
+      }
+    ],
+    "id": "gcw10"
+  },
+  {
+    "description": "Open the link in a new foreground tab",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "left-click"
+      }
+    ],
+    "id": "gcw11"
+  },
+  {
+    "description": "Open the link in a new window",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "left-click"
+      }
+    ],
+    "id": "gcw12"
+  },
+  {
+    "description": "Download the link",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "left-click"
+      }
+    ],
+    "id": "gcw13"
+  },
+  {
+    "description": "Open Google search in a new background tab",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " click on \"Search Google for\" from a drop down menu"
+      }
+    ],
+    "id": "gcw14"
+  },
+  {
+    "description": "Open Google search in a new window",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " click on \"Search Google for\" from a drop down menu"
+      }
+    ],
+    "id": "gcw15"
+  },
+  {
+    "description": "Open the link in the selected tab",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Drag link to an existing tab"
+      }
+    ],
+    "id": "gcw16"
+  },
+  {
+    "description": "Open the link in a new tab in the specified position on the tab strip",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Drag link to tab bar"
+      }
+    ],
+    "id": "gcw17"
+  },
+  {
+    "description": "Select multiple tabs (to rearrange them or create a new window)",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Hold Ctrl "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " click on tabs in the tab bar"
+      }
+    ],
+    "id": "gcw18"
+  },
+  {
+    "description": "Select all the tabs between two tabs (to rearrange them or create a new window)",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Hold Shift "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " click on two tabs in the tab bar"
+      }
+    ],
+    "id": "gcw19"
+  },
+  {
+    "description": "Set focus to the address bar (highlights the current webpage URL if available)",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L/\nAlt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "gcw20"
+  },
+  {
+    "description": "Set focus to the toolbar",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "gcw21"
+  },
+  {
+    "description": "Enter search query in the address bar",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E/\nCtrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "gcw22"
+  },
+  {
+    "description": "Remove a prediction from the address bar",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Down to highlight"
+      },
+      {
+        "type": "symbol",
+        "val": " then Shift "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " Delete"
+      }
+    ],
+    "id": "gcw23"
+  },
+  {
+    "description": "Perform a search using the search engine associated with the keyword or the URI",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Type search term and press Enter"
+      }
+    ],
+    "id": "gcw24"
+  },
+  {
+    "description": "Open the site or a search in a new foreground tab",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Type and press Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gcw25"
+  },
+  {
+    "description": "Open the site or a search in a new background tab",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Type and press Win"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gcw26"
+  },
+  {
+    "description": "Open the site or a search in a new window",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Type and press Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gcw27"
+  },
+  {
+    "description": "Add www. to beginning and .com to end of input and open the web address in the current tab",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Type and press Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gcw28"
+  },
+  {
+    "description": "Add www. to beginning and .com to end of input and open the web address in a new foreground tab",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Type and press Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gcw29"
+  },
+  {
+    "description": "Add www. to beginning and .com to end of input and open the web address in a new background tab",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Type and press Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Win"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gcw30"
+  },
+  {
+    "description": "Add www. to beginning and .com to end of input and open the web address in a new window",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Type and press Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gcw31"
+  },
+  {
+    "description": "Tab-to-Search feature. E.g. Typing in 'yahoo.com' plus tab opens yahoo search. Add/edit search engines via 'Under the Hood' -> Basic -> Search Engines.",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Type name of search engine and press Tab"
+      }
+    ],
+    "id": "gcw32"
+  },
+  {
+    "description": "Alternate focus between address bar, bookmarks bar and webpage",
+    "category": "View Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "gcw33"
+  },
+  {
+    "description": "Scroll down / scroll up",
+    "category": "View Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Down/Arrow Up"
+      }
+    ],
+    "id": "gcw34"
+  },
+  {
+    "description": "Scroll one page down / up",
+    "category": "View Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Down/Page Up"
+      }
+    ],
+    "id": "gcw35"
+  },
+  {
+    "description": "Scroll one page down / up",
+    "category": "View Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Space/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      }
+    ],
+    "id": "gcw36"
+  },
+  {
+    "description": "Jump to beginning / to end of webpage",
+    "category": "View Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home/End"
+      }
+    ],
+    "id": "gcw37"
+  },
+  {
+    "description": "Zoom in / zoom out (or Ctrl+mousewheel)",
+    "category": "View Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "["
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "]/-"
+      }
+    ],
+    "id": "gcw38"
+  },
+  {
+    "description": "Return zoom to normal text size",
+    "category": "View Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "0 (zero)"
+      }
+    ],
+    "id": "gcw39"
+  },
+  {
+    "description": "View webpage source",
+    "category": "View Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "gcw40"
+  },
+  {
+    "description": "Turn full screen on / off",
+    "category": "View Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "gcw41"
+  },
+  {
+    "description": "Turn fullscreen on / off for some video types (e.g. YouTube)",
+    "category": "View Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "gcw42"
+  },
+  {
+    "description": "Mute / unmute some video types (e.g. YouTube)",
+    "category": "View Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "gcw43"
+  },
+  {
+    "description": "Jump to homepage",
+    "category": "Browse between Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "gcw44"
+  },
+  {
+    "description": "Jump to previous webpage visited / jump to next webpage",
+    "category": "Browse between Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left/Arrow Right"
+      }
+    ],
+    "id": "gcw45"
+  },
+  {
+    "description": "Reload current webpage",
+    "category": "Browse between Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F5/Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "gcw46"
+  },
+  {
+    "description": "Reload current webpage with cache override",
+    "category": "Browse between Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "gcw47"
+  },
+  {
+    "description": "Stop webpage loading",
+    "category": "Browse between Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "gcw48"
+  },
+  {
+    "description": "Jump to next / previous link",
+    "category": "Browse within Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab \nwith focus on webpage"
+      }
+    ],
+    "id": "gcw49"
+  },
+  {
+    "description": "Open link in current tab",
+    "category": "Browse within Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter on link"
+      }
+    ],
+    "id": "gcw50"
+  },
+  {
+    "description": "Open link in a new background tab",
+    "category": "Browse within Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter on link"
+      }
+    ],
+    "id": "gcw51"
+  },
+  {
+    "description": "Open link in a new foreground tab",
+    "category": "Browse within Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter on link"
+      }
+    ],
+    "id": "gcw52"
+  },
+  {
+    "description": "Open link in a new window",
+    "category": "Browse within Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter on link"
+      }
+    ],
+    "id": "gcw53"
+  },
+  {
+    "description": "Download link",
+    "category": "Browse within Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter on link"
+      }
+    ],
+    "id": "gcw54"
+  },
+  {
+    "description": "Open context menu (simulate right mouse button)",
+    "category": "Browse within Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F10"
+      }
+    ],
+    "id": "gcw55"
+  },
+  {
+    "description": "Select all content on webpage",
+    "category": "Browse within Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "gcw56"
+  },
+  {
+    "description": "Copy selected content to clipboard",
+    "category": "Browse within Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C with content selected"
+      }
+    ],
+    "id": "gcw57"
+  },
+  {
+    "description": "Print current webpage (Chrome Print Dialog)",
+    "category": "Access Browser Features",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "gcw58"
+  },
+  {
+    "description": "Print current webpage (Native Windows Print Dialog)",
+    "category": "Access Browser Features",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "gcw59"
+  },
+  {
+    "description": "Open file",
+    "category": "Access Browser Features",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "gcw60"
+  },
+  {
+    "description": "Save current webpage",
+    "category": "Access Browser Features",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "gcw61"
+  },
+  {
+    "description": "Open Wrench Menu (I'd call it file menu to remember the shortcut)",
+    "category": "Access Browser Features",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "gcw62"
+  },
+  {
+    "description": "Open History tab",
+    "category": "Access Browser Features",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "gcw63"
+  },
+  {
+    "description": "Open Downloads tab",
+    "category": "Access Browser Features",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "gcw64"
+  },
+  {
+    "description": "View Google Task manager",
+    "category": "Access Browser Features",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "gcw65"
+  },
+  {
+    "description": "Chrome Help",
+    "category": "Access Browser Features",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F1"
+      }
+    ],
+    "id": "gcw66"
+  },
+  {
+    "description": "Open the Clear Browsing Data options",
+    "category": "Access Browser Features",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Del"
+      }
+    ],
+    "id": "gcw67"
+  },
+  {
+    "description": "Find text on webpage. Press Enter for.",
+    "category": "Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F/F3"
+      }
+    ],
+    "id": "gcw68"
+  },
+  {
+    "description": "Find next / find previous match",
+    "category": "Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter with text found on webpage"
+      }
+    ],
+    "id": "gcw69"
+  },
+  {
+    "description": "Find next / find previous match",
+    "category": "Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G/Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G with text found on webpage"
+      }
+    ],
+    "id": "gcw70"
+  },
+  {
+    "description": "With focus on Search box: Close Search box",
+    "category": "Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "gcw71"
+  },
+  {
+    "description": "Show or hide bookmarks bar",
+    "category": "Bookmarks Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "gcw72"
+  },
+  {
+    "description": "Open Bookmark Manager",
+    "category": "Bookmarks Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "gcw73"
+  },
+  {
+    "description": "Add bookmark for current webpage",
+    "category": "Bookmarks Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "gcw74"
+  },
+  {
+    "description": "Saves all open pages as bookmarks in a new folder",
+    "category": "Bookmarks Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "gcw75"
+  },
+  {
+    "description": "Bookmark webpage (can be URL from address bar or link from page)",
+    "category": "Bookmarks Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Drag URL to bookmark bar"
+      }
+    ],
+    "id": "gcw76"
+  },
+  {
+    "description": "Open Bookmark Manager Tab",
+    "category": "Bookmarks Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      },
+      {
+        "type": "symbol",
+        "val": " then B"
+      }
+    ],
+    "id": "gcw77"
+  },
+  {
+    "description": "Open Developer Tools",
+    "category": "Accessing DevTools and DevTools Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I (or F12)"
+      }
+    ],
+    "id": "gcw78"
+  },
+  {
+    "description": "Open Developer Tools (With Focus on Javascript Console)",
+    "category": "Accessing DevTools and DevTools Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "gcw79"
+  },
+  {
+    "description": "Toggle Element Inspection mode",
+    "category": "Accessing DevTools and DevTools Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "gcw80"
+  },
+  {
+    "description": "Switch Focus on Developer Tools (there is not really a shortcut for focusing on the Developer Tool, but this is a workaround. Watch the Inspector Mode Icon change color as you press for guidence. Finally, this works only if DevTools are docked; if they are not, simpy switch between windows with Alt+Tab)",
+    "category": "Accessing DevTools and DevTools Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C (2x)"
+      }
+    ],
+    "id": "gcw81"
+  },
+  {
+    "description": "Show General Settings Dialog (press Esc to exit)",
+    "category": "Accessing DevTools and DevTools Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "?"
+      }
+    ],
+    "id": "gcw82"
+  },
+  {
+    "description": "Switch to next / Switch to previous panel (add Alt to the combination to reverse the direction)",
+    "category": "Accessing DevTools and DevTools Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "[/]"
+      }
+    ],
+    "id": "gcw83"
+  },
+  {
+    "description": "Dock / Undock Developer Tool",
+    "category": "Accessing DevTools and DevTools Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "gcw84"
+  },
+  {
+    "description": "Toggle (mobile) Device Mode",
+    "category": "Accessing DevTools and DevTools Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "gcw85"
+  },
+  {
+    "description": "Search Text in Source",
+    "category": "Accessing DevTools and DevTools Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "gcw86"
+  },
+  {
+    "description": "Search Text across sources",
+    "category": "Accessing DevTools and DevTools Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "gcw87"
+  },
+  {
+    "description": "Search by Filename",
+    "category": "Accessing DevTools and DevTools Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "gcw88"
+  },
+  {
+    "description": "Zoom in / Zoom out Developer tools",
+    "category": "Accessing DevTools and DevTools Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "["
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "]/-"
+      }
+    ],
+    "id": "gcw89"
+  },
+  {
+    "description": "Zoom to default",
+    "category": "Accessing DevTools and DevTools Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "0 (zero)"
+      }
+    ],
+    "id": "gcw90"
+  },
+  {
+    "description": "Focus on the Elements content (this is strangely nowhere documented, but worked for me; without this one, you cannot use any of the other shortcuts below without clicking on the content first)",
+    "category": "Elements Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "gcw91"
+  },
+  {
+    "description": "Navigate upwards/ downwards",
+    "category": "Elements Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Up/Arrow Down"
+      }
+    ],
+    "id": "gcw92"
+  },
+  {
+    "description": "Undo / Redo Change",
+    "category": "Elements Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z/Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "gcw93"
+  },
+  {
+    "description": "Expand / Collapse",
+    "category": "Elements Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Right/Arrow Left"
+      }
+    ],
+    "id": "gcw94"
+  },
+  {
+    "description": "Expand node",
+    "category": "Elements Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Left-click on arrow"
+      }
+    ],
+    "id": "gcw95"
+  },
+  {
+    "description": "Expand/collapse node with all children",
+    "category": "Elements Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Left-click"
+      }
+    ],
+    "id": "gcw96"
+  },
+  {
+    "description": "Edit the element",
+    "category": "Elements Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gcw97"
+  },
+  {
+    "description": "Hide the element",
+    "category": "Elements Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "gcw98"
+  },
+  {
+    "description": "Toggle edit as HTML",
+    "category": "Elements Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "gcw99"
+  },
+  {
+    "description": "Edit Rule",
+    "category": "Styles Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Left-click"
+      }
+    ],
+    "id": "gcw100"
+  },
+  {
+    "description": "Insert new property",
+    "category": "Styles Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Left-click on white space"
+      }
+    ],
+    "id": "gcw101"
+  },
+  {
+    "description": "Go to line of style rule property declaration",
+    "category": "Styles Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Left-click on property"
+      }
+    ],
+    "id": "gcw102"
+  },
+  {
+    "description": "Cycle through the color definition value",
+    "category": "Styles Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Left-click on property"
+      }
+    ],
+    "id": "gcw103"
+  },
+  {
+    "description": "Edit next / edit previous property",
+    "category": "Styles Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "gcw104"
+  },
+  {
+    "description": "Increase / decrease value by 1",
+    "category": "Styles Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Up/Arrow Down"
+      }
+    ],
+    "id": "gcw105"
+  },
+  {
+    "description": "Increase / decrease value by 10",
+    "category": "Styles Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Up/Page Down"
+      }
+    ],
+    "id": "gcw106"
+  },
+  {
+    "description": "Increase / decrease value by 100",
+    "category": "Styles Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up/Page Down"
+      }
+    ],
+    "id": "gcw107"
+  },
+  {
+    "description": "Increase / decrease value by 100",
+    "category": "Styles Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up/Arrow Down"
+      }
+    ],
+    "id": "gcw108"
+  },
+  {
+    "description": "Pause / resume script execution",
+    "category": "Sources Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F8"
+      },
+      {
+        "type": "symbol",
+        "val": " Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "\\"
+      }
+    ],
+    "id": "gcw109"
+  },
+  {
+    "description": "Pause / resume script execution",
+    "category": "Sources Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F8"
+      },
+      {
+        "type": "symbol",
+        "val": " Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "\\"
+      }
+    ],
+    "id": "gcw110"
+  },
+  {
+    "description": "Step over next function call",
+    "category": "Sources Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F10"
+      },
+      {
+        "type": "symbol",
+        "val": " Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "'"
+      }
+    ],
+    "id": "gcw111"
+  },
+  {
+    "description": "Step into next function call",
+    "category": "Sources Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F11"
+      },
+      {
+        "type": "symbol",
+        "val": " Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ";"
+      }
+    ],
+    "id": "gcw112"
+  },
+  {
+    "description": "Step out of current function",
+    "category": "Sources Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F11"
+      },
+      {
+        "type": "symbol",
+        "val": " Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ";"
+      }
+    ],
+    "id": "gcw113"
+  },
+  {
+    "description": "Select next / select previous call frame",
+    "category": "Sources Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "./"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      }
+    ],
+    "id": "gcw114"
+  },
+  {
+    "description": "Toggle breakpoint condition",
+    "category": "Sources Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Left-click on line-number"
+      }
+    ],
+    "id": "gcw115"
+  },
+  {
+    "description": "Edit breakpoint condition",
+    "category": "Sources Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Right-click on line number"
+      }
+    ],
+    "id": "gcw116"
+  },
+  {
+    "description": "Delete individual words",
+    "category": "Sources Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "gcw117"
+  },
+  {
+    "description": "Comment a line or selected text",
+    "category": "Sources Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "/"
+      }
+    ],
+    "id": "gcw118"
+  },
+  {
+    "description": "Save changes to local modifications",
+    "category": "Sources Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "gcw119"
+  },
+  {
+    "description": "Save all changes",
+    "category": "Sources Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "gcw120"
+  },
+  {
+    "description": "Go to line",
+    "category": "Sources Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "gcw121"
+  },
+  {
+    "description": "Search by filename",
+    "category": "Sources Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "gcw122"
+  },
+  {
+    "description": "Jump to line number",
+    "category": "Sources Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "number"
+      }
+    ],
+    "id": "gcw123"
+  },
+  {
+    "description": "Jump to column",
+    "category": "Sources Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "number "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "number"
+      }
+    ],
+    "id": "gcw124"
+  },
+  {
+    "description": "Go to member",
+    "category": "Sources Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "gcw125"
+  },
+  {
+    "description": "Close active tab",
+    "category": "Sources Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "gcw126"
+  },
+  {
+    "description": "Run snippet",
+    "category": "Sources Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gcw127"
+  },
+  {
+    "description": "Go to matching bracket",
+    "category": "Code Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "gcw128"
+  },
+  {
+    "description": "Jump to line number",
+    "category": "Code Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "number"
+      }
+    ],
+    "id": "gcw129"
+  },
+  {
+    "description": "Jump to column",
+    "category": "Code Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "number "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "number"
+      }
+    ],
+    "id": "gcw130"
+  },
+  {
+    "description": "Toggle comment",
+    "category": "Code Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "/"
+      }
+    ],
+    "id": "gcw131"
+  },
+  {
+    "description": "Select next occurrence",
+    "category": "Code Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "gcw132"
+  },
+  {
+    "description": "Undo last selection",
+    "category": "Code Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "gcw133"
+  },
+  {
+    "description": "Start / stop recording",
+    "category": "Timeline Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "gcw134"
+  },
+  {
+    "description": "Save timeline data",
+    "category": "Timeline Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "gcw135"
+  },
+  {
+    "description": "Open / Load timeline data",
+    "category": "Timeline Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "gcw136"
+  },
+  {
+    "description": "Start / stop recording",
+    "category": "Profiles Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "gcw137"
+  },
+  {
+    "description": "Accept Suggestion",
+    "category": "Console Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "gcw138"
+  },
+  {
+    "description": "Previous / next command (line)",
+    "category": "Console Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Up/Arrow Down"
+      }
+    ],
+    "id": "gcw139"
+  },
+  {
+    "description": "Focus the Console",
+    "category": "Console Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "`"
+      }
+    ],
+    "id": "gcw140"
+  },
+  {
+    "description": "Clear Console",
+    "category": "Console Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "gcw141"
+  },
+  {
+    "description": "Multi-line entry",
+    "category": "Console Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gcw142"
+  },
+  {
+    "description": "Execute",
+    "category": "Console Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gcw143"
+  }
+]

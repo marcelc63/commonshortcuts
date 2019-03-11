@@ -1,0 +1,3021 @@
+[
+  {
+    "description": "Right Align selected text",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "wow0"
+  },
+  {
+    "description": "Left Align selected text",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "wow1"
+  },
+  {
+    "description": "Select All",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "wow2"
+  },
+  {
+    "description": "Copy text/image",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C/Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ins"
+      }
+    ],
+    "id": "wow3"
+  },
+  {
+    "description": "Paste text/image/text",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "wow4"
+  },
+  {
+    "description": "Cut text/image",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "wow5"
+  },
+  {
+    "description": "Bold text",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "wow6"
+  },
+  {
+    "description": "Underline Text",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "wow7"
+  },
+  {
+    "description": "Italic text",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "wow8"
+  },
+  {
+    "description": "Remove selected image/Remove one character from right side",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Del"
+      }
+    ],
+    "id": "wow9"
+  },
+  {
+    "description": "Rename the file",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "wow10"
+  },
+  {
+    "description": "Print presentation",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "wow11"
+  },
+  {
+    "description": "Slideshow of presentation",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "wow12"
+  },
+  {
+    "description": "Align Center Selected Phrase",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "wow13"
+  },
+  {
+    "description": "Zoom Selected",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "wow14"
+  },
+  {
+    "description": "Justify Selected Phrase",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "wow15"
+  },
+  {
+    "description": "Insert Hyperlink",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "wow16"
+  },
+  {
+    "description": "Find particular text",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "wow17"
+  },
+  {
+    "description": "Replace particular text",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "wow18"
+  },
+  {
+    "description": "Undo changes in presentation",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "wow19"
+  },
+  {
+    "description": "Redo operation",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "wow20"
+  },
+  {
+    "description": "Normal/Plain Text",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "wow21"
+  },
+  {
+    "description": "Change cases(UppseCase/LowerCase)",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "wow22"
+  },
+  {
+    "description": "Spelling Checker",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "wow23"
+  },
+  {
+    "description": "Change Font Style",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "wow24"
+  },
+  {
+    "description": "Increase font size",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ">"
+      }
+    ],
+    "id": "wow25"
+  },
+  {
+    "description": "Decrease font size",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "<"
+      }
+    ],
+    "id": "wow26"
+  },
+  {
+    "description": "Superscript",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ">"
+      }
+    ],
+    "id": "wow27"
+  },
+  {
+    "description": "Subscript",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "<"
+      }
+    ],
+    "id": "wow28"
+  },
+  {
+    "description": "Create a copy of selected text",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "wow29"
+  },
+  {
+    "description": "Delete word from left",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Bkspace"
+      }
+    ],
+    "id": "wow30"
+  },
+  {
+    "description": "Delete word from right",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Del"
+      }
+    ],
+    "id": "wow31"
+  },
+  {
+    "description": "Turn extend mode on",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "wow32"
+  },
+  {
+    "description": "Turn extend mode off",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "wow33"
+  },
+  {
+    "description": "Apply strikethrough formatting",
+    "category": "Text Editing/Graphics editing Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "4"
+      }
+    ],
+    "id": "wow34"
+  },
+  {
+    "description": "Save Document",
+    "category": "General Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S/F12"
+      }
+    ],
+    "id": "wow35"
+  },
+  {
+    "description": "Open existing document",
+    "category": "General Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "wow36"
+  },
+  {
+    "description": "New Document",
+    "category": "General Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "wow37"
+  },
+  {
+    "description": "Print Document",
+    "category": "General Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "wow38"
+  },
+  {
+    "description": "Exit",
+    "category": "General Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "wow39"
+  },
+  {
+    "description": "Close",
+    "category": "General Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "wow40"
+  },
+  {
+    "description": "Move operations",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "wow41"
+  },
+  {
+    "description": "End of line",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "wow42"
+  },
+  {
+    "description": "Starting of line",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "wow43"
+  },
+  {
+    "description": "Phrase or paragraph Up",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Up Arrow"
+      }
+    ],
+    "id": "wow44"
+  },
+  {
+    "description": "Phrase or paragraph down",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Down Arrow"
+      }
+    ],
+    "id": "wow45"
+  },
+  {
+    "description": "End of text block",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "wow46"
+  },
+  {
+    "description": "Beginning of text block",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "wow47"
+  },
+  {
+    "description": "To next object",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "wow48"
+  },
+  {
+    "description": "To previous object",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "wow49"
+  },
+  {
+    "description": "Home tab",
+    "category": "Access Shortcut",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "wow50"
+  },
+  {
+    "description": "Insert Tab",
+    "category": "Access Shortcut",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "wow51"
+  },
+  {
+    "description": "Design tab",
+    "category": "Access Shortcut",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "wow52"
+  },
+  {
+    "description": "File Page",
+    "category": "Access Shortcut",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "wow53"
+  },
+  {
+    "description": "Mailing tab",
+    "category": "Access Shortcut",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "wow54"
+  },
+  {
+    "description": "Layout tab",
+    "category": "Access Shortcut",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "wow55"
+  },
+  {
+    "description": "Goto tell me box",
+    "category": "Access Shortcut",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Q"
+      }
+    ],
+    "id": "wow56"
+  },
+  {
+    "description": "Review tab",
+    "category": "Access Shortcut",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "wow57"
+  },
+  {
+    "description": "View tab",
+    "category": "Access Shortcut",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "wow58"
+  },
+  {
+    "description": "References tab",
+    "category": "Access Shortcut",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "wow59"
+  },
+  {
+    "description": "Chart",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and C"
+      }
+    ],
+    "id": "wow60"
+  },
+  {
+    "description": "Pictures",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and P"
+      }
+    ],
+    "id": "wow61"
+  },
+  {
+    "description": "Tables",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and T"
+      }
+    ],
+    "id": "wow62"
+  },
+  {
+    "description": "Cover page",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and V"
+      }
+    ],
+    "id": "wow63"
+  },
+  {
+    "description": "Comment",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and L"
+      }
+    ],
+    "id": "wow64"
+  },
+  {
+    "description": "Header",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and H"
+      }
+    ],
+    "id": "wow65"
+  },
+  {
+    "description": "Footer",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and O"
+      }
+    ],
+    "id": "wow66"
+  },
+  {
+    "description": "Page Number",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and NU"
+      }
+    ],
+    "id": "wow67"
+  },
+  {
+    "description": "Bookmark",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and K"
+      }
+    ],
+    "id": "wow68"
+  },
+  {
+    "description": "Wordart",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and W"
+      }
+    ],
+    "id": "wow69"
+  },
+  {
+    "description": "Equation options",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and E"
+      }
+    ],
+    "id": "wow70"
+  },
+  {
+    "description": "Various Symbol",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and U"
+      }
+    ],
+    "id": "wow71"
+  },
+  {
+    "description": "Add Object",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and J"
+      }
+    ],
+    "id": "wow72"
+  },
+  {
+    "description": "Online Pictures",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and F"
+      }
+    ],
+    "id": "wow73"
+  },
+  {
+    "description": "Page break",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and B"
+      }
+    ],
+    "id": "wow74"
+  },
+  {
+    "description": "Hyperlink",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and I"
+      }
+    ],
+    "id": "wow75"
+  },
+  {
+    "description": "SmartArt",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and M"
+      }
+    ],
+    "id": "wow76"
+  },
+  {
+    "description": "Date and Time",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and D"
+      }
+    ],
+    "id": "wow77"
+  },
+  {
+    "description": "Wikipedia",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and A1"
+      }
+    ],
+    "id": "wow78"
+  },
+  {
+    "description": "Textbox",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and X"
+      }
+    ],
+    "id": "wow79"
+  },
+  {
+    "description": "Quick Parts",
+    "category": "Insert menu Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N and Q"
+      }
+    ],
+    "id": "wow80"
+  },
+  {
+    "description": "Themes",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G and TH"
+      }
+    ],
+    "id": "wow81"
+  },
+  {
+    "description": "Colors",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G and TC"
+      }
+    ],
+    "id": "wow82"
+  },
+  {
+    "description": "Fonts",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G and TF"
+      }
+    ],
+    "id": "wow83"
+  },
+  {
+    "description": "Set as default",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G and D"
+      }
+    ],
+    "id": "wow84"
+  },
+  {
+    "description": "Effects",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G and TE"
+      }
+    ],
+    "id": "wow85"
+  },
+  {
+    "description": "Page color",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G and PC"
+      }
+    ],
+    "id": "wow86"
+  },
+  {
+    "description": "Page border",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G and PB"
+      }
+    ],
+    "id": "wow87"
+  },
+  {
+    "description": "Watermark",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G and PW"
+      }
+    ],
+    "id": "wow88"
+  },
+  {
+    "description": "Paragraph Spacing",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G and PS"
+      }
+    ],
+    "id": "wow89"
+  },
+  {
+    "description": "Margins",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P and M"
+      }
+    ],
+    "id": "wow90"
+  },
+  {
+    "description": "Orientation",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P and O"
+      }
+    ],
+    "id": "wow91"
+  },
+  {
+    "description": "Size",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P and SZ"
+      }
+    ],
+    "id": "wow92"
+  },
+  {
+    "description": "Columns",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P and J"
+      }
+    ],
+    "id": "wow93"
+  },
+  {
+    "description": "Hyphenation",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P and H"
+      }
+    ],
+    "id": "wow94"
+  },
+  {
+    "description": "Breaks",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P and B"
+      }
+    ],
+    "id": "wow95"
+  },
+  {
+    "description": "Line numbers",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P and LN"
+      }
+    ],
+    "id": "wow96"
+  },
+  {
+    "description": "Indent left/right",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P and IL/IR"
+      }
+    ],
+    "id": "wow97"
+  },
+  {
+    "description": "Space before/after",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P and SB/SA"
+      }
+    ],
+    "id": "wow98"
+  },
+  {
+    "description": "Selection pane",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P and AP"
+      }
+    ],
+    "id": "wow99"
+  },
+  {
+    "description": "Align",
+    "category": "Design and Layout Menu option",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P and AA"
+      }
+    ],
+    "id": "wow100"
+  },
+  {
+    "description": "Get Help or visit Microsoft Office Online.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F1"
+      }
+    ],
+    "id": "wow101"
+  },
+  {
+    "description": "Move text or graphics.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "wow102"
+  },
+  {
+    "description": "Repeat the last action.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "wow103"
+  },
+  {
+    "description": "Choose the Go To command (Home tab).",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "wow104"
+  },
+  {
+    "description": "Go to the next pane or frame.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "wow105"
+  },
+  {
+    "description": "Extend a selection.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "wow106"
+  },
+  {
+    "description": "Choose the Spelling command (Review tab).",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "wow107"
+  },
+  {
+    "description": "Update the selected fields.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wow108"
+  },
+  {
+    "description": "Show KeyTips.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F10"
+      }
+    ],
+    "id": "wow109"
+  },
+  {
+    "description": "Go to the next field.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "wow110"
+  },
+  {
+    "description": "Choose the Save As command (Microsoft Office Button ).",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F12"
+      }
+    ],
+    "id": "wow111"
+  },
+  {
+    "description": "Start context-sensitive Help or reveal formatting.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F1"
+      }
+    ],
+    "id": "wow112"
+  },
+  {
+    "description": "Copy text.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "wow113"
+  },
+  {
+    "description": "Change the case of letters.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "wow114"
+  },
+  {
+    "description": "Repeat a Find or Go To action.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "wow115"
+  },
+  {
+    "description": "Move to the last change.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "wow116"
+  },
+  {
+    "description": "Go to the previous pane or frame (after pressing F6).",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "wow117"
+  },
+  {
+    "description": "Choose the Thesaurus command (Review tab, Proofing group).",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "wow118"
+  },
+  {
+    "description": "Shrink a selection.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "wow119"
+  },
+  {
+    "description": "Switch between a field code and its result.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wow120"
+  },
+  {
+    "description": "Display a shortcut menu.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F10"
+      }
+    ],
+    "id": "wow121"
+  },
+  {
+    "description": "Go to the previous field.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "wow122"
+  },
+  {
+    "description": "Choose the Save command (Microsoft Office Button ).",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F12"
+      }
+    ],
+    "id": "wow123"
+  },
+  {
+    "description": "Choose the Print Preview command (Microsoft Office Button ).",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "wow124"
+  },
+  {
+    "description": "Cut to the Spike.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "wow125"
+  },
+  {
+    "description": "Close the window.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "wow126"
+  },
+  {
+    "description": "Go to the next window.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "wow127"
+  },
+  {
+    "description": "Insert an empty field.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wow128"
+  },
+  {
+    "description": "Maximize the document window.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F10"
+      }
+    ],
+    "id": "wow129"
+  },
+  {
+    "description": "Lock a field.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "wow130"
+  },
+  {
+    "description": "Choose the Open command (Microsoft Office Button ).",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F12"
+      }
+    ],
+    "id": "wow131"
+  },
+  {
+    "description": "Insert the contents of the Spike.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "wow132"
+  },
+  {
+    "description": "Edit a bookmark.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "wow133"
+  },
+  {
+    "description": "Go to the previous window.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "wow134"
+  },
+  {
+    "description": "Update linked information in an Office Word 2007 source document.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "wow135"
+  },
+  {
+    "description": "Extend a selection or block.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "f8"
+      },
+      {
+        "type": "symbol",
+        "val": " and arrow keys"
+      }
+    ],
+    "id": "wow136"
+  },
+  {
+    "description": "Unlink a field.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wow137"
+  },
+  {
+    "description": "Unlock a field.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "wow138"
+  },
+  {
+    "description": "Choose the Print command (Microsoft Office Button ).",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F12"
+      }
+    ],
+    "id": "wow139"
+  },
+  {
+    "description": "Go to the next field.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F1"
+      }
+    ],
+    "id": "wow140"
+  },
+  {
+    "description": "Create a new Building Block.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "wow141"
+  },
+  {
+    "description": "Exit Office Word 2007.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "wow142"
+  },
+  {
+    "description": "Restore the program window size.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "wow143"
+  },
+  {
+    "description": "Move from an open dialog box back to the document, for dialog boxes such as Find and Replace that support this behavior.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "wow144"
+  },
+  {
+    "description": "Find the next misspelling or grammatical error.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "wow145"
+  },
+  {
+    "description": "Run a macro.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "wow146"
+  },
+  {
+    "description": "Switch between all field codes and their results.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wow147"
+  },
+  {
+    "description": "Maximize the program window.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "f10"
+      }
+    ],
+    "id": "wow148"
+  },
+  {
+    "description": "Display Microsoft Visual Basic code.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "wow149"
+  },
+  {
+    "description": "Go to the previous field.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F1"
+      }
+    ],
+    "id": "wow150"
+  },
+  {
+    "description": "Choose the Save command (Microsoft Office Button ).",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "wow151"
+  },
+  {
+    "description": "Display the Research task pane.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "wow152"
+  },
+  {
+    "description": "Run GOTOBUTTON or MACROBUTTON from the field that displays the field results.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wow153"
+  },
+  {
+    "description": "Display a menu or message for a smart tag.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F10"
+      }
+    ],
+    "id": "wow154"
+  },
+  {
+    "description": "Display Microsoft System Information.",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F1"
+      }
+    ],
+    "id": "wow155"
+  },
+  {
+    "description": "Choose the Open command (Microsoft Office Button ).",
+    "category": "All Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "wow156"
+  }
+]

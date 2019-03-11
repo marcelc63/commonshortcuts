@@ -1,0 +1,2346 @@
+[
+  {
+    "description": "Move operations",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "pww0"
+  },
+  {
+    "description": "End of line",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "pww1"
+  },
+  {
+    "description": "Starting of line",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "pww2"
+  },
+  {
+    "description": "Phrase or paragraph Up",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Up Arrow"
+      }
+    ],
+    "id": "pww3"
+  },
+  {
+    "description": "Phrase or paragraph down",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Down Arrow"
+      }
+    ],
+    "id": "pww4"
+  },
+  {
+    "description": "End of text block",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "pww5"
+  },
+  {
+    "description": "Beginning of text block",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "pww6"
+  },
+  {
+    "description": "To next object",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "pww7"
+  },
+  {
+    "description": "To previous object",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "pww8"
+  },
+  {
+    "description": "Next Slide",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Pg Dn"
+      }
+    ],
+    "id": "pww9"
+  },
+  {
+    "description": "Previous Slide",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Pg Up"
+      }
+    ],
+    "id": "pww10"
+  },
+  {
+    "description": "Focus to different pane",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "pww11"
+  },
+  {
+    "description": "Collapse/expand ribbon",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F1"
+      }
+    ],
+    "id": "pww12"
+  },
+  {
+    "description": "Activate selected commend/Open Selected menu on ribbon",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Spacebar/Enter"
+      }
+    ],
+    "id": "pww13"
+  },
+  {
+    "description": "Move anticlockwise among pane",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "pww14"
+  },
+  {
+    "description": "Switch Thumbnail/Outline View Pane",
+    "category": "Navigation Operation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "pww15"
+  },
+  {
+    "description": "Save Presentation",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S/Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Q"
+      }
+    ],
+    "id": "pww16"
+  },
+  {
+    "description": "Open existing presentation",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "pww17"
+  },
+  {
+    "description": "New presentation",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "pww18"
+  },
+  {
+    "description": "New Slide",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "pww19"
+  },
+  {
+    "description": "Right Align selected text",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "pww20"
+  },
+  {
+    "description": "Left Align selected text",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "pww21"
+  },
+  {
+    "description": "Select All",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "pww22"
+  },
+  {
+    "description": "Copy text/image",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C/Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ins"
+      }
+    ],
+    "id": "pww23"
+  },
+  {
+    "description": "Paste text/image/text",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "pww24"
+  },
+  {
+    "description": "Cut text/image",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "pww25"
+  },
+  {
+    "description": "Bold text",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "pww26"
+  },
+  {
+    "description": "Underline Text",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "pww27"
+  },
+  {
+    "description": "Italic text",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "pww28"
+  },
+  {
+    "description": "Remove selected image/Remove one character from right side",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Del"
+      }
+    ],
+    "id": "pww29"
+  },
+  {
+    "description": "Rename the file",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "pww30"
+  },
+  {
+    "description": "Print presentation",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "pww31"
+  },
+  {
+    "description": "Slideshow of presentation",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "pww32"
+  },
+  {
+    "description": "Align Center Selected Phrase",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "pww33"
+  },
+  {
+    "description": "Exit",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "pww34"
+  },
+  {
+    "description": "Justify Selected Phrase",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "pww35"
+  },
+  {
+    "description": "Insert Hyperlink",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "pww36"
+  },
+  {
+    "description": "Find particular text",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "pww37"
+  },
+  {
+    "description": "Replace particular text",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "pww38"
+  },
+  {
+    "description": "Undo changes in presentation",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "pww39"
+  },
+  {
+    "description": "Redo operation",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "pww40"
+  },
+  {
+    "description": "Normal/Plain Text",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "pww41"
+  },
+  {
+    "description": "Toggle cases(UppseCase/LowerCase)",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "pww42"
+  },
+  {
+    "description": "Spelling Checker",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "pww43"
+  },
+  {
+    "description": "Change Font Style",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "pww44"
+  },
+  {
+    "description": "Increase font size",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ">"
+      }
+    ],
+    "id": "pww45"
+  },
+  {
+    "description": "Decrease font size",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "<"
+      }
+    ],
+    "id": "pww46"
+  },
+  {
+    "description": "Superscript",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ">"
+      }
+    ],
+    "id": "pww47"
+  },
+  {
+    "description": "Subscript",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "<"
+      }
+    ],
+    "id": "pww48"
+  },
+  {
+    "description": "Create a copy of selected text",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "pww49"
+  },
+  {
+    "description": "Delete word from left",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Bkspace"
+      }
+    ],
+    "id": "pww50"
+  },
+  {
+    "description": "Delete word from right",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Del"
+      }
+    ],
+    "id": "pww51"
+  },
+  {
+    "description": "Duplicate Slide",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "pww52"
+  },
+  {
+    "description": "Change font size",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "HandFandS"
+      }
+    ],
+    "id": "pww53"
+  },
+  {
+    "description": "Zoom",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "WandQ"
+      }
+    ],
+    "id": "pww54"
+  },
+  {
+    "description": "Finish modifying value",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "pww55"
+  },
+  {
+    "description": "Open font dialog box",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "pww56"
+  },
+  {
+    "description": "Change cases",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "pww57"
+  },
+  {
+    "description": "Insert new Comment",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "pww58"
+  },
+  {
+    "description": "Reply to comment",
+    "category": "Edit and General Text Operations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "pww59"
+  },
+  {
+    "description": "Highlight/Promote Paragraph",
+    "category": "Outlining Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Left Arrow"
+      }
+    ],
+    "id": "pww60"
+  },
+  {
+    "description": "Highlight/Demote Paragraph",
+    "category": "Outlining Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Right Arrow"
+      }
+    ],
+    "id": "pww61"
+  },
+  {
+    "description": "Move up paragraph",
+    "category": "Outlining Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Up Arrow"
+      }
+    ],
+    "id": "pww62"
+  },
+  {
+    "description": "Mov down paragraph",
+    "category": "Outlining Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Down Arrow"
+      }
+    ],
+    "id": "pww63"
+  },
+  {
+    "description": "Show all texts",
+    "category": "Outlining Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "pww64"
+  },
+  {
+    "description": "Collpase text under heading",
+    "category": "Outlining Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
+      }
+    ],
+    "id": "pww65"
+  },
+  {
+    "description": "Expand text",
+    "category": "Outlining Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      }
+    ],
+    "id": "pww66"
+  },
+  {
+    "description": "Collapse titles",
+    "category": "Outlining Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "1"
+      }
+    ],
+    "id": "pww67"
+  },
+  {
+    "description": "Select Word",
+    "category": "Outlining Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Double Click"
+      }
+    ],
+    "id": "pww68"
+  },
+  {
+    "description": "Select Paragraph",
+    "category": "Outlining Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Triple Click"
+      }
+    ],
+    "id": "pww69"
+  },
+  {
+    "description": "Move from title/text to text/slide",
+    "category": "Outlining Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "pww70"
+  },
+  {
+    "description": "Next window",
+    "category": "Presentation Windows shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "pww71"
+  },
+  {
+    "description": "Previous window",
+    "category": "Presentation Windows shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "pww72"
+  },
+  {
+    "description": "Maximize window",
+    "category": "Presentation Windows shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F10"
+      }
+    ],
+    "id": "pww73"
+  },
+  {
+    "description": "UnMaximize window",
+    "category": "Presentation Windows shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "pww74"
+  },
+  {
+    "description": "Restore window to previous size",
+    "category": "Presentation Windows shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "pww75"
+  },
+  {
+    "description": "SlideShow",
+    "category": "Presentation Windows shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "pww76"
+  },
+  {
+    "description": "Display Context menu",
+    "category": "Presentation Windows shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F10"
+      }
+    ],
+    "id": "pww77"
+  },
+  {
+    "description": "Group Shape",
+    "category": "Shapes and Various Drawing Objects Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "pww78"
+  },
+  {
+    "description": "Ungroup Shape",
+    "category": "Shapes and Various Drawing Objects Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "pww79"
+  },
+  {
+    "description": "Regroup Shape",
+    "category": "Shapes and Various Drawing Objects Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "pww80"
+  },
+  {
+    "description": "Straight line by curve tool",
+    "category": "Shapes and Various Drawing Objects Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click"
+      }
+    ],
+    "id": "pww81"
+  },
+  {
+    "description": "Resize from center",
+    "category": "Shapes and Various Drawing Objects Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Resize Click"
+      }
+    ],
+    "id": "pww82"
+  },
+  {
+    "description": "Insert Picture",
+    "category": "Shapes and Various Drawing Objects Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "NandP"
+      }
+    ],
+    "id": "pww83"
+  },
+  {
+    "description": "Insert Shape",
+    "category": "Shapes and Various Drawing Objects Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "NandSandH"
+      }
+    ],
+    "id": "pww84"
+  },
+  {
+    "description": "Select Theme",
+    "category": "Shapes and Various Drawing Objects Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "GandH"
+      }
+    ],
+    "id": "pww85"
+  },
+  {
+    "description": "Select Slide Layout",
+    "category": "Shapes and Various Drawing Objects Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "HandL"
+      }
+    ],
+    "id": "pww86"
+  },
+  {
+    "description": "Insert textbox",
+    "category": "Shapes and Various Drawing Objects Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Nand X"
+      }
+    ],
+    "id": "pww87"
+  },
+  {
+    "description": "Select object",
+    "category": "Shapes and Various Drawing Objects Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "NandJ"
+      }
+    ],
+    "id": "pww88"
+  },
+  {
+    "description": "Insert Wordart",
+    "category": "Shapes and Various Drawing Objects Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "NandW"
+      }
+    ],
+    "id": "pww89"
+  },
+  {
+    "description": "Copy shape attributes",
+    "category": "Shapes and Various Drawing Objects Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "pww90"
+  },
+  {
+    "description": "Paste shape attributes",
+    "category": "Shapes and Various Drawing Objects Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "pww91"
+  },
+  {
+    "description": "Copy,cut and paste shapes",
+    "category": "Shapes and Various Drawing Objects Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C/Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X/Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "pww92"
+  },
+  {
+    "description": "Copy animation painter",
+    "category": "Shapes and Various Drawing Objects Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "pww93"
+  },
+  {
+    "description": "Paste animation painter",
+    "category": "Shapes and Various Drawing Objects Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "pww94"
+  },
+  {
+    "description": "Undo/Redo changes",
+    "category": "Shapes and Various Drawing Objects Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z/Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "pww95"
+  },
+  {
+    "description": "Show/hide slide",
+    "category": "Slide Operations(Presentation time)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "pww96"
+  },
+  {
+    "description": "Create multiple guide",
+    "category": "Slide Operations(Presentation time)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag Guide"
+      }
+    ],
+    "id": "pww97"
+  },
+  {
+    "description": "Go to Slide",
+    "category": "Slide Operations(Presentation time)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "pww98"
+  },
+  {
+    "description": "Black/Unblack screen",
+    "category": "Slide Operations(Presentation time)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "pww99"
+  },
+  {
+    "description": "White/Unwhite screen",
+    "category": "Slide Operations(Presentation time)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "pww100"
+  },
+  {
+    "description": "Show/hide pointer",
+    "category": "Slide Operations(Presentation time)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "A/="
+      }
+    ],
+    "id": "pww101"
+  },
+  {
+    "description": "Advance to hidden screen",
+    "category": "Slide Operations(Presentation time)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "pww102"
+  },
+  {
+    "description": "Erase Screen",
+    "category": "Slide Operations(Presentation time)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "pww103"
+  },
+  {
+    "description": "Copy Whole Screen",
+    "category": "Slide Operations(Presentation time)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "PrtScn"
+      }
+    ],
+    "id": "pww104"
+  },
+  {
+    "description": "End Slideshow",
+    "category": "Slide Operations(Presentation time)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc/End"
+      }
+    ],
+    "id": "pww105"
+  },
+  {
+    "description": "Next Slide",
+    "category": "Slide Operations(Presentation time)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "N/Rt Arrow"
+      }
+    ],
+    "id": "pww106"
+  },
+  {
+    "description": "Previous Slide",
+    "category": "Slide Operations(Presentation time)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "P/Lt Arrow"
+      }
+    ],
+    "id": "pww107"
+  },
+  {
+    "description": "Start Slideshow",
+    "category": "Slide Operations(Presentation time)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "pww108"
+  },
+  {
+    "description": "Close powerpint",
+    "category": "Slide Operations(Presentation time)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "FandX"
+      }
+    ],
+    "id": "pww109"
+  },
+  {
+    "description": "Home tab",
+    "category": "Tab Selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "pww110"
+  },
+  {
+    "description": "File tab",
+    "category": "Tab Selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "pww111"
+  },
+  {
+    "description": "Insert tab",
+    "category": "Tab Selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "pww112"
+  },
+  {
+    "description": "Transition tab",
+    "category": "Tab Selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "pww113"
+  },
+  {
+    "description": "Animation tab",
+    "category": "Tab Selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "pww114"
+  },
+  {
+    "description": "Slideshow tab",
+    "category": "Tab Selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "pww115"
+  },
+  {
+    "description": "Review tab",
+    "category": "Tab Selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "pww116"
+  },
+  {
+    "description": "Design tab",
+    "category": "Tab Selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "pww117"
+  },
+  {
+    "description": "To search item",
+    "category": "Tab Selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Q"
+      }
+    ],
+    "id": "pww118"
+  },
+  {
+    "description": "View tab",
+    "category": "Tab Selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "pww119"
+  }
+]

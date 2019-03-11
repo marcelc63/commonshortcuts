@@ -98,15 +98,15 @@
       <div
         :class="bookmarkKey(shortcut.id, category)"
         @click="bookmark(shortcut.id, category)"
-        v-if="shortcut[platform].length !== 0"
+        v-if="shortcut.shortcut.length !== 0"
       >
         <div>
           <span
-            v-for="(key, keyIn) in shortcut[platform]"
+            v-for="(key, keyIn) in shortcut.shortcut"
             :key="keyIn"
             :class="keyClass(key.type)"
           >{{ key.val }}</span>
-          <span v-if="!shortcut[platform].length" class="operator">-</span>
+          <span v-if="!shortcut.shortcut.length" class="operator">-</span>
         </div>
         <span class="description">{{ shortcut.description }}</span>
       </div>
@@ -185,9 +185,7 @@ export default {
       }
 
       return bucket.filter(x => {
-        return (
-          queryCheck(x) && x.category === category && x[platform].length !== 0
-        );
+        return queryCheck(x) && x.category === category;
       });
     },
     bookmark: function(id, category) {

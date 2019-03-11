@@ -1,0 +1,2218 @@
+[
+  {
+    "description": "Change reading settings for the current document",
+    "category": "Accessibility",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "5"
+      }
+    ],
+    "id": "acm0"
+  },
+  {
+    "description": "Reflow a tagged PDF, and return to unreflowed view",
+    "category": "Accessibility",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "4"
+      }
+    ],
+    "id": "acm1"
+  },
+  {
+    "description": "Activate and deactivate Read Out Loud",
+    "category": "Accessibility",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "acm2"
+  },
+  {
+    "description": "Read only the current page out loud",
+    "category": "Accessibility",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "acm3"
+  },
+  {
+    "description": "Read out loud from the current page to the end of the document",
+    "category": "Accessibility",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "acm4"
+  },
+  {
+    "description": "Pause reading out loud",
+    "category": "Accessibility",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "acm5"
+  },
+  {
+    "description": "Stop reading out loud",
+    "category": "Accessibility",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "acm6"
+  },
+  {
+    "description": "Sticky Note tool",
+    "category": "Comments",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "acm7"
+  },
+  {
+    "description": "Text Edits tool",
+    "category": "Comments",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "acm8"
+  },
+  {
+    "description": "Stamp tool",
+    "category": "Comments",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "acm9"
+  },
+  {
+    "description": "Current highlighting tool",
+    "category": "Comments",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "acm10"
+  },
+  {
+    "description": "Cycle through highlighting tools: Highlighter,Underline Text, Cross Out Text",
+    "category": "Comments",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "acm11"
+  },
+  {
+    "description": "Current drawing markup tool",
+    "category": "Comments",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "acm12"
+  },
+  {
+    "description": "Cycle through drawing markup tools: Cloud, Arrow, Line, Rectangle, Oval, Polygon Line, Polygon, Pencil Tool, Eraser Tool",
+    "category": "Comments",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "acm13"
+  },
+  {
+    "description": "Cloud tool",
+    "category": "Comments",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Q"
+      }
+    ],
+    "id": "acm14"
+  },
+  {
+    "description": "Text Box tool",
+    "category": "Comments",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "acm15"
+  },
+  {
+    "description": "Current Stamp or Attach tool",
+    "category": "Comments",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "acm16"
+  },
+  {
+    "description": "Cycle through Stamp, Attach File, Record Audio Comment",
+    "category": "Comments",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "acm17"
+  },
+  {
+    "description": "Move focus to next comment or form field",
+    "category": "Comments",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "acm18"
+  },
+  {
+    "description": "Move focus to previous comment or form field",
+    "category": "Comments",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "acm19"
+  },
+  {
+    "description": "Open pop-up note (or text field in Comments List) for comment that has focus",
+    "category": "Comments",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Return"
+      }
+    ],
+    "id": "acm20"
+  },
+  {
+    "description": "Closes pop-up (or text field in Comments List) for comment that has focus",
+    "category": "Comments",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "acm21"
+  },
+  {
+    "description": "Move focus to menus",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "acm22"
+  },
+  {
+    "description": "Move focus to toolbar in browser and application(In application, sets focus to the first button in the top bar - Home)",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "acm23"
+  },
+  {
+    "description": "Navigate through the other controls in the top bar - Home, Tools, Document",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Right Arrow/Left Arrow/Tab/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "acm24"
+  },
+  {
+    "description": "Select a highlighted control in the top bar",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Return/Spacebar"
+      }
+    ],
+    "id": "acm25"
+  },
+  {
+    "description": "Move to next open document (when focus is on document pane)",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "acm26"
+  },
+  {
+    "description": "Move to previous open document (when focus is on document pane)",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "acm27"
+  },
+  {
+    "description": "Close current document",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "acm28"
+  },
+  {
+    "description": "Move focus to next comment, link, or form field in the document pane",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "acm29"
+  },
+  {
+    "description": "Move focus to document pane",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "acm30"
+  },
+  {
+    "description": "Move focus to previous comment, link, or form field in the document pane",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "acm31"
+  },
+  {
+    "description": "Activate selected tool, item (such as a movie clip or bookmark), or command",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Space/Return"
+      }
+    ],
+    "id": "acm32"
+  },
+  {
+    "description": "Open context menu",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click"
+      }
+    ],
+    "id": "acm33"
+  },
+  {
+    "description": "Close context menu",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "acm34"
+  },
+  {
+    "description": "Return to Hand tool or Select tool",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "acm35"
+  },
+  {
+    "description": "Move focus to next tab in a tabbed dialog box",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "acm36"
+  },
+  {
+    "description": "Move to previous search result and highlight it in the document",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "acm37"
+  },
+  {
+    "description": "Move to next search result and highlight it in the document",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "acm38"
+  },
+  {
+    "description": "Search previous document (with Search results displaying multiple files)",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Left Arrow"
+      }
+    ],
+    "id": "acm39"
+  },
+  {
+    "description": "Search next document (with Search results displaying multiple files)",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Right Arrow"
+      }
+    ],
+    "id": "acm40"
+  },
+  {
+    "description": "Select text (with Select tool selected)",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "acm41"
+  },
+  {
+    "description": "Select next word or deselect previous word (with Select tool selected)",
+    "category": "Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Right Arrow/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Left Arrow"
+      }
+    ],
+    "id": "acm42"
+  },
+  {
+    "description": "Previous Screen",
+    "category": "Navigating a PDF",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Up/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Return"
+      }
+    ],
+    "id": "acm43"
+  },
+  {
+    "description": "Next screen",
+    "category": "Navigating a PDF",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Down/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Return"
+      }
+    ],
+    "id": "acm44"
+  },
+  {
+    "description": "First page",
+    "category": "Navigating a PDF",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Up Arrow"
+      }
+    ],
+    "id": "acm45"
+  },
+  {
+    "description": "Last page",
+    "category": "Navigating a PDF",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "End/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Down Arrow"
+      }
+    ],
+    "id": "acm46"
+  },
+  {
+    "description": "Previous page",
+    "category": "Navigating a PDF",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Left Arrow/Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up"
+      }
+    ],
+    "id": "acm47"
+  },
+  {
+    "description": "Next page",
+    "category": "Navigating a PDF",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Right Arrow/Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
+      }
+    ],
+    "id": "acm48"
+  },
+  {
+    "description": "Previous open document",
+    "category": "Navigating a PDF",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "acm49"
+  },
+  {
+    "description": "Next open document",
+    "category": "Navigating a PDF",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "acm50"
+  },
+  {
+    "description": "Scroll up",
+    "category": "Navigating a PDF",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Up Arrow"
+      }
+    ],
+    "id": "acm51"
+  },
+  {
+    "description": "Scroll down",
+    "category": "Navigating a PDF",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Down Arrow"
+      }
+    ],
+    "id": "acm52"
+  },
+  {
+    "description": "Scroll (when Hand tool is selected)",
+    "category": "Navigating a PDF",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Spacebar"
+      }
+    ],
+    "id": "acm53"
+  },
+  {
+    "description": "Zoom in",
+    "category": "Navigating a PDF",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "="
+      }
+    ],
+    "id": "acm54"
+  },
+  {
+    "description": "Zoom out",
+    "category": "Navigating a PDF",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
+      }
+    ],
+    "id": "acm55"
+  },
+  {
+    "description": "Move focus to the next item among Document pane, Task panes, Message bar, and Navigation bar",
+    "category": "Navigating task panes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "acm56"
+  },
+  {
+    "description": "Move focus to the previous item among Document pane, Task panes, message bar, and Navigation bar",
+    "category": "Navigating task panes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "acm57"
+  },
+  {
+    "description": "Move focus to the next panel in the Task pane",
+    "category": "Navigating task panes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "acm58"
+  },
+  {
+    "description": "Move focus to the previous panel in the Task pane",
+    "category": "Navigating task panes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "acm59"
+  },
+  {
+    "description": "Navigate to the next panel and panel control within an open Task pane",
+    "category": "Navigating task panes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "acm60"
+  },
+  {
+    "description": "Navigate to the previous panel and panel control within an open Task pane",
+    "category": "Navigating task panes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "acm61"
+  },
+  {
+    "description": "Navigate to the next command button within a panel",
+    "category": "Navigating task panes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Down Arrow"
+      }
+    ],
+    "id": "acm62"
+  },
+  {
+    "description": "Navigate to the previous command button within a panel",
+    "category": "Navigating task panes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Up Arrow"
+      }
+    ],
+    "id": "acm63"
+  },
+  {
+    "description": "Expand or collapse panel in focus (press F6 to move focus to Tools pane, then tab to desired panel)",
+    "category": "Navigating task panes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Space/Return"
+      }
+    ],
+    "id": "acm64"
+  },
+  {
+    "description": "Open or close the Task pane",
+    "category": "Navigating task panes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "acm65"
+  },
+  {
+    "description": "Close the pane that lists the tasks of an Action",
+    "category": "Navigating task panes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "acm66"
+  },
+  {
+    "description": "Open the menu and move the focus to the first menu option when focus is on a command with a submenu or submenu element with a flyout",
+    "category": "Navigating task panes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Spacebar/Return"
+      }
+    ],
+    "id": "acm67"
+  },
+  {
+    "description": "Move the focus back to the parent command button with a submenu or submenu element with a flyout",
+    "category": "Navigating task panes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "acm68"
+  },
+  {
+    "description": "Run the command in focus",
+    "category": "Navigating task panes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Spacebar/Return"
+      }
+    ],
+    "id": "acm69"
+  },
+  {
+    "description": "Navigate to the next item in the active panel in the Create New Action, Edit Action, Create Custom Tool, or the Edit Custom Tool dialog boxes",
+    "category": "Navigating task panes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "acm70"
+  },
+  {
+    "description": "Navigate to the previous item in the active panel in the Create New Action, Edit Action, Create Custom Tool, or the Edit Custom Tool dialog boxes",
+    "category": "Navigating task panes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "acm71"
+  },
+  {
+    "description": "Open and move focus to navigation pane",
+    "category": "Navigation panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "acm72"
+  },
+  {
+    "description": "Move focus among the document, message bar, and navigation panels",
+    "category": "Navigation panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "acm73"
+  },
+  {
+    "description": "Move focus to previous pane or panel",
+    "category": "Navigation panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "acm74"
+  },
+  {
+    "description": "Move among the elements of the active navigation panel",
+    "category": "Navigation panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "acm75"
+  },
+  {
+    "description": "Move to previous or next navigation panel and make it active (when focus is on the panel button)",
+    "category": "Navigation panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Up Arrow/Down Arrow"
+      }
+    ],
+    "id": "acm76"
+  },
+  {
+    "description": "Move to next navigation panel and make it active (when focus is anywhere in the navigation pane)",
+    "category": "Navigation panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "acm77"
+  },
+  {
+    "description": "Expand the current bookmark (focus on Bookmarks panel)",
+    "category": "Navigation panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Right Arrow/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "["
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "]"
+      }
+    ],
+    "id": "acm78"
+  },
+  {
+    "description": "Collapse the current bookmark (focus on Bookmarks panel)",
+    "category": "Navigation panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Left Arrow/-"
+      }
+    ],
+    "id": "acm79"
+  },
+  {
+    "description": "Expand all bookmarks",
+    "category": "Navigation panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "*"
+      }
+    ],
+    "id": "acm80"
+  },
+  {
+    "description": "Collapse selected bookmark",
+    "category": "Navigation panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "/"
+      }
+    ],
+    "id": "acm81"
+  },
+  {
+    "description": "Move focus to next item in a navigation panel",
+    "category": "Navigation panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Down Arrow"
+      }
+    ],
+    "id": "acm82"
+  },
+  {
+    "description": "Move focus to previous item in a navigation panel",
+    "category": "Navigation panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Up Arrow"
+      }
+    ],
+    "id": "acm83"
+  },
+  {
+    "description": "Open Help window",
+    "category": "Navigating the Help window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F1"
+      }
+    ],
+    "id": "acm84"
+  },
+  {
+    "description": "Close Help window",
+    "category": "Navigating the Help window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W/Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "acm85"
+  },
+  {
+    "description": "Move back to previously opened topic",
+    "category": "Navigating the Help window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Left Arrow"
+      }
+    ],
+    "id": "acm86"
+  },
+  {
+    "description": "Move forward to next topic",
+    "category": "Navigating the Help window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Right Arrow"
+      }
+    ],
+    "id": "acm87"
+  },
+  {
+    "description": "Print Help topic",
+    "category": "Navigating the Help window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "acm88"
+  },
+  {
+    "description": "Move forward or backward among the current column header selected for sorting, the current row with focus, and the Go Back button if in a folder",
+    "category": "PDF Portfolios",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "acm89"
+  },
+  {
+    "description": "Move focus to the next or previous row when in the body of the file list on the left",
+    "category": "PDF Portfolios",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Up Arrow/Down Arrow"
+      }
+    ],
+    "id": "acm90"
+  },
+  {
+    "description": "Selects the next or previous column header for sorting",
+    "category": "PDF Portfolios",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Left Arrow/Right Arrow"
+      }
+    ],
+    "id": "acm91"
+  },
+  {
+    "description": "If pressed in the body of the file list, navigate one level up from within a folder",
+    "category": "PDF Portfolios",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Del"
+      }
+    ],
+    "id": "acm92"
+  },
+  {
+    "description": "Press the Go Back button in a folder if focus is on the button.",
+    "category": "PDF Portfolios",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Return/Spacebar"
+      }
+    ],
+    "id": "acm93"
+  },
+  {
+    "description": "If pressed when focus is on a row in the file list representing a subfolder, navigate to a subfolder, or open an attachment in Preview mode.",
+    "category": "PDF Portfolios",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Return"
+      }
+    ],
+    "id": "acm94"
+  },
+  {
+    "description": "If in the body of the file list, move to the first or last row",
+    "category": "PDF Portfolios",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home/End"
+      }
+    ],
+    "id": "acm95"
+  },
+  {
+    "description": "If in the body of the file list, move to the next or last set of rows to fit the screen",
+    "category": "PDF Portfolios",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Down/Page Up"
+      }
+    ],
+    "id": "acm96"
+  },
+  {
+    "description": "Select or deselect all files",
+    "category": "PDF Portfolios",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "acm97"
+  },
+  {
+    "description": "If in the body of the file list, extend the selection by adding the next row above or below the selected row",
+    "category": "PDF Portfolios",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Up Arrow/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Down Arrow"
+      }
+    ],
+    "id": "acm98"
+  },
+  {
+    "description": "Change whether the row with focus is in the selection",
+    "category": "PDF Portfolios",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      }
+    ],
+    "id": "acm99"
+  },
+  {
+    "description": "Move focus up or down one row without changing the selection",
+    "category": "PDF Portfolios",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Up Arrow/Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Down Arrow"
+      }
+    ],
+    "id": "acm100"
+  },
+  {
+    "description": "Reverse the sort order when focus is on a column header",
+    "category": "PDF Portfolios",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Space"
+      }
+    ],
+    "id": "acm101"
+  },
+  {
+    "description": "Hand tool",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "acm102"
+  },
+  {
+    "description": "Temporarily select Hand tool",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Spacebar"
+      }
+    ],
+    "id": "acm103"
+  },
+  {
+    "description": "Select tool",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "acm104"
+  },
+  {
+    "description": "Marquee Zoom tool",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "acm105"
+  },
+  {
+    "description": "Cycle through zoom tools: Marquee Zoom,Dynamic Zoom, Loupe",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "acm106"
+  },
+  {
+    "description": "Temporarily select Dynamic Zoom tool (when Marquee Zoom tool is selected)",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      }
+    ],
+    "id": "acm107"
+  },
+  {
+    "description": "Temporarily zoom out (when Marquee Zoom tool is selected)",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      }
+    ],
+    "id": "acm108"
+  },
+  {
+    "description": "Temporarily select Zoom In tool",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      }
+    ],
+    "id": "acm109"
+  },
+  {
+    "description": "Select Object tool",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "acm110"
+  },
+  {
+    "description": "Edit Object tool",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "acm111"
+  },
+  {
+    "description": "Return/Exit Forms editing",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "acm112"
+  },
+  {
+    "description": "Crop tool",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "acm113"
+  },
+  {
+    "description": "Link tool",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "acm114"
+  },
+  {
+    "description": "Text Field tool",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "acm115"
+  },
+  {
+    "description": "Cycle through tools in forms authoring mode: Text Field, Check Box, Radio Button, List Box, Dropdown Box, Button, Digital Signature, Barcode",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "acm116"
+  },
+  {
+    "description": "3D tool",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "acm117"
+  },
+  {
+    "description": "Cycle through Multimedia tools: 3D object, SWF, Sound, Video",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "acm118"
+  },
+  {
+    "description": "Edit Document Text tool",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "acm119"
+  },
+  {
+    "description": "Cycle through Touch Up tools: Touch Up Text, Touch Up Reading Order, Touch Up Object",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "acm120"
+  },
+  {
+    "description": "Redaction",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "acm121"
+  },
+  {
+    "description": "JavaScript Debugger",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "acm122"
+  },
+  {
+    "description": "Insert Blank Pages tool",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "acm123"
+  },
+  {
+    "description": "Insert Files",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "acm124"
+  },
+  {
+    "description": "Delete pages",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "acm125"
+  },
+  {
+    "description": "Open Output Preview",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "~"
+      }
+    ],
+    "id": "acm126"
+  },
+  {
+    "description": "Touch Up Reading Order tool (or if already selected, return focus to dialog box)",
+    "category": "Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "acm127"
+  }
+]

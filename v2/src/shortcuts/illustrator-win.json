@@ -1,0 +1,2132 @@
+[
+  {
+    "description": "Constrain Shape proportion/orientation",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "ilw0"
+  },
+  {
+    "description": "Draw from center of shape/Keep the sides of star straight",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "ilw1"
+  },
+  {
+    "description": "Keep inner radius of star constant",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Drag"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Hold Ctrl"
+      }
+    ],
+    "id": "ilw2"
+  },
+  {
+    "description": "Increase/Decrease polygon side,star points,arc angle,spiral,flare rays",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Drag"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Up Arrow"
+      }
+    ],
+    "id": "ilw3"
+  },
+  {
+    "description": "Switch Open/Closed arc",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Drag"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Hold C"
+      }
+    ],
+    "id": "ilw4"
+  },
+  {
+    "description": "Flip arc",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Drag"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Hold F"
+      }
+    ],
+    "id": "ilw5"
+  },
+  {
+    "description": "Move shape while drawing",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Spacebar"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "ilw6"
+  },
+  {
+    "description": "Decrease skew value for horizontal dividers in rectangular grid/radial divider in polar grid by 10%",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Drag"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "ilw7"
+  },
+  {
+    "description": "Increase skew value for horizontal dividers in rectangular grid/radial divider in polar grid by 10%",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Drag"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "ilw8"
+  },
+  {
+    "description": "Decrease skew value for vertical dividers in rectangular grid/concentric divider in polar grid by 10%",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Drag"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "ilw9"
+  },
+  {
+    "description": "Increase skew value for vertical dividers in rectangular grid/concentric divider in polar grid by 10%",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Drag"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "ilw10"
+  },
+  {
+    "description": "Add/Remove horizontal lines from grid",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Drag"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Up Arrow/down arrow"
+      }
+    ],
+    "id": "ilw11"
+  },
+  {
+    "description": "Add/Remove vertical lines from grid",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Drag"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Right Arrow/Left Arrow"
+      }
+    ],
+    "id": "ilw12"
+  },
+  {
+    "description": "Change decay rate of spiral",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Drag then Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "ilw13"
+  },
+  {
+    "description": "Add/Subtract winds from spiral while increasing length",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Drag then Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "ilw14"
+  },
+  {
+    "description": "Increase size of Blob brush",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "]"
+      }
+    ],
+    "id": "ilw15"
+  },
+  {
+    "description": "Decrease size of Blob brush",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "["
+      }
+    ],
+    "id": "ilw16"
+  },
+  {
+    "description": "Constrain Blob brush horizontal/vertical",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      }
+    ],
+    "id": "ilw17"
+  },
+  {
+    "description": "Switch through drawing modes",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "ilw18"
+  },
+  {
+    "description": "Join two or more path",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Select Path then Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "ilw19"
+  },
+  {
+    "description": "Create corner/smooth join",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Select Path then Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "ilw20"
+  },
+  {
+    "description": "Perspective Grid Tool",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "ilw21"
+  },
+  {
+    "description": "Perspective Selection Tool",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "ilw22"
+  },
+  {
+    "description": "Perspective Grid",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "ilw23"
+  },
+  {
+    "description": "Copying objects in perspective",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "ilw24"
+  },
+  {
+    "description": "Moving objects perpendicularly",
+    "category": "Drawing Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "5 then Click"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "ilw25"
+  },
+  {
+    "description": "Switch to last used selection tools",
+    "category": "Selecting Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      }
+    ],
+    "id": "ilw26"
+  },
+  {
+    "description": "Switch Direct/Group selection tools",
+    "category": "Selecting Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      }
+    ],
+    "id": "ilw27"
+  },
+  {
+    "description": "Add/Subtract with various tools",
+    "category": "Selecting Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click"
+      }
+    ],
+    "id": "ilw28"
+  },
+  {
+    "description": "Subtract from selection with magic wand tool",
+    "category": "Selecting Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click"
+      }
+    ],
+    "id": "ilw29"
+  },
+  {
+    "description": "Add to selection with Lasso tool",
+    "category": "Selecting Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "ilw30"
+  },
+  {
+    "description": "Subtract from selection with Lasso tool",
+    "category": "Selecting Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "ilw31"
+  },
+  {
+    "description": "Change pointer to cross hair for Lasso tool",
+    "category": "Selecting Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Caps"
+      }
+    ],
+    "id": "ilw32"
+  },
+  {
+    "description": "Select artwork in active artboard",
+    "category": "Selecting Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "ilw33"
+  },
+  {
+    "description": "Create crop marks around selected object",
+    "category": "Selecting Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "ilw34"
+  },
+  {
+    "description": "Select behind an object",
+    "category": "Selecting Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "PressCtrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click twicw"
+      }
+    ],
+    "id": "ilw35"
+  },
+  {
+    "description": "Select behind in isolation mode",
+    "category": "Selecting Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click twice"
+      }
+    ],
+    "id": "ilw36"
+  },
+  {
+    "description": "Selection tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "ilw37"
+  },
+  {
+    "description": "Direct selection tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "ilw38"
+  },
+  {
+    "description": "magic wind tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "ilw39"
+  },
+  {
+    "description": "Lasso tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Q"
+      }
+    ],
+    "id": "ilw40"
+  },
+  {
+    "description": "Pen tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "ilw41"
+  },
+  {
+    "description": "Blob brush tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "ilw42"
+  },
+  {
+    "description": "Add/Delete anchor point tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "/-"
+      }
+    ],
+    "id": "ilw43"
+  },
+  {
+    "description": "Convert anchor point tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "ilw44"
+  },
+  {
+    "description": "Type tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "ilw45"
+  },
+  {
+    "description": "Line segment tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "\\"
+      }
+    ],
+    "id": "ilw46"
+  },
+  {
+    "description": "Rectangle tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "ilw47"
+  },
+  {
+    "description": "Ellipse tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "ilw48"
+  },
+  {
+    "description": "Paintbrush tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "ilw49"
+  },
+  {
+    "description": "Pencil tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "ilw50"
+  },
+  {
+    "description": "Rotate tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "ilw51"
+  },
+  {
+    "description": "Reflect tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "ilw52"
+  },
+  {
+    "description": "Scale tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "ilw53"
+  },
+  {
+    "description": "Warp tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "ilw54"
+  },
+  {
+    "description": "Width tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "ilw55"
+  },
+  {
+    "description": "Free Transform tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "ilw56"
+  },
+  {
+    "description": "Shape builder tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "ilw57"
+  },
+  {
+    "description": "Perspective grid tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "ilw58"
+  },
+  {
+    "description": "Perspective selection tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "ilw59"
+  },
+  {
+    "description": "Symbol sprayer tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "ilw60"
+  },
+  {
+    "description": "Column graph tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "ilw61"
+  },
+  {
+    "description": "Mesh tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "ilw62"
+  },
+  {
+    "description": "Gradient tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "ilw63"
+  },
+  {
+    "description": "Eyedropper tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "ilw64"
+  },
+  {
+    "description": "Blend tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "ilw65"
+  },
+  {
+    "description": "Zoom tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "ilw66"
+  },
+  {
+    "description": "Hand tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "ilw67"
+  },
+  {
+    "description": "Scissors tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "ilw68"
+  },
+  {
+    "description": "Eraser tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "ilw69"
+  },
+  {
+    "description": "Slice tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "ilw70"
+  },
+  {
+    "description": "Live paint selection tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "ilw71"
+  },
+  {
+    "description": "Live Paint selection tool",
+    "category": "Selectiong Tool",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "ilw72"
+  },
+  {
+    "description": "Fit imageable area in window",
+    "category": "Viewing Artwork",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "DoubleClick Hand tool"
+      }
+    ],
+    "id": "ilw73"
+  },
+  {
+    "description": "Magnify to double",
+    "category": "Viewing Artwork",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "DoubleClick Zoom tool"
+      }
+    ],
+    "id": "ilw74"
+  },
+  {
+    "description": "Move zoom marquee while dragging",
+    "category": "Viewing Artwork",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Spacebar"
+      }
+    ],
+    "id": "ilw75"
+  },
+  {
+    "description": "Show/Hide artboards",
+    "category": "Viewing Artwork",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "ilw76"
+  },
+  {
+    "description": "Show/hide artboard rulers",
+    "category": "Viewing Artwork",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "ilw77"
+  },
+  {
+    "description": "Hide unselected network",
+    "category": "Viewing Artwork",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "3"
+      }
+    ],
+    "id": "ilw78"
+  },
+  {
+    "description": "Exit fullscreen mode",
+    "category": "Viewing Artwork",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "ilw79"
+  },
+  {
+    "description": "Go to next document",
+    "category": "Viewing Artwork",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "ilw80"
+  },
+  {
+    "description": "Go to previous document",
+    "category": "Viewing Artwork",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "ilw81"
+  },
+  {
+    "description": "Next document group",
+    "category": "Viewing Artwork",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "ilw82"
+  },
+  {
+    "description": "Previous document group",
+    "category": "Viewing Artwork",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "ilw83"
+  },
+  {
+    "description": "Save Artboard to Illustrator format",
+    "category": "Viewing Artwork",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "ilw84"
+  },
+  {
+    "description": "Create artboard in other artboard",
+    "category": "Viewing Artwork",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "ilw85"
+  },
+  {
+    "description": "Switch between various tool",
+    "category": "Editing Shapes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      }
+    ],
+    "id": "ilw86"
+  },
+  {
+    "description": "Move current anchor point",
+    "category": "Editing Shapes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Spacebar"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "ilw87"
+  },
+  {
+    "description": "Cut a straight line with knife tool",
+    "category": "Editing Shapes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "ilw88"
+  },
+  {
+    "description": "Cut 45/90 with knife tool",
+    "category": "Editing Shapes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "ilw89"
+  },
+  {
+    "description": "Select shape builder tool",
+    "category": "Editing Shapes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "ilw90"
+  },
+  {
+    "description": "Switch fill/stroke",
+    "category": "Painting Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "ilw91"
+  },
+  {
+    "description": "Set fill and stroke to default",
+    "category": "Painting Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "ilw92"
+  },
+  {
+    "description": "Swap fill/stroke",
+    "category": "Painting Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "ilw93"
+  },
+  {
+    "description": "Select gradient fill mode",
+    "category": "Painting Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": ">"
+      }
+    ],
+    "id": "ilw94"
+  },
+  {
+    "description": "Select color fill mode",
+    "category": "Painting Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "<"
+      }
+    ],
+    "id": "ilw95"
+  },
+  {
+    "description": "Select no stroke/fill mode",
+    "category": "Painting Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "/"
+      }
+    ],
+    "id": "ilw96"
+  },
+  {
+    "description": "Add new fill",
+    "category": "Painting Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "/"
+      }
+    ],
+    "id": "ilw97"
+  },
+  {
+    "description": "Add new stroke",
+    "category": "Painting Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "/"
+      }
+    ],
+    "id": "ilw98"
+  },
+  {
+    "description": "Incrase/Decrase bristle brush size",
+    "category": "Painting Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "]/["
+      }
+    ],
+    "id": "ilw99"
+  },
+  {
+    "description": "Set Bristle brush paint opacity value(1 increase 10% where 0 increase 100%)",
+    "category": "Painting Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "1/0"
+      }
+    ],
+    "id": "ilw100"
+  },
+  {
+    "description": "Set Options",
+    "category": "Panel Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click New"
+      }
+    ],
+    "id": "ilw101"
+  },
+  {
+    "description": "Delete without confirm",
+    "category": "Panel Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click Del"
+      }
+    ],
+    "id": "ilw102"
+  },
+  {
+    "description": "Show/hide panel",
+    "category": "Panel Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "ilw103"
+  },
+  {
+    "description": "Show/hide panels except Tools and Control",
+    "category": "Panel Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "ilw104"
+  },
+  {
+    "description": "Apply value and keep textbox active",
+    "category": "Panel Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "ilw105"
+  },
+  {
+    "description": "Help",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F1"
+      }
+    ],
+    "id": "ilw106"
+  },
+  {
+    "description": "Cut",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "ilw107"
+  },
+  {
+    "description": "Copy",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "ilw108"
+  },
+  {
+    "description": "Paste",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "ilw109"
+  },
+  {
+    "description": "Show/hide brushes panel",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "ilw110"
+  },
+  {
+    "description": "Show/hide color panel",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "ilw111"
+  },
+  {
+    "description": "Show/hide layers panel",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "ilw112"
+  },
+  {
+    "description": "Create new symbol",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "ilw113"
+  },
+  {
+    "description": "Show/hide Info panel",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "ilw114"
+  },
+  {
+    "description": "Show/hide gradient panel",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "ilw115"
+  },
+  {
+    "description": "Show/hide stroke panel",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F10"
+      }
+    ],
+    "id": "ilw116"
+  },
+  {
+    "description": "Show/hide attributes panel",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "ilw117"
+  },
+  {
+    "description": "Revert",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F12"
+      }
+    ],
+    "id": "ilw118"
+  },
+  {
+    "description": "Show/hide Graphics styles panel",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "ilw119"
+  },
+  {
+    "description": "Show/hide appearence panel",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "ilw120"
+  },
+  {
+    "description": "Show/hide align panel",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "ilw121"
+  },
+  {
+    "description": "Show/hide transform panel",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "ilw122"
+  },
+  {
+    "description": "Show/hide pathfinder panel",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "ilw123"
+  },
+  {
+    "description": "Show/hide Transparency panel",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F10"
+      }
+    ],
+    "id": "ilw124"
+  },
+  {
+    "description": "Show/hide Symbols panel",
+    "category": "Function Key Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "ilw125"
+  }
+]

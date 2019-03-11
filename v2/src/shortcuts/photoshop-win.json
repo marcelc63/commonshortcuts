@@ -1,0 +1,7987 @@
+[
+  {
+    "description": "Show Keyboard Shortcuts Menu",
+    "category": "Menu Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "phw0"
+  },
+  {
+    "description": "Preferences",
+    "category": "Menu Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "phw1"
+  },
+  {
+    "description": "File Menu",
+    "category": "Menu Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "phw2"
+  },
+  {
+    "description": "Edit Menu",
+    "category": "Menu Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "phw3"
+  },
+  {
+    "description": "Image Menu",
+    "category": "Menu Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "phw4"
+  },
+  {
+    "description": "Layer Menu",
+    "category": "Menu Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "phw5"
+  },
+  {
+    "description": "Select Menu",
+    "category": "Menu Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "phw6"
+  },
+  {
+    "description": "Filter Menu",
+    "category": "Menu Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "phw7"
+  },
+  {
+    "description": "3D Menu",
+    "category": "Menu Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "phw8"
+  },
+  {
+    "description": "Window Menu",
+    "category": "Menu Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "phw9"
+  },
+  {
+    "description": "New File",
+    "category": "File Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "phw10"
+  },
+  {
+    "description": "Open File",
+    "category": "File Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "phw11"
+  },
+  {
+    "description": "Open/ Browse in CC Bridge",
+    "category": "File Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "phw12"
+  },
+  {
+    "description": "Open/ Brows in Bridge",
+    "category": "File Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "phw13"
+  },
+  {
+    "description": "Close",
+    "category": "File Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "phw14"
+  },
+  {
+    "description": "Close all",
+    "category": "File Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "phw15"
+  },
+  {
+    "description": "Save",
+    "category": "File Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "phw16"
+  },
+  {
+    "description": "Save as…",
+    "category": "File Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "phw17"
+  },
+  {
+    "description": "Revert to last saved state",
+    "category": "File Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F12"
+      }
+    ],
+    "id": "phw18"
+  },
+  {
+    "description": "Export as…",
+    "category": "File Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "phw19"
+  },
+  {
+    "description": "Save for Web",
+    "category": "File Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "phw20"
+  },
+  {
+    "description": "File Info",
+    "category": "File Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "phw21"
+  },
+  {
+    "description": "Print",
+    "category": "File Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "phw22"
+  },
+  {
+    "description": "Print one Copy",
+    "category": "File Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "phw23"
+  },
+  {
+    "description": "Quit PhotoShop",
+    "category": "File Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Q"
+      }
+    ],
+    "id": "phw24"
+  },
+  {
+    "description": "Toggle Undo (one step forwards/ backwards only)",
+    "category": "Edit Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "phw25"
+  },
+  {
+    "description": "Undo (multiple steps possible; referred to as 'step backwards')",
+    "category": "Edit Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "phw26"
+  },
+  {
+    "description": "Redo (multiple steps possible; referred to as 'step backwards')",
+    "category": "Edit Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "phw27"
+  },
+  {
+    "description": "Fade",
+    "category": "Edit Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "phw28"
+  },
+  {
+    "description": "Copy Merged",
+    "category": "Edit Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "phw29"
+  },
+  {
+    "description": "Paste in Place",
+    "category": "Edit Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "phw30"
+  },
+  {
+    "description": "Paste Into",
+    "category": "Edit Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "phw31"
+  },
+  {
+    "description": "Fill",
+    "category": "Edit Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "phw32"
+  },
+  {
+    "description": "Content-Aware Scale",
+    "category": "Edit Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "phw33"
+  },
+  {
+    "description": "Free Transform",
+    "category": "Edit Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "phw34"
+  },
+  {
+    "description": "Transform again",
+    "category": "Edit Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "phw35"
+  },
+  {
+    "description": "Color Settings",
+    "category": "Edit Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "phw36"
+  },
+  {
+    "description": "Adjust Levels",
+    "category": "Image Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "phw37"
+  },
+  {
+    "description": "Adjsut Curves",
+    "category": "Image Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "phw38"
+  },
+  {
+    "description": "Adjust Hue/ Saturation",
+    "category": "Image Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "phw39"
+  },
+  {
+    "description": "Adjust Color Balance",
+    "category": "Image Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "phw40"
+  },
+  {
+    "description": "Adjust to Black and White",
+    "category": "Image Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "phw41"
+  },
+  {
+    "description": "New Layers",
+    "category": "Layers Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "phw42"
+  },
+  {
+    "description": "Layer via Copy",
+    "category": "Layers Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "phw43"
+  },
+  {
+    "description": "Layer via Cut",
+    "category": "Layers Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "phw44"
+  },
+  {
+    "description": "Create/release Clipping Mark",
+    "category": "Layers Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "phw45"
+  },
+  {
+    "description": "Group Layers",
+    "category": "Layers Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "phw46"
+  },
+  {
+    "description": "Ungroup Layers",
+    "category": "Layers Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "phw47"
+  },
+  {
+    "description": "Hide Layers",
+    "category": "Layers Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      }
+    ],
+    "id": "phw48"
+  },
+  {
+    "description": "Bring forwards/ bring backwards",
+    "category": "Layers Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "]/]"
+      }
+    ],
+    "id": "phw49"
+  },
+  {
+    "description": "Bring to front/ bring to back",
+    "category": "Layers Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "]/]"
+      }
+    ],
+    "id": "phw50"
+  },
+  {
+    "description": "Lock Layers",
+    "category": "Layers Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "/"
+      }
+    ],
+    "id": "phw51"
+  },
+  {
+    "description": "Merge Layers",
+    "category": "Layers Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "phw52"
+  },
+  {
+    "description": "Merge Visible",
+    "category": "Layers Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "phw53"
+  },
+  {
+    "description": "Select all",
+    "category": "Select Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "phw54"
+  },
+  {
+    "description": "Deselect",
+    "category": "Select Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "phw55"
+  },
+  {
+    "description": "Reselect",
+    "category": "Select Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "phw56"
+  },
+  {
+    "description": "Inverse selection",
+    "category": "Select Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "phw57"
+  },
+  {
+    "description": "Select All Layers",
+    "category": "Select Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "phw58"
+  },
+  {
+    "description": "Find Layers",
+    "category": "Select Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "phw59"
+  },
+  {
+    "description": "Refine Mask",
+    "category": "Select Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "phw60"
+  },
+  {
+    "description": "Feather",
+    "category": "Select Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "phw61"
+  },
+  {
+    "description": "Last Filter",
+    "category": "Filter Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "phw62"
+  },
+  {
+    "description": "Adaptive Wide Angle",
+    "category": "Filter Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "phw63"
+  },
+  {
+    "description": "Camera Raw Filter",
+    "category": "Filter Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "phw64"
+  },
+  {
+    "description": "Lens Correction",
+    "category": "Filter Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "phw65"
+  },
+  {
+    "description": "Liquify",
+    "category": "Filter Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "phw66"
+  },
+  {
+    "description": "Vanishing Point",
+    "category": "Filter Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "phw67"
+  },
+  {
+    "description": "Show/Hide Polygons",
+    "category": "3D Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "phw68"
+  },
+  {
+    "description": "Reveal all",
+    "category": "3D Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "phw69"
+  },
+  {
+    "description": "Render 3D Layer",
+    "category": "3D Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "phw70"
+  },
+  {
+    "description": "Design Space Preview",
+    "category": "Windows Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "`"
+      }
+    ],
+    "id": "phw71"
+  },
+  {
+    "description": "Toggle Brush Window",
+    "category": "Windows Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "phw72"
+  },
+  {
+    "description": "Toggle Color Window",
+    "category": "Windows Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "phw73"
+  },
+  {
+    "description": "Toggle Layers Window",
+    "category": "Windows Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "phw74"
+  },
+  {
+    "description": "Toggle Info Window",
+    "category": "Windows Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "phw75"
+  },
+  {
+    "description": "Toggle Actions  Window",
+    "category": "Windows Basics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "phw76"
+  },
+  {
+    "description": "Hand tool",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "phw77"
+  },
+  {
+    "description": "Move Tool",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "phw78"
+  },
+  {
+    "description": "Marquee Tools",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "phw79"
+  },
+  {
+    "description": "Lasso Tools",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "phw80"
+  },
+  {
+    "description": "Magic Wand and Quick Selection Tool",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "phw81"
+  },
+  {
+    "description": "Crop and Slice Tools",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "phw82"
+  },
+  {
+    "description": "Eyedropper, Color Sampler, Ruler, Note, and Count Tool",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "phw83"
+  },
+  {
+    "description": "Spot Healing Brush, Patch, and Red Eye Tool",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "phw84"
+  },
+  {
+    "description": "Brush, Pencil, Color Replacement, and",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "phw85"
+  },
+  {
+    "description": "Clone Stamp tool",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "phw86"
+  },
+  {
+    "description": "History Brush tool",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "phw87"
+  },
+  {
+    "description": "Eraser tool",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "phw88"
+  },
+  {
+    "description": "Gradient tool",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "phw89"
+  },
+  {
+    "description": "Dodge tool",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "phw90"
+  },
+  {
+    "description": "Pen tool",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "phw91"
+  },
+  {
+    "description": "Type tool",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "phw92"
+  },
+  {
+    "description": "Path Selection tool",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "phw93"
+  },
+  {
+    "description": "Rectangle, Ellipse, Polygon, Line, and Custom Shape Tool",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "phw94"
+  },
+  {
+    "description": "3D Object Tools",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "phw95"
+  },
+  {
+    "description": "3D Camera Tools",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "phw96"
+  },
+  {
+    "description": "Rotate View tool",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "phw97"
+  },
+  {
+    "description": "Zoom tool",
+    "category": "Selecting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "phw98"
+  },
+  {
+    "description": "Cycle forwards/ backwards through open documents",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab/Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "phw99"
+  },
+  {
+    "description": "Toggle Fullscreen Modes forward/ backwards",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "phw100"
+  },
+  {
+    "description": "Zoom in/ zoom out",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "["
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "]/-"
+      }
+    ],
+    "id": "phw101"
+  },
+  {
+    "description": "Zoom to fit screen",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "0"
+      }
+    ],
+    "id": "phw102"
+  },
+  {
+    "description": "Zoom to 100%",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "1"
+      }
+    ],
+    "id": "phw103"
+  },
+  {
+    "description": "Temporarily Zoom into an Image",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Press and hold H"
+      },
+      {
+        "type": "symbol",
+        "val": " then Click"
+      }
+    ],
+    "id": "phw104"
+  },
+  {
+    "description": "Show/Hide Grid",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "'"
+      }
+    ],
+    "id": "phw105"
+  },
+  {
+    "description": "Show/Hide Guides",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ";"
+      }
+    ],
+    "id": "phw106"
+  },
+  {
+    "description": "Show/Hide Rulers",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "phw107"
+  },
+  {
+    "description": "Temporarily Switch to Hand Tool",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Space"
+      }
+    ],
+    "id": "phw108"
+  },
+  {
+    "description": "Scroll up/ scroll down in small increments",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up/Page Down"
+      }
+    ],
+    "id": "phw109"
+  },
+  {
+    "description": "Scroll up/ down one screen",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Up/Page Down"
+      }
+    ],
+    "id": "phw110"
+  },
+  {
+    "description": "Scroll to to upper-left/ lower-right corner",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home/End"
+      }
+    ],
+    "id": "phw111"
+  },
+  {
+    "description": "Toggle Snap",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ";"
+      }
+    ],
+    "id": "phw112"
+  },
+  {
+    "description": "Lock Guides",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ";"
+      }
+    ],
+    "id": "phw113"
+  },
+  {
+    "description": "Proof Colors",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "phw114"
+  },
+  {
+    "description": "Gamut Warning",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "phw115"
+  },
+  {
+    "description": "Toggle Quick Mask Mode",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Q"
+      }
+    ],
+    "id": "phw116"
+  },
+  {
+    "description": "Extras",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "phw117"
+  },
+  {
+    "description": "Show Target Path",
+    "category": "Manage Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "phw118"
+  },
+  {
+    "description": "Open Refine Edge Dialog Box",
+    "category": "Refine Edge Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "phw119"
+  },
+  {
+    "description": "Cycle forwards/backwards through preview modes",
+    "category": "Refine Edge Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "phw120"
+  },
+  {
+    "description": "Toggle between original image and selection preview",
+    "category": "Refine Edge Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "phw121"
+  },
+  {
+    "description": "Toggle between original selection and refined version",
+    "category": "Refine Edge Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "phw122"
+  },
+  {
+    "description": "Toggle radius preview on and off",
+    "category": "Refine Edge Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "phw123"
+  },
+  {
+    "description": "Toggle between Refine Radius and Erase Refinements tools",
+    "category": "Refine Edge Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "phw124"
+  },
+  {
+    "description": "Open Liquify Window",
+    "category": "Liquify Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "phw125"
+  },
+  {
+    "description": "Forward Warp tool",
+    "category": "Liquify Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "phw126"
+  },
+  {
+    "description": "Reconstruct tool",
+    "category": "Liquify Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "phw127"
+  },
+  {
+    "description": "Twirl Clockwise tool",
+    "category": "Liquify Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "phw128"
+  },
+  {
+    "description": "Pucker tool",
+    "category": "Liquify Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "phw129"
+  },
+  {
+    "description": "Bloat tool",
+    "category": "Liquify Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "phw130"
+  },
+  {
+    "description": "Push Left tool",
+    "category": "Liquify Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "phw131"
+  },
+  {
+    "description": "Mirror tool",
+    "category": "Liquify Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "phw132"
+  },
+  {
+    "description": "Turbulence tool",
+    "category": "Liquify Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "phw133"
+  },
+  {
+    "description": "Freeze Mask tool",
+    "category": "Liquify Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "phw134"
+  },
+  {
+    "description": "Thaw Mask tool",
+    "category": "Liquify Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "phw135"
+  },
+  {
+    "description": "Reverse direction for Bloat, Pucker, Push Left, and Mirror tools",
+    "category": "Liquify Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " tool"
+      }
+    ],
+    "id": "phw136"
+  },
+  {
+    "description": "Continually sample the distortion",
+    "category": "Liquify Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag in preview"
+      }
+    ],
+    "id": "phw137"
+  },
+  {
+    "description": "Decrease/increase brush size by 2, or most other parameters by 1 (With Brush Size, Density, Pressure, Rate, or Turbulent Jitter slider showing)",
+    "category": "Liquify Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Down/Arrow Up"
+      }
+    ],
+    "id": "phw138"
+  },
+  {
+    "description": "Cycle forwards/backwards through controls on right from top",
+    "category": "Liquify Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "phw139"
+  },
+  {
+    "description": "Change Cancel to Reset",
+    "category": "Liquify Window",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      }
+    ],
+    "id": "phw140"
+  },
+  {
+    "description": "Increase/ Decrease Brush Size (Brush and Stamp Tools)",
+    "category": "Vanishing Point Tools (Brush, Stamp, Plane, Marquee, etc)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "[/]"
+      }
+    ],
+    "id": "phw141"
+  },
+  {
+    "description": "Increase/ Decrease Brush Hardnewss",
+    "category": "Vanishing Point Tools (Brush, Stamp, Plane, Marquee, etc)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "[/]"
+      }
+    ],
+    "id": "phw142"
+  },
+  {
+    "description": "Open Black-and-White Dialog Box",
+    "category": "Black-and-White Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "phw143"
+  },
+  {
+    "description": "Jump to next/ jump to previous slider",
+    "category": "Black-and-White Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "phw144"
+  },
+  {
+    "description": "Increase/Decrease selected value by 10%",
+    "category": "Black-and-White Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up/Arrow Down"
+      }
+    ],
+    "id": "phw145"
+  },
+  {
+    "description": "Increase/Decrease selected value by 1%",
+    "category": "Black-and-White Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Up/Arrow Down"
+      }
+    ],
+    "id": "phw146"
+  },
+  {
+    "description": "Open Curves Dialog Box",
+    "category": "Curves Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "phw147"
+  },
+  {
+    "description": "Add a point to the Curve",
+    "category": "Curves Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Click"
+      }
+    ],
+    "id": "phw148"
+  },
+  {
+    "description": "Cycle through point on the curve",
+    "category": "Curves Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "/-"
+      }
+    ],
+    "id": "phw149"
+  },
+  {
+    "description": "Delete a point from the Curve",
+    "category": "Curves Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "phw150"
+  },
+  {
+    "description": "Select one or multiple points on the curve",
+    "category": "Curves Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click"
+      }
+    ],
+    "id": "phw151"
+  },
+  {
+    "description": "Delete selected points on the curve",
+    "category": "Curves Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "phw152"
+  },
+  {
+    "description": "Move selected points by 1 unit",
+    "category": "Curves Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "phw153"
+  },
+  {
+    "description": "Move selected points by 10 unit",
+    "category": "Curves Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "phw154"
+  },
+  {
+    "description": "Add a Point to the composite curve",
+    "category": "Curves Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click on the Image"
+      }
+    ],
+    "id": "phw155"
+  },
+  {
+    "description": "Add a Point to the channel curve",
+    "category": "Curves Dialog Box",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click on the Image"
+      }
+    ],
+    "id": "phw156"
+  },
+  {
+    "description": "Add to a selection",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Any selection tool then press and hold Shift"
+      }
+    ],
+    "id": "phw157"
+  },
+  {
+    "description": "Subtract from a selection",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Any selection tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "phw158"
+  },
+  {
+    "description": "Intersect a selection",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Any selection tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "phw159"
+  },
+  {
+    "description": "Constrain marquee to square or circle",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "phw160"
+  },
+  {
+    "description": "Draw marquee from center",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "drag"
+      }
+    ],
+    "id": "phw161"
+  },
+  {
+    "description": "Constrain shape and draw marquee from center",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "phw162"
+  },
+  {
+    "description": "Switch to Move Tool (except when Hand, Slice, Path, Shape, or any Pen Tool is selected",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Press and hold Ctrl"
+      }
+    ],
+    "id": "phw163"
+  },
+  {
+    "description": "Switch from Magnetic Lasso Tool to Lasso Tool",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "phw164"
+  },
+  {
+    "description": "Switch from Magnetic Lasso Tool to polygonal Lasso Tool",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt and click"
+      }
+    ],
+    "id": "phw165"
+  },
+  {
+    "description": "Apply an operation of the Magnetic Lasso; press Escape to cancel",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "phw166"
+  },
+  {
+    "description": "Move copy of selection",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Move Tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag selection"
+      }
+    ],
+    "id": "phw167"
+  },
+  {
+    "description": "Move selection area 1 pixel",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Any selection "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "phw168"
+  },
+  {
+    "description": "Move selection 1 pixel",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Move Tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "phw169"
+  },
+  {
+    "description": "Move layer 1 pixel when nothing selected on layer",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "phw170"
+  },
+  {
+    "description": "Increase/decrease detection width (follow width in status bar)",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Magnetic Lasso Tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "[/]"
+      }
+    ],
+    "id": "phw171"
+  },
+  {
+    "description": "Accept cropping. Press Escape to exit croppoing",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Crop tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "phw172"
+  },
+  {
+    "description": "Toggle crop shield off and on",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "/"
+      }
+    ],
+    "id": "phw173"
+  },
+  {
+    "description": "Make protractor",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ruler Tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag end point"
+      }
+    ],
+    "id": "phw174"
+  },
+  {
+    "description": "Snap guide to ruler ticks (except when View > Snap is unchecked)",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag guide"
+      }
+    ],
+    "id": "phw175"
+  },
+  {
+    "description": "Convert between horizontal and vertical guide",
+    "category": "Select and Move Objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag guide"
+      }
+    ],
+    "id": "phw176"
+  },
+  {
+    "description": "Transform from center or reflect",
+    "category": "Transform Selections, Borders, and Paths",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      }
+    ],
+    "id": "phw177"
+  },
+  {
+    "description": "Constrain",
+    "category": "Transform Selections, Borders, and Paths",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      }
+    ],
+    "id": "phw178"
+  },
+  {
+    "description": "Distort",
+    "category": "Transform Selections, Borders, and Paths",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      }
+    ],
+    "id": "phw179"
+  },
+  {
+    "description": "Apply",
+    "category": "Transform Selections, Borders, and Paths",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "phw180"
+  },
+  {
+    "description": "Cancel",
+    "category": "Transform Selections, Borders, and Paths",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "phw181"
+  },
+  {
+    "description": "Free transform with duplicate data",
+    "category": "Transform Selections, Borders, and Paths",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "phw182"
+  },
+  {
+    "description": "Transform again with duplicate data",
+    "category": "Transform Selections, Borders, and Paths",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "phw183"
+  },
+  {
+    "description": "Select multiple anchor points",
+    "category": "Edit Paths",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Direct selection tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click"
+      }
+    ],
+    "id": "phw184"
+  },
+  {
+    "description": "Select entire path",
+    "category": "Edit Paths",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Direct selection tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click"
+      }
+    ],
+    "id": "phw185"
+  },
+  {
+    "description": "Duplicate a path",
+    "category": "Edit Paths",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Pen (any Pen Tool)"
+      },
+      {
+        "type": "symbol",
+        "val": " Path Selection / Direct Selection tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "phw186"
+  },
+  {
+    "description": "Switch to Direct Selection tool  (from Path Selection, Pen, etc.)",
+    "category": "Edit Paths",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      }
+    ],
+    "id": "phw187"
+  },
+  {
+    "description": "Switch to Convert Point Tool (from Pen Tools) when pointer is over anchor or direction point",
+    "category": "Edit Paths",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      }
+    ],
+    "id": "phw188"
+  },
+  {
+    "description": "Close path",
+    "category": "Edit Paths",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Magnetic Pen Tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " Double-click"
+      }
+    ],
+    "id": "phw189"
+  },
+  {
+    "description": "Close path with straight-line segment",
+    "category": "Edit Paths",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Magnetic Pen Tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " Double-click"
+      }
+    ],
+    "id": "phw190"
+  },
+  {
+    "description": "Select foreground color from color picker",
+    "category": "Painting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Any Painting Tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " Right-click and drag"
+      }
+    ],
+    "id": "phw191"
+  },
+  {
+    "description": "Select foreground color from image with Eyedropper tool",
+    "category": "Painting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Any painting / shape tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      }
+    ],
+    "id": "phw192"
+  },
+  {
+    "description": "Select background color",
+    "category": "Painting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Eyedropper tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click"
+      }
+    ],
+    "id": "phw193"
+  },
+  {
+    "description": "Color sampler tool",
+    "category": "Painting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Eyedropper tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      }
+    ],
+    "id": "phw194"
+  },
+  {
+    "description": "Deletes color sampler",
+    "category": "Painting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Color sampler tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click"
+      }
+    ],
+    "id": "phw195"
+  },
+  {
+    "description": "Sets opacity, tolerance, strength, or exposure for Painting Mode to 10%, 20% etc. use 0 for 100%, and use 2 numbers in quick succession for specific percentage.",
+    "category": "Painting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Any Painting / Editing Tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " 0..9"
+      }
+    ],
+    "id": "phw196"
+  },
+  {
+    "description": "Sets flow for Painting Mode",
+    "category": "Painting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Any Painting / Editing Tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "0..9"
+      }
+    ],
+    "id": "phw197"
+  },
+  {
+    "description": "Mixer Brush changes Mix setting",
+    "category": "Painting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " 1...9"
+      }
+    ],
+    "id": "phw198"
+  },
+  {
+    "description": "Mixer Brush changes Wet setting",
+    "category": "Painting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "1...9"
+      }
+    ],
+    "id": "phw199"
+  },
+  {
+    "description": "Mixer Brush changes Wet and Mix to zero",
+    "category": "Painting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "0 (zero)"
+      }
+    ],
+    "id": "phw200"
+  },
+  {
+    "description": "Cycle through blending modes",
+    "category": "Painting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "["
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "]/-"
+      }
+    ],
+    "id": "phw201"
+  },
+  {
+    "description": "Open Fill dialog box on background or standard layer",
+    "category": "Painting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Backspace"
+      }
+    ],
+    "id": "phw202"
+  },
+  {
+    "description": "Fill with foreground or background color",
+    "category": "Painting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Backspace"
+      }
+    ],
+    "id": "phw203"
+  },
+  {
+    "description": "Fill from history",
+    "category": "Painting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Backspace"
+      }
+    ],
+    "id": "phw204"
+  },
+  {
+    "description": "Displays Fill dialog box",
+    "category": "Painting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Backspace"
+      }
+    ],
+    "id": "phw205"
+  },
+  {
+    "description": "Lock transparent pixels on/ off",
+    "category": "Painting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "/"
+      }
+    ],
+    "id": "phw206"
+  },
+  {
+    "description": "Connects points with a straight line",
+    "category": "Painting Tools",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Any Painting Tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click"
+      }
+    ],
+    "id": "phw207"
+  },
+  {
+    "description": "Cycle through blending modes",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "["
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "]/-"
+      }
+    ],
+    "id": "phw208"
+  },
+  {
+    "description": "Normal",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "phw209"
+  },
+  {
+    "description": "Dissolve",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "phw210"
+  },
+  {
+    "description": "Behind (Brush tool only)",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Q"
+      }
+    ],
+    "id": "phw211"
+  },
+  {
+    "description": "Clear (Brush tool only)",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "phw212"
+  },
+  {
+    "description": "Darken",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "phw213"
+  },
+  {
+    "description": "Multiply",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "phw214"
+  },
+  {
+    "description": "Color Burn",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "phw215"
+  },
+  {
+    "description": "Linear Burn",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "phw216"
+  },
+  {
+    "description": "Lighten",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "phw217"
+  },
+  {
+    "description": "Screen",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "phw218"
+  },
+  {
+    "description": "Color Dodge",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "phw219"
+  },
+  {
+    "description": "Linear Dodge",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "phw220"
+  },
+  {
+    "description": "Overlay",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "phw221"
+  },
+  {
+    "description": "Soft Light",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "phw222"
+  },
+  {
+    "description": "Hard Light",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "phw223"
+  },
+  {
+    "description": "Vivid Light",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "phw224"
+  },
+  {
+    "description": "Linear Light",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "phw225"
+  },
+  {
+    "description": "Pin Light",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "phw226"
+  },
+  {
+    "description": "Hard Mix",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "phw227"
+  },
+  {
+    "description": "Difference",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "phw228"
+  },
+  {
+    "description": "Exclusion",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "phw229"
+  },
+  {
+    "description": "Hue",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "phw230"
+  },
+  {
+    "description": "Saturation",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "phw231"
+  },
+  {
+    "description": "Color",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "phw232"
+  },
+  {
+    "description": "Luminosity",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "phw233"
+  },
+  {
+    "description": "Desaturate",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Sponge tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "phw234"
+  },
+  {
+    "description": "Saturate",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Sponge tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "phw235"
+  },
+  {
+    "description": "Dodge/burn shadows",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Dodge tool/Burn tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "phw236"
+  },
+  {
+    "description": "Dodge/burn midtones",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Dodge tool/Burn tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "phw237"
+  },
+  {
+    "description": "Dodge/burn highlights",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Dodge tool/Burn tool "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "phw238"
+  },
+  {
+    "description": "Set blending mode Normal (or to to Threshold for bitmap images)",
+    "category": "Blending Modes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "phw239"
+  },
+  {
+    "description": "Move type in image",
+    "category": "Select and Edit Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag type when Type layer is selected"
+      }
+    ],
+    "id": "phw240"
+  },
+  {
+    "description": "Extend selection by 1 character",
+    "category": "Select and Edit Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "phw241"
+  },
+  {
+    "description": "Select characters from insertion point to mouse click point",
+    "category": "Select and Edit Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click"
+      }
+    ],
+    "id": "phw242"
+  },
+  {
+    "description": "Create a new text layer, when a text layer is selected in the Layers panel",
+    "category": "Select and Edit Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click"
+      }
+    ],
+    "id": "phw243"
+  },
+  {
+    "description": "Select a Word, Line, Paragraph, or Story",
+    "category": "Select and Edit Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Click 2x"
+      },
+      {
+        "type": "symbol",
+        "val": " 3x"
+      },
+      {
+        "type": "symbol",
+        "val": " 4x"
+      },
+      {
+        "type": "symbol",
+        "val": " / 5x in fast succession"
+      }
+    ],
+    "id": "phw244"
+  },
+  {
+    "description": "Hide/Show selection on selected type",
+    "category": "Select and Edit Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "phw245"
+  },
+  {
+    "description": "Display the Bounding Box for transforming text (or activate Move Tool when inside the Bounding Box)",
+    "category": "Select and Edit Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      }
+    ],
+    "id": "phw246"
+  },
+  {
+    "description": "Scale text within Bounding Box when resizing the bounding box",
+    "category": "Select and Edit Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag a Bounding Box handle"
+      }
+    ],
+    "id": "phw247"
+  },
+  {
+    "description": "Move text box while creating text box",
+    "category": "Select and Edit Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Space"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "phw248"
+  },
+  {
+    "description": "Align left, center, or right (Horizontal Type) or top, center, or bottom (Vertical Type)",
+    "category": "Format Text Type",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " L"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      },
+      {
+        "type": "symbol",
+        "val": " /R"
+      }
+    ],
+    "id": "phw249"
+  },
+  {
+    "description": "Choose 100% horizontal scale",
+    "category": "Format Text Type",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "phw250"
+  },
+  {
+    "description": "Choose 100% vertical scale",
+    "category": "Format Text Type",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "phw251"
+  },
+  {
+    "description": "Choose Auto leading",
+    "category": "Format Text Type",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "phw252"
+  },
+  {
+    "description": "Choose 0 for tracking",
+    "category": "Format Text Type",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Q"
+      }
+    ],
+    "id": "phw253"
+  },
+  {
+    "description": "Justify paragraph, left aligns last line",
+    "category": "Format Text Type",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "phw254"
+  },
+  {
+    "description": "Justify paragraph, justifies all",
+    "category": "Format Text Type",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "phw255"
+  },
+  {
+    "description": "Toggle paragraph hyphenation",
+    "category": "Format Text Type",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "phw256"
+  },
+  {
+    "description": "Toggle single/every-line composer",
+    "category": "Format Text Type",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "phw257"
+  },
+  {
+    "description": "Decrease/ increase Type Size by 2 points or pixels",
+    "category": "Format Text Type",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "</>"
+      }
+    ],
+    "id": "phw258"
+  },
+  {
+    "description": "Decrease/ increase leading 2 points or pixels",
+    "category": "Format Text Type",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down/Arrow Up"
+      }
+    ],
+    "id": "phw259"
+  },
+  {
+    "description": "Decrease/ increase Baseline Shift 2 points or pixels",
+    "category": "Format Text Type",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down/Arrow Up"
+      }
+    ],
+    "id": "phw260"
+  },
+  {
+    "description": "Decrease or increase kerning/tracking 20/1000 ems",
+    "category": "Format Text Type",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left/Arrow Right"
+      }
+    ],
+    "id": "phw261"
+  },
+  {
+    "description": "Toggle between Slice tool and Slice Selection tool",
+    "category": "Slicing and Optimizing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      }
+    ],
+    "id": "phw262"
+  },
+  {
+    "description": "Draw square slice",
+    "category": "Slicing and Optimizing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "phw263"
+  },
+  {
+    "description": "Draw from center outward",
+    "category": "Slicing and Optimizing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "phw264"
+  },
+  {
+    "description": "Draw square slice from center outward",
+    "category": "Slicing and Optimizing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "phw265"
+  },
+  {
+    "description": "Reposition slice while creating slice",
+    "category": "Slicing and Optimizing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Space"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Drag"
+      }
+    ],
+    "id": "phw266"
+  },
+  {
+    "description": "Open context-sensitive menu",
+    "category": "Slicing and Optimizing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Right-click slice"
+      }
+    ],
+    "id": "phw267"
+  },
+  {
+    "description": "Set options for new items (not for all Panels)",
+    "category": "Shortcuts for all Panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click New button"
+      }
+    ],
+    "id": "phw268"
+  },
+  {
+    "description": "Delete without confirmation (for all except for the Brush panel)",
+    "category": "Shortcuts for all Panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click Delete button"
+      }
+    ],
+    "id": "phw269"
+  },
+  {
+    "description": "Apply value and keep text box active",
+    "category": "Shortcuts for all Panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "phw270"
+  },
+  {
+    "description": "Show/Hide all panels",
+    "category": "Shortcuts for all Panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "phw271"
+  },
+  {
+    "description": "Show/Hide all panels except the toolbox and options bar",
+    "category": "Shortcuts for all Panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "phw272"
+  },
+  {
+    "description": "Highlight options bar",
+    "category": "Shortcuts for all Panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Select tool and press Enter"
+      }
+    ],
+    "id": "phw273"
+  },
+  {
+    "description": "Increase/decrease selected values by 10",
+    "category": "Shortcuts for all Panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up/Arrow Down"
+      }
+    ],
+    "id": "phw274"
+  },
+  {
+    "description": "Turn command on and all others off",
+    "category": "Actions Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click the check mark next to a command"
+      }
+    ],
+    "id": "phw275"
+  },
+  {
+    "description": "Turn current modal control on and toggle all other modal controls",
+    "category": "Actions Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click"
+      }
+    ],
+    "id": "phw276"
+  },
+  {
+    "description": "Change action or action set options",
+    "category": "Actions Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Double-click action"
+      }
+    ],
+    "id": "phw277"
+  },
+  {
+    "description": "Display Options dialog box for recorded command",
+    "category": "Actions Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Double-click recorded command"
+      }
+    ],
+    "id": "phw278"
+  },
+  {
+    "description": "Play entire action",
+    "category": "Actions Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Double-click action"
+      }
+    ],
+    "id": "phw279"
+  },
+  {
+    "description": "Collapse/ expand all components of an action",
+    "category": "Actions Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click the triangle"
+      }
+    ],
+    "id": "phw280"
+  },
+  {
+    "description": "Play a command",
+    "category": "Actions Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click the Play button"
+      }
+    ],
+    "id": "phw281"
+  },
+  {
+    "description": "Create new action and begin recording without confirmation",
+    "category": "Actions Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click the New Action button"
+      }
+    ],
+    "id": "phw282"
+  },
+  {
+    "description": "Select contiguous items of the same kind",
+    "category": "Actions Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click the action/Command"
+      }
+    ],
+    "id": "phw283"
+  },
+  {
+    "description": "Select discontiguous items of the same kind",
+    "category": "Actions Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click the action/Command"
+      }
+    ],
+    "id": "phw284"
+  },
+  {
+    "description": "Choose specific channel (Red/Green/Blue) for adjustment",
+    "category": "Adjustment Panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "3/4/5"
+      }
+    ],
+    "id": "phw285"
+  },
+  {
+    "description": "Choose composite channel for adjustment",
+    "category": "Adjustment Panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "2"
+      }
+    ],
+    "id": "phw286"
+  },
+  {
+    "description": "Delete adjustment layer",
+    "category": "Adjustment Panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Delete/Backspace"
+      }
+    ],
+    "id": "phw287"
+  },
+  {
+    "description": "Define Auto options for Levels or Curves",
+    "category": "Adjustment Panels",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click Auto button"
+      }
+    ],
+    "id": "phw288"
+  },
+  {
+    "description": "Select/deselect multiple contiguous frames",
+    "category": "Animation Panel in Fames Mode",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click second frame"
+      }
+    ],
+    "id": "phw289"
+  },
+  {
+    "description": "Select/deselect multiple discontiguous frames",
+    "category": "Animation Panel in Fames Mode",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click multiple frames"
+      }
+    ],
+    "id": "phw290"
+  },
+  {
+    "description": "Paste using previous settings without displaying the dialog box",
+    "category": "Animation Panel in Fames Mode",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " Paste Frames command from the Panel pop?up menu"
+      }
+    ],
+    "id": "phw291"
+  },
+  {
+    "description": "Delete brush",
+    "category": "Brush Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click brush"
+      }
+    ],
+    "id": "phw292"
+  },
+  {
+    "description": "Rename brush",
+    "category": "Brush Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Double-click brush"
+      }
+    ],
+    "id": "phw293"
+  },
+  {
+    "description": "Change brush size",
+    "category": "Brush Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " Right-click "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " drag left / right"
+      }
+    ],
+    "id": "phw294"
+  },
+  {
+    "description": "Decrease/ increase brush softness/ hardness",
+    "category": "Brush Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " Right-click "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " drag up / down"
+      }
+    ],
+    "id": "phw295"
+  },
+  {
+    "description": "Select previous/ next brush size",
+    "category": "Brush Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "symbol",
+        "val": "/."
+      }
+    ],
+    "id": "phw296"
+  },
+  {
+    "description": "Select first/last brush",
+    "category": "Brush Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "symbol",
+        "val": "/."
+      }
+    ],
+    "id": "phw297"
+  },
+  {
+    "description": "Display precise cross hair for brushes",
+    "category": "Brush Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Caps Lock"
+      }
+    ],
+    "id": "phw298"
+  },
+  {
+    "description": "Toggle airbrush option",
+    "category": "Brush Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "phw299"
+  },
+  {
+    "description": "Select individual channels (Red/Green/Blue)",
+    "category": "Channels Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "3/4/5"
+      }
+    ],
+    "id": "phw300"
+  },
+  {
+    "description": "Select composite channel",
+    "category": "Channels Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "2"
+      }
+    ],
+    "id": "phw301"
+  },
+  {
+    "description": "Load channel as selection (Red/Green/Blue)",
+    "category": "Channels Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click channel thumbnail"
+      },
+      {
+        "type": "symbol",
+        "val": " or Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "3/4/5"
+      }
+    ],
+    "id": "phw302"
+  },
+  {
+    "description": "Add to current selection",
+    "category": "Channels Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click channel thumbnail"
+      }
+    ],
+    "id": "phw303"
+  },
+  {
+    "description": "Subtract from current selection",
+    "category": "Channels Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click channel thumbnail"
+      }
+    ],
+    "id": "phw304"
+  },
+  {
+    "description": "Intersect with current selection",
+    "category": "Channels Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click channel thumbnail"
+      }
+    ],
+    "id": "phw305"
+  },
+  {
+    "description": "Set options for Save Selection As Channel button",
+    "category": "Channels Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click Save Selection As Channel button"
+      }
+    ],
+    "id": "phw306"
+  },
+  {
+    "description": "Create a new spot channel",
+    "category": "Channels Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click Create New Channel button"
+      }
+    ],
+    "id": "phw307"
+  },
+  {
+    "description": "Select/deselect multiple color-channel selection",
+    "category": "Channels Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click color channel"
+      }
+    ],
+    "id": "phw308"
+  },
+  {
+    "description": "Select/deselect alpha channel and show/hide as a rubylith overlay",
+    "category": "Channels Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click alpha channel"
+      }
+    ],
+    "id": "phw309"
+  },
+  {
+    "description": "Display channel options",
+    "category": "Channels Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Double-click alpha / spot channel thumbnail"
+      }
+    ],
+    "id": "phw310"
+  },
+  {
+    "description": "Toggle composite and grayscale mask in Quick Mask mode",
+    "category": "Channels Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "~"
+      }
+    ],
+    "id": "phw311"
+  },
+  {
+    "description": "Show Clone Source (overlays image)",
+    "category": "Clone Source Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      }
+    ],
+    "id": "phw312"
+  },
+  {
+    "description": "Nudge Clone Source",
+    "category": "Clone Source Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "phw313"
+  },
+  {
+    "description": "Rotate Clone Source",
+    "category": "Clone Source Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "</>"
+      }
+    ],
+    "id": "phw314"
+  },
+  {
+    "description": "Scale (increase or reduce size) Clone Source",
+    "category": "Clone Source Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "[/]"
+      }
+    ],
+    "id": "phw315"
+  },
+  {
+    "description": "Select background color",
+    "category": "Color Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click color in color bar"
+      }
+    ],
+    "id": "phw316"
+  },
+  {
+    "description": "Display Color Bar menu",
+    "category": "Color Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Right-click color bar"
+      }
+    ],
+    "id": "phw317"
+  },
+  {
+    "description": "Cycle through color choices",
+    "category": "Color Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click color bar"
+      }
+    ],
+    "id": "phw318"
+  },
+  {
+    "description": "Create a new snapshot",
+    "category": "History Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " New Snapshot"
+      }
+    ],
+    "id": "phw319"
+  },
+  {
+    "description": "Rename snapshot",
+    "category": "History Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Double-click snapshot name"
+      }
+    ],
+    "id": "phw320"
+  },
+  {
+    "description": "Step forward through image states",
+    "category": "History Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "phw321"
+  },
+  {
+    "description": "Step backward through image states",
+    "category": "History Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "phw322"
+  },
+  {
+    "description": "Duplicate any image state, except the current state",
+    "category": "History Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click the image state"
+      }
+    ],
+    "id": "phw323"
+  },
+  {
+    "description": "Permanently clear history (no Undo)",
+    "category": "History Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " Clear History (in History panel pop?up menu)"
+      }
+    ],
+    "id": "phw324"
+  },
+  {
+    "description": "Load layer transparency as a selection",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click layer thumbnail"
+      }
+    ],
+    "id": "phw325"
+  },
+  {
+    "description": "Add to current selection",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click layer thumbnail"
+      }
+    ],
+    "id": "phw326"
+  },
+  {
+    "description": "Subtract from current selection",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click layer thumbnail"
+      }
+    ],
+    "id": "phw327"
+  },
+  {
+    "description": "Intersect with current selection",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click layer thumbnail"
+      }
+    ],
+    "id": "phw328"
+  },
+  {
+    "description": "Load filter mask as a selection",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click filter mask thumbnail"
+      }
+    ],
+    "id": "phw329"
+  },
+  {
+    "description": "Group layers",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "phw330"
+  },
+  {
+    "description": "Ungroup layers",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "phw331"
+  },
+  {
+    "description": "Create/release clipping mask",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "phw332"
+  },
+  {
+    "description": "Select all layers",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "phw333"
+  },
+  {
+    "description": "Merge visible layers",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "phw334"
+  },
+  {
+    "description": "Create new empty layer with dialog box",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click New Layer button"
+      }
+    ],
+    "id": "phw335"
+  },
+  {
+    "description": "Create new layer below target layer",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click New Layer button"
+      }
+    ],
+    "id": "phw336"
+  },
+  {
+    "description": "Select top layer",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "."
+      }
+    ],
+    "id": "phw337"
+  },
+  {
+    "description": "Select bottom layer",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      }
+    ],
+    "id": "phw338"
+  },
+  {
+    "description": "Add to layer selection in Layers panel",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "[/]"
+      }
+    ],
+    "id": "phw339"
+  },
+  {
+    "description": "Select next layer down/up",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "[/]"
+      }
+    ],
+    "id": "phw340"
+  },
+  {
+    "description": "Move target layer down/up",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "[/]"
+      }
+    ],
+    "id": "phw341"
+  },
+  {
+    "description": "Merge a copy of all visible layers into target layer",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "phw342"
+  },
+  {
+    "description": "Merge layers",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Highlight layers you want to merge"
+      },
+      {
+        "type": "symbol",
+        "val": " then Control "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "phw343"
+  },
+  {
+    "description": "Move layer to bottom or top",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "[/]"
+      }
+    ],
+    "id": "phw344"
+  },
+  {
+    "description": "Copy current layer to layer below",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " Merge Down command from the Panel pop?up menu"
+      }
+    ],
+    "id": "phw345"
+  },
+  {
+    "description": "Merge all visible layers to a new layer above the currently selected layer",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " Merge Visible command from the Panel pop?up menu"
+      }
+    ],
+    "id": "phw346"
+  },
+  {
+    "description": "Show/hide this layer/layer group only or all layers/layer groups",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Right-click the eye icon"
+      }
+    ],
+    "id": "phw347"
+  },
+  {
+    "description": "Show/hide all other currently visible layers",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click the eye icon"
+      }
+    ],
+    "id": "phw348"
+  },
+  {
+    "description": "Toggle lock transparency for target layer, or last applied lock",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "/"
+      }
+    ],
+    "id": "phw349"
+  },
+  {
+    "description": "Edit layer effect/style, options",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Double-click layer effect/style"
+      }
+    ],
+    "id": "phw350"
+  },
+  {
+    "description": "Hide layer effect/style",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt-Double-click layer effect/style"
+      }
+    ],
+    "id": "phw351"
+  },
+  {
+    "description": "Edit layer style",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Double-click layer"
+      }
+    ],
+    "id": "phw352"
+  },
+  {
+    "description": "Disable/enable vector mask",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click vector mask thumbnail"
+      }
+    ],
+    "id": "phw353"
+  },
+  {
+    "description": "Open Layer Mask Display Options dialog box",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Double-click layer mask thumbnail"
+      }
+    ],
+    "id": "phw354"
+  },
+  {
+    "description": "Toggle layer mask on/off",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click layer mask thumbnail"
+      }
+    ],
+    "id": "phw355"
+  },
+  {
+    "description": "Toggle filter mask on/off",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click filter mask thumbnail"
+      }
+    ],
+    "id": "phw356"
+  },
+  {
+    "description": "Toggle between layer mask/composite image",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click layer mask thumbnail"
+      }
+    ],
+    "id": "phw357"
+  },
+  {
+    "description": "Toggle between filter mask/composite image",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click filter mask thumbnail"
+      }
+    ],
+    "id": "phw358"
+  },
+  {
+    "description": "Toggle rubylith mode for layer mask on/off",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "\\"
+      }
+    ],
+    "id": "phw359"
+  },
+  {
+    "description": "Select all type; temporarily select Type tool",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Double-click type layer thumbnail"
+      }
+    ],
+    "id": "phw360"
+  },
+  {
+    "description": "Create a clipping mask",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click the line dividing two layers"
+      }
+    ],
+    "id": "phw361"
+  },
+  {
+    "description": "Rename layer",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Double-click the layer name"
+      }
+    ],
+    "id": "phw362"
+  },
+  {
+    "description": "Edit filter settings",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Double-click the filter effect"
+      }
+    ],
+    "id": "phw363"
+  },
+  {
+    "description": "Edit the Filter Blending options",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Double-click the Filter Blending icon"
+      }
+    ],
+    "id": "phw364"
+  },
+  {
+    "description": "Create new layer group below current layer",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click New Group button"
+      }
+    ],
+    "id": "phw365"
+  },
+  {
+    "description": "Create new layer group with dialog box",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click New Group button"
+      }
+    ],
+    "id": "phw366"
+  },
+  {
+    "description": "Create layer mask that hides all (or selection)",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click Add Layer Mask button"
+      }
+    ],
+    "id": "phw367"
+  },
+  {
+    "description": "Create vector mask that reveals all (or path area)",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click Add Layer Mask button"
+      }
+    ],
+    "id": "phw368"
+  },
+  {
+    "description": "Create vector mask that hides all or displays path area",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click Add Layer Mask button"
+      }
+    ],
+    "id": "phw369"
+  },
+  {
+    "description": "Display layer group properties",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Right-click layer group and choose Group Properties"
+      },
+      {
+        "type": "symbol",
+        "val": " / Double-click group"
+      }
+    ],
+    "id": "phw370"
+  },
+  {
+    "description": "Select/ deselect multiple contiguous layers",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click"
+      }
+    ],
+    "id": "phw371"
+  },
+  {
+    "description": "Select/ deselect multiple discontiguous layers",
+    "category": "Layers Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click"
+      }
+    ],
+    "id": "phw372"
+  },
+  {
+    "description": "Create new layer comp without the New Layer Comp box",
+    "category": "Layer Comps Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click Create New Layer Comp button"
+      }
+    ],
+    "id": "phw373"
+  },
+  {
+    "description": "Open Layer Comp Options dialog box",
+    "category": "Layer Comps Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Double-click layer comp"
+      }
+    ],
+    "id": "phw374"
+  },
+  {
+    "description": "Rename in-line",
+    "category": "Layer Comps Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Double-click layer comp name"
+      }
+    ],
+    "id": "phw375"
+  },
+  {
+    "description": "Select/ deselect multiple contiguous layer comps",
+    "category": "Layer Comps Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click"
+      }
+    ],
+    "id": "phw376"
+  },
+  {
+    "description": "Select/ deselect multiple discontiguous layer comps",
+    "category": "Layer Comps Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click"
+      }
+    ],
+    "id": "phw377"
+  },
+  {
+    "description": "Load path as selection",
+    "category": "Paths Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click pathname"
+      }
+    ],
+    "id": "phw378"
+  },
+  {
+    "description": "Add path to selection",
+    "category": "Paths Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click pathname"
+      }
+    ],
+    "id": "phw379"
+  },
+  {
+    "description": "Subtract path from selection",
+    "category": "Paths Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click pathname"
+      }
+    ],
+    "id": "phw380"
+  },
+  {
+    "description": "Retain intersection of path as selection",
+    "category": "Paths Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click pathname"
+      }
+    ],
+    "id": "phw381"
+  },
+  {
+    "description": "Hide path",
+    "category": "Paths Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "phw382"
+  },
+  {
+    "description": "Set options for Fill Path with Foreground Color button, Stroke Path with Brush button, Load Path as a Selection button, Make Work Path from Selection button, and Create New Path button",
+    "category": "Paths Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click button"
+      }
+    ],
+    "id": "phw383"
+  },
+  {
+    "description": "Create new swatch from foreground color",
+    "category": "Swatches Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Click in empty area of panel"
+      }
+    ],
+    "id": "phw384"
+  },
+  {
+    "description": "Set swatch color as background color",
+    "category": "Swatches Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click swatch"
+      }
+    ],
+    "id": "phw385"
+  },
+  {
+    "description": "Delete swatch",
+    "category": "Swatches Panel",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Click swatch"
+      }
+    ],
+    "id": "phw386"
+  }
+]

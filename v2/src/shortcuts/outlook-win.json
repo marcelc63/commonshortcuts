@@ -1,0 +1,5917 @@
+[
+  {
+    "description": "Switch to Mail",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "1"
+      }
+    ],
+    "id": "ouw0"
+  },
+  {
+    "description": "Switch to Calendar",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "2"
+      }
+    ],
+    "id": "ouw1"
+  },
+  {
+    "description": "Switch to Contacts",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "3"
+      }
+    ],
+    "id": "ouw2"
+  },
+  {
+    "description": "Switch to Tasks",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "4"
+      }
+    ],
+    "id": "ouw3"
+  },
+  {
+    "description": "Switch to Notes",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "5"
+      }
+    ],
+    "id": "ouw4"
+  },
+  {
+    "description": "Switch to Folder List in Navigation Pane",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "6"
+      }
+    ],
+    "id": "ouw5"
+  },
+  {
+    "description": "Switch to Shortcuts",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "7"
+      }
+    ],
+    "id": "ouw6"
+  },
+  {
+    "description": "Switch to next/previous message (with message open)",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Period / Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Comma"
+      }
+    ],
+    "id": "ouw7"
+  },
+  {
+    "description": "Move between the Folder Pane, main Outlook window, Reading Pane, and To-Do Bar",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab or Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "ouw8"
+  },
+  {
+    "description": "Move between the Outlook window, the smaller panes in the Folder Pane, the Reading Pane, and the sections in the To-Do Bar",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "ouw9"
+  },
+  {
+    "description": "Move between the Outlook window, the smaller panes in the Folder Pane, the Reading Pane, and the sections in the To-Do Bar, and the menu access keys in the Outlook ribbon",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "ouw10"
+  },
+  {
+    "description": "Move around message header lines in the Folder Pane or an open message",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "ouw11"
+  },
+  {
+    "description": "Move around within the Folder Pane",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "ouw12"
+  },
+  {
+    "description": "Go to a different folder",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "ouw13"
+  },
+  {
+    "description": "Go to the Search box",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E or F3"
+      }
+    ],
+    "id": "ouw14"
+  },
+  {
+    "description": "In the Reading Pane, go to the previous message",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "symbol",
+        "val": " or Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up"
+      }
+    ],
+    "id": "ouw15"
+  },
+  {
+    "description": "In the Reading Pane, page down/up through text",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Space / Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      }
+    ],
+    "id": "ouw16"
+  },
+  {
+    "description": "Collapse or expand a group in the email message list, respectively",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Left Arrow Right"
+      }
+    ],
+    "id": "ouw17"
+  },
+  {
+    "description": "Go back to previous view in main Outlook window",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B or Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "ouw18"
+  },
+  {
+    "description": "Go forward to next view in main Outlook window",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "ouw19"
+  },
+  {
+    "description": "Select the InfoBar and, if available, show the menu of commands",
+    "category": "Basic Navigation",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "ouw20"
+  },
+  {
+    "description": "Find a message or other item",
+    "category": "Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "ouw21"
+  },
+  {
+    "description": "Clear the search results",
+    "category": "Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "ouw22"
+  },
+  {
+    "description": "Expand the search to include All Mail Items, All Calendar Items, or All Contact Items, depending on the selected Outlook function",
+    "category": "Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "ouw23"
+  },
+  {
+    "description": "Use Advanced Find",
+    "category": "Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "ouw24"
+  },
+  {
+    "description": "Create a Search Folder",
+    "category": "Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "ouw25"
+  },
+  {
+    "description": "Search for text within an open item",
+    "category": "Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "ouw26"
+  },
+  {
+    "description": "Find and replace text, symbols, or some formatting commands. Works in the Reading Pane on an open item",
+    "category": "Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "ouw27"
+  },
+  {
+    "description": "Expand search to include items from the current folder",
+    "category": "Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "ouw28"
+  },
+  {
+    "description": "Expand search to include subfolders",
+    "category": "Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "ouw29"
+  },
+  {
+    "description": "Save (except in Tasks)",
+    "category": "Common Commands: Common To Most Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S or Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F12"
+      }
+    ],
+    "id": "ouw30"
+  },
+  {
+    "description": "Save and close (except in Mail)",
+    "category": "Common Commands: Common To Most Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "ouw31"
+  },
+  {
+    "description": "Save as (only in Mail)",
+    "category": "Common Commands: Common To Most Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F12"
+      }
+    ],
+    "id": "ouw32"
+  },
+  {
+    "description": "Undo",
+    "category": "Common Commands: Common To Most Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z or Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Backspace"
+      }
+    ],
+    "id": "ouw33"
+  },
+  {
+    "description": "Delete an item",
+    "category": "Common Commands: Common To Most Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "ouw34"
+  },
+  {
+    "description": "Print",
+    "category": "Common Commands: Common To Most Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "ouw35"
+  },
+  {
+    "description": "Copy an item",
+    "category": "Common Commands: Common To Most Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "ouw36"
+  },
+  {
+    "description": "Move an item",
+    "category": "Common Commands: Common To Most Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "ouw37"
+  },
+  {
+    "description": "Check names",
+    "category": "Common Commands: Common To Most Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "ouw38"
+  },
+  {
+    "description": "Check spelling",
+    "category": "Common Commands: Common To Most Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "ouw39"
+  },
+  {
+    "description": "Flag for follow-up",
+    "category": "Common Commands: Common To Most Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "ouw40"
+  },
+  {
+    "description": "Forward",
+    "category": "Common Commands: Common To Most Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "ouw41"
+  },
+  {
+    "description": "Send or post or invite all",
+    "category": "Common Commands: Common To Most Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "ouw42"
+  },
+  {
+    "description": "Enable editing in a field (except in Mail or Icon view)",
+    "category": "Common Commands: Common To Most Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "ouw43"
+  },
+  {
+    "description": "Left align text",
+    "category": "Common Commands: Common To Most Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "ouw44"
+  },
+  {
+    "description": "Center text",
+    "category": "Common Commands: Common To Most Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "ouw45"
+  },
+  {
+    "description": "Right align text",
+    "category": "Common Commands: Common To Most Views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "ouw46"
+  },
+  {
+    "description": "Cut (selected text)",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X or Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "ouw47"
+  },
+  {
+    "description": "Copy (selected text),   NOTE: Ctrl+Insert is not available in the Reading Pane",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Insert"
+      }
+    ],
+    "id": "ouw48"
+  },
+  {
+    "description": "Paste (from clipboard)",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V or Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Insert"
+      }
+    ],
+    "id": "ouw49"
+  },
+  {
+    "description": "Bold",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "ouw50"
+  },
+  {
+    "description": "Underline",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "ouw51"
+  },
+  {
+    "description": "Italics",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "ouw52"
+  },
+  {
+    "description": "Increase font size",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "] or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ">"
+      }
+    ],
+    "id": "ouw53"
+  },
+  {
+    "description": "Decrease font size",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "[ or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "<"
+      }
+    ],
+    "id": "ouw54"
+  },
+  {
+    "description": "Switch case (selected text)",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "ouw55"
+  },
+  {
+    "description": "Format letters as small capitals",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "ouw56"
+  },
+  {
+    "description": "Display the Format menu",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "ouw57"
+  },
+  {
+    "description": "Display the Font dialog box",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "ouw58"
+  },
+  {
+    "description": "Add bullets",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "ouw59"
+  },
+  {
+    "description": "Increase Decrease indent",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T / Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "ouw60"
+  },
+  {
+    "description": "Left align",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "ouw61"
+  },
+  {
+    "description": "Center",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "ouw62"
+  },
+  {
+    "description": "Clear formatting",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      }
+    ],
+    "id": "ouw63"
+  },
+  {
+    "description": "Delete the next word",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "ouw64"
+  },
+  {
+    "description": "Stretch a paragraph to fit between the margins",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "ouw65"
+  },
+  {
+    "description": "Apply styles",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "ouw66"
+  },
+  {
+    "description": "Create/reduce a hanging indent",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T / Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "ouw67"
+  },
+  {
+    "description": "Insert a hyperlink",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "ouw68"
+  },
+  {
+    "description": "Left/Right align a paragraph",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L / Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "ouw69"
+  },
+  {
+    "description": "Remove paragraph formatting",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Q"
+      }
+    ],
+    "id": "ouw70"
+  },
+  {
+    "description": "Toggle show/hide formatting marks. Must be in email body for this to work.",
+    "category": "Common Commands: Format Text and work with Editor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "8"
+      }
+    ],
+    "id": "ouw71"
+  },
+  {
+    "description": "Edit a URL in the body of an item",
+    "category": "Common Commands: Add Links and Edit URLs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Left Mouse Click"
+      }
+    ],
+    "id": "ouw72"
+  },
+  {
+    "description": "Insert hyperlink",
+    "category": "Common Commands: Add Links and Edit URLs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "ouw73"
+  },
+  {
+    "description": "Create an appointment",
+    "category": "Common Commands: Create Item or File",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "ouw74"
+  },
+  {
+    "description": "Create a contact",
+    "category": "Common Commands: Create Item or File",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "ouw75"
+  },
+  {
+    "description": "Create a contact group",
+    "category": "Common Commands: Create Item or File",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "ouw76"
+  },
+  {
+    "description": "Create a fax",
+    "category": "Common Commands: Create Item or File",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "ouw77"
+  },
+  {
+    "description": "Create a folder",
+    "category": "Common Commands: Create Item or File",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "ouw78"
+  },
+  {
+    "description": "Create a meeting request",
+    "category": "Common Commands: Create Item or File",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Q"
+      }
+    ],
+    "id": "ouw79"
+  },
+  {
+    "description": "Create a message",
+    "category": "Common Commands: Create Item or File",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "ouw80"
+  },
+  {
+    "description": "Create a note",
+    "category": "Common Commands: Create Item or File",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "ouw81"
+  },
+  {
+    "description": "Create a Microsoft Office document",
+    "category": "Common Commands: Create Item or File",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "ouw82"
+  },
+  {
+    "description": "Post to this folder",
+    "category": "Common Commands: Create Item or File",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "ouw83"
+  },
+  {
+    "description": "Post a reply in this folder",
+    "category": "Common Commands: Create Item or File",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "ouw84"
+  },
+  {
+    "description": "Create a Search Folder",
+    "category": "Common Commands: Create Item or File",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "ouw85"
+  },
+  {
+    "description": "Create a task",
+    "category": "Common Commands: Create Item or File",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "ouw86"
+  },
+  {
+    "description": "Create a task request",
+    "category": "Common Commands: Create Item or File",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "ouw87"
+  },
+  {
+    "description": "Delete the selected category from the list in the Color Categories dialog box",
+    "category": "Common Commands: Color Categories",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "ouw88"
+  },
+  {
+    "description": "Open the Flag for Follow Up dialog box to assign a flag",
+    "category": "Common Commands: Flags",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "ouw89"
+  },
+  {
+    "description": "Switch to Inbox",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "ouw90"
+  },
+  {
+    "description": "Pop Out email reply in new window",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "ouw91"
+  },
+  {
+    "description": "Switch to Outbox",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "ouw92"
+  },
+  {
+    "description": "Choose the account from which to send a message",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "ouw93"
+  },
+  {
+    "description": "Check names",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "ouw94"
+  },
+  {
+    "description": "Send",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "ouw95"
+  },
+  {
+    "description": "Reply to a message",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "ouw96"
+  },
+  {
+    "description": "Reply all to a message",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "ouw97"
+  },
+  {
+    "description": "Reply with meeting request",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "ouw98"
+  },
+  {
+    "description": "Forward a message",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "ouw99"
+  },
+  {
+    "description": "Mark a message as not junk",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "ouw100"
+  },
+  {
+    "description": "Display blocked external content (in a message)",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "ouw101"
+  },
+  {
+    "description": "Post to a folder",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "ouw102"
+  },
+  {
+    "description": "Apply Normal style",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "ouw103"
+  },
+  {
+    "description": "Check for new messages",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M or F9"
+      }
+    ],
+    "id": "ouw104"
+  },
+  {
+    "description": "Go to the previous message",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "ouw105"
+  },
+  {
+    "description": "Go to the next message",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "ouw106"
+  },
+  {
+    "description": "Create a message (when in Mail)",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "ouw107"
+  },
+  {
+    "description": "Create a message (from any Outlook view)",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "ouw108"
+  },
+  {
+    "description": "Open a received message",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "ouw109"
+  },
+  {
+    "description": "Delete and Ignore a Conversation",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "ouw110"
+  },
+  {
+    "description": "Open the Address Book",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "ouw111"
+  },
+  {
+    "description": "Add a Quick Flag to an unopened message",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Insert"
+      }
+    ],
+    "id": "ouw112"
+  },
+  {
+    "description": "Display the Flag for Follow Up dialog box",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "ouw113"
+  },
+  {
+    "description": "Mark as read/unread",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Q / Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "ouw114"
+  },
+  {
+    "description": "Open the Mail Tip in the selected message",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "ouw115"
+  },
+  {
+    "description": "Find or replace",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "ouw116"
+  },
+  {
+    "description": "Find next",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "ouw117"
+  },
+  {
+    "description": "Send",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "ouw118"
+  },
+  {
+    "description": "Print",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "ouw119"
+  },
+  {
+    "description": "Forward",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "ouw120"
+  },
+  {
+    "description": "Forward as attachment",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "ouw121"
+  },
+  {
+    "description": "Show the properties for the selected item",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "ouw122"
+  },
+  {
+    "description": "Create a multimedia message",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "ouw123"
+  },
+  {
+    "description": "Mark for Download",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "ouw124"
+  },
+  {
+    "description": "Clear Mark for Download",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "ouw125"
+  },
+  {
+    "description": "Display Send/Receive progress",
+    "category": "Mail",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "ouw126"
+  },
+  {
+    "description": "Create an appointment (when in Calendar)",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "ouw127"
+  },
+  {
+    "description": "Create an appointment (in any Outlook view)",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "ouw128"
+  },
+  {
+    "description": "Create a meeting request",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Q"
+      }
+    ],
+    "id": "ouw129"
+  },
+  {
+    "description": "Forward an appointment or meeting",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "ouw130"
+  },
+  {
+    "description": "Reply to a meeting request with a message",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "ouw131"
+  },
+  {
+    "description": "Reply All to a meeting request with a message",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "ouw132"
+  },
+  {
+    "description": "Show 1 day in the calendar",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "1"
+      }
+    ],
+    "id": "ouw133"
+  },
+  {
+    "description": "Show 2 days in the calendar",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "2"
+      }
+    ],
+    "id": "ouw134"
+  },
+  {
+    "description": "Show 3 days in the calendar",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "3"
+      }
+    ],
+    "id": "ouw135"
+  },
+  {
+    "description": "Show 4 days in the calendar",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "3"
+      }
+    ],
+    "id": "ouw136"
+  },
+  {
+    "description": "Show 5 days in the calendar",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "5"
+      }
+    ],
+    "id": "ouw137"
+  },
+  {
+    "description": "Show 6 days in the calendar",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "6"
+      }
+    ],
+    "id": "ouw138"
+  },
+  {
+    "description": "Show 7 days in the calendar",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "7"
+      }
+    ],
+    "id": "ouw139"
+  },
+  {
+    "description": "Show 8days in the calendar",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "8"
+      }
+    ],
+    "id": "ouw140"
+  },
+  {
+    "description": "Show 9 days in the calendar",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "9"
+      }
+    ],
+    "id": "ouw141"
+  },
+  {
+    "description": "Show 10 days in the calendar",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "0"
+      }
+    ],
+    "id": "ouw142"
+  },
+  {
+    "description": "Go to a date",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "ouw143"
+  },
+  {
+    "description": "Switch to Month view",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "= or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "4"
+      }
+    ],
+    "id": "ouw144"
+  },
+  {
+    "description": "Go to the next/previous day",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right / Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "ouw145"
+  },
+  {
+    "description": "Go to the next/previous week",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down / Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "ouw146"
+  },
+  {
+    "description": "Go to the next/previous month",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down / Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up"
+      }
+    ],
+    "id": "ouw147"
+  },
+  {
+    "description": "Go to the start/end of the week",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home / Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "ouw148"
+  },
+  {
+    "description": "Switch to Full Week view",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "- or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "3"
+      }
+    ],
+    "id": "ouw149"
+  },
+  {
+    "description": "Switch to Work Week view",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "2"
+      }
+    ],
+    "id": "ouw150"
+  },
+  {
+    "description": "Go to previous/next appointment",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "symbol",
+        "val": " or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "symbol",
+        "val": " / Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ". or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "."
+      }
+    ],
+    "id": "ouw151"
+  },
+  {
+    "description": "Set up recurrence for an open appointment or meeting",
+    "category": "Calendar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "ouw152"
+  },
+  {
+    "description": "Dial a new call",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "ouw153"
+  },
+  {
+    "description": "Find a contact or other item (Search)",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F3 or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "ouw154"
+  },
+  {
+    "description": "Enter a name in the Search Address Books box",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "ouw155"
+  },
+  {
+    "description": "In Table or List view of contacts, go to first contact that starts with a specific letter",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "letter"
+      }
+    ],
+    "id": "ouw156"
+  },
+  {
+    "description": "Select all contacts",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "ouw157"
+  },
+  {
+    "description": "Create a message with selected contact as subject",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "ouw158"
+  },
+  {
+    "description": "Create a contact (when in Contacts)",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "ouw159"
+  },
+  {
+    "description": "Create a contact (from any Outlook view)",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "ouw160"
+  },
+  {
+    "description": "Open a contact form for the selected contact",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "ouw161"
+  },
+  {
+    "description": "Create a contact group",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "ouw162"
+  },
+  {
+    "description": "Print",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "ouw163"
+  },
+  {
+    "description": "Update a list of contact group members",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "ouw164"
+  },
+  {
+    "description": "Go to a different folder",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "ouw165"
+  },
+  {
+    "description": "Open the Address Book",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "ouw166"
+  },
+  {
+    "description": "Use Advanced Find",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "ouw167"
+  },
+  {
+    "description": "In an open contact, open the next contact listed",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "."
+      }
+    ],
+    "id": "ouw168"
+  },
+  {
+    "description": "Find a contact",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "ouw169"
+  },
+  {
+    "description": "Close a contact",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "ouw170"
+  },
+  {
+    "description": "Send a fax to the selected contact",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "ouw171"
+  },
+  {
+    "description": "Open the Check Address dialog box",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "ouw172"
+  },
+  {
+    "description": "In a contact form, under Internet, display the Email 1 information",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "1"
+      }
+    ],
+    "id": "ouw173"
+  },
+  {
+    "description": "In a contact form, under Internet, display the Email 2 information",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "2"
+      }
+    ],
+    "id": "ouw174"
+  },
+  {
+    "description": "In a contact form, under Internet, display the Email 3 information",
+    "category": "People",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "3"
+      }
+    ],
+    "id": "ouw175"
+  },
+  {
+    "description": "Open the Add list",
+    "category": "People: Electronic Business Cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "ouw176"
+  },
+  {
+    "description": "Select text in Label box when the field with a label assigned is selected",
+    "category": "People: Electronic Business Cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "ouw177"
+  },
+  {
+    "description": "Open the Add Card Picture dialog box",
+    "category": "People: Electronic Business Cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "ouw178"
+  },
+  {
+    "description": "Place cursor at beginning of Edit box",
+    "category": "People: Electronic Business Cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "ouw179"
+  },
+  {
+    "description": "Select the Fields box",
+    "category": "People: Electronic Business Cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "ouw180"
+  },
+  {
+    "description": "Select the Image Align drop-down list",
+    "category": "People: Electronic Business Cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "ouw181"
+  },
+  {
+    "description": "Select color palette for background",
+    "category": "People: Electronic Business Cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      },
+      {
+        "type": "symbol",
+        "val": " then Enter"
+      }
+    ],
+    "id": "ouw182"
+  },
+  {
+    "description": "Select Layout drop-down list",
+    "category": "People: Electronic Business Cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "ouw183"
+  },
+  {
+    "description": "Remove a selected field from the Fields box",
+    "category": "People: Electronic Business Cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "ouw184"
+  },
+  {
+    "description": "Accept a task request",
+    "category": "Tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "ouw185"
+  },
+  {
+    "description": "Decline a task request",
+    "category": "Tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "ouw186"
+  },
+  {
+    "description": "Find a task or other item",
+    "category": "Tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "ouw187"
+  },
+  {
+    "description": "Open the Go to Folder dialog box",
+    "category": "Tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "ouw188"
+  },
+  {
+    "description": "Create a task (when in Tasks)",
+    "category": "Tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "ouw189"
+  },
+  {
+    "description": "Create a task (from any Outlook view)",
+    "category": "Tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "ouw190"
+  },
+  {
+    "description": "Open selected item",
+    "category": "Tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "ouw191"
+  },
+  {
+    "description": "Print selected item",
+    "category": "Tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "ouw192"
+  },
+  {
+    "description": "Select all items",
+    "category": "Tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "ouw193"
+  },
+  {
+    "description": "Delete selected item",
+    "category": "Tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "ouw194"
+  },
+  {
+    "description": "Forward a task as an attachment",
+    "category": "Tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "ouw195"
+  },
+  {
+    "description": "Create a task request",
+    "category": "Tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "ouw196"
+  },
+  {
+    "description": "Switch between the Folder Pane, Tasks list, and To-Do Bar",
+    "category": "Tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab or Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "ouw197"
+  },
+  {
+    "description": "Undo last action",
+    "category": "Tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "ouw198"
+  },
+  {
+    "description": "Flag an item or mark complete",
+    "category": "Tasks",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Insert"
+      }
+    ],
+    "id": "ouw199"
+  },
+  {
+    "description": "Expand/collapse a single selected group",
+    "category": "Groups",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Right / Arrow Left"
+      }
+    ],
+    "id": "ouw200"
+  },
+  {
+    "description": "Select the previous/next group",
+    "category": "Groups",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Up / Arrow Down"
+      }
+    ],
+    "id": "ouw201"
+  },
+  {
+    "description": "Select the first/last group",
+    "category": "Groups",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home / End"
+      }
+    ],
+    "id": "ouw202"
+  },
+  {
+    "description": "Select the first item on screen in an expanded group or the first item off screen to the right",
+    "category": "Groups",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "ouw203"
+  },
+  {
+    "description": "Open Print tab in Backstage view",
+    "category": "Print",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      },
+      {
+        "type": "symbol",
+        "val": " then P"
+      }
+    ],
+    "id": "ouw204"
+  },
+  {
+    "description": "To print an item from an open window",
+    "category": "Print",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      },
+      {
+        "type": "symbol",
+        "val": " then F"
+      },
+      {
+        "type": "symbol",
+        "val": " then 1"
+      }
+    ],
+    "id": "ouw205"
+  },
+  {
+    "description": "Open Page Setup from Print Preview",
+    "category": "Print",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      },
+      {
+        "type": "symbol",
+        "val": " or Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "ouw206"
+  },
+  {
+    "description": "To select a printer from Print Preview",
+    "category": "Print",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      },
+      {
+        "type": "symbol",
+        "val": " then P"
+      },
+      {
+        "type": "symbol",
+        "val": " then I"
+      }
+    ],
+    "id": "ouw207"
+  },
+  {
+    "description": "To Define Print Styles",
+    "category": "Print",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      },
+      {
+        "type": "symbol",
+        "val": " then P"
+      },
+      {
+        "type": "symbol",
+        "val": " then L"
+      }
+    ],
+    "id": "ouw208"
+  },
+  {
+    "description": "To open Print Options",
+    "category": "Print",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      },
+      {
+        "type": "symbol",
+        "val": " then P"
+      },
+      {
+        "type": "symbol",
+        "val": " then R"
+      }
+    ],
+    "id": "ouw209"
+  },
+  {
+    "description": "Start a send/receive for all defined Send/Receive groups with Include this group in Send/Receive (F9) selected. This can include headers, full items, specified folders, items less than a specific size, or any combination that you define",
+    "category": "Send/Receive",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "ouw210"
+  },
+  {
+    "description": "Start a send/receive for the current folder, retrieving full items (header, item, and any attachments)",
+    "category": "Send/Receive",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "ouw211"
+  },
+  {
+    "description": "Start a send/receive",
+    "category": "Send/Receive",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "ouw212"
+  },
+  {
+    "description": "Define Send/Receive groups",
+    "category": "Send/Receive",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "ouw213"
+  },
+  {
+    "description": "Play Macro",
+    "category": "Macros",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "ouw214"
+  },
+  {
+    "description": "Open an item",
+    "category": "Views: Table View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "ouw215"
+  },
+  {
+    "description": "Select all items",
+    "category": "Views: Table View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "ouw216"
+  },
+  {
+    "description": "Go to the item at the bottom/top of the screen",
+    "category": "Views: Table View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Down / Page Up"
+      }
+    ],
+    "id": "ouw217"
+  },
+  {
+    "description": "Extend or reduce the selected items by one item",
+    "category": "Views: Table View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up or Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "ouw218"
+  },
+  {
+    "description": "Go to the next or previous item without extending the selection",
+    "category": "Views: Table View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "ouw219"
+  },
+  {
+    "description": "Select or cancel selection of the active item",
+    "category": "Views: Table View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      }
+    ],
+    "id": "ouw220"
+  },
+  {
+    "description": "Select a specific card in the list (type one or more letters of the name that the card)",
+    "category": "View: Business Cards/Address cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "a-z"
+      }
+    ],
+    "id": "ouw221"
+  },
+  {
+    "description": "Select the previous/next card",
+    "category": "View: Business Cards/Address cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Up / Arrow Down"
+      }
+    ],
+    "id": "ouw222"
+  },
+  {
+    "description": "Select the first/last card in the list",
+    "category": "View: Business Cards/Address cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home / End"
+      }
+    ],
+    "id": "ouw223"
+  },
+  {
+    "description": "Select the first card on the current/next page",
+    "category": "View: Business Cards/Address cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Up / Page Down"
+      }
+    ],
+    "id": "ouw224"
+  },
+  {
+    "description": "Select the closest card in the next/previous column",
+    "category": "View: Business Cards/Address cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Right / Arrow Left"
+      }
+    ],
+    "id": "ouw225"
+  },
+  {
+    "description": "Select or cancel selection of the active card",
+    "category": "View: Business Cards/Address cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      }
+    ],
+    "id": "ouw226"
+  },
+  {
+    "description": "Extend the selection to the previous card and cancel selection of cards after the starting point",
+    "category": "View: Business Cards/Address cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "ouw227"
+  },
+  {
+    "description": "Extend the selection to the next card and cancel selection of cards before the starting point",
+    "category": "View: Business Cards/Address cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "ouw228"
+  },
+  {
+    "description": "Extend the selection to the previous card, regardless of the starting point",
+    "category": "View: Business Cards/Address cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "ouw229"
+  },
+  {
+    "description": "Extend the selection to the next card, regardless of the starting point.",
+    "category": "View: Business Cards/Address cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "ouw230"
+  },
+  {
+    "description": "Extend the selection to the first/last card in the list",
+    "category": "View: Business Cards/Address cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home / Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "ouw231"
+  },
+  {
+    "description": "Extend the selection to the first/last card on the previous page",
+    "category": "View: Business Cards/Address cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up / Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
+      }
+    ],
+    "id": "ouw232"
+  },
+  {
+    "description": "Move to the next/previous field and control (in an open card)",
+    "category": "View: Business Cards/Address cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab / Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "ouw233"
+  },
+  {
+    "description": "Close the active card (in an open card)",
+    "category": "View: Business Cards/Address cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "ouw234"
+  },
+  {
+    "description": "Add a line in a multiline field   (when a field in a card is selected)",
+    "category": "View: Business Cards/Address cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "ouw235"
+  },
+  {
+    "description": "Move to the beginning/end of a line   (when a field in a card is selected)",
+    "category": "View: Business Cards/Address cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home / End"
+      }
+    ],
+    "id": "ouw236"
+  },
+  {
+    "description": "Move to the beginning/end of a multiline field   (when a field in a card is selected)",
+    "category": "View: Business Cards/Address cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Up / Page Down"
+      }
+    ],
+    "id": "ouw237"
+  },
+  {
+    "description": "Move to the previous/next line in a multiline field   (when a field in a card is selected)",
+    "category": "View: Business Cards/Address cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Up / Arrow Down"
+      }
+    ],
+    "id": "ouw238"
+  },
+  {
+    "description": "Move to the previous/next character in a field   (when a field in a card is selected)",
+    "category": "View: Business Cards/Address cards",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Left / Arrow Right"
+      }
+    ],
+    "id": "ouw239"
+  },
+  {
+    "description": "Select the previous/next item",
+    "category": "View: Timeline (Tasks) - When an item is selected",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Left / Arrow Right"
+      }
+    ],
+    "id": "ouw240"
+  },
+  {
+    "description": "Select several adjacent items",
+    "category": "View: Timeline (Tasks) - When an item is selected",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left or Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "ouw241"
+  },
+  {
+    "description": "Select several nonadjacent items",
+    "category": "View: Timeline (Tasks) - When an item is selected",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      }
+    ],
+    "id": "ouw242"
+  },
+  {
+    "description": "Open the selected items",
+    "category": "View: Timeline (Tasks) - When an item is selected",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "ouw243"
+  },
+  {
+    "description": "Select the first/last item on the timeline (if items are not grouped) or the first item in the group",
+    "category": "View: Timeline (Tasks) - When an item is selected",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home / End"
+      }
+    ],
+    "id": "ouw244"
+  },
+  {
+    "description": "Display (without selecting) the first/last item on the timeline (if items are not grouped) or the first item in the group",
+    "category": "View: Timeline (Tasks) - When an item is selected",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home / Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "ouw245"
+  },
+  {
+    "description": "Expand the group",
+    "category": "View: Timeline (Tasks) - When a group is selected",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter or Arrow Right"
+      }
+    ],
+    "id": "ouw246"
+  },
+  {
+    "description": "Collapse the group",
+    "category": "View: Timeline (Tasks) - When a group is selected",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter or Arrow Left"
+      }
+    ],
+    "id": "ouw247"
+  },
+  {
+    "description": "Select the previous/next group",
+    "category": "View: Timeline (Tasks) - When a group is selected",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Up Arrow Down"
+      }
+    ],
+    "id": "ouw248"
+  },
+  {
+    "description": "Select the first/last group on the timeline",
+    "category": "View: Timeline (Tasks) - When a group is selected",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home / End"
+      }
+    ],
+    "id": "ouw249"
+  },
+  {
+    "description": "Select the first item on screen in an expanded group or the first item off screen to the right",
+    "category": "View: Timeline (Tasks) - When a group is selected",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "ouw250"
+  },
+  {
+    "description": "Move backward/forward in increments of time that are the same as those shown on the time scale",
+    "category": "View: Timeline (Tasks) - When a unit of time for days is selected",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "ArrowLeft / Arrow Right"
+      }
+    ],
+    "id": "ouw251"
+  },
+  {
+    "description": "Switch between active view, To-Do Bar, Search and back to active view",
+    "category": "View: Timeline (Tasks) - When a unit of time for days is selected",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab and Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "ouw252"
+  },
+  {
+    "description": "View from 1 through 9 days",
+    "category": "View: Calendar - Day/Week/Month",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "key for number of days"
+      }
+    ],
+    "id": "ouw253"
+  },
+  {
+    "description": "View 10 days",
+    "category": "View: Calendar - Day/Week/Month",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "0"
+      }
+    ],
+    "id": "ouw254"
+  },
+  {
+    "description": "Switch to weeks",
+    "category": "View: Calendar - Day/Week/Month",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
+      }
+    ],
+    "id": "ouw255"
+  },
+  {
+    "description": "Switch to months",
+    "category": "View: Calendar - Day/Week/Month",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "="
+      }
+    ],
+    "id": "ouw256"
+  },
+  {
+    "description": "Move between Calendar, TaskPad, and the Folder List",
+    "category": "View: Calendar - Day/Week/Month",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab or F6"
+      }
+    ],
+    "id": "ouw257"
+  },
+  {
+    "description": "Select the previous appointment",
+    "category": "View: Calendar - Day/Week/Month",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "ouw258"
+  },
+  {
+    "description": "Go to the previous/next day",
+    "category": "View: Calendar - Day/Week/Month",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Left / Arrow Right"
+      }
+    ],
+    "id": "ouw259"
+  },
+  {
+    "description": "Go to the same day in the next/previous week",
+    "category": "View: Calendar - Day/Week/Month",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down / Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "ouw260"
+  },
+  {
+    "description": "Select the time that begins your work day",
+    "category": "View:  Calendar - Day View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "ouw261"
+  },
+  {
+    "description": "Select the time that ends your work day",
+    "category": "View:  Calendar - Day View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "ouw262"
+  },
+  {
+    "description": "Select the previous/next block of time",
+    "category": "View:  Calendar - Day View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Up / Arrow Down"
+      }
+    ],
+    "id": "ouw263"
+  },
+  {
+    "description": "Select the block of time at the top/bottom of the screen",
+    "category": "View:  Calendar - Day View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Up / Page Down"
+      }
+    ],
+    "id": "ouw264"
+  },
+  {
+    "description": "Extend or reduce the selected time",
+    "category": "View:  Calendar - Day View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up or Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "ouw265"
+  },
+  {
+    "description": "Move an appointment up or down",
+    "category": "View:  Calendar - Day View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up or Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "ouw266"
+  },
+  {
+    "description": "Change an appointment's start or end time",
+    "category": "View:  Calendar - Day View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up or Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "ouw267"
+  },
+  {
+    "description": "Move selected item to the same day in the next week",
+    "category": "View:  Calendar - Day View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "ouw268"
+  },
+  {
+    "description": "Move selected item to the same day in the previous week",
+    "category": "View:  Calendar - Day View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up or Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "ouw269"
+  },
+  {
+    "description": "Go to the start/end of work hours for the selected day",
+    "category": "View:  Calendar - Week View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home / End"
+      }
+    ],
+    "id": "ouw270"
+  },
+  {
+    "description": "Go up/down one page view in the selected day",
+    "category": "View:  Calendar - Week View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Up / Page Down"
+      }
+    ],
+    "id": "ouw271"
+  },
+  {
+    "description": "Change the duration of the selected block of time",
+    "category": "View:  Calendar - Week View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      },
+      {
+        "type": "symbol",
+        "val": " Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      },
+      {
+        "type": "symbol",
+        "val": " Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      },
+      {
+        "type": "symbol",
+        "val": " Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down or Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home or Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "ouw272"
+  },
+  {
+    "description": "Go to the first day of the week",
+    "category": "View: Calendar - Month View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "ouw273"
+  },
+  {
+    "description": "Go to the same day of the week in the previous/next page",
+    "category": "View: Calendar - Month View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Up / Page Down"
+      }
+    ],
+    "id": "ouw274"
+  },
+  {
+    "description": "Go to the first/last day of the current week",
+    "category": "Date Navigator",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home / Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "ouw275"
+  },
+  {
+    "description": "Go to the same day in the previous/next week",
+    "category": "Date Navigator",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up / Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "ouw276"
+  }
+]

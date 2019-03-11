@@ -16,11 +16,11 @@ export default new Vuex.Store({
     showNav: screen.width > 628 ? true : false,
     shortcuts: [],
     search: "",
-    bookmarks: { excel: [], vim: [] },
+    bookmarks: [],
     tab: "shortcuts",
-    collapse: { excel: [], vim: [] },
-    platform: "windows",
-    software: "excel",
+    collapse: [],
+    platform: "mac",
+    software: "excelmac",
     aboutus: true
   },
   mutations: {

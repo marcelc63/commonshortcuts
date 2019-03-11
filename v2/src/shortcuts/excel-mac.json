@@ -1,0 +1,4845 @@
+[
+  {
+    "description": "Paste",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "exm0"
+  },
+  {
+    "description": "Copy",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "exm1"
+  },
+  {
+    "description": "Clear",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "exm2"
+  },
+  {
+    "description": "Save",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "exm3"
+  },
+  {
+    "description": "Undo",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "exm4"
+  },
+  {
+    "description": "Redo",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "exm5"
+  },
+  {
+    "description": "Cut",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "exm6"
+  },
+  {
+    "description": "Bold",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "exm7"
+  },
+  {
+    "description": "Print",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "exm8"
+  },
+  {
+    "description": "Open Visual Basic",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "exm9"
+  },
+  {
+    "description": "Fill Down",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "exm10"
+  },
+  {
+    "description": "Fill Right",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "exm11"
+  },
+  {
+    "description": "Insert cells",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "="
+      }
+    ],
+    "id": "exm12"
+  },
+  {
+    "description": "Delete cells",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "- or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "- (hyphen)"
+      }
+    ],
+    "id": "exm13"
+  },
+  {
+    "description": "Calculate all open workbooks",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "= or F9"
+      }
+    ],
+    "id": "exm14"
+  },
+  {
+    "description": "Close window",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "exm15"
+  },
+  {
+    "description": "Quit Excel",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Q"
+      }
+    ],
+    "id": "exm16"
+  },
+  {
+    "description": "Display the Go To dialog box",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G or F5"
+      }
+    ],
+    "id": "exm17"
+  },
+  {
+    "description": "Display the Format Cells dialog box",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "1 or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "1"
+      }
+    ],
+    "id": "exm18"
+  },
+  {
+    "description": "Display the Replace dialog box",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H or ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "exm19"
+  },
+  {
+    "description": "Paste Special",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "exm20"
+  },
+  {
+    "description": "Underline",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "exm21"
+  },
+  {
+    "description": "Italic",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "exm22"
+  },
+  {
+    "description": "New blank workbook",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "exm23"
+  },
+  {
+    "description": "New workbook from template",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "exm24"
+  },
+  {
+    "description": "Display the Save As dialog box",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S or F12"
+      }
+    ],
+    "id": "exm25"
+  },
+  {
+    "description": "Display the Help window",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F1 or ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "/"
+      }
+    ],
+    "id": "exm26"
+  },
+  {
+    "description": "Select All",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A or ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      }
+    ],
+    "id": "exm27"
+  },
+  {
+    "description": "Add or remove a filter",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "exm28"
+  },
+  {
+    "description": "Minimize or maximize the ribbon tabs",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "exm29"
+  },
+  {
+    "description": "Display the Open dialog box",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "exm30"
+  },
+  {
+    "description": "Check spelling",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "exm31"
+  },
+  {
+    "description": "Open the thesaurus",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "exm32"
+  },
+  {
+    "description": "Display the Formula Builder",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "exm33"
+  },
+  {
+    "description": "Open the Define Name dialog box",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "exm34"
+  },
+  {
+    "description": "Open the Create names dialog box",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "exm35"
+  },
+  {
+    "description": "Insert a new sheet *",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "exm36"
+  },
+  {
+    "description": "Print",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "exm37"
+  },
+  {
+    "description": "Print preview",
+    "category": "Frequently used shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "exm38"
+  },
+  {
+    "description": "*Some Windows keyboard shortcuts conflict with the corresponding default Mac OS keyboard shortcuts. This topic flags such shortcuts with an asterisk ( * ). To use these shortcuts, you may have to change your Mac keyboard settings to change the Show Desktop shortcut for the key.",
+    "category": "Frequently used shortcuts",
+    "shortcut": [],
+    "id": "exm39"
+  },
+  {
+    "description": "Expand or minimize the ribbon",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "exm40"
+  },
+  {
+    "description": "Switch to full screen view",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "exm41"
+  },
+  {
+    "description": "Switch to the next application",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "exm42"
+  },
+  {
+    "description": "Switch to the previous application",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "exm43"
+  },
+  {
+    "description": "Close the active workbook window",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "exm44"
+  },
+  {
+    "description": "Copy the image of the screen and save it to a Screen Shot file on your desktop.",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "3"
+      }
+    ],
+    "id": "exm45"
+  },
+  {
+    "description": "Minimize the active window",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "exm46"
+  },
+  {
+    "description": "Maximize or restore the active window",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F10 or ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F10"
+      }
+    ],
+    "id": "exm47"
+  },
+  {
+    "description": "Hide Excel.",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "exm48"
+  },
+  {
+    "description": "Move to the next box, option, control, or command",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "exm49"
+  },
+  {
+    "description": "Move to the previous box, option, control, or command",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "exm50"
+  },
+  {
+    "description": "Exit a dialog or cancel an action",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "exm51"
+  },
+  {
+    "description": "Perform the action assigned to the default command button (the button with the bold outline, often the OK button)",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "exm52"
+  },
+  {
+    "description": "Cancel the command and close",
+    "category": "Work in windows and dialogs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "exm53"
+  },
+  {
+    "description": "Move one cell up, down, left, or right",
+    "category": "Move and scroll in a sheet or workbook",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "exm54"
+  },
+  {
+    "description": "Move to the edge of the current data region",
+    "category": "Move and scroll in a sheet or workbook",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Key"
+      }
+    ],
+    "id": "exm55"
+  },
+  {
+    "description": "Move to the beginning of the row",
+    "category": "Move and scroll in a sheet or workbook",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "exm56"
+  },
+  {
+    "description": "Move to the beginning of the sheet",
+    "category": "Move and scroll in a sheet or workbook",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "exm57"
+  },
+  {
+    "description": "Move to the last cell in use on the sheet",
+    "category": "Move and scroll in a sheet or workbook",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "exm58"
+  },
+  {
+    "description": "Move down one screen",
+    "category": "Move and scroll in a sheet or workbook",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Down"
+      }
+    ],
+    "id": "exm59"
+  },
+  {
+    "description": "Move up one screen",
+    "category": "Move and scroll in a sheet or workbook",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Up"
+      }
+    ],
+    "id": "exm60"
+  },
+  {
+    "description": "Move one screen to the right",
+    "category": "Move and scroll in a sheet or workbook",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
+      }
+    ],
+    "id": "exm61"
+  },
+  {
+    "description": "Move one screen to the left",
+    "category": "Move and scroll in a sheet or workbook",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up"
+      }
+    ],
+    "id": "exm62"
+  },
+  {
+    "description": "Move to the next sheet in the workbook",
+    "category": "Move and scroll in a sheet or workbook",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down or Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "exm63"
+  },
+  {
+    "description": "Move to the previous sheet in the workbook",
+    "category": "Move and scroll in a sheet or workbook",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down or Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "exm64"
+  },
+  {
+    "description": "Scroll to display the active cell",
+    "category": "Move and scroll in a sheet or workbook",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "exm65"
+  },
+  {
+    "description": "Display the Go To dialog box",
+    "category": "Move and scroll in a sheet or workbook",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "exm66"
+  },
+  {
+    "description": "Display the Find dialog box",
+    "category": "Move and scroll in a sheet or workbook",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F or Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "exm67"
+  },
+  {
+    "description": "Access search (when in a cell or when a cell is selected)",
+    "category": "Move and scroll in a sheet or workbook",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "exm68"
+  },
+  {
+    "description": "Move between unlocked cells on a protected sheet",
+    "category": "Move and scroll in a sheet or workbook",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "exm69"
+  },
+  {
+    "description": "Edit the selected cell",
+    "category": "Enter data on a sheet",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "exm70"
+  },
+  {
+    "description": "Complete a cell entry and move forward in the selection",
+    "category": "Enter data on a sheet",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "exm71"
+  },
+  {
+    "description": "Start a new line in the same cell",
+    "category": "Enter data on a sheet",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "exm72"
+  },
+  {
+    "description": "Fill the selected cell range with the text that you type",
+    "category": "Enter data on a sheet",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Return or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "exm73"
+  },
+  {
+    "description": "Complete a cell entry and move up in the selection",
+    "category": "Enter data on a sheet",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "exm74"
+  },
+  {
+    "description": "Complete a cell entry and move to the right in the selection",
+    "category": "Enter data on a sheet",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "exm75"
+  },
+  {
+    "description": "Complete a cell entry and move to the left in the selection",
+    "category": "Enter data on a sheet",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "exm76"
+  },
+  {
+    "description": "Cancel a cell entry",
+    "category": "Enter data on a sheet",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "exm77"
+  },
+  {
+    "description": "Delete the character to the left of the insertion point, or delete the selection",
+    "category": "Enter data on a sheet",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "exm78"
+  },
+  {
+    "description": "Delete the character to the right of the insertion point, or delete the selection",
+    "category": "Enter data on a sheet",
+    "shortcut": [],
+    "id": "exm79"
+  },
+  {
+    "description": "Note: Some smaller keyboards do not have this key",
+    "category": "Enter data on a sheet",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "On a MacBook"
+      },
+      {
+        "type": "symbol",
+        "val": " pressFn"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "exm80"
+  },
+  {
+    "description": "Note: Some smaller keyboards do not have this key",
+    "category": "Enter data on a sheet",
+    "shortcut": [],
+    "id": "exm81"
+  },
+  {
+    "description": "Move one character up, down, left, or right",
+    "category": "Enter data on a sheet",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "exm82"
+  },
+  {
+    "description": "Move to the beginning of the line",
+    "category": "Enter data on a sheet",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "exm83"
+  },
+  {
+    "description": "Insert a comment",
+    "category": "Enter data on a sheet",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "exm84"
+  },
+  {
+    "description": "Open and edit a cell comment",
+    "category": "Enter data on a sheet",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "exm85"
+  },
+  {
+    "description": "Fill down",
+    "category": "Enter data on a sheet",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D or ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "exm86"
+  },
+  {
+    "description": "Fill to the right",
+    "category": "Enter data on a sheet",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R or ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "exm87"
+  },
+  {
+    "description": "Define a name",
+    "category": "Enter data on a sheet",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "exm88"
+  },
+  {
+    "description": "Edit the selected cell",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "exm89"
+  },
+  {
+    "description": "Edit the active cell and then clear it, or delete the preceding character in the active cell as you edit the cell contents",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "exm90"
+  },
+  {
+    "description": "Complete a cell entry",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "exm91"
+  },
+  {
+    "description": "Enter a formula as an array formula",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Return or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "exm92"
+  },
+  {
+    "description": "Cancel an entry in the cell or formula bar",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "exm93"
+  },
+  {
+    "description": "Display the Formula Builder after you type a valid function name in a formula",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "exm94"
+  },
+  {
+    "description": "Insert a hyperlink",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "exm95"
+  },
+  {
+    "description": "Edit the active cell and position the insertion point at the end of the line",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "exm96"
+  },
+  {
+    "description": "Open the Formula Builder",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "exm97"
+  },
+  {
+    "description": "Calculate the active sheet",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "exm98"
+  },
+  {
+    "description": "Display a contextual menu",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F10"
+      }
+    ],
+    "id": "exm99"
+  },
+  {
+    "description": "Start a formula",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "="
+      }
+    ],
+    "id": "exm100"
+  },
+  {
+    "description": "Toggle the formula reference style between absolute, relative, and mixed",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T or F4"
+      }
+    ],
+    "id": "exm101"
+  },
+  {
+    "description": "Insert the AutoSum formula",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "exm102"
+  },
+  {
+    "description": "Enter the date",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "; (semicolon)"
+      }
+    ],
+    "id": "exm103"
+  },
+  {
+    "description": "Enter the time",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "; (semicolon)"
+      }
+    ],
+    "id": "exm104"
+  },
+  {
+    "description": "Copy the value from the cell above the active cell into the cell or the formula bar",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "\" (inchmark)"
+      }
+    ],
+    "id": "exm105"
+  },
+  {
+    "description": "Alternate between displaying cell values and displaying cell formulas",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "` (grave accent)"
+      }
+    ],
+    "id": "exm106"
+  },
+  {
+    "description": "Copy a formula from the cell above the active cell into the cell or the formula bar",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "' (apostrophe))"
+      }
+    ],
+    "id": "exm107"
+  },
+  {
+    "description": "Display the AutoComplete list",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "exm108"
+  },
+  {
+    "description": "Define a name",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "exm109"
+  },
+  {
+    "description": "Open the Smart Lookup pane",
+    "category": "Work in cells or the Formula bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "exm110"
+  },
+  {
+    "description": "Edit the selected cell",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "exm111"
+  },
+  {
+    "description": "Create a table",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "exm112"
+  },
+  {
+    "description": "Insert a line break in a cell",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Return or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "exm113"
+  },
+  {
+    "description": "Insert special characters like symbols, including emoji",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Spacebar or ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      }
+    ],
+    "id": "exm114"
+  },
+  {
+    "description": "Increase font size",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ">"
+      }
+    ],
+    "id": "exm115"
+  },
+  {
+    "description": "Decrease font size",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "<"
+      }
+    ],
+    "id": "exm116"
+  },
+  {
+    "description": "Align center",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "exm117"
+  },
+  {
+    "description": "Align left",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "exm118"
+  },
+  {
+    "description": "Display the Modify Cell Style dialog box",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "exm119"
+  },
+  {
+    "description": "Display the Format Cells dialog box",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "1"
+      }
+    ],
+    "id": "exm120"
+  },
+  {
+    "description": "Apply the general number format",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "~"
+      }
+    ],
+    "id": "exm121"
+  },
+  {
+    "description": "Apply the currency format with two decimal places (negative numbers appear in red with parentheses)",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "$"
+      }
+    ],
+    "id": "exm122"
+  },
+  {
+    "description": "Apply the percentage format with no decimal places",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "%"
+      }
+    ],
+    "id": "exm123"
+  },
+  {
+    "description": "Apply the exponential number format with two decimal places",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "^"
+      }
+    ],
+    "id": "exm124"
+  },
+  {
+    "description": "Apply the date format with the day, month, and year",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "#"
+      }
+    ],
+    "id": "exm125"
+  },
+  {
+    "description": "Apply the time format with the hour and minute, and indicate AM or PM",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "@"
+      }
+    ],
+    "id": "exm126"
+  },
+  {
+    "description": "Apply the number format with two decimal places, thousands separator, and minus sign (-) for negative values",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "!"
+      }
+    ],
+    "id": "exm127"
+  },
+  {
+    "description": "Apply the outline border around the selected cells",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "0"
+      }
+    ],
+    "id": "exm128"
+  },
+  {
+    "description": "Add an outline border to the right of the selection",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "exm129"
+  },
+  {
+    "description": "Add an outline border to the left of the selection",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "exm130"
+  },
+  {
+    "description": "Add an outline border to the top of the selection",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "exm131"
+  },
+  {
+    "description": "Add an outline border to the bottom of the selection",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "exm132"
+  },
+  {
+    "description": "Remove outline borders",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "- (hyphen)"
+      }
+    ],
+    "id": "exm133"
+  },
+  {
+    "description": "Apply or remove bold formatting",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "exm134"
+  },
+  {
+    "description": "Apply or remove italic formatting",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "exm135"
+  },
+  {
+    "description": "Apply or remove underscoring",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "exm136"
+  },
+  {
+    "description": "Apply or remove strikethrough formatting",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "exm137"
+  },
+  {
+    "description": "Hide a column",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ") or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ")"
+      }
+    ],
+    "id": "exm138"
+  },
+  {
+    "description": "Unhide a column",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ") or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ")"
+      }
+    ],
+    "id": "exm139"
+  },
+  {
+    "description": "Hide a row",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "( or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "("
+      }
+    ],
+    "id": "exm140"
+  },
+  {
+    "description": "Unhide a row",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "( or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "("
+      }
+    ],
+    "id": "exm141"
+  },
+  {
+    "description": "Edit the active cell",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "exm142"
+  },
+  {
+    "description": "Cancel an entry in the cell or the formula bar",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "exm143"
+  },
+  {
+    "description": "Edit the active cell and then clear it, or delete the preceding character in the active cell as you edit the cell contents",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "exm144"
+  },
+  {
+    "description": "Paste text into the active cell",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "exm145"
+  },
+  {
+    "description": "Complete a cell entry",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "exm146"
+  },
+  {
+    "description": "Give selected cells the current cell's entry",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Return or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "exm147"
+  },
+  {
+    "description": "Enter a formula as an array formula",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Return or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "exm148"
+  },
+  {
+    "description": "Display the Formula Builder after you type a valid function name in a formula",
+    "category": "Format and edit data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "exm149"
+  },
+  {
+    "description": "Extend the selection by one cell",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Key"
+      }
+    ],
+    "id": "exm150"
+  },
+  {
+    "description": "Extend the selection to the last nonblank cell in the same column or row as the active cell",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Key"
+      }
+    ],
+    "id": "exm151"
+  },
+  {
+    "description": "Extend the selection to the beginning of the row",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "exm152"
+  },
+  {
+    "description": "Extend the selection to the beginning of the sheet",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "exm153"
+  },
+  {
+    "description": "Extend the selection to the last cell used on the sheet (lower-right corner)",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "exm154"
+  },
+  {
+    "description": "Select the entire column",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      }
+    ],
+    "id": "exm155"
+  },
+  {
+    "description": "Select the entire row",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      }
+    ],
+    "id": "exm156"
+  },
+  {
+    "description": "Select the entire sheet",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "exm157"
+  },
+  {
+    "description": "Select only visible cells",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "* (asterisk)"
+      }
+    ],
+    "id": "exm158"
+  },
+  {
+    "description": "Select only the active cell when multiple cells are selected",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "exm159"
+  },
+  {
+    "description": "Extend the selection down one screen",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
+      }
+    ],
+    "id": "exm160"
+  },
+  {
+    "description": "Extend the selection up one screen",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up"
+      }
+    ],
+    "id": "exm161"
+  },
+  {
+    "description": "Alternate between hiding objects, displaying objects, and displaying placeholders for objects",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "6"
+      }
+    ],
+    "id": "exm162"
+  },
+  {
+    "description": "Turn on the capability to extend a selection by using the arrow keys",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "exm163"
+  },
+  {
+    "description": "Add another range of cells to the selection",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "exm164"
+  },
+  {
+    "description": "Select the current array, which is the array that the active cell belongs to.",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "/"
+      }
+    ],
+    "id": "exm165"
+  },
+  {
+    "description": "Select cells in a row that don't match the value in the active cell in that row. You must select the row starting with the active cell.",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "\\"
+      }
+    ],
+    "id": "exm166"
+  },
+  {
+    "description": "Select only cells that are directly referred to by formulas in the selection",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "["
+      }
+    ],
+    "id": "exm167"
+  },
+  {
+    "description": "Select all cells that are directly or indirectly referred to by formulas in the selection",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "{"
+      }
+    ],
+    "id": "exm168"
+  },
+  {
+    "description": "Select only cells with formulas that refer directly to the active cell",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "]"
+      }
+    ],
+    "id": "exm169"
+  },
+  {
+    "description": "Select all cells with formulas that refer directly or indirectly to the active cell",
+    "category": "Select cells, columns, or rows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "}"
+      }
+    ],
+    "id": "exm170"
+  },
+  {
+    "description": "Copy",
+    "category": "Work with a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "exm171"
+  },
+  {
+    "description": "Paste",
+    "category": "Work with a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "exm172"
+  },
+  {
+    "description": "Cut",
+    "category": "Work with a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "exm173"
+  },
+  {
+    "description": "Clear",
+    "category": "Work with a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "exm174"
+  },
+  {
+    "description": "Delete the selection",
+    "category": "Work with a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "- (hyphen)"
+      }
+    ],
+    "id": "exm175"
+  },
+  {
+    "description": "Undo the last action",
+    "category": "Work with a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "exm176"
+  },
+  {
+    "description": "Hide a column",
+    "category": "Work with a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ") or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ")"
+      }
+    ],
+    "id": "exm177"
+  },
+  {
+    "description": "Unhide a column",
+    "category": "Work with a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ") or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ")"
+      }
+    ],
+    "id": "exm178"
+  },
+  {
+    "description": "Hide a row",
+    "category": "Work with a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "( or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "("
+      }
+    ],
+    "id": "exm179"
+  },
+  {
+    "description": "Unhide a row",
+    "category": "Work with a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "( or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "("
+      }
+    ],
+    "id": "exm180"
+  },
+  {
+    "description": "Move from top to bottom within the selection (down)*",
+    "category": "Work with a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "exm181"
+  },
+  {
+    "description": "Move from bottom to top within the selection (up)*",
+    "category": "Work with a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "exm182"
+  },
+  {
+    "description": "Move from left to right within the selection, or move down one cell if only one column is selected",
+    "category": "Work with a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "exm183"
+  },
+  {
+    "description": "Move from right to left within the selection, or move down one cell if only one column is selected",
+    "category": "Work with a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "exm184"
+  },
+  {
+    "description": "Move clockwise to the next corner of the selection",
+    "category": "Work with a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ". (period)"
+      }
+    ],
+    "id": "exm185"
+  },
+  {
+    "description": "Group selected cells",
+    "category": "Work with a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "exm186"
+  },
+  {
+    "description": "Ungroup selected cells",
+    "category": "Work with a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "exm187"
+  },
+  {
+    "description": "*These shortcuts may move in another direction other than down or up. If you'd like to change the direction of these shortcuts using the mouse, on the Excel menu, click Preferences, click Edit, and then, under. After pressing Return, move selection, select the direction you want to move in.",
+    "category": "Work with a selection",
+    "shortcut": [],
+    "id": "exm188"
+  },
+  {
+    "description": "Insert a new chart sheet.",
+    "category": "Use charts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "exm189"
+  },
+  {
+    "description": "Cycle through chart object selection",
+    "category": "Use charts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "ArrowKeys"
+      }
+    ],
+    "id": "exm190"
+  },
+  {
+    "description": "Open the Sort dialog box",
+    "category": "Sort, filter, and use PivotTable reports",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "exm191"
+  },
+  {
+    "description": "Add or remove a filter",
+    "category": "Sort, filter, and use PivotTable reports",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "exm192"
+  },
+  {
+    "description": "Display the Filter list or PivotTable page field pop-up menu for the selected cell",
+    "category": "Sort, filter, and use PivotTable reports",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "exm193"
+  },
+  {
+    "description": "Display or hide outline symbols",
+    "category": "Outline data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "8"
+      }
+    ],
+    "id": "exm194"
+  },
+  {
+    "description": "Hide selected rows",
+    "category": "Outline data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "9"
+      }
+    ],
+    "id": "exm195"
+  },
+  {
+    "description": "Unhide selected rows",
+    "category": "Outline data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "( (opening parenthesis)"
+      }
+    ],
+    "id": "exm196"
+  },
+  {
+    "description": "Hide selected columns",
+    "category": "Outline data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "0 (zero)"
+      }
+    ],
+    "id": "exm197"
+  },
+  {
+    "description": "Unhide selected columns",
+    "category": "Outline data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ") (closing parenthesis)"
+      }
+    ],
+    "id": "exm198"
+  },
+  {
+    "description": "Display the Help window",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F1"
+      }
+    ],
+    "id": "exm199"
+  },
+  {
+    "description": "Edit the selected cell",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "exm200"
+  },
+  {
+    "description": "Insert or edit a cell comment",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "exm201"
+  },
+  {
+    "description": "Open the Save dialog",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "exm202"
+  },
+  {
+    "description": "Open the Formula Builder",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "exm203"
+  },
+  {
+    "description": "Open the Define Name dialog",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "exm204"
+  },
+  {
+    "description": "Close",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "exm205"
+  },
+  {
+    "description": "Display the Go To dialog",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "exm206"
+  },
+  {
+    "description": "Display the Find dialog",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "exm207"
+  },
+  {
+    "description": "Move to the Search Sheet dialog",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "exm208"
+  },
+  {
+    "description": "Check spelling",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "exm209"
+  },
+  {
+    "description": "Open the thesaurus",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F7 or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "exm210"
+  },
+  {
+    "description": "Extend the selection",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "exm211"
+  },
+  {
+    "description": "Add to the selection",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "exm212"
+  },
+  {
+    "description": "Display the Macro dialog",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "exm213"
+  },
+  {
+    "description": "Calculate all open workbooks",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "exm214"
+  },
+  {
+    "description": "Calculate the active sheet",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "exm215"
+  },
+  {
+    "description": "Minimize the active window",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "exm216"
+  },
+  {
+    "description": "Display a contextual menu, or \"right click\" menu",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F10"
+      }
+    ],
+    "id": "exm217"
+  },
+  {
+    "description": "Maximize or restore the active window",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F10 or ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F10"
+      }
+    ],
+    "id": "exm218"
+  },
+  {
+    "description": "Insert a new chart sheet*",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "exm219"
+  },
+  {
+    "description": "Insert a new sheet*",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "exm220"
+  },
+  {
+    "description": "Insert an Excel 4.0 macro sheet",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "exm221"
+  },
+  {
+    "description": "Open Visual Basic",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "exm222"
+  },
+  {
+    "description": "Display the Save As dialog",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F12"
+      }
+    ],
+    "id": "exm223"
+  },
+  {
+    "description": "Display the Open dialog",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F12"
+      }
+    ],
+    "id": "exm224"
+  }  
+]

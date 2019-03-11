@@ -1,0 +1,4872 @@
+[
+  {
+    "description": "Undo the last action",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "wom0"
+  },
+  {
+    "description": "Cut selected text or graphics",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "wom1"
+  },
+  {
+    "description": "Copy selected text or graphics to the Clipboard",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "wom2"
+  },
+  {
+    "description": "Paste the Clipboard contents",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "wom3"
+  },
+  {
+    "description": "Choose the Go To command (Edit menu)",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "wom4"
+  },
+  {
+    "description": "Open the Spelling and Grammar dialog box",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "wom5"
+  },
+  {
+    "description": "Extend a selection",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "wom6"
+  },
+  {
+    "description": "Go to the next window",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "` (Grave accent)"
+      }
+    ],
+    "id": "wom7"
+  },
+  {
+    "description": "Choose the Save As command (File menu).",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "wom8"
+  },
+  {
+    "description": "Copy selected text",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "wom9"
+  },
+  {
+    "description": "Change letters to uppercase, lowercase, or mixed case",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "wom10"
+  },
+  {
+    "description": "Find or Find and Replace",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F for Find; Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H for Find and Replace"
+      }
+    ],
+    "id": "wom11"
+  },
+  {
+    "description": "Print a document",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P or Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "wom12"
+  },
+  {
+    "description": "Move to the previous insertion point",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "wom13"
+  },
+  {
+    "description": "Go to the previous window",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "` (Grave accent)"
+      }
+    ],
+    "id": "wom14"
+  },
+  {
+    "description": "Open the Thesaurus pane",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "wom15"
+  },
+  {
+    "description": "Shrink a selection",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "wom16"
+  },
+  {
+    "description": "Switch between a field code and its result",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wom17"
+  },
+  {
+    "description": "Cut the selection to the Spike",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "wom18"
+  },
+  {
+    "description": "Close the window",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "wom19"
+  },
+  {
+    "description": "Expand or minimize the ribbon",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "wom20"
+  },
+  {
+    "description": "Edit a bookmark",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "wom21"
+  },
+  {
+    "description": "Find the next misspelling or grammatical error. The Check spelling as you type check box must be selected (Word menu, Preferences command, Spelling and Grammar).",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "wom22"
+  },
+  {
+    "description": "Look up selected text on the Internet",
+    "category": "Frequently Used Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "wom23"
+  },
+  {
+    "description": "Some Windows keyboard shortcuts conflict with the corresponding default Mac OS keyboard shortcuts. To use these shortcuts, you may have to change your Mac keyboard settings to change the Show Desktop shortcut for the key.",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Move the cursor"
+      }
+    ],
+    "id": "wom24"
+  },
+  {
+    "description": "Move one character to the left",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "wom25"
+  },
+  {
+    "description": "Move one character to the right",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "wom26"
+  },
+  {
+    "description": "Move one word to the left",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "wom27"
+  },
+  {
+    "description": "Move one word to the right",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "wom28"
+  },
+  {
+    "description": "Move one paragraph up",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "wom29"
+  },
+  {
+    "description": "Move one paragraph down",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "wom30"
+  },
+  {
+    "description": "Move one cell to the left (in a table)",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "wom31"
+  },
+  {
+    "description": "Move one cell to the right (in a table)",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "wom32"
+  },
+  {
+    "description": "Move up one line",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "wom33"
+  },
+  {
+    "description": "Move down one line",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "wom34"
+  },
+  {
+    "description": "Move to the end of a line",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right or End"
+      }
+    ],
+    "id": "wom35"
+  },
+  {
+    "description": "Move to the beginning of a line",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left or Home"
+      }
+    ],
+    "id": "wom36"
+  },
+  {
+    "description": "Move up one screen (scrolling)",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Up"
+      }
+    ],
+    "id": "wom37"
+  },
+  {
+    "description": "Move down one screen (scrolling)",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Down"
+      }
+    ],
+    "id": "wom38"
+  },
+  {
+    "description": "Move to the top of the next page",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
+      }
+    ],
+    "id": "wom39"
+  },
+  {
+    "description": "Move to the top of the previous page",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up"
+      }
+    ],
+    "id": "wom40"
+  },
+  {
+    "description": "To the end of a document",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End; On a MacBook keyboard: ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "FN"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "wom41"
+  },
+  {
+    "description": "To the beginning of a document",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home; On a MacBook keyboard: ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "FN"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "wom42"
+  },
+  {
+    "description": "To the previous insertion point",
+    "category": "Move the Cursor",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "wom43"
+  },
+  {
+    "description": "Select multiple items not next to each other",
+    "category": "Select text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Select the first item that you want"
+      },
+      {
+        "type": "symbol",
+        "val": " hold down  ⌘ "
+      },
+      {
+        "type": "symbol",
+        "val": " and then select any additional items."
+      }
+    ],
+    "id": "wom44"
+  },
+  {
+    "description": "Select one character to the right",
+    "category": "Select text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "wom45"
+  },
+  {
+    "description": "Select one character to the left",
+    "category": "Select text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "wom46"
+  },
+  {
+    "description": "Select one word to the right",
+    "category": "Select text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "wom47"
+  },
+  {
+    "description": "Select one word to the left",
+    "category": "Select text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "wom48"
+  },
+  {
+    "description": "Select to the end of a line",
+    "category": "Select text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right or Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "wom49"
+  },
+  {
+    "description": "Select to the beginning of a line",
+    "category": "Select text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left or Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "wom50"
+  },
+  {
+    "description": "Select one line down",
+    "category": "Select text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "wom51"
+  },
+  {
+    "description": "Select one line up",
+    "category": "Select text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "wom52"
+  },
+  {
+    "description": "Select to the end of a paragraph",
+    "category": "Select text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "wom53"
+  },
+  {
+    "description": "Select to the beginning of a paragraph",
+    "category": "Select text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "wom54"
+  },
+  {
+    "description": "Select one screen down",
+    "category": "Select text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
+      }
+    ],
+    "id": "wom55"
+  },
+  {
+    "description": "Select one screen up",
+    "category": "Select text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up"
+      }
+    ],
+    "id": "wom56"
+  },
+  {
+    "description": "Select to the beginning of a document",
+    "category": "Select text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "wom57"
+  },
+  {
+    "description": "Select to the end of a document",
+    "category": "Select text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "wom58"
+  },
+  {
+    "description": "Select to the end of a window",
+    "category": "Select text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
+      }
+    ],
+    "id": "wom59"
+  },
+  {
+    "description": "Select to select the entire document",
+    "category": "Select text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "wom60"
+  },
+  {
+    "description": "Select to a vertical block of text",
+    "category": "Select text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F8 "
+      },
+      {
+        "type": "symbol",
+        "val": " and then use the arrow keys; press Esc to cancel selection mode."
+      }
+    ],
+    "id": "wom61"
+  },
+  {
+    "description": "Select to a specific location in a document",
+    "category": "Select text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F8 "
+      },
+      {
+        "type": "symbol",
+        "val": " and then use the arrow keys; press Esc to cancel selection mode."
+      }
+    ],
+    "id": "wom62"
+  },
+  {
+    "description": "Select the next cell's contents",
+    "category": "Select text and graphics in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "wom63"
+  },
+  {
+    "description": "Select the preceding cell's contents",
+    "category": "Select text and graphics in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "wom64"
+  },
+  {
+    "description": "Extend a selection to adjacent cells",
+    "category": "Select text and graphics in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Hold down Shift and press an arrow key repeatedly."
+      }
+    ],
+    "id": "wom65"
+  },
+  {
+    "description": "Select a column",
+    "category": "Select text and graphics in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Click in the column's top or bottom cell. Hold down Shift and press the Arrow Up or Arrow Down key repeatedly."
+      }
+    ],
+    "id": "wom66"
+  },
+  {
+    "description": "Extend a selection (or block)",
+    "category": "Select text and graphics in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F8 "
+      },
+      {
+        "type": "symbol",
+        "val": " and then use the arrow keys; press Esc to cancel selection mode."
+      }
+    ],
+    "id": "wom67"
+  },
+  {
+    "description": "Reduce the selection size",
+    "category": "Select text and graphics in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "wom68"
+  },
+  {
+    "description": "Select multiple cells, columns, or rows that are not next to each other",
+    "category": "Select text and graphics in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Select the first item that you want"
+      },
+      {
+        "type": "symbol",
+        "val": " hold down  ⌘ "
+      },
+      {
+        "type": "symbol",
+        "val": " and then select any additional items."
+      }
+    ],
+    "id": "wom69"
+  },
+  {
+    "description": "Turn on extend mode",
+    "category": "Extend a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "wom70"
+  },
+  {
+    "description": "Select the nearest character to the left",
+    "category": "Extend a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F8"
+      },
+      {
+        "type": "symbol",
+        "val": " Arrow Left"
+      }
+    ],
+    "id": "wom71"
+  },
+  {
+    "description": "Select the nearest character to the right",
+    "category": "Extend a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F8"
+      },
+      {
+        "type": "symbol",
+        "val": " Arrow Right"
+      }
+    ],
+    "id": "wom72"
+  },
+  {
+    "description": "Expand a selection",
+    "category": "Extend a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Press F8 repeatedly to expand the selection to the entire word"
+      },
+      {
+        "type": "symbol",
+        "val": " sentence"
+      },
+      {
+        "type": "symbol",
+        "val": " paragraph"
+      },
+      {
+        "type": "symbol",
+        "val": " section"
+      },
+      {
+        "type": "symbol",
+        "val": " and document."
+      }
+    ],
+    "id": "wom73"
+  },
+  {
+    "description": "Reduce the size of a selection",
+    "category": "Extend a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "wom74"
+  },
+  {
+    "description": "Turn off extend mode",
+    "category": "Extend a selection",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "wom75"
+  },
+  {
+    "description": "Copy text or graphics",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C or F3"
+      }
+    ],
+    "id": "wom76"
+  },
+  {
+    "description": "Copy a style",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "wom77"
+  },
+  {
+    "description": "Paste a style",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "wom78"
+  },
+  {
+    "description": "Copy text or graphics to the Scrapbook",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "wom79"
+  },
+  {
+    "description": "Cut selected text to the clipboard",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X or F2"
+      }
+    ],
+    "id": "wom80"
+  },
+  {
+    "description": "Move text or graphics",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X or F2 (then move the cursor and press  ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V or F4 )"
+      }
+    ],
+    "id": "wom81"
+  },
+  {
+    "description": "Create AutoText",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "wom82"
+  },
+  {
+    "description": "Insert AutoText",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "wom83"
+  },
+  {
+    "description": "Paste the Clipboard contents",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V or F4"
+      }
+    ],
+    "id": "wom84"
+  },
+  {
+    "description": "Paste special",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "wom85"
+  },
+  {
+    "description": "Paste and match the formatting of the surrounding text",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "wom86"
+  },
+  {
+    "description": "Paste the Spike  contents",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "wom87"
+  },
+  {
+    "description": "Delete one character to the left",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "wom88"
+  },
+  {
+    "description": "Delete one word to the left",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "wom89"
+  },
+  {
+    "description": "Delete one character to the right",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘ or Clear"
+      }
+    ],
+    "id": "wom90"
+  },
+  {
+    "description": "Delete one word to the right",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "⌘"
+      }
+    ],
+    "id": "wom91"
+  },
+  {
+    "description": "Cut selected text to the Clipboard",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X or F2"
+      }
+    ],
+    "id": "wom92"
+  },
+  {
+    "description": "Undo the last action",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "wom93"
+  },
+  {
+    "description": "Redo the last action",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "wom94"
+  },
+  {
+    "description": "Cut to the Spike",
+    "category": "Edit text and graphics",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "wom95"
+  },
+  {
+    "description": "Center a paragraph",
+    "category": "Align and format paragraphs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "wom96"
+  },
+  {
+    "description": "Justify a paragraph",
+    "category": "Align and format paragraphs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "wom97"
+  },
+  {
+    "description": "Left-align a paragraph",
+    "category": "Align and format paragraphs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "wom98"
+  },
+  {
+    "description": "Right-align a paragraph",
+    "category": "Align and format paragraphs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "wom99"
+  },
+  {
+    "description": "Indent a paragraph from the left",
+    "category": "Align and format paragraphs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "wom100"
+  },
+  {
+    "description": "Remove a paragraph indent from the left",
+    "category": "Align and format paragraphs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "wom101"
+  },
+  {
+    "description": "Create a hanging indent",
+    "category": "Align and format paragraphs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "wom102"
+  },
+  {
+    "description": "Remove a hanging indent",
+    "category": "Align and format paragraphs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "wom103"
+  },
+  {
+    "description": "Start AutoFormat",
+    "category": "Align and format paragraphs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "wom104"
+  },
+  {
+    "description": "Apply the Normal style",
+    "category": "Align and format paragraphs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "wom105"
+  },
+  {
+    "description": "Apply the Heading 1 style",
+    "category": "Align and format paragraphs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "1"
+      }
+    ],
+    "id": "wom106"
+  },
+  {
+    "description": "Apply the Heading 2 style",
+    "category": "Align and format paragraphs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "2"
+      }
+    ],
+    "id": "wom107"
+  },
+  {
+    "description": "Apply the Heading 3 style",
+    "category": "Align and format paragraphs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "3"
+      }
+    ],
+    "id": "wom108"
+  },
+  {
+    "description": "Apply the List style when the cursor is at the beginning of a line",
+    "category": "Align and format paragraphs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "wom109"
+  },
+  {
+    "description": "Insert a nonbreaking space",
+    "category": "Align and format paragraphs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Spacebar"
+      }
+    ],
+    "id": "wom110"
+  },
+  {
+    "description": "Set lines as single-spaced",
+    "category": "Set line spacing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "1"
+      }
+    ],
+    "id": "wom111"
+  },
+  {
+    "description": "Set lines as double-spaced",
+    "category": "Set line spacing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "2"
+      }
+    ],
+    "id": "wom112"
+  },
+  {
+    "description": "Set lines as 1.5-line spacing",
+    "category": "Set line spacing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "5"
+      }
+    ],
+    "id": "wom113"
+  },
+  {
+    "description": "Add or remove one line of space directly preceding a paragraph",
+    "category": "Set line spacing",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "0 (zero)"
+      }
+    ],
+    "id": "wom114"
+  },
+  {
+    "description": "Change the font",
+    "category": "Format characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "wom115"
+  },
+  {
+    "description": "Increase the font size",
+    "category": "Format characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ">"
+      }
+    ],
+    "id": "wom116"
+  },
+  {
+    "description": "Decrease the font size",
+    "category": "Format characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "<"
+      }
+    ],
+    "id": "wom117"
+  },
+  {
+    "description": "Increase the font size by 1 point",
+    "category": "Format characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      }
+    ],
+    "id": "wom118"
+  },
+  {
+    "description": "Decrease the font size by 1 point",
+    "category": "Format characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      }
+    ],
+    "id": "wom119"
+  },
+  {
+    "description": "Change the formatting of characters (Font command, Format menu)",
+    "category": "Format characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "wom120"
+  },
+  {
+    "description": "Change the case of letters",
+    "category": "Format characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "wom121"
+  },
+  {
+    "description": "Format in all capital letters",
+    "category": "Format characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "wom122"
+  },
+  {
+    "description": "Apply bold formatting",
+    "category": "Format characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "wom123"
+  },
+  {
+    "description": "Apply an underline",
+    "category": "Format characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "wom124"
+  },
+  {
+    "description": "Underline words but not spaces",
+    "category": "Format characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "wom125"
+  },
+  {
+    "description": "Double-underline text",
+    "category": "Format characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "wom126"
+  },
+  {
+    "description": "Apply italic formatting",
+    "category": "Format characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "wom127"
+  },
+  {
+    "description": "Format in all small capital letters",
+    "category": "Format characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "wom128"
+  },
+  {
+    "description": "Apply subscript formatting (automatic spacing)",
+    "category": "Format characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "= (Equal sign)"
+      }
+    ],
+    "id": "wom129"
+  },
+  {
+    "description": "Apply superscript formatting (automatic spacing)",
+    "category": "Format characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " (Plus sign)"
+      }
+    ],
+    "id": "wom130"
+  },
+  {
+    "description": "Apply strike-through formatting",
+    "category": "Format characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "wom131"
+  },
+  {
+    "description": "Insert an empty field",
+    "category": "Insert special characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wom132"
+  },
+  {
+    "description": "Insert a line break",
+    "category": "Insert special characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Return"
+      }
+    ],
+    "id": "wom133"
+  },
+  {
+    "description": "Insert a page break",
+    "category": "Insert special characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "wom134"
+  },
+  {
+    "description": "Insert a column break",
+    "category": "Insert special characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Return"
+      }
+    ],
+    "id": "wom135"
+  },
+  {
+    "description": "Insert a nonbreaking hyphen",
+    "category": "Insert special characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "- (Hyphen)"
+      }
+    ],
+    "id": "wom136"
+  },
+  {
+    "description": "Insert the copyright symbol",
+    "category": "Insert special characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "wom137"
+  },
+  {
+    "description": "Insert the registered trademark symbol",
+    "category": "Insert special characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "wom138"
+  },
+  {
+    "description": "Insert the trademark symbol",
+    "category": "Insert special characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "2"
+      }
+    ],
+    "id": "wom139"
+  },
+  {
+    "description": "Insert an ellipsis",
+    "category": "Insert special characters",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "; (Semicolon)"
+      }
+    ],
+    "id": "wom140"
+  },
+  {
+    "description": "Insert a DATE field",
+    "category": "Work with fields",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "wom141"
+  },
+  {
+    "description": "Insert a LISTNUM field",
+    "category": "Work with fields",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "wom142"
+  },
+  {
+    "description": "Insert a PAGE field",
+    "category": "Work with fields",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "wom143"
+  },
+  {
+    "description": "Insert a TIME field",
+    "category": "Work with fields",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "wom144"
+  },
+  {
+    "description": "Insert an empty field",
+    "category": "Work with fields",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wom145"
+  },
+  {
+    "description": "Update selected fields",
+    "category": "Work with fields",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wom146"
+  },
+  {
+    "description": "Unlink a field",
+    "category": "Work with fields",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wom147"
+  },
+  {
+    "description": "Switch between a field code and its result",
+    "category": "Work with fields",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wom148"
+  },
+  {
+    "description": "Switch between all field codes and their results",
+    "category": "Work with fields",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wom149"
+  },
+  {
+    "description": "Run GOTOBUTTON or MACROBUTTON from the field that displays the field results",
+    "category": "Work with fields",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wom150"
+  },
+  {
+    "description": "Go to the next field",
+    "category": "Work with fields",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "wom151"
+  },
+  {
+    "description": "Go to the previous field",
+    "category": "Work with fields",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "wom152"
+  },
+  {
+    "description": "Lock a field",
+    "category": "Work with fields",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "wom153"
+  },
+  {
+    "description": "Unlock a field",
+    "category": "Work with fields",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "wom154"
+  },
+  {
+    "description": "Promote a paragraph",
+    "category": "Outline a document",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "wom155"
+  },
+  {
+    "description": "Demote a paragraph",
+    "category": "Outline a document",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "wom156"
+  },
+  {
+    "description": "Demote to body text",
+    "category": "Outline a document",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "wom157"
+  },
+  {
+    "description": "Move selected paragraphs up",
+    "category": "Outline a document",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "wom158"
+  },
+  {
+    "description": "Move selected paragraphs down",
+    "category": "Outline a document",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "wom159"
+  },
+  {
+    "description": "Expand text under a heading",
+    "category": "Outline a document",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " (Plus sign)"
+      }
+    ],
+    "id": "wom160"
+  },
+  {
+    "description": "Collapse text under a heading",
+    "category": "Outline a document",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "- (Minus sign)"
+      }
+    ],
+    "id": "wom161"
+  },
+  {
+    "description": "Expand all body text and headings or collapse all body text",
+    "category": "Outline a document",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "wom162"
+  },
+  {
+    "description": "Show the first line of body text or all body text",
+    "category": "Outline a document",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "wom163"
+  },
+  {
+    "description": "Show all headings with the specified heading level",
+    "category": "Outline a document",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      }
+    ],
+    "id": "wom164"
+  },
+  {
+    "description": "Insert a comment",
+    "category": "Review a document",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "wom165"
+  },
+  {
+    "description": "Turn track changes on or off",
+    "category": "Review a document",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "wom166"
+  },
+  {
+    "description": "Go to the beginning of a comment",
+    "category": "Review a document",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "wom167"
+  },
+  {
+    "description": "Go to the end of a comment",
+    "category": "Review a document",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "End  (The End key is not available on all keyboards)"
+      }
+    ],
+    "id": "wom168"
+  },
+  {
+    "description": "Go to the beginning of the list of comments when in the Reviewing Pane",
+    "category": "Review a document",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "wom169"
+  },
+  {
+    "description": "Go to the end of the list of comments when in the Reviewing Pane",
+    "category": "Review a document",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "wom170"
+  },
+  {
+    "description": "Print a document",
+    "category": "Print a document",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "wom171"
+  },
+  {
+    "description": "Move to the next cell",
+    "category": "Move around in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab (If the cursor is in the last cell of a table"
+      },
+      {
+        "type": "symbol",
+        "val": " pressing Tab adds a new row)"
+      }
+    ],
+    "id": "wom172"
+  },
+  {
+    "description": "Move to the preceding cell",
+    "category": "Move around in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "wom173"
+  },
+  {
+    "description": "Move to the preceding or next row",
+    "category": "Move around in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Up or Arrow Down"
+      }
+    ],
+    "id": "wom174"
+  },
+  {
+    "description": "Move to the first cell in the row",
+    "category": "Move around in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "wom175"
+  },
+  {
+    "description": "Move to the last cell in the row",
+    "category": "Move around in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "wom176"
+  },
+  {
+    "description": "Move to the first cell in the column",
+    "category": "Move around in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up"
+      }
+    ],
+    "id": "wom177"
+  },
+  {
+    "description": "Move to the last cell in the column",
+    "category": "Move around in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
+      }
+    ],
+    "id": "wom178"
+  },
+  {
+    "description": "Start a new paragraph",
+    "category": "Move around in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Return"
+      }
+    ],
+    "id": "wom179"
+  },
+  {
+    "description": "Add a new row at the bottom of the table",
+    "category": "Move around in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab at the end of the last row."
+      }
+    ],
+    "id": "wom180"
+  },
+  {
+    "description": "Add text before a table at the beginning of a document",
+    "category": "Move around in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Return at the beginning of the first cell"
+      }
+    ],
+    "id": "wom181"
+  },
+  {
+    "description": "Insert a row",
+    "category": "Move around in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "wom182"
+  },
+  {
+    "description": "Move a single column line; Retain table width.",
+    "category": "Resize table columns by using the ruler",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      }
+    ],
+    "id": "wom183"
+  },
+  {
+    "description": "Equally resize all columns to the right; Retain table width.",
+    "category": "Resize table columns by using the ruler",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      }
+    ],
+    "id": "wom184"
+  },
+  {
+    "description": "Proportionally resize all columns to the right; Retain table width.",
+    "category": "Resize table columns by using the ruler",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      }
+    ],
+    "id": "wom185"
+  },
+  {
+    "description": "To display a column's measurements in the ruler when you resize the column, press Option with these shortcut keys. To finely adjust a column width, turn off snap-to functionality by pressing Option with the shortcut keys.",
+    "category": "Resize table columns directly in a table",
+    "shortcut": [],
+    "id": "wom186"
+  },
+  {
+    "description": "Move a single column line; Retain table width.",
+    "category": "Resize table columns directly in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "No key"
+      }
+    ],
+    "id": "wom187"
+  },
+  {
+    "description": "Retain column sizes to the right; Change table width.",
+    "category": "Resize table columns directly in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      }
+    ],
+    "id": "wom188"
+  },
+  {
+    "description": "Equally resize all columns to the right; Retain table width.",
+    "category": "Resize table columns directly in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      }
+    ],
+    "id": "wom189"
+  },
+  {
+    "description": "Proportionally resize all columns to the right; Retain table width.",
+    "category": "Resize table columns directly in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      }
+    ],
+    "id": "wom190"
+  },
+  {
+    "description": "Insert a new paragraph in a cell",
+    "category": "Insert paragraphs and tab characters in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Return"
+      }
+    ],
+    "id": "wom191"
+  },
+  {
+    "description": "Insert a Tab character in a cell",
+    "category": "Insert paragraphs and tab characters in a table",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "wom192"
+  },
+  {
+    "description": "Insert a footnote",
+    "category": "Use footnotes and endnotes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "wom193"
+  },
+  {
+    "description": "Insert an endnote",
+    "category": "Use footnotes and endnotes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "wom194"
+  },
+  {
+    "description": "Paragraph direction to right to left",
+    "category": "Right-to-left language features",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "wom195"
+  },
+  {
+    "description": "Paragraph direction to left to right",
+    "category": "Right-to-left language features",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "wom196"
+  },
+  {
+    "description": "Word 2016 for Mac uses the function keys for common commands, including Copy and Paste. For quick access to these shortcuts, you can change your Apple system preferences so you don't have to press the Fn key every time you use a function key shortcut.",
+    "category": "Function key shortcuts",
+    "shortcut": [],
+    "id": "wom197"
+  },
+  {
+    "description": "Undo the last action",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F1"
+      }
+    ],
+    "id": "wom198"
+  },
+  {
+    "description": "Cut selected text or graphics",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "wom199"
+  },
+  {
+    "description": "Copy selected text or graphics to the clipboard",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "wom200"
+  },
+  {
+    "description": "Paste the Clipboard contents",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "wom201"
+  },
+  {
+    "description": "Choose the Go To command (Edit menu)",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "wom202"
+  },
+  {
+    "description": "Open the Spelling and Grammar dialog box",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "wom203"
+  },
+  {
+    "description": "Extend a selection",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "wom204"
+  },
+  {
+    "description": "Update selected fields.",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wom205"
+  },
+  {
+    "description": "Go to the next window",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "wom206"
+  },
+  {
+    "description": "Copy selected text",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "wom207"
+  },
+  {
+    "description": "Change letters to uppercase, lowercase, or mixed case",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "wom208"
+  },
+  {
+    "description": "Repeat a Find or Go To action",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4 or ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "wom209"
+  },
+  {
+    "description": "Move to the previous insertion point",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "wom210"
+  },
+  {
+    "description": "Open the Thesaurus pane",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "wom211"
+  },
+  {
+    "description": "Shrink a selection",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "wom212"
+  },
+  {
+    "description": "Switch between a field code and its result.",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wom213"
+  },
+  {
+    "description": "Go to the previous field",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "wom214"
+  },
+  {
+    "description": "Cut the selection to the Spike",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "wom215"
+  },
+  {
+    "description": "Close the window",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
+      }
+    ],
+    "id": "wom216"
+  },
+  {
+    "description": "Go to the next window",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
+      }
+    ],
+    "id": "wom217"
+  },
+  {
+    "description": "Insert an empty field",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wom218"
+  },
+  {
+    "description": "Lock a field",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "wom219"
+  },
+  {
+    "description": "Insert the contents of the Spike",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "wom220"
+  },
+  {
+    "description": "Edit a bookmark",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "wom221"
+  },
+  {
+    "description": "Update linked information in a Word source document",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "wom222"
+  },
+  {
+    "description": "Extend a selection as a block selection",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F8"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " Arrow Key"
+      }
+    ],
+    "id": "wom223"
+  },
+  {
+    "description": "Unlink a field",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wom224"
+  },
+  {
+    "description": "Unlock a field",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F11"
+      }
+    ],
+    "id": "wom225"
+  },
+  {
+    "description": "Create an AutoText entry",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
+      }
+    ],
+    "id": "wom226"
+  },
+  {
+    "description": "Find the next misspelling or grammatical error",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F7"
+      }
+    ],
+    "id": "wom227"
+  },
+  {
+    "description": "Run a macro",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F8"
+      }
+    ],
+    "id": "wom228"
+  },
+  {
+    "description": "Switch between all field codes and their results",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wom229"
+  },
+  {
+    "description": "Look up selected text on the Internet",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "wom230"
+  },
+  {
+    "description": "Run GOTOBUTTON or MACROBUTTON from the field that displays the field results",
+    "category": "Function key shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
+      }
+    ],
+    "id": "wom231"
+  }
+]

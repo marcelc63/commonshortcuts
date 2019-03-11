@@ -7,14 +7,32 @@
   max-width: 90%;
 }
 .shortcuts {
-  max-width: 1000px;
+  max-width: 1150px;
   width: 100%;
   height: 100%;
   margin-top: 150px;
+  position: relative;
 }
 @media only screen and (max-width: 600px) {
   .shortcuts {
     margin-top: 100px;
+  }
+}
+
+.category {
+  color: #a0a0a0; //Four
+  padding: 3px 10px;
+  font-size: 14px;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 2px;
+  margin-bottom: 0px;
+  a {
+    color: #a0a0a0; //Four
+  }
+  &:hover {
+    // background: #e8e7e4; //Three
+    background: #e8e8e8; //Three
   }
 }
 </style>
@@ -22,8 +40,8 @@
 
 <template>
   <div class="shortcuts d-flex flex-row row">
-    <div class="col-md-6" v-for="(group, groupIn) in groups" :key="groupIn">
-      <div v-for="(category, categoryIn) in group" :key="categoryIn" class="mb-30">
+    <div class="col-md-8 offset-md-2">
+      <div v-for="(category, categoryIn) in group" :key="categoryIn" class="mb-30" :id="categoryIn">
         <div v-if="filteredShortcuts(category).length !== 0">
           <p class="text-left pointer" @click="viewCollapse(category)">
             <b>
@@ -36,6 +54,13 @@
           </p>
           <Card :category="category"/>
         </div>
+      </div>
+    </div>
+    <div class="col-md-2">
+      <div class="position-fixed" v-show="showMenu">
+        <p v-for="(category, categoryIn) in group" :key="categoryIn" class="category">
+          <a :href="'#'+categoryIn">{{category}}</a>
+        </p>
       </div>
     </div>
   </div>
@@ -54,6 +79,9 @@ export default {
     Card
   },
   computed: {
+    showMenu: function() {
+      return screen.width > 628 ? true : false;
+    },
     search: function() {
       return this.$store.state.search;
     },
@@ -75,43 +103,28 @@ export default {
     platform: function() {
       return this.$store.state.platform;
     },
-    groups: function() {
+    group: function() {
       let software = this.software;
+      let shortcuts = this.shortcuts[software];
 
-      let groupA,
-        groupB,
-        groupC = [];
+      var uniqueArray = arrArg => {
+        return arrArg.filter((elem, pos, arr) => {
+          return arr.indexOf(elem) == pos;
+        });
+      };
 
-      if (software === "vim") {
-        groupA = ["Global", "Cursor Movement", "Insert Mode", "Multiple Files"];
-        groupB = [
-          "Editing",
-          "Marketing Text",
-          "Visual Commands",
-          "Registers",
-          "Marks",
-          "Macros",
-          "Tabs"
-        ];
-        groupC = [
-          "Cut and Paste",
-          "Exiting",
-          "Search and Replace",
-          "Search in Multiple Files"
-        ];
-      } else if (software === "excel") {
-        groupA = ["Common", "Navigation", "Data Entry"];
-        groupB = ["General", "Charts", "Macros", "Selection"];
-        groupC = [
-          "Workbooks",
-          "Worksheets",
-          "Format Cells",
-          "Number Format",
-          "Rows and Columns",
-          "Formulas and Functions"
-        ];
-      }
-      return [groupA, groupB];
+      let category = uniqueArray(
+        shortcuts.map(x => {
+          return x.category;
+        })
+      );
+      console.log();
+      return category;
+      let mid = Math.floor(category.length / 2);
+      return [
+        category.slice(0, category.length - mid),
+        category.slice(category.length - mid, category.length)
+      ];
     }
   },
   methods: {
@@ -157,9 +170,9 @@ export default {
 
       let final = bucket.filter(x => {
         return (
-          queryCheck(x) && x.category === category && x[platform].length !== 0
+          queryCheck(x) && x.category === category && x.shortcut.length !== 0
         );
-      });      
+      });
 
       return final;
     },

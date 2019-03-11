@@ -1,0 +1,1076 @@
+[
+  {
+    "description": "Open new tab",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "gcm0"
+  },
+  {
+    "description": "Close tab (or close Chrome if only one tab is open)",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "gcm1"
+  },
+  {
+    "description": "Reopen last tab closed. Up to 10 tabs.",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "gcm2"
+  },
+  {
+    "description": "Switch to the previous tab/ next tab in browsing history for tab",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "[/ Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "]/"
+      }
+    ],
+    "id": "gcm3"
+  },
+  {
+    "description": "Open new Chrome window",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "gcm4"
+  },
+  {
+    "description": "Open new Chrome window in incognito mode",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "gcm5"
+  },
+  {
+    "description": "Open link in a new background tab",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Left-click"
+      }
+    ],
+    "id": "gcm6"
+  },
+  {
+    "description": "Open link in a new foreground tab",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Left-click"
+      }
+    ],
+    "id": "gcm7"
+  },
+  {
+    "description": "Open link in a new window",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Left-click"
+      }
+    ],
+    "id": "gcm8"
+  },
+  {
+    "description": "Open link in selected tab",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Drag link to existing tab"
+      }
+    ],
+    "id": "gcm9"
+  },
+  {
+    "description": "Open link in a new tab in the specified position on the tab strip.",
+    "category": "Manage Tabs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Drag link to tab bar"
+      }
+    ],
+    "id": "gcm10"
+  },
+  {
+    "description": "Jump to address bar and highlights current webpage URI",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "gcm11"
+  },
+  {
+    "description": "Jump to beginning / end of address bar",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home/End in address bar"
+      }
+    ],
+    "id": "gcm12"
+  },
+  {
+    "description": "Select all text of address. Also use shift+end with cursor at beginning or shift+home with cursor at end",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A in address bar"
+      }
+    ],
+    "id": "gcm13"
+  },
+  {
+    "description": "Add www. to beginning and .com to end of input and opens the web address in current tab.",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Type name of site and press Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gcm14"
+  },
+  {
+    "description": "Add www. to beginning and .com to end of input and opens the web address in new background tab.",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Type name of site and press Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gcm15"
+  },
+  {
+    "description": "Perform a search using the search engine associated with the keyword or the URI.",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Type search term and press Enter"
+      }
+    ],
+    "id": "gcm16"
+  },
+  {
+    "description": "Tab-to-Search feature. E.g. Typing in 'yahoo.com' plus tab opens yahoo search. Add/edit search engines via 'Under the Hood' -> Basic -> Search Engines.",
+    "category": "Address Bar",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Type name of search engine and press Tab"
+      }
+    ],
+    "id": "gcm17"
+  },
+  {
+    "description": "Scroll down / scroll up",
+    "category": "View Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Down/Arrow Up with focus on webpage"
+      }
+    ],
+    "id": "gcm18"
+  },
+  {
+    "description": "Scroll one page down / one page up.",
+    "category": "View Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Space/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      }
+    ],
+    "id": "gcm19"
+  },
+  {
+    "description": "Jump to beginning / to end of webpage",
+    "category": "View Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home/End"
+      }
+    ],
+    "id": "gcm20"
+  },
+  {
+    "description": "Zoom in / zoom out (or Command+mousewheel)",
+    "category": "View Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "/-"
+      }
+    ],
+    "id": "gcm21"
+  },
+  {
+    "description": "Return zoom to normal text size",
+    "category": "View Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "0 (zero)"
+      }
+    ],
+    "id": "gcm22"
+  },
+  {
+    "description": "View webpage source",
+    "category": "View Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "gcm23"
+  },
+  {
+    "description": "Turn full screen on / off",
+    "category": "View Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "gcm24"
+  },
+  {
+    "description": "Jump to your Homepage",
+    "category": "Browse between Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "gcm25"
+  },
+  {
+    "description": "Jump to previous webpage visited / jump to next webpage",
+    "category": "Browse between Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left/Arrow Right"
+      }
+    ],
+    "id": "gcm26"
+  },
+  {
+    "description": "Reload current webpage",
+    "category": "Browse between Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "gcm27"
+  },
+  {
+    "description": "Reload current webpage with cache override",
+    "category": "Browse between Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
+      }
+    ],
+    "id": "gcm28"
+  },
+  {
+    "description": "Stop webpage loading",
+    "category": "Browse between Webpages",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "gcm29"
+  },
+  {
+    "description": "Print current webpage (Chrome Print Dialog)",
+    "category": "Access Browser Features",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "gcm30"
+  },
+  {
+    "description": "Print current webpage (Native Windows Print Dialog)",
+    "category": "Access Browser Features",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "gcm31"
+  },
+  {
+    "description": "Open file",
+    "category": "Access Browser Features",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "gcm32"
+  },
+  {
+    "description": "Save current webpage",
+    "category": "Access Browser Features",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "gcm33"
+  },
+  {
+    "description": "Open History tab",
+    "category": "Access Browser Features",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "gcm34"
+  },
+  {
+    "description": "Open Downloads tab",
+    "category": "Access Browser Features",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "gcm35"
+  },
+  {
+    "description": "Find text on webpage. Press Enter for",
+    "category": "Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "gcm36"
+  },
+  {
+    "description": "Find next match of Search",
+    "category": "Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "gcm37"
+  },
+  {
+    "description": "Find previous match of Search",
+    "category": "Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "gcm38"
+  },
+  {
+    "description": "Use Selection for Find",
+    "category": "Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "gcm39"
+  },
+  {
+    "description": "Jump to selection",
+    "category": "Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "gcm40"
+  },
+  {
+    "description": "With focus on Search box: Close Search box",
+    "category": "Search",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "gcm41"
+  },
+  {
+    "description": "Show or hide bookmarks bar",
+    "category": "Bookmarks Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "gcm42"
+  },
+  {
+    "description": "Open Bookmark Manager",
+    "category": "Bookmarks Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "gcm43"
+  },
+  {
+    "description": "Add bookmark for current webpage",
+    "category": "Bookmarks Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "gcm44"
+  },
+  {
+    "description": "Saves all open pages as bookmarks in a new folder",
+    "category": "Bookmarks Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "gcm45"
+  },
+  {
+    "description": "Bookmark webpage (can be URI from address bar or link from page)",
+    "category": "Bookmarks Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Drag URI to bookmark bar"
+      }
+    ],
+    "id": "gcm46"
+  },
+  {
+    "description": "Jump to bookmark toolbar. Use arrow keys and enter to access bookmarks",
+    "category": "Bookmarks Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      },
+      {
+        "type": "symbol",
+        "val": " then F6"
+      }
+    ],
+    "id": "gcm47"
+  },
+  {
+    "description": "Open Bookmark Manager Tab",
+    "category": "Bookmarks Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      },
+      {
+        "type": "symbol",
+        "val": " then b"
+      }
+    ],
+    "id": "gcm48"
+  },
+  {
+    "description": "Set focus on the toolbar. Use arrow keys to navigate between different buttons on the toolbar.",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "gcm49"
+  },
+  {
+    "description": "View Google Task manager",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "gcm50"
+  },
+  {
+    "description": "Chrome Help",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F1"
+      }
+    ],
+    "id": "gcm51"
+  },
+  {
+    "description": "Open Developer Tools",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "gcm52"
+  },
+  {
+    "description": "Open Javascript Console",
+    "category": "The Rest",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "gcm53"
+  }
+]

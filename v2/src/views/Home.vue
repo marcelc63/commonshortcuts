@@ -34,12 +34,13 @@ import Shortcuts from "@/components/Shortcuts.vue";
 import AboutUs from "@/components/AboutUs.vue";
 import Menubar from "@/components/Menubar.vue";
 
-// Shortcuts
-import excel from "@/shortcuts/excel.json";
-import vim from "@/shortcuts/vim.json";
+// New Shortcuts
+import { shortcuts, softwares } from "@/config/content.js";
+console.log(shortcuts);
 
 // Dependencies
 import axios from "axios";
+import _ from "lodash";
 
 export default {
   name: "home",
@@ -54,29 +55,19 @@ export default {
   created: function() {
     this.getStorage();
 
-    let shortcuts = [];
-    shortcuts["excel"] = excel.map((x, i) => {
-      return {
-        category: x.category,
-        description: x.description,
-        mac: x.mac,
-        windows: x.windows,
-        id: "excel" + i
-      };
-    });
-    shortcuts["vim"] = vim.map((x, i) => {
-      return {
-        category: x.category,
-        description: x.description,
-        mac: x.mac,
-        windows: x.windows,
-        id: "vim" + i
-      };
-    });
-
     this.$store.dispatch("load", {
       key: "shortcuts",
       data: shortcuts
+    });
+
+    this.$store.dispatch("load", {
+      key: "collapse",
+      data: _.cloneDeep(softwares)
+    });
+
+    this.$store.dispatch("load", {
+      key: "bookmarks",
+      data: _.cloneDeep(softwares)
     });
 
     this.isLoaded = true;

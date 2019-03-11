@@ -1,0 +1,2160 @@
+[
+  {
+    "description": "Delete one character to the left",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "pwm0"
+  },
+  {
+    "description": "Delete one character to the right",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Function"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "pwm1"
+  },
+  {
+    "description": "Cut selected text or object",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      }
+    ],
+    "id": "pwm2"
+  },
+  {
+    "description": "Copy selected text or object",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "pwm3"
+  },
+  {
+    "description": "Paste cut or copied text or object",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "pwm4"
+  },
+  {
+    "description": "Paste special",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "pwm5"
+  },
+  {
+    "description": "Increase the font size",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ">"
+      }
+    ],
+    "id": "pwm6"
+  },
+  {
+    "description": "Decrease the font size",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "<"
+      }
+    ],
+    "id": "pwm7"
+  },
+  {
+    "description": "Apply bold formatting",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "pwm8"
+  },
+  {
+    "description": "Apply an underline",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "pwm9"
+  },
+  {
+    "description": "Apply italic formatting",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "pwm10"
+  },
+  {
+    "description": "Center a paragraph",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "pwm11"
+  },
+  {
+    "description": "Justify a paragraph",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "pwm12"
+  },
+  {
+    "description": "Left align a paragraph",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "pwm13"
+  },
+  {
+    "description": "Right align a paragraph",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "pwm14"
+  },
+  {
+    "description": "Redo the last action",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "pwm15"
+  },
+  {
+    "description": "Undo the last action",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "pwm16"
+  },
+  {
+    "description": "Open the Format Text dialog box, Font options",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
+      }
+    ],
+    "id": "pwm17"
+  },
+  {
+    "description": "Open the Format Text dialog box, Paragraph options",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "pwm18"
+  },
+  {
+    "description": "To Move To the beginning of a word or one word to the left",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "pwm19"
+  },
+  {
+    "description": "To Move One word to the right",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "pwm20"
+  },
+  {
+    "description": "To Move To the end of a line",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "pwm21"
+  },
+  {
+    "description": "To Move To the beginning of a line",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "pwm22"
+  },
+  {
+    "description": "To Move To the beginning of a paragraph or up one paragraph",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "pwm23"
+  },
+  {
+    "description": "To Move Down one paragraph",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "pwm24"
+  },
+  {
+    "description": "To Move To the start or end of all the text in the object you are editing",
+    "category": "Editing text and objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up/Arrow Down"
+      }
+    ],
+    "id": "pwm25"
+  },
+  {
+    "description": "Select the next object",
+    "category": "Working with objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "pwm26"
+  },
+  {
+    "description": "Select the previous object",
+    "category": "Working with objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "pwm27"
+  },
+  {
+    "description": "Select all objects and all text",
+    "category": "Working with objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "pwm28"
+  },
+  {
+    "description": "Move the selected object in the direction of the arrow",
+    "category": "Working with objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Keys or ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Key"
+      }
+    ],
+    "id": "pwm29"
+  },
+  {
+    "description": "Group the selected objects",
+    "category": "Working with objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "pwm30"
+  },
+  {
+    "description": "Ungroup the selected objects",
+    "category": "Working with objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "pwm31"
+  },
+  {
+    "description": "Regroup the selected objects",
+    "category": "Working with objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "pwm32"
+  },
+  {
+    "description": "Rotate the selected object clockwise",
+    "category": "Working with objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "pwm33"
+  },
+  {
+    "description": "Rotate the selected object counterclockwise",
+    "category": "Working with objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "pwm34"
+  },
+  {
+    "description": "Format the selected object",
+    "category": "Working with objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "1"
+      }
+    ],
+    "id": "pwm35"
+  },
+  {
+    "description": "Duplicate selected objects",
+    "category": "Working with objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "pwm36"
+  },
+  {
+    "description": "Resize selected objects",
+    "category": "Working with objects",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "pwm37"
+  },
+  {
+    "description": "Create a new presentation",
+    "category": "Presentations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "pwm38"
+  },
+  {
+    "description": "Create a new presentation with a template from the PowerPoint Presentation gallery",
+    "category": "Presentations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "pwm39"
+  },
+  {
+    "description": "Insert a new slide",
+    "category": "Presentations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M or ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
+      }
+    ],
+    "id": "pwm40"
+  },
+  {
+    "description": "Zoom out",
+    "category": "Presentations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "- (Minus Sign)"
+      }
+    ],
+    "id": "pwm41"
+  },
+  {
+    "description": "Zoom in",
+    "category": "Presentations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      }
+    ],
+    "id": "pwm42"
+  },
+  {
+    "description": "Make a copy of the selected slide",
+    "category": "Presentations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "D"
+      }
+    ],
+    "id": "pwm43"
+  },
+  {
+    "description": "Open a presentation",
+    "category": "Presentations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "pwm44"
+  },
+  {
+    "description": "Close a presentation",
+    "category": "Presentations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "pwm45"
+  },
+  {
+    "description": "Print a presentation",
+    "category": "Presentations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "pwm46"
+  },
+  {
+    "description": "Save a presentation",
+    "category": "Presentations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "pwm47"
+  },
+  {
+    "description": "Save a presentation with a different name, location, or file format.",
+    "category": "Presentations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "pwm48"
+  },
+  {
+    "description": "Quit PowerPoint",
+    "category": "Presentations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Q"
+      }
+    ],
+    "id": "pwm49"
+  },
+  {
+    "description": "Find text and formatting",
+    "category": "Presentations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "pwm50"
+  },
+  {
+    "description": "Add a hyperlink to selected text, an image, or an object",
+    "category": "Presentations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "pwm51"
+  },
+  {
+    "description": "Cancel a command, such as Save As",
+    "category": "Presentations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "ESC"
+      }
+    ],
+    "id": "pwm52"
+  },
+  {
+    "description": "Undo an action",
+    "category": "Presentations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "pwm53"
+  },
+  {
+    "description": "Redo or repeat an action",
+    "category": "Presentations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "pwm54"
+  },
+  {
+    "description": "Move through multiple open presentations.",
+    "category": "Presentations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "~"
+      }
+    ],
+    "id": "pwm55"
+  },
+  {
+    "description": "Open a recent file",
+    "category": "Presentations",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
+      }
+    ],
+    "id": "pwm56"
+  },
+  {
+    "description": "Switch to normal view",
+    "category": "Changing views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "1"
+      }
+    ],
+    "id": "pwm57"
+  },
+  {
+    "description": "Switch to slide sorter view",
+    "category": "Changing views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "2"
+      }
+    ],
+    "id": "pwm58"
+  },
+  {
+    "description": "Switch to notes page view",
+    "category": "Changing views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "3"
+      }
+    ],
+    "id": "pwm59"
+  },
+  {
+    "description": "Switch to outline view",
+    "category": "Changing views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "4"
+      }
+    ],
+    "id": "pwm60"
+  },
+  {
+    "description": "Switch to slide show",
+    "category": "Changing views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Return"
+      }
+    ],
+    "id": "pwm61"
+  },
+  {
+    "description": "Switch to full screen (hide menus)",
+    "category": "Changing views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "pwm62"
+  },
+  {
+    "description": "Switch to presenter view",
+    "category": "Changing views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Return"
+      }
+    ],
+    "id": "pwm63"
+  },
+  {
+    "description": "Show or hide guides",
+    "category": "Changing views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "G"
+      }
+    ],
+    "id": "pwm64"
+  },
+  {
+    "description": "Switch to handout master view",
+    "category": "Changing views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "2 or Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "(click Slide Sorter View)"
+      }
+    ],
+    "id": "pwm65"
+  },
+  {
+    "description": "Switch to slide master view",
+    "category": "Changing views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "1 or Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "(click Normal View)"
+      }
+    ],
+    "id": "pwm66"
+  },
+  {
+    "description": "Switch to notes master view",
+    "category": "Changing views",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "3"
+      }
+    ],
+    "id": "pwm67"
+  },
+  {
+    "description": "To Select One character to the right",
+    "category": "Selecting text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "pwm68"
+  },
+  {
+    "description": "To Select One character to the left",
+    "category": "Selecting text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "pwm69"
+  },
+  {
+    "description": "To Select From the insertion point to the same point one line up",
+    "category": "Selecting text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "pwm70"
+  },
+  {
+    "description": "To Select From the insertion point to the same point one line down",
+    "category": "Selecting text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "pwm71"
+  },
+  {
+    "description": "To Select All text to the start of the line",
+    "category": "Selecting text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "pwm72"
+  },
+  {
+    "description": "To Select All text to the end of the line",
+    "category": "Selecting text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "pwm73"
+  },
+  {
+    "description": "To Select From the insertion point to the end of the paragraph",
+    "category": "Selecting text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "pwm74"
+  },
+  {
+    "description": "To Select From the insertion point to the beginning of the paragraph",
+    "category": "Selecting text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "pwm75"
+  },
+  {
+    "description": "You can use the following keyboard shortcuts while running your slide show in full-screen mode, with or without the presenter view. TIP: You can press the / key during a slide show to see a list of keyboard shortcuts.",
+    "category": "Slide shows",
+    "shortcut": [],
+    "id": "pwm76"
+  },
+  {
+    "description": "Perform the next animation or advance to the next slide",
+    "category": "Slide shows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "N "
+      },
+      {
+        "type": "symbol",
+        "val": " Page Down "
+      },
+      {
+        "type": "symbol",
+        "val": " Arrow Right "
+      },
+      {
+        "type": "symbol",
+        "val": " Arrow Down "
+      },
+      {
+        "type": "symbol",
+        "val": " or the SPACEBAR (or click the mouse button)"
+      }
+    ],
+    "id": "pwm77"
+  },
+  {
+    "description": "Return to the previous animation or return to the previous slide",
+    "category": "Slide shows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "P "
+      },
+      {
+        "type": "symbol",
+        "val": " Page Up "
+      },
+      {
+        "type": "symbol",
+        "val": " Arrow Left "
+      },
+      {
+        "type": "symbol",
+        "val": " Arrow Up "
+      },
+      {
+        "type": "symbol",
+        "val": " or Delete"
+      }
+    ],
+    "id": "pwm78"
+  },
+  {
+    "description": "Go to slide number",
+    "category": "Slide shows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "The number of the slide that you want to view"
+      },
+      {
+        "type": "symbol",
+        "val": " and then press Return"
+      }
+    ],
+    "id": "pwm79"
+  },
+  {
+    "description": "Display a black screen, or return to the slide show from a black screen",
+    "category": "Slide shows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "B or ."
+      }
+    ],
+    "id": "pwm80"
+  },
+  {
+    "description": "Display a white screen, or return to the slide show from a white screen",
+    "category": "Slide shows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "W or "
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      }
+    ],
+    "id": "pwm81"
+  },
+  {
+    "description": "Play slide show from the first slide",
+    "category": "Slide shows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " Return"
+      }
+    ],
+    "id": "pwm82"
+  },
+  {
+    "description": "Play slide show from the current slide",
+    "category": "Slide shows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Return"
+      }
+    ],
+    "id": "pwm83"
+  },
+  {
+    "description": "End a slide show",
+    "category": "Slide shows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "ESC  or ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ".  or ⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
+      }
+    ],
+    "id": "pwm84"
+  },
+  {
+    "description": "Erase on-screen annotations",
+    "category": "Slide shows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "pwm85"
+  },
+  {
+    "description": "Go to next hidden slide if the next slide is hidden",
+    "category": "Slide shows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "pwm86"
+  },
+  {
+    "description": "Redisplay hidden pointer and/or change the pointer to a pen",
+    "category": "Slide shows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "pwm87"
+  },
+  {
+    "description": "Redisplay hidden pointer and/or change the pointer to an arrow",
+    "category": "Slide shows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "pwm88"
+  },
+  {
+    "description": "Hide the pointer on mouse move",
+    "category": "Slide shows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "pwm89"
+  },
+  {
+    "description": "Display the contextual menu",
+    "category": "Slide shows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Hold down Ctrl and click the mouse button"
+      }
+    ],
+    "id": "pwm90"
+  },
+  {
+    "description": "Show Thesaurus entry for a selected word",
+    "category": "Slide shows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "pwm91"
+  },
+  {
+    "description": "Show Smart Lookup entry for a selected word or phrase",
+    "category": "Slide shows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "pwm92"
+  },
+  {
+    "description": "Switch to presenter view",
+    "category": "Slide shows",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Return"
+      }
+    ],
+    "id": "pwm93"
+  },
+  {
+    "description": "Move to the next cell",
+    "category": "Working in tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "pwm94"
+  },
+  {
+    "description": "Move to the preceding cell",
+    "category": "Working in tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "pwm95"
+  },
+  {
+    "description": "Move to the next line or row",
+    "category": "Working in tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
+      }
+    ],
+    "id": "pwm96"
+  },
+  {
+    "description": "Move to the preceding line or row",
+    "category": "Working in tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "pwm97"
+  },
+  {
+    "description": "Start a new paragraph in a cell",
+    "category": "Working in tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Return"
+      }
+    ],
+    "id": "pwm98"
+  },
+  {
+    "description": "Add a new row at the bottom of the table",
+    "category": "Working in tables",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab at the end of the last row"
+      }
+    ],
+    "id": "pwm99"
+  },
+  {
+    "description": "Close the active window",
+    "category": "Windows and dialog boxes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "W"
+      }
+    ],
+    "id": "pwm100"
+  },
+  {
+    "description": "Perform the action assigned to a default button in a dialog box",
+    "category": "Windows and dialog boxes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Return"
+      }
+    ],
+    "id": "pwm101"
+  },
+  {
+    "description": "Cancel a command and close the dialog box",
+    "category": "Windows and dialog boxes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "ESC"
+      }
+    ],
+    "id": "pwm102"
+  },
+  {
+    "description": "Hide the current window",
+    "category": "Windows and dialog boxes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "H"
+      }
+    ],
+    "id": "pwm103"
+  },
+  {
+    "description": "Minimize the current window",
+    "category": "Windows and dialog boxes",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "pwm104"
+  }
+]

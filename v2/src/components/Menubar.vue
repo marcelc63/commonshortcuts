@@ -89,12 +89,21 @@ p {
 
       <div class="mb-20 d-flex flex-column">
         <span class="menu__headline">Software</span>
-        <span :class="classSoftware('excel')" @click="viewSoftware('excel')">
+        <span
+          v-for="(item, index) in list"
+          :key="index"
+          :class="classSoftware(item.var)"
+          @click="viewSoftware(item.var)"
+        >
+          <i class="fa fa-chevron-right icon" aria-hidden="true"></i>
+          {{item.name}}
+        </span>
+        <!-- <span :class="classSoftware('excel')" @click="viewSoftware('excel')">
           <i class="fa fa-chevron-right icon" aria-hidden="true"></i> Excel
         </span>
         <span :class="classSoftware('vim')" @click="viewSoftware('vim')">
           <i class="fa fa-chevron-right icon" aria-hidden="true"></i> Vim
-        </span>
+        </span>-->
       </div>
 
       <div class="mb-20 d-flex flex-column">
@@ -127,10 +136,17 @@ p {
 </template>
 
 <script>
+import list from "@/config/content.js";
+
 export default {
   name: "Menubar",
   props: {},
   computed: {
+    list: function() {
+      return list.filter(x => {
+        return x.platform === this.platform || x.platform === "all";
+      });
+    },
     software: function() {
       return this.$store.state.software;
     },

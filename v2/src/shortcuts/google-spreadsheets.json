@@ -1,0 +1,1101 @@
+[
+  {
+    "description": "Move one cell up, down, left, or right",
+    "category": "Movement within worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "gsp0"
+  },
+  {
+    "description": "Move one cell to the right",
+    "category": "Movement within worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "gsp1"
+  },
+  {
+    "description": "Move one cell to the left",
+    "category": "Movement within worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "gsp2"
+  },
+  {
+    "description": "Move to the end of the row",
+    "category": "Movement within worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "gsp3"
+  },
+  {
+    "description": "Go to last cell in data region",
+    "category": "Movement within worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
+      }
+    ],
+    "id": "gsp4"
+  },
+  {
+    "description": "Move to the beginning of the row",
+    "category": "Movement within worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "gsp5"
+  },
+  {
+    "description": "Move to the beginning of the worksheet",
+    "category": "Movement within worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "gsp6"
+  },
+  {
+    "description": "Go to left-most / right-most cell in current row",
+    "category": "Movement within worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left / Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "gsp7"
+  },
+  {
+    "description": "Go to bottom-most / to-most cell in current column",
+    "category": "Movement within worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down / Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "gsp8"
+  },
+  {
+    "description": "Move to next / move to previousworksheet",
+    "category": "Movement within worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down / Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up"
+      }
+    ],
+    "id": "gsp9"
+  },
+  {
+    "description": "Move one screen to the right / one screen to the left",
+    "category": "Movement within worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down / Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up"
+      }
+    ],
+    "id": "gsp10"
+  },
+  {
+    "description": "Scroll to the active cell when multiple cells are selected",
+    "category": "Movement within worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Backspace"
+      }
+    ],
+    "id": "gsp11"
+  },
+  {
+    "description": "Switch sheets",
+    "category": "Movement within worksheets",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up/Page Down"
+      }
+    ],
+    "id": "gsp12"
+  },
+  {
+    "description": "Move from top to bottom within the selected range",
+    "category": "Movement within a selected range",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gsp13"
+  },
+  {
+    "description": "Move from bottom to top within the selected range",
+    "category": "Movement within a selected range",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gsp14"
+  },
+  {
+    "description": "Move from left to right within the selected range. If cells in a single column are selected, move down.",
+    "category": "Movement within a selected range",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "gsp15"
+  },
+  {
+    "description": "Move from right to left within the selected range. If cells in a single column are selected, move up.",
+    "category": "Movement within a selected range",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "gsp16"
+  },
+  {
+    "description": "Select the all / entire worksheet",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "a"
+      }
+    ],
+    "id": "gsp17"
+  },
+  {
+    "description": "Bold the contents of the selected cell",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "b"
+      }
+    ],
+    "id": "gsp18"
+  },
+  {
+    "description": "Copy the contents of the selected cell",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "c"
+      }
+    ],
+    "id": "gsp19"
+  },
+  {
+    "description": "Find words or phrases within the spreadsheet",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "f"
+      }
+    ],
+    "id": "gsp20"
+  },
+  {
+    "description": "Italicize the contents of the selected cell",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "i"
+      }
+    ],
+    "id": "gsp21"
+  },
+  {
+    "description": "Print",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "p"
+      }
+    ],
+    "id": "gsp22"
+  },
+  {
+    "description": "Copy the content of the selected cell right (used in combo with Shift + arrow)",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "r"
+      }
+    ],
+    "id": "gsp23"
+  },
+  {
+    "description": "Save",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "s"
+      }
+    ],
+    "id": "gsp24"
+  },
+  {
+    "description": "Underline the contents of the selected cell",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "u"
+      }
+    ],
+    "id": "gsp25"
+  },
+  {
+    "description": "Paste the contents of the selected cell",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "v"
+      }
+    ],
+    "id": "gsp26"
+  },
+  {
+    "description": "Cut the contents of the selected cell",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "x"
+      }
+    ],
+    "id": "gsp27"
+  },
+  {
+    "description": "Redo the last action",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "y"
+      }
+    ],
+    "id": "gsp28"
+  },
+  {
+    "description": "Undo the last action.",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "z"
+      }
+    ],
+    "id": "gsp29"
+  },
+  {
+    "description": "Complete a cell entry and select the cell below",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gsp30"
+  },
+  {
+    "description": "Complete a cell entry and select the previous cell above",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gsp31"
+  },
+  {
+    "description": "Start a new line in the same cell",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gsp32"
+  },
+  {
+    "description": "Insert line break in a cell",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gsp33"
+  },
+  {
+    "description": "Complete a cell entry and select the next cell to the right",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "gsp34"
+  },
+  {
+    "description": "Complete a cell entry and select the previous cell to the left",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "gsp35"
+  },
+  {
+    "description": "Edit the active cell and position the insertion point at the end of the cell contents",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "gsp36"
+  },
+  {
+    "description": "Edit comment",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F2"
+      }
+    ],
+    "id": "gsp37"
+  },
+  {
+    "description": "Cancel cell entry",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "gsp38"
+  },
+  {
+    "description": "Edit the active cell and then clear it, or delete the preceding character in the active cell as you edit cell contents",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Backspace"
+      }
+    ],
+    "id": "gsp39"
+  },
+  {
+    "description": "Delete the character to the right of the insertion point, or delete the selection",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Delete"
+      }
+    ],
+    "id": "gsp40"
+  },
+  {
+    "description": "Select the entire column",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      }
+    ],
+    "id": "gsp41"
+  },
+  {
+    "description": "Select the entire row",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
+      }
+    ],
+    "id": "gsp42"
+  },
+  {
+    "description": "Manual select",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Keys"
+      }
+    ],
+    "id": "gsp43"
+  },
+  {
+    "description": "Make a copy of the document",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "s"
+      }
+    ],
+    "id": "gsp44"
+  },
+  {
+    "description": "Strikethrough formatting for the contents of the cell",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "5"
+      }
+    ],
+    "id": "gsp45"
+  },
+  {
+    "description": "Apply border outline to selected cells",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "&"
+      }
+    ],
+    "id": "gsp46"
+  },
+  {
+    "description": "Remove border outline from selected cells",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "_"
+      }
+    ],
+    "id": "gsp47"
+  },
+  {
+    "description": "Apply or remove top border from the selected cells",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "t"
+      }
+    ],
+    "id": "gsp48"
+  },
+  {
+    "description": "Apply or remove bottom border from the selected cells",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "b"
+      }
+    ],
+    "id": "gsp49"
+  },
+  {
+    "description": "Apply or remove right border from the selected cells",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "r"
+      }
+    ],
+    "id": "gsp50"
+  },
+  {
+    "description": "Apply or remove left border from the selected cells",
+    "category": "Entering/editing data",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Alt"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "l"
+      }
+    ],
+    "id": "gsp51"
+  },
+  {
+    "description": "Wrap current formula in an ArrayFormula",
+    "category": "Miscellaneous Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gsp52"
+  },
+  {
+    "description": "Insert current date into cell",
+    "category": "Miscellaneous Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ";"
+      }
+    ],
+    "id": "gsp53"
+  },
+  {
+    "description": "Insert current time into cell",
+    "category": "Miscellaneous Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ":"
+      }
+    ],
+    "id": "gsp54"
+  },
+  {
+    "description": "Open keyboard shortcuts help",
+    "category": "Miscellaneous Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "/"
+      }
+    ],
+    "id": "gsp55"
+  },
+  {
+    "description": "View all formulas",
+    "category": "Miscellaneous Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "'"
+      }
+    ],
+    "id": "gsp56"
+  }
+]

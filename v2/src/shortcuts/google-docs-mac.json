@@ -1,0 +1,1540 @@
+[
+  {
+    "description": "Jump one character to the left / to the right",
+    "category": "Navigate Google Docs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Left/Arrow Right"
+      }
+    ],
+    "id": "gdm0"
+  },
+  {
+    "description": "Jump one word to the left / to the right",
+    "category": "Navigate Google Docs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left/Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
+      }
+    ],
+    "id": "gdm1"
+  },
+  {
+    "description": "Jump to the end of a line / beginning of a line",
+    "category": "Navigate Google Docs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "End/Home"
+      }
+    ],
+    "id": "gdm2"
+  },
+  {
+    "description": "Jump one line down / one line down",
+    "category": "Navigate Google Docs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Arrow Down/Arrow Up"
+      }
+    ],
+    "id": "gdm3"
+  },
+  {
+    "description": "Jump one paragraph down / one paragraph up",
+    "category": "Navigate Google Docs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down/Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "gdm4"
+  },
+  {
+    "description": "Jump one screen down/ one screen up",
+    "category": "Navigate Google Docs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Page Down/Page Up"
+      }
+    ],
+    "id": "gdm5"
+  },
+  {
+    "description": "Jump to end / to beginning of document",
+    "category": "Navigate Google Docs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End/Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "gdm6"
+  },
+  {
+    "description": "Extend selection one character to the right / to the left",
+    "category": "Select Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "gdm7"
+  },
+  {
+    "description": "Extend selection one word to the right / to the left",
+    "category": "Select Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right/Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      }
+    ],
+    "id": "gdm8"
+  },
+  {
+    "description": "Extend selection to the end / to beginning of a line",
+    "category": "Select Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "gdm9"
+  },
+  {
+    "description": "Extend selection one line down / one line up",
+    "category": "Select Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
+      }
+    ],
+    "id": "gdm10"
+  },
+  {
+    "description": "Extend selection one screen down / one screen up",
+    "category": "Select Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down/Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up"
+      }
+    ],
+    "id": "gdm11"
+  },
+  {
+    "description": "Extend selection to end / to beginning of document",
+    "category": "Select Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "End/Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Home"
+      }
+    ],
+    "id": "gdm12"
+  },
+  {
+    "description": "Extend selection to entire document / select all",
+    "category": "Select Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "gdm13"
+  },
+  {
+    "description": "Bold",
+    "category": "Format Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "B"
+      }
+    ],
+    "id": "gdm14"
+  },
+  {
+    "description": "Italicize",
+    "category": "Format Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      }
+    ],
+    "id": "gdm15"
+  },
+  {
+    "description": "Underline",
+    "category": "Format Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
+      }
+    ],
+    "id": "gdm16"
+  },
+  {
+    "description": "Superscript",
+    "category": "Format Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "."
+      }
+    ],
+    "id": "gdm17"
+  },
+  {
+    "description": "Subscript",
+    "category": "Format Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      },
+      {
+        "type": "symbol",
+        "val": ""
+      }
+    ],
+    "id": "gdm18"
+  },
+  {
+    "description": "Copy formatting",
+    "category": "Format Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "gdm19"
+  },
+  {
+    "description": "Paste formatting",
+    "category": "Format Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "gdm20"
+  },
+  {
+    "description": "Clear formatting (or Command+Space)",
+    "category": "Format Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "\\"
+      }
+    ],
+    "id": "gdm21"
+  },
+  {
+    "description": "Normal paragraph style",
+    "category": "Format Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "0 (zero)"
+      }
+    ],
+    "id": "gdm22"
+  },
+  {
+    "description": "Header style 1 ... Header style 6",
+    "category": "Format Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "1 … 6"
+      }
+    ],
+    "id": "gdm23"
+  },
+  {
+    "description": "Left alignment",
+    "category": "Format Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
+      }
+    ],
+    "id": "gdm24"
+  },
+  {
+    "description": "Center alignment",
+    "category": "Format Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "gdm25"
+  },
+  {
+    "description": "Right alignment",
+    "category": "Format Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
+      }
+    ],
+    "id": "gdm26"
+  },
+  {
+    "description": "Full justify",
+    "category": "Format Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "gdm27"
+  },
+  {
+    "description": "Numbered list",
+    "category": "Format Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "7"
+      }
+    ],
+    "id": "gdm28"
+  },
+  {
+    "description": "Bulleted list",
+    "category": "Format Text",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "8"
+      }
+    ],
+    "id": "gdm29"
+  },
+  {
+    "description": "Move focus to menu bar",
+    "category": "Manage Google Docs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "gdm30"
+  },
+  {
+    "description": "Print",
+    "category": "Manage Google Docs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "gdm31"
+  },
+  {
+    "description": "Save",
+    "category": "Manage Google Docs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "S"
+      }
+    ],
+    "id": "gdm32"
+  },
+  {
+    "description": "Compact controls",
+    "category": "Manage Google Docs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "gdm33"
+  },
+  {
+    "description": "Show your browser's right-click options",
+    "category": "Manage Google Docs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "right-click"
+      }
+    ],
+    "id": "gdm34"
+  },
+  {
+    "description": "Chat",
+    "category": "Manage Google Docs",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "gdm35"
+  },
+  {
+    "description": "Cut, Copy, Paste",
+    "category": "Edit Documents",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "X"
+      },
+      {
+        "type": "symbol",
+        "val": " Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      },
+      {
+        "type": "symbol",
+        "val": " Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "V"
+      }
+    ],
+    "id": "gdm36"
+  },
+  {
+    "description": "Undo",
+    "category": "Edit Documents",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Z"
+      }
+    ],
+    "id": "gdm37"
+  },
+  {
+    "description": "Redo",
+    "category": "Edit Documents",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "gdm38"
+  },
+  {
+    "description": "Increase paragraph indentation",
+    "category": "Edit Documents",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "gdm39"
+  },
+  {
+    "description": "Decrease paragraph indentation",
+    "category": "Edit Documents",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      }
+    ],
+    "id": "gdm40"
+  },
+  {
+    "description": "Insert link",
+    "category": "Edit Documents",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "gdm41"
+  },
+  {
+    "description": "Get definitions",
+    "category": "Edit Documents",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Y"
+      }
+    ],
+    "id": "gdm42"
+  },
+  {
+    "description": "Insert footnote",
+    "category": "Edit Documents",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "gdm43"
+  },
+  {
+    "description": "Find",
+    "category": "Edit Documents",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "F"
+      }
+    ],
+    "id": "gdm44"
+  },
+  {
+    "description": "Word count",
+    "category": "Edit Documents",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "C"
+      }
+    ],
+    "id": "gdm45"
+  },
+  {
+    "description": "Move to header. Press Escape to leave header",
+    "category": "Jump to Sections within Documents",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "o then h*"
+      }
+    ],
+    "id": "gdm46"
+  },
+  {
+    "description": "Move to footer. Press Escape to leave footer",
+    "category": "Jump to Sections within Documents",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "o"
+      },
+      {
+        "type": "symbol",
+        "val": " then f*"
+      }
+    ],
+    "id": "gdm47"
+  },
+  {
+    "description": "Move to next heading",
+    "category": "Jump to Sections within Documents",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "n then h*"
+      }
+    ],
+    "id": "gdm48"
+  },
+  {
+    "description": "Move to next heading 1-6",
+    "category": "Jump to Sections within Documents",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "n then 1…6*"
+      }
+    ],
+    "id": "gdm49"
+  },
+  {
+    "description": "Move to previous heading",
+    "category": "Jump to Sections within Documents",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "p then h*"
+      }
+    ],
+    "id": "gdm50"
+  },
+  {
+    "description": "Move to previous heading 1-6",
+    "category": "Jump to Sections within Documents",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "p then 1…6*"
+      }
+    ],
+    "id": "gdm51"
+  },
+  {
+    "description": "Move to current footnote",
+    "category": "Jump to Sections within Documents",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "f then E"
+      }
+    ],
+    "id": "gdm52"
+  },
+  {
+    "description": "Move to next misspelling",
+    "category": "Jump to Sections within Documents",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": ";"
+      }
+    ],
+    "id": "gdm53"
+  },
+  {
+    "description": "Open discussion view",
+    "category": "Comment View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
+      }
+    ],
+    "id": "gdm54"
+  },
+  {
+    "description": "Insert comment",
+    "category": "Comment View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "M"
+      }
+    ],
+    "id": "gdm55"
+  },
+  {
+    "description": "Select next comment",
+    "category": "Comment View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "gdm56"
+  },
+  {
+    "description": "Select previous comment",
+    "category": "Comment View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "gdm57"
+  },
+  {
+    "description": "Resolve comment",
+    "category": "Comment View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "gdm58"
+  },
+  {
+    "description": "Move focus outside of input box",
+    "category": "Comment View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Esc"
+      }
+    ],
+    "id": "gdm59"
+  },
+  {
+    "description": "Select previous",
+    "category": "Comment View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "gdm60"
+  },
+  {
+    "description": "Submit comment",
+    "category": "Comment View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter or Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gdm61"
+  },
+  {
+    "description": "Select next",
+    "category": "Discussion View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "J"
+      }
+    ],
+    "id": "gdm62"
+  },
+  {
+    "description": "Select previous",
+    "category": "Discussion View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "K"
+      }
+    ],
+    "id": "gdm63"
+  },
+  {
+    "description": "Close discussion view",
+    "category": "Discussion View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "u or Escape"
+      }
+    ],
+    "id": "gdm64"
+  },
+  {
+    "description": "Resolve",
+    "category": "Discussion View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "E"
+      }
+    ],
+    "id": "gdm65"
+  },
+  {
+    "description": "Submit comment",
+    "category": "Discussion View",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter or Command"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
+      }
+    ],
+    "id": "gdm66"
+  },
+  {
+    "description": "Add '_' before and after phrase to make text in comment italic",
+    "category": "Comment Box Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "_text_"
+      }
+    ],
+    "id": "gdm67"
+  },
+  {
+    "description": "Add '*' before and after phrase to make text in comment bold",
+    "category": "Comment Box Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "*text*"
+      }
+    ],
+    "id": "gdm68"
+  },
+  {
+    "description": "Add '-' before and after phrase to make text in comment strike-through",
+    "category": "Comment Box Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "-text-"
+      }
+    ],
+    "id": "gdm69"
+  }
+]

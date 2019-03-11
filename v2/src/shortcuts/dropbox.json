@@ -1,0 +1,186 @@
+[
+  {
+    "description": "Check all/no files",
+    "category": "16 Shortcuts for Dropbox (Web Application)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "a"
+      }
+    ],
+    "id": "dr0"
+  },
+  {
+    "description": "Uncheck all files",
+    "category": "16 Shortcuts for Dropbox (Web Application)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "n"
+      }
+    ],
+    "id": "dr1"
+  },
+  {
+    "description": "Copy checked files",
+    "category": "16 Shortcuts for Dropbox (Web Application)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "c"
+      }
+    ],
+    "id": "dr2"
+  },
+  {
+    "description": "Move checked files",
+    "category": "16 Shortcuts for Dropbox (Web Application)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "m"
+      }
+    ],
+    "id": "dr3"
+  },
+  {
+    "description": "Up a directory",
+    "category": "16 Shortcuts for Dropbox (Web Application)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "u"
+      }
+    ],
+    "id": "dr4"
+  },
+  {
+    "description": "Check deleted files",
+    "category": "16 Shortcuts for Dropbox (Web Application)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "p"
+      }
+    ],
+    "id": "dr5"
+  },
+  {
+    "description": "Invert checked files",
+    "category": "16 Shortcuts for Dropbox (Web Application)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "i"
+      }
+    ],
+    "id": "dr6"
+  },
+  {
+    "description": "Search",
+    "category": "16 Shortcuts for Dropbox (Web Application)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "/"
+      }
+    ],
+    "id": "dr7"
+  },
+  {
+    "description": "Show/hide deleted files",
+    "category": "16 Shortcuts for Dropbox (Web Application)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "d"
+      }
+    ],
+    "id": "dr8"
+  },
+  {
+    "description": "Hide Popup/ back tally",
+    "category": "16 Shortcuts for Dropbox (Web Application)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "esc"
+      }
+    ],
+    "id": "dr9"
+  },
+  {
+    "description": "Show keyboard shortcuts",
+    "category": "16 Shortcuts for Dropbox (Web Application)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "?"
+      }
+    ],
+    "id": "dr10"
+  },
+  {
+    "description": "Highlight previous / highlight next file",
+    "category": "16 Shortcuts for Dropbox (Web Application)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "k / j"
+      }
+    ],
+    "id": "dr11"
+  },
+  {
+    "description": "Check highlighted file",
+    "category": "16 Shortcuts for Dropbox (Web Application)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "space"
+      }
+    ],
+    "id": "dr12"
+  },
+  {
+    "description": "View highlighted file",
+    "category": "16 Shortcuts for Dropbox (Web Application)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "o"
+      }
+    ],
+    "id": "dr13"
+  },
+  {
+    "description": "Save the screenshot to your Dropbox.",
+    "category": "Dropbox Screenshots (to disable/enable these shortcuts go to Settings > Preferences > Import > Screenshots > (checkbox)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "PrtSc"
+      }
+    ],
+    "id": "dr14"
+  },
+  {
+    "description": "Save the screenshot to your Dropbox and copy a link to the Clipboard.",
+    "category": "Dropbox Screenshots (to disable/enable these shortcuts go to Settings > Preferences > Import > Screenshots > (checkbox)",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl "
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": " PrtSc"
+      }
+    ],
+    "id": "dr15"
+  }
+]
