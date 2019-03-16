@@ -19,8 +19,8 @@ export default new Vuex.Store({
     bookmarks: [],
     tab: "shortcuts",
     collapse: [],
-    platform: "mac",
-    software: "excelmac",
+    platform: "windows",
+    software: "acrobatwin",
     aboutus: true
   },
   mutations: {
