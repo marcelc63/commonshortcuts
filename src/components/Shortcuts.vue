@@ -22,7 +22,7 @@
 .category {
   color: #a0a0a0; //Four
   padding: 3px 10px;
-  font-size: 14px;
+  font-size: 12px;
   cursor: pointer;
   width: 100%;
   border-radius: 2px;
@@ -34,6 +34,10 @@
     // background: #e8e7e4; //Three
     background: #e8e8e8; //Three
   }
+}
+
+.pr-10 {
+  padding-right: 10px;
 }
 </style>
 
@@ -57,7 +61,7 @@
       </div>
     </div>
     <div class="col-md-2">
-      <div class="position-fixed" v-show="showMenu">
+      <div class="position-fixed pr-10" v-show="showMenu">
         <p v-for="(category, categoryIn) in group" :key="categoryIn" class="category">
           <a :href="'#'+categoryIn">{{category}}</a>
         </p>

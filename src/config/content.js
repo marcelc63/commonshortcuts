@@ -19,6 +19,8 @@ import outlookmac from "@/shortcuts/outlook-mac.json";
 import outlookwin from "@/shortcuts/outlook-win.json";
 import photoshopmac from "@/shortcuts/photoshop-mac.json";
 import photoshopwin from "@/shortcuts/photoshop-win.json";
+import premieremac from "@/shortcuts/premiere-mac.json";
+import premierewin from "@/shortcuts/premiere-win.json";
 import powerpointmac from "@/shortcuts/powerpoint-mac.json";
 import powerpointwin from "@/shortcuts/powerpoint-win.json";
 import wordmac from "@/shortcuts/word-mac.json";
@@ -46,6 +48,8 @@ export const shortcuts = {
   outlookwin,
   photoshopmac,
   photoshopwin,
+  premieremac,
+  premierewin,
   powerpointmac,
   powerpointwin,
   wordmac,
@@ -74,6 +78,8 @@ export const softwares = {
   outlookwin: [],
   photoshopmac: [],
   photoshopwin: [],
+  premieremac: [],
+  premierewin: [],
   powerpointmac: [],
   powerpointwin: [],
   wordmac: [],
@@ -206,6 +212,18 @@ const list = [
     platform: "windows",
     file: "photoshop-win",
     var: "photoshopwin"
+  },
+  {
+    name: "Premiere",
+    platform: "mac",
+    file: "premiere-mac",
+    var: "premieremac"
+  },
+  {
+    name: "Premiere",
+    platform: "windows",
+    file: "premiere-win",
+    var: "premierewin"
   },
   {
     name: "Powerpoint",

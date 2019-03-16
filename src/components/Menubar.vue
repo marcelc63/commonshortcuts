@@ -116,7 +116,7 @@ p {
         </span>
       </div>
 
-      <div class="mb-20 d-flex flex-column">
+      <!-- <div class="mb-20 d-flex flex-column">
         <span class="menu__headline">Tools</span>
         <span class="menu__options" @click="$router.push('/editor')">
           <i class="fa fa-windows icon" aria-hidden="true"></i> Create
@@ -124,8 +124,7 @@ p {
         <span :class="classPlatform('mac')" @click="viewPlatform('mac')">
           <i class="fa fa-apple icon" aria-hidden="true"></i> Export/Import
         </span>
-      </div>
-
+      </div>-->
       <div class="mb-20 d-flex flex-column" v-if="showNavMenu">
         <span class="menu__options menu__options--highlight" @click="nav">
           <i class="fa fa-close icon" aria-hidden="true"></i> Close Menu
@@ -179,7 +178,23 @@ export default {
         : "menu__options";
     },
     viewPlatform: function(platform) {
+      console.log(platform);
       this.$store.dispatch("save", { key: "platform", data: platform });
+      let lastThree = this.software.slice(-3);
+      if (lastThree === "win" || lastThree === "mac") {
+        let name = this.software.slice(0, -3);
+        console.log("name", name);
+        let newBatch = list.filter(x => x.name.toLowerCase() === name);
+        let check = newBatch.length;
+        console.log(newBatch, check);
+        if (check > 1) {
+          let newTab = newBatch.filter(
+            x => x.var.toLowerCase() !== this.software
+          )[0];
+          console.log(newTab);
+          this.$store.dispatch("save", { key: "software", data: newTab.var });
+        }
+      }
     },
     classPlatform: function(platform) {
       return this.platform === platform
