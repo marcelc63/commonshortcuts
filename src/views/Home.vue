@@ -6,8 +6,12 @@
 }
 .hello {
   overflow-y: scroll;
-  height: 100%;
   width: 100%;
+}
+@media only screen and (max-width: 600px) {
+  .hello {
+    height: 100%;
+  }
 }
 </style>
 
@@ -61,16 +65,6 @@ export default {
       data: shortcuts
     });
 
-    this.$store.dispatch("load", {
-      key: "collapse",
-      data: _.cloneDeep(softwares)
-    });
-
-    this.$store.dispatch("load", {
-      key: "bookmarks",
-      data: _.cloneDeep(softwares)
-    });
-
     this.isLoaded = true;
   },
   data: function() {
@@ -103,6 +97,18 @@ export default {
         this.$store.dispatch("load", {
           key: store,
           data: payload
+        });
+      }
+      if (data === null && store === "bookmarks") {
+        this.$store.dispatch("load", {
+          key: "bookmarks",
+          data: _.cloneDeep(softwares)
+        });
+      }
+      if (data === null && store === "collapse") {
+        this.$store.dispatch("load", {
+          key: "collapse",
+          data: _.cloneDeep(softwares)
         });
       }
     },
