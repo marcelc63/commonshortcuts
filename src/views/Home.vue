@@ -6,6 +6,7 @@
 }
 .hello {
   overflow-y: scroll;
+  height: 100%;
   width: 100%;
 }
 @media only screen and (max-width: 600px) {
