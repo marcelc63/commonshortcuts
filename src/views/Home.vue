@@ -6,14 +6,14 @@
 }
 .hello {
   overflow-y: scroll;
-  height: 100%;
+  height: 100vh;
   width: 100%;
 }
-@media only screen and (max-width: 600px) {
-  .hello {
-    height: 100%;
-  }
-}
+// @media only screen and (max-width: 600px) {
+//   .hello {
+//     height: 100%;
+//   }
+// }
 </style>
 
 <template>
