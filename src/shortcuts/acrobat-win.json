@@ -413,7 +413,31 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Right/Arrow Left/Tab/Shift"
+        "val": "Arrow Right"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Tab"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -432,7 +456,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Enter/Space"
+        "val": "Enter"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
       }
     ],
     "id": "acw25"
@@ -549,7 +581,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Space/Enter"
+        "val": "Space"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
       }
     ],
     "id": "acw32"
@@ -628,7 +668,15 @@
       },
       {
         "type": "symbol",
-        "val": "F3/Ctrl"
+        "val": "F3"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -655,7 +703,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "F3/Ctrl"
+        "val": "F3"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -763,7 +819,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Right/Shift"
+        "val": "Arrow Right"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -790,7 +854,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Page Up/Shift"
+        "val": "Page Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -809,7 +881,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Page Down/Shift"
+        "val": "Page Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -828,7 +908,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Home/Shift"
+        "val": "Home"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -844,7 +932,15 @@
       },
       {
         "type": "symbol",
-        "val": "Page Up/Shift"
+        "val": "Page Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -871,7 +967,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "End/Shift"
+        "val": "End"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -887,7 +991,15 @@
       },
       {
         "type": "symbol",
-        "val": "Page Down/Shift"
+        "val": "Page Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -914,7 +1026,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Left/Ctrl"
+        "val": "Arrow Left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -933,7 +1053,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Right/Ctrl"
+        "val": "Arrow Right"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1197,7 +1325,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Space/Enter"
+        "val": "Space"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
       }
     ],
     "id": "acw64"
@@ -1254,7 +1390,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Space/Enter"
+        "val": "Space"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
       }
     ],
     "id": "acw67"
@@ -1276,7 +1420,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Space/Enter"
+        "val": "Space"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
       }
     ],
     "id": "acw69"
@@ -1385,7 +1537,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Up/Arrow Down"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
       }
     ],
     "id": "acw76"
@@ -1415,7 +1575,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Right/Shift"
+        "val": "Arrow Right"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -1442,7 +1610,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Left/-"
+        "val": "Arrow Left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
       }
     ],
     "id": "acw79"
@@ -1472,7 +1648,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
     "id": "acw81"
@@ -1524,7 +1708,15 @@
       },
       {
         "type": "symbol",
-        "val": "W/Alt"
+        "val": "W"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -1687,7 +1879,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Tab/Shift"
+        "val": "Tab"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -1706,7 +1906,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Up/Arrow Down"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
       }
     ],
     "id": "acw95"
@@ -1717,7 +1925,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Left/Arrow Right"
+        "val": "Arrow Left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
       }
     ],
     "id": "acw96"
@@ -1739,7 +1955,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Enter/Space"
+        "val": "Enter"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Space"
       }
     ],
     "id": "acw98"
@@ -1761,7 +1985,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Home/End"
+        "val": "Home"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
       }
     ],
     "id": "acw100"
@@ -1772,7 +2004,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Page Down/Page Up"
+        "val": "Page Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up"
       }
     ],
     "id": "acw101"
@@ -1791,7 +2031,15 @@
       },
       {
         "type": "symbol",
-        "val": "A/Shift"
+        "val": "A"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -1826,7 +2074,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Up/Shift"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -1872,7 +2128,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Up/Ctrl"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",

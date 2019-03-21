@@ -5,7 +5,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Left/Arrow Right"
+        "val": "Arrow Left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
       }
     ],
     "id": "gdm0"
@@ -24,7 +32,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Left/Command"
+        "val": "Arrow Left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
       },
       {
         "type": "operator",
@@ -43,7 +59,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "End/Home"
+        "val": "End"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Home"
       }
     ],
     "id": "gdm2"
@@ -54,7 +78,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Down/Arrow Up"
+        "val": "Arrow Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
       }
     ],
     "id": "gdm3"
@@ -73,7 +105,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Down/Command"
+        "val": "Arrow Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
       },
       {
         "type": "operator",
@@ -92,7 +132,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Page Down/Page Up"
+        "val": "Page Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up"
       }
     ],
     "id": "gdm5"
@@ -111,7 +159,15 @@
       },
       {
         "type": "symbol",
-        "val": "End/Command"
+        "val": "End"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
       },
       {
         "type": "operator",
@@ -138,7 +194,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Right/Shift"
+        "val": "Arrow Right"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -173,7 +237,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Right/Command"
+        "val": "Arrow Right"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
       },
       {
         "type": "operator",
@@ -208,7 +280,15 @@
       },
       {
         "type": "symbol",
-        "val": "End/Shift"
+        "val": "End"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -235,7 +315,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Down/Shift"
+        "val": "Arrow Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -262,7 +350,15 @@
       },
       {
         "type": "symbol",
-        "val": "Page Down/Shift"
+        "val": "Page Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -297,7 +393,15 @@
       },
       {
         "type": "symbol",
-        "val": "End/Command"
+        "val": "End"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
       },
       {
         "type": "operator",
@@ -427,11 +531,7 @@
       },
       {
         "type": "symbol",
-        "val": ""
-      },
-      {
-        "type": "symbol",
-        "val": ""
+        "val": ","
       }
     ],
     "id": "gdm18"
@@ -869,11 +969,7 @@
       },
       {
         "type": "symbol",
-        "val": "X"
-      },
-      {
-        "type": "symbol",
-        "val": " Command"
+        "val": "X, Command"
       },
       {
         "type": "operator",
@@ -881,11 +977,7 @@
       },
       {
         "type": "symbol",
-        "val": "C"
-      },
-      {
-        "type": "symbol",
-        "val": " Command"
+        "val": "C, Command"
       },
       {
         "type": "operator",
@@ -1107,7 +1199,15 @@
       },
       {
         "type": "symbol",
-        "val": "o then h*"
+        "val": "o"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "h*"
       }
     ],
     "id": "gdm46"
@@ -1137,8 +1237,12 @@
         "val": "o"
       },
       {
+        "type": "operator",
+        "val": "then"
+      },
+      {
         "type": "symbol",
-        "val": " then f*"
+        "val": "f*"
       }
     ],
     "id": "gdm47"
@@ -1165,7 +1269,15 @@
       },
       {
         "type": "symbol",
-        "val": "n then h*"
+        "val": "n"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "h*"
       }
     ],
     "id": "gdm48"
@@ -1192,7 +1304,15 @@
       },
       {
         "type": "symbol",
-        "val": "n then 1…6*"
+        "val": "n"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "1…6*"
       }
     ],
     "id": "gdm49"
@@ -1219,7 +1339,15 @@
       },
       {
         "type": "symbol",
-        "val": "p then h*"
+        "val": "p"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "h*"
       }
     ],
     "id": "gdm50"
@@ -1246,7 +1374,15 @@
       },
       {
         "type": "symbol",
-        "val": "p then 1…6*"
+        "val": "p"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "1…6*"
       }
     ],
     "id": "gdm51"
@@ -1273,7 +1409,15 @@
       },
       {
         "type": "symbol",
-        "val": "f then E"
+        "val": "f"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "E"
       }
     ],
     "id": "gdm52"
@@ -1420,7 +1564,15 @@
       },
       {
         "type": "symbol",
-        "val": "Enter or Command"
+        "val": "Enter"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
       },
       {
         "type": "operator",
@@ -1461,7 +1613,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "u or Escape"
+        "val": "u"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Escape"
       }
     ],
     "id": "gdm64"
@@ -1491,7 +1651,15 @@
       },
       {
         "type": "symbol",
-        "val": "Enter or Command"
+        "val": "Enter"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
       },
       {
         "type": "operator",

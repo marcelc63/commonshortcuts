@@ -5,10 +5,34 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "g then n or g then f"
+        "val": "g"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "n"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "g"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "f"
       }
     ],
-    "id": "gd0"
+    "id": "gdr0"
   },
   {
     "description": "Go to items view",
@@ -16,10 +40,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "g then l"
+        "val": "g"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "l"
       }
     ],
-    "id": "gd1"
+    "id": "gdr1"
   },
   {
     "description": "Toggle grid view and list view",
@@ -30,7 +62,7 @@
         "val": "v"
       }
     ],
-    "id": "gd2"
+    "id": "gdr2"
   },
   {
     "description": "Go to details pane",
@@ -38,10 +70,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "g then d"
+        "val": "g"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "d"
       }
     ],
-    "id": "gd3"
+    "id": "gdr3"
   },
   {
     "description": "Go to top of application",
@@ -49,10 +89,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "g then t"
+        "val": "g"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "t"
       }
     ],
-    "id": "gd4"
+    "id": "gdr4"
   },
   {
     "description": "Go to download status",
@@ -60,10 +108,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "g then a"
+        "val": "g"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "a"
       }
     ],
-    "id": "gd5"
+    "id": "gdr5"
   },
   {
     "description": "Go to upload status",
@@ -71,10 +127,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "g then u"
+        "val": "g"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "u"
       }
     ],
-    "id": "gd6"
+    "id": "gdr6"
   },
   {
     "description": "Show or hide the details pane",
@@ -85,7 +149,7 @@
         "val": "d"
       }
     ],
-    "id": "gd7"
+    "id": "gdr7"
   },
   {
     "description": "Show or hide the activity pane",
@@ -96,7 +160,7 @@
         "val": "i"
       }
     ],
-    "id": "gd8"
+    "id": "gdr8"
   },
   {
     "description": "Select or deselect item",
@@ -107,7 +171,7 @@
         "val": "x"
       }
     ],
-    "id": "gd9"
+    "id": "gdr9"
   },
   {
     "description": "Select next item down",
@@ -115,10 +179,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "j or down"
+        "val": "j"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "down"
       }
     ],
-    "id": "gd10"
+    "id": "gdr10"
   },
   {
     "description": "Select next item up",
@@ -126,10 +198,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "k or up"
+        "val": "k"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "up"
       }
     ],
-    "id": "gd11"
+    "id": "gdr11"
   },
   {
     "description": "Select next item to the left",
@@ -137,10 +217,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "h or left"
+        "val": "h"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "left"
       }
     ],
-    "id": "gd12"
+    "id": "gdr12"
   },
   {
     "description": "Select next item to the right",
@@ -148,10 +236,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "l or right"
+        "val": "l"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "right"
       }
     ],
-    "id": "gd13"
+    "id": "gdr13"
   },
   {
     "description": "Expand selection up/down/left/right",
@@ -167,10 +263,34 @@
       },
       {
         "type": "symbol",
-        "val": "up/down/left/right"
+        "val": "up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "right"
       }
     ],
-    "id": "gd14"
+    "id": "gdr14"
   },
   {
     "description": "Move focus up/down/left/right without changing selection",
@@ -186,10 +306,34 @@
       },
       {
         "type": "symbol",
-        "val": "up/down/left/right"
+        "val": "up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "right"
       }
     ],
-    "id": "gd15"
+    "id": "gdr15"
   },
   {
     "description": "Select all visible items",
@@ -208,7 +352,7 @@
         "val": "a"
       }
     ],
-    "id": "gd16"
+    "id": "gdr16"
   },
   {
     "description": "Select none (clear selection)",
@@ -227,7 +371,7 @@
         "val": "n"
       }
     ],
-    "id": "gd17"
+    "id": "gdr17"
   },
   {
     "description": "Open selected item",
@@ -235,10 +379,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "o or enter"
+        "val": "o"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "enter"
       }
     ],
-    "id": "gd18"
+    "id": "gdr18"
   },
   {
     "description": "Rename selected item",
@@ -249,7 +401,7 @@
         "val": "n"
       }
     ],
-    "id": "gd19"
+    "id": "gdr19"
   },
   {
     "description": "Share selected item",
@@ -260,7 +412,7 @@
         "val": "."
       }
     ],
-    "id": "gd20"
+    "id": "gdr20"
   },
   {
     "description": "Move selected item to folder",
@@ -271,7 +423,7 @@
         "val": "z"
       }
     ],
-    "id": "gd21"
+    "id": "gdr21"
   },
   {
     "description": "Add selected item to folder (Note: items can appear in more than one folder at once in Google Drive)",
@@ -290,7 +442,7 @@
         "val": "z"
       }
     ],
-    "id": "gd22"
+    "id": "gdr22"
   },
   {
     "description": "Star or unstar selected item",
@@ -301,7 +453,7 @@
         "val": "s"
       }
     ],
-    "id": "gd23"
+    "id": "gdr23"
   },
   {
     "description": "Remove selected item",
@@ -312,7 +464,7 @@
         "val": "#"
       }
     ],
-    "id": "gd24"
+    "id": "gdr24"
   },
   {
     "description": "Undo last action",
@@ -331,7 +483,7 @@
         "val": "z"
       }
     ],
-    "id": "gd25"
+    "id": "gdr25"
   },
   {
     "description": "Redo last action",
@@ -358,7 +510,7 @@
         "val": "z"
       }
     ],
-    "id": "gd26"
+    "id": "gdr26"
   },
   {
     "description": "Create new document",
@@ -377,7 +529,7 @@
         "val": "t"
       }
     ],
-    "id": "gd27"
+    "id": "gdr27"
   },
   {
     "description": "Create new presentation",
@@ -396,7 +548,7 @@
         "val": "p"
       }
     ],
-    "id": "gd28"
+    "id": "gdr28"
   },
   {
     "description": "Create new spreadsheet",
@@ -415,7 +567,7 @@
         "val": "s"
       }
     ],
-    "id": "gd29"
+    "id": "gdr29"
   },
   {
     "description": "Create new drawing",
@@ -434,7 +586,7 @@
         "val": "d"
       }
     ],
-    "id": "gd30"
+    "id": "gdr30"
   },
   {
     "description": "Create new folder",
@@ -453,7 +605,7 @@
         "val": "f"
       }
     ],
-    "id": "gd31"
+    "id": "gdr31"
   },
   {
     "description": "Create new form",
@@ -472,7 +624,7 @@
         "val": "o"
       }
     ],
-    "id": "gd32"
+    "id": "gdr32"
   },
   {
     "description": "Open create menu",
@@ -483,7 +635,7 @@
         "val": "c"
       }
     ],
-    "id": "gd33"
+    "id": "gdr33"
   },
   {
     "description": "Open actions menu",
@@ -494,7 +646,7 @@
         "val": "a"
       }
     ],
-    "id": "gd34"
+    "id": "gdr34"
   },
   {
     "description": "Open folder menu",
@@ -505,7 +657,7 @@
         "val": "f"
       }
     ],
-    "id": "gd35"
+    "id": "gdr35"
   },
   {
     "description": "Open sort menu",
@@ -516,7 +668,7 @@
         "val": "r"
       }
     ],
-    "id": "gd36"
+    "id": "gdr36"
   },
   {
     "description": "Open settings menu",
@@ -527,7 +679,7 @@
         "val": "t"
       }
     ],
-    "id": "gd37"
+    "id": "gdr37"
   },
   {
     "description": "Display keyboard shortcuts list",
@@ -538,7 +690,7 @@
         "val": "?"
       }
     ],
-    "id": "gd38"
+    "id": "gdr38"
   },
   {
     "description": "Cycle through visual density options (row height and element spacing)",
@@ -546,10 +698,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "q then q"
+        "val": "q"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "q"
       }
     ],
-    "id": "gd39"
+    "id": "gdr39"
   },
   {
     "description": "Show last message",
@@ -560,7 +720,7 @@
         "val": "m"
       }
     ],
-    "id": "gd40"
+    "id": "gdr40"
   },
   {
     "description": "Search your Drive",
@@ -568,9 +728,17 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
-    "id": "gd41"
+    "id": "gdr41"
   }
 ]

@@ -13,7 +13,15 @@
       },
       {
         "type": "symbol",
-        "val": "Z or Ctrl"
+        "val": "Z"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -40,7 +48,15 @@
       },
       {
         "type": "symbol",
-        "val": "X or Ctrl"
+        "val": "X"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -67,7 +83,15 @@
       },
       {
         "type": "symbol",
-        "val": "C or Ctrl"
+        "val": "C"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -94,7 +118,15 @@
       },
       {
         "type": "symbol",
-        "val": "V or Ctrl"
+        "val": "V"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -121,7 +153,7 @@
       },
       {
         "type": "symbol",
-        "val": " ⌘"
+        "val": "⌘"
       },
       {
         "type": "operator",
@@ -148,7 +180,7 @@
       },
       {
         "type": "symbol",
-        "val": " ⌘"
+        "val": "⌘"
       },
       {
         "type": "operator",
@@ -270,7 +302,15 @@
       },
       {
         "type": "symbol",
-        "val": "F for Find; Ctrl"
+        "val": "F f"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Find; Ctrl"
       },
       {
         "type": "operator",
@@ -278,7 +318,15 @@
       },
       {
         "type": "symbol",
-        "val": "H for Find and Replace"
+        "val": "H f"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Find and Replace"
       }
     ],
     "id": "wom11"
@@ -297,7 +345,15 @@
       },
       {
         "type": "symbol",
-        "val": "P or Ctrl"
+        "val": "P"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -557,7 +613,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Move the cursor"
+        "val": "Move the curs"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
     "id": "wom24"
@@ -726,7 +790,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Right or End"
+        "val": "Arrow Right"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
       }
     ],
     "id": "wom35"
@@ -745,7 +817,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Left or Home"
+        "val": "Arrow Left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Home"
       }
     ],
     "id": "wom36"
@@ -905,15 +985,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Select the first item that you want"
+        "val": "Select the first item that you want, hold down  ⌘ , and"
+      },
+      {
+        "type": "operator",
+        "val": "then"
       },
       {
         "type": "symbol",
-        "val": " hold down  ⌘ "
-      },
-      {
-        "type": "symbol",
-        "val": " and then select any additional items."
+        "val": "select any additional items."
       }
     ],
     "id": "wom44"
@@ -1032,7 +1112,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Right or Shift"
+        "val": "Arrow Right"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -1067,7 +1155,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Left or Shift"
+        "val": "Arrow Left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -1340,11 +1436,15 @@
       },
       {
         "type": "symbol",
-        "val": "F8 "
+        "val": "F8 , and"
+      },
+      {
+        "type": "operator",
+        "val": "then"
       },
       {
         "type": "symbol",
-        "val": " and then use the arrow keys; press Esc to cancel selection mode."
+        "val": "use the arrow keys; press Esc to cancel selection mode."
       }
     ],
     "id": "wom61"
@@ -1355,11 +1455,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "F8 "
+        "val": "F8 , and"
+      },
+      {
+        "type": "operator",
+        "val": "then"
       },
       {
         "type": "symbol",
-        "val": " and then use the arrow keys; press Esc to cancel selection mode."
+        "val": "use the arrow keys; press Esc to cancel selection mode."
       }
     ],
     "id": "wom62"
@@ -1411,7 +1515,23 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Click in the column's top or bottom cell. Hold down Shift and press the Arrow Up or Arrow Down key repeatedly."
+        "val": "Click in the column's top"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "bottom cell. Hold down Shift and press the Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down key repeatedly."
       }
     ],
     "id": "wom66"
@@ -1438,11 +1558,15 @@
       },
       {
         "type": "symbol",
-        "val": "F8 "
+        "val": "F8 , and"
+      },
+      {
+        "type": "operator",
+        "val": "then"
       },
       {
         "type": "symbol",
-        "val": " and then use the arrow keys; press Esc to cancel selection mode."
+        "val": "use the arrow keys; press Esc to cancel selection mode."
       }
     ],
     "id": "wom67"
@@ -1472,15 +1596,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Select the first item that you want"
+        "val": "Select the first item that you want, hold down  ⌘ , and"
+      },
+      {
+        "type": "operator",
+        "val": "then"
       },
       {
         "type": "symbol",
-        "val": " hold down  ⌘ "
-      },
-      {
-        "type": "symbol",
-        "val": " and then select any additional items."
+        "val": "select any additional items."
       }
     ],
     "id": "wom69"
@@ -1502,11 +1626,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "F8"
-      },
-      {
-        "type": "symbol",
-        "val": " Arrow Left"
+        "val": "F8, Arrow Left"
       }
     ],
     "id": "wom71"
@@ -1517,11 +1637,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "F8"
-      },
-      {
-        "type": "symbol",
-        "val": " Arrow Right"
+        "val": "F8, Arrow Right"
       }
     ],
     "id": "wom72"
@@ -1532,23 +1648,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Press F8 repeatedly to expand the selection to the entire word"
+        "val": "Press F8 repeatedly to expand the selection to the entire w"
+      },
+      {
+        "type": "operator",
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": " sentence"
-      },
-      {
-        "type": "symbol",
-        "val": " paragraph"
-      },
-      {
-        "type": "symbol",
-        "val": " section"
-      },
-      {
-        "type": "symbol",
-        "val": " and document."
+        "val": "d, sentence, paragraph, section, and document."
       }
     ],
     "id": "wom73"
@@ -1597,7 +1705,15 @@
       },
       {
         "type": "symbol",
-        "val": "C or F3"
+        "val": "C"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
       }
     ],
     "id": "wom76"
@@ -1697,7 +1813,15 @@
       },
       {
         "type": "symbol",
-        "val": "X or F2"
+        "val": "X"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "F2"
       }
     ],
     "id": "wom80"
@@ -1716,7 +1840,23 @@
       },
       {
         "type": "symbol",
-        "val": "X or F2 (then move the cursor and press  ⌘"
+        "val": "X"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "F2 (then move the curs"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "and press  ⌘"
       },
       {
         "type": "operator",
@@ -1724,7 +1864,15 @@
       },
       {
         "type": "symbol",
-        "val": "V or F4 )"
+        "val": "V"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "F4 )"
       }
     ],
     "id": "wom81"
@@ -1797,7 +1945,15 @@
       },
       {
         "type": "symbol",
-        "val": "V or F4"
+        "val": "V"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
       }
     ],
     "id": "wom84"
@@ -1927,7 +2083,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "⌘ or Clear"
+        "val": "⌘"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Clear"
       }
     ],
     "id": "wom90"
@@ -1965,7 +2129,15 @@
       },
       {
         "type": "symbol",
-        "val": "X or F2"
+        "val": "X"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "F2"
       }
     ],
     "id": "wom92"
@@ -2831,7 +3003,7 @@
       },
       {
         "type": "symbol",
-        "val": " (Plus sign)"
+        "val": "(Plus sign)"
       }
     ],
     "id": "wom130"
@@ -3529,7 +3701,7 @@
       },
       {
         "type": "symbol",
-        "val": " (Plus sign)"
+        "val": "(Plus sign)"
       }
     ],
     "id": "wom160"
@@ -3629,7 +3801,7 @@
       },
       {
         "type": "symbol",
-        "val": "Shift "
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -3781,11 +3953,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Tab (If the cursor is in the last cell of a table"
+        "val": "Tab (If the curs"
+      },
+      {
+        "type": "operator",
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": " pressing Tab adds a new row)"
+        "val": "is in the last cell of a table, pressing Tab adds a new row)"
       }
     ],
     "id": "wom172"
@@ -3815,7 +3991,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Up or Arrow Down"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
       }
     ],
     "id": "wom174"
@@ -3999,13 +4183,13 @@
   },
   {
     "description": "To display a column's measurements in the ruler when you resize the column, press Option with these shortcut keys. To finely adjust a column width, turn off snap-to functionality by pressing Option with the shortcut keys.",
-    "category": "Resize table columns directly in a table",
+    "category": "",
     "shortcut": [],
     "id": "wom186"
   },
   {
     "description": "Move a single column line; Retain table width.",
-    "category": "Resize table columns directly in a table",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -4016,7 +4200,7 @@
   },
   {
     "description": "Retain column sizes to the right; Change table width.",
-    "category": "Resize table columns directly in a table",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -4027,7 +4211,7 @@
   },
   {
     "description": "Equally resize all columns to the right; Retain table width.",
-    "category": "Resize table columns directly in a table",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -4046,7 +4230,7 @@
   },
   {
     "description": "Proportionally resize all columns to the right; Retain table width.",
-    "category": "Resize table columns directly in a table",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -4153,7 +4337,7 @@
       },
       {
         "type": "symbol",
-        "val": " ⌘"
+        "val": "⌘"
       },
       {
         "type": "operator",
@@ -4180,7 +4364,7 @@
       },
       {
         "type": "symbol",
-        "val": " ⌘"
+        "val": "⌘"
       },
       {
         "type": "operator",
@@ -4358,7 +4542,15 @@
       },
       {
         "type": "symbol",
-        "val": "F4 or ⌘"
+        "val": "F4"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "⌘"
       },
       {
         "type": "operator",
@@ -4680,7 +4872,7 @@
       },
       {
         "type": "symbol",
-        "val": " Arrow Key"
+        "val": "Arrow Key"
       }
     ],
     "id": "wom223"

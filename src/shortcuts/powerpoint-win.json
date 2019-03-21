@@ -8,7 +8,7 @@
         "val": "Arrow Keys"
       }
     ],
-    "id": "pww0"
+    "id": "pow0"
   },
   {
     "description": "End of line",
@@ -19,7 +19,7 @@
         "val": "End"
       }
     ],
-    "id": "pww1"
+    "id": "pow1"
   },
   {
     "description": "Starting of line",
@@ -30,7 +30,7 @@
         "val": "Home"
       }
     ],
-    "id": "pww2"
+    "id": "pow2"
   },
   {
     "description": "Phrase or paragraph Up",
@@ -49,7 +49,7 @@
         "val": "Up Arrow"
       }
     ],
-    "id": "pww3"
+    "id": "pow3"
   },
   {
     "description": "Phrase or paragraph down",
@@ -68,7 +68,7 @@
         "val": "Down Arrow"
       }
     ],
-    "id": "pww4"
+    "id": "pow4"
   },
   {
     "description": "End of text block",
@@ -87,7 +87,7 @@
         "val": "End"
       }
     ],
-    "id": "pww5"
+    "id": "pow5"
   },
   {
     "description": "Beginning of text block",
@@ -106,7 +106,7 @@
         "val": "Home"
       }
     ],
-    "id": "pww6"
+    "id": "pow6"
   },
   {
     "description": "To next object",
@@ -125,7 +125,7 @@
         "val": "Tab"
       }
     ],
-    "id": "pww7"
+    "id": "pow7"
   },
   {
     "description": "To previous object",
@@ -136,7 +136,7 @@
         "val": "Tab"
       }
     ],
-    "id": "pww8"
+    "id": "pow8"
   },
   {
     "description": "Next Slide",
@@ -147,7 +147,7 @@
         "val": "Pg Dn"
       }
     ],
-    "id": "pww9"
+    "id": "pow9"
   },
   {
     "description": "Previous Slide",
@@ -158,7 +158,7 @@
         "val": "Pg Up"
       }
     ],
-    "id": "pww10"
+    "id": "pow10"
   },
   {
     "description": "Focus to different pane",
@@ -169,7 +169,7 @@
         "val": "F6"
       }
     ],
-    "id": "pww11"
+    "id": "pow11"
   },
   {
     "description": "Collapse/expand ribbon",
@@ -188,7 +188,7 @@
         "val": "F1"
       }
     ],
-    "id": "pww12"
+    "id": "pow12"
   },
   {
     "description": "Activate selected commend/Open Selected menu on ribbon",
@@ -196,10 +196,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Spacebar/Enter"
+        "val": "Spacebar"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
       }
     ],
-    "id": "pww13"
+    "id": "pow13"
   },
   {
     "description": "Move anticlockwise among pane",
@@ -218,7 +226,7 @@
         "val": "F6"
       }
     ],
-    "id": "pww14"
+    "id": "pow14"
   },
   {
     "description": "Switch Thumbnail/Outline View Pane",
@@ -245,7 +253,7 @@
         "val": "Tab"
       }
     ],
-    "id": "pww15"
+    "id": "pow15"
   },
   {
     "description": "Save Presentation",
@@ -261,7 +269,15 @@
       },
       {
         "type": "symbol",
-        "val": "S/Ctrl"
+        "val": "S"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -272,7 +288,7 @@
         "val": "Q"
       }
     ],
-    "id": "pww16"
+    "id": "pow16"
   },
   {
     "description": "Open existing presentation",
@@ -291,7 +307,7 @@
         "val": "O"
       }
     ],
-    "id": "pww17"
+    "id": "pow17"
   },
   {
     "description": "New presentation",
@@ -310,7 +326,7 @@
         "val": "N"
       }
     ],
-    "id": "pww18"
+    "id": "pow18"
   },
   {
     "description": "New Slide",
@@ -329,7 +345,7 @@
         "val": "M"
       }
     ],
-    "id": "pww19"
+    "id": "pow19"
   },
   {
     "description": "Right Align selected text",
@@ -348,7 +364,7 @@
         "val": "R"
       }
     ],
-    "id": "pww20"
+    "id": "pow20"
   },
   {
     "description": "Left Align selected text",
@@ -367,7 +383,7 @@
         "val": "L"
       }
     ],
-    "id": "pww21"
+    "id": "pow21"
   },
   {
     "description": "Select All",
@@ -386,7 +402,7 @@
         "val": "A"
       }
     ],
-    "id": "pww22"
+    "id": "pow22"
   },
   {
     "description": "Copy text/image",
@@ -402,7 +418,15 @@
       },
       {
         "type": "symbol",
-        "val": "C/Ctrl"
+        "val": "C"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -413,7 +437,7 @@
         "val": "Ins"
       }
     ],
-    "id": "pww23"
+    "id": "pow23"
   },
   {
     "description": "Paste text/image/text",
@@ -432,7 +456,7 @@
         "val": "V"
       }
     ],
-    "id": "pww24"
+    "id": "pow24"
   },
   {
     "description": "Cut text/image",
@@ -451,7 +475,7 @@
         "val": "X"
       }
     ],
-    "id": "pww25"
+    "id": "pow25"
   },
   {
     "description": "Bold text",
@@ -470,7 +494,7 @@
         "val": "B"
       }
     ],
-    "id": "pww26"
+    "id": "pow26"
   },
   {
     "description": "Underline Text",
@@ -489,7 +513,7 @@
         "val": "U"
       }
     ],
-    "id": "pww27"
+    "id": "pow27"
   },
   {
     "description": "Italic text",
@@ -508,7 +532,7 @@
         "val": "I"
       }
     ],
-    "id": "pww28"
+    "id": "pow28"
   },
   {
     "description": "Remove selected image/Remove one character from right side",
@@ -519,7 +543,7 @@
         "val": "Del"
       }
     ],
-    "id": "pww29"
+    "id": "pow29"
   },
   {
     "description": "Rename the file",
@@ -530,7 +554,7 @@
         "val": "F2"
       }
     ],
-    "id": "pww30"
+    "id": "pow30"
   },
   {
     "description": "Print presentation",
@@ -549,7 +573,7 @@
         "val": "P"
       }
     ],
-    "id": "pww31"
+    "id": "pow31"
   },
   {
     "description": "Slideshow of presentation",
@@ -560,7 +584,7 @@
         "val": "F5"
       }
     ],
-    "id": "pww32"
+    "id": "pow32"
   },
   {
     "description": "Align Center Selected Phrase",
@@ -579,7 +603,7 @@
         "val": "E"
       }
     ],
-    "id": "pww33"
+    "id": "pow33"
   },
   {
     "description": "Exit",
@@ -598,7 +622,7 @@
         "val": "F4"
       }
     ],
-    "id": "pww34"
+    "id": "pow34"
   },
   {
     "description": "Justify Selected Phrase",
@@ -617,7 +641,7 @@
         "val": "J"
       }
     ],
-    "id": "pww35"
+    "id": "pow35"
   },
   {
     "description": "Insert Hyperlink",
@@ -636,7 +660,7 @@
         "val": "K"
       }
     ],
-    "id": "pww36"
+    "id": "pow36"
   },
   {
     "description": "Find particular text",
@@ -655,7 +679,7 @@
         "val": "F"
       }
     ],
-    "id": "pww37"
+    "id": "pow37"
   },
   {
     "description": "Replace particular text",
@@ -674,7 +698,7 @@
         "val": "H"
       }
     ],
-    "id": "pww38"
+    "id": "pow38"
   },
   {
     "description": "Undo changes in presentation",
@@ -693,7 +717,7 @@
         "val": "Z"
       }
     ],
-    "id": "pww39"
+    "id": "pow39"
   },
   {
     "description": "Redo operation",
@@ -712,7 +736,7 @@
         "val": "Y"
       }
     ],
-    "id": "pww40"
+    "id": "pow40"
   },
   {
     "description": "Normal/Plain Text",
@@ -739,7 +763,7 @@
         "val": "Z"
       }
     ],
-    "id": "pww41"
+    "id": "pow41"
   },
   {
     "description": "Toggle cases(UppseCase/LowerCase)",
@@ -758,7 +782,7 @@
         "val": "F3"
       }
     ],
-    "id": "pww42"
+    "id": "pow42"
   },
   {
     "description": "Spelling Checker",
@@ -769,7 +793,7 @@
         "val": "F7"
       }
     ],
-    "id": "pww43"
+    "id": "pow43"
   },
   {
     "description": "Change Font Style",
@@ -796,7 +820,7 @@
         "val": "F"
       }
     ],
-    "id": "pww44"
+    "id": "pow44"
   },
   {
     "description": "Increase font size",
@@ -823,7 +847,7 @@
         "val": ">"
       }
     ],
-    "id": "pww45"
+    "id": "pow45"
   },
   {
     "description": "Decrease font size",
@@ -850,7 +874,7 @@
         "val": "<"
       }
     ],
-    "id": "pww46"
+    "id": "pow46"
   },
   {
     "description": "Superscript",
@@ -885,7 +909,7 @@
         "val": ">"
       }
     ],
-    "id": "pww47"
+    "id": "pow47"
   },
   {
     "description": "Subscript",
@@ -920,7 +944,7 @@
         "val": "<"
       }
     ],
-    "id": "pww48"
+    "id": "pow48"
   },
   {
     "description": "Create a copy of selected text",
@@ -939,7 +963,7 @@
         "val": "Drag"
       }
     ],
-    "id": "pww49"
+    "id": "pow49"
   },
   {
     "description": "Delete word from left",
@@ -958,7 +982,7 @@
         "val": "Bkspace"
       }
     ],
-    "id": "pww50"
+    "id": "pow50"
   },
   {
     "description": "Delete word from right",
@@ -977,7 +1001,7 @@
         "val": "Del"
       }
     ],
-    "id": "pww51"
+    "id": "pow51"
   },
   {
     "description": "Duplicate Slide",
@@ -996,7 +1020,7 @@
         "val": "D"
       }
     ],
-    "id": "pww52"
+    "id": "pow52"
   },
   {
     "description": "Change font size",
@@ -1015,7 +1039,7 @@
         "val": "HandFandS"
       }
     ],
-    "id": "pww53"
+    "id": "pow53"
   },
   {
     "description": "Zoom",
@@ -1034,7 +1058,7 @@
         "val": "WandQ"
       }
     ],
-    "id": "pww54"
+    "id": "pow54"
   },
   {
     "description": "Finish modifying value",
@@ -1045,7 +1069,7 @@
         "val": "Enter"
       }
     ],
-    "id": "pww55"
+    "id": "pow55"
   },
   {
     "description": "Open font dialog box",
@@ -1064,7 +1088,7 @@
         "val": "T"
       }
     ],
-    "id": "pww56"
+    "id": "pow56"
   },
   {
     "description": "Change cases",
@@ -1083,7 +1107,7 @@
         "val": "F3"
       }
     ],
-    "id": "pww57"
+    "id": "pow57"
   },
   {
     "description": "Insert new Comment",
@@ -1102,7 +1126,7 @@
         "val": "N"
       }
     ],
-    "id": "pww58"
+    "id": "pow58"
   },
   {
     "description": "Reply to comment",
@@ -1121,7 +1145,7 @@
         "val": "R"
       }
     ],
-    "id": "pww59"
+    "id": "pow59"
   },
   {
     "description": "Highlight/Promote Paragraph",
@@ -1148,7 +1172,7 @@
         "val": "Left Arrow"
       }
     ],
-    "id": "pww60"
+    "id": "pow60"
   },
   {
     "description": "Highlight/Demote Paragraph",
@@ -1175,7 +1199,7 @@
         "val": "Right Arrow"
       }
     ],
-    "id": "pww61"
+    "id": "pow61"
   },
   {
     "description": "Move up paragraph",
@@ -1202,7 +1226,7 @@
         "val": "Up Arrow"
       }
     ],
-    "id": "pww62"
+    "id": "pow62"
   },
   {
     "description": "Mov down paragraph",
@@ -1229,7 +1253,7 @@
         "val": "Down Arrow"
       }
     ],
-    "id": "pww63"
+    "id": "pow63"
   },
   {
     "description": "Show all texts",
@@ -1256,7 +1280,7 @@
         "val": "A"
       }
     ],
-    "id": "pww64"
+    "id": "pow64"
   },
   {
     "description": "Collpase text under heading",
@@ -1283,7 +1307,7 @@
         "val": "-"
       }
     ],
-    "id": "pww65"
+    "id": "pow65"
   },
   {
     "description": "Expand text",
@@ -1318,7 +1342,7 @@
         "val": ""
       }
     ],
-    "id": "pww66"
+    "id": "pow66"
   },
   {
     "description": "Collapse titles",
@@ -1345,7 +1369,7 @@
         "val": "1"
       }
     ],
-    "id": "pww67"
+    "id": "pow67"
   },
   {
     "description": "Select Word",
@@ -1356,7 +1380,7 @@
         "val": "Double Click"
       }
     ],
-    "id": "pww68"
+    "id": "pow68"
   },
   {
     "description": "Select Paragraph",
@@ -1367,7 +1391,7 @@
         "val": "Triple Click"
       }
     ],
-    "id": "pww69"
+    "id": "pow69"
   },
   {
     "description": "Move from title/text to text/slide",
@@ -1386,7 +1410,7 @@
         "val": "Enter"
       }
     ],
-    "id": "pww70"
+    "id": "pow70"
   },
   {
     "description": "Next window",
@@ -1405,7 +1429,7 @@
         "val": "F6"
       }
     ],
-    "id": "pww71"
+    "id": "pow71"
   },
   {
     "description": "Previous window",
@@ -1432,7 +1456,7 @@
         "val": "F6"
       }
     ],
-    "id": "pww72"
+    "id": "pow72"
   },
   {
     "description": "Maximize window",
@@ -1451,7 +1475,7 @@
         "val": "F10"
       }
     ],
-    "id": "pww73"
+    "id": "pow73"
   },
   {
     "description": "UnMaximize window",
@@ -1470,7 +1494,7 @@
         "val": "F5"
       }
     ],
-    "id": "pww74"
+    "id": "pow74"
   },
   {
     "description": "Restore window to previous size",
@@ -1489,7 +1513,7 @@
         "val": "F5"
       }
     ],
-    "id": "pww75"
+    "id": "pow75"
   },
   {
     "description": "SlideShow",
@@ -1500,7 +1524,7 @@
         "val": "F5"
       }
     ],
-    "id": "pww76"
+    "id": "pow76"
   },
   {
     "description": "Display Context menu",
@@ -1519,7 +1543,7 @@
         "val": "F10"
       }
     ],
-    "id": "pww77"
+    "id": "pow77"
   },
   {
     "description": "Group Shape",
@@ -1546,7 +1570,7 @@
         "val": "G"
       }
     ],
-    "id": "pww78"
+    "id": "pow78"
   },
   {
     "description": "Ungroup Shape",
@@ -1573,7 +1597,7 @@
         "val": "H"
       }
     ],
-    "id": "pww79"
+    "id": "pow79"
   },
   {
     "description": "Regroup Shape",
@@ -1600,7 +1624,7 @@
         "val": "J"
       }
     ],
-    "id": "pww80"
+    "id": "pow80"
   },
   {
     "description": "Straight line by curve tool",
@@ -1627,7 +1651,7 @@
         "val": "Click"
       }
     ],
-    "id": "pww81"
+    "id": "pow81"
   },
   {
     "description": "Resize from center",
@@ -1646,7 +1670,7 @@
         "val": "Resize Click"
       }
     ],
-    "id": "pww82"
+    "id": "pow82"
   },
   {
     "description": "Insert Picture",
@@ -1665,7 +1689,7 @@
         "val": "NandP"
       }
     ],
-    "id": "pww83"
+    "id": "pow83"
   },
   {
     "description": "Insert Shape",
@@ -1684,7 +1708,7 @@
         "val": "NandSandH"
       }
     ],
-    "id": "pww84"
+    "id": "pow84"
   },
   {
     "description": "Select Theme",
@@ -1703,7 +1727,7 @@
         "val": "GandH"
       }
     ],
-    "id": "pww85"
+    "id": "pow85"
   },
   {
     "description": "Select Slide Layout",
@@ -1722,7 +1746,7 @@
         "val": "HandL"
       }
     ],
-    "id": "pww86"
+    "id": "pow86"
   },
   {
     "description": "Insert textbox",
@@ -1741,7 +1765,7 @@
         "val": "Nand X"
       }
     ],
-    "id": "pww87"
+    "id": "pow87"
   },
   {
     "description": "Select object",
@@ -1760,7 +1784,7 @@
         "val": "NandJ"
       }
     ],
-    "id": "pww88"
+    "id": "pow88"
   },
   {
     "description": "Insert Wordart",
@@ -1779,7 +1803,7 @@
         "val": "NandW"
       }
     ],
-    "id": "pww89"
+    "id": "pow89"
   },
   {
     "description": "Copy shape attributes",
@@ -1806,7 +1830,7 @@
         "val": "C"
       }
     ],
-    "id": "pww90"
+    "id": "pow90"
   },
   {
     "description": "Paste shape attributes",
@@ -1833,7 +1857,7 @@
         "val": "V"
       }
     ],
-    "id": "pww91"
+    "id": "pow91"
   },
   {
     "description": "Copy,cut and paste shapes",
@@ -1849,7 +1873,15 @@
       },
       {
         "type": "symbol",
-        "val": "C/Ctrl"
+        "val": "C"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1857,7 +1889,15 @@
       },
       {
         "type": "symbol",
-        "val": "X/Ctrl"
+        "val": "X"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1868,7 +1908,7 @@
         "val": "V"
       }
     ],
-    "id": "pww92"
+    "id": "pow92"
   },
   {
     "description": "Copy animation painter",
@@ -1895,7 +1935,7 @@
         "val": "C"
       }
     ],
-    "id": "pww93"
+    "id": "pow93"
   },
   {
     "description": "Paste animation painter",
@@ -1922,7 +1962,7 @@
         "val": "V"
       }
     ],
-    "id": "pww94"
+    "id": "pow94"
   },
   {
     "description": "Undo/Redo changes",
@@ -1938,7 +1978,15 @@
       },
       {
         "type": "symbol",
-        "val": "Z/Ctrl"
+        "val": "Z"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1949,7 +1997,7 @@
         "val": "Y"
       }
     ],
-    "id": "pww95"
+    "id": "pow95"
   },
   {
     "description": "Show/hide slide",
@@ -1968,7 +2016,7 @@
         "val": "G"
       }
     ],
-    "id": "pww96"
+    "id": "pow96"
   },
   {
     "description": "Create multiple guide",
@@ -1987,7 +2035,7 @@
         "val": "Drag Guide"
       }
     ],
-    "id": "pww97"
+    "id": "pow97"
   },
   {
     "description": "Go to Slide",
@@ -2006,7 +2054,7 @@
         "val": "Enter"
       }
     ],
-    "id": "pww98"
+    "id": "pow98"
   },
   {
     "description": "Black/Unblack screen",
@@ -2017,7 +2065,7 @@
         "val": "B"
       }
     ],
-    "id": "pww99"
+    "id": "pow99"
   },
   {
     "description": "White/Unwhite screen",
@@ -2028,7 +2076,7 @@
         "val": "W"
       }
     ],
-    "id": "pww100"
+    "id": "pow100"
   },
   {
     "description": "Show/hide pointer",
@@ -2036,10 +2084,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "A/="
+        "val": "A"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "="
       }
     ],
-    "id": "pww101"
+    "id": "pow101"
   },
   {
     "description": "Advance to hidden screen",
@@ -2050,7 +2106,7 @@
         "val": "H"
       }
     ],
-    "id": "pww102"
+    "id": "pow102"
   },
   {
     "description": "Erase Screen",
@@ -2061,7 +2117,7 @@
         "val": "E"
       }
     ],
-    "id": "pww103"
+    "id": "pow103"
   },
   {
     "description": "Copy Whole Screen",
@@ -2072,7 +2128,7 @@
         "val": "PrtScn"
       }
     ],
-    "id": "pww104"
+    "id": "pow104"
   },
   {
     "description": "End Slideshow",
@@ -2080,10 +2136,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Esc/End"
+        "val": "Esc"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
       }
     ],
-    "id": "pww105"
+    "id": "pow105"
   },
   {
     "description": "Next Slide",
@@ -2091,10 +2155,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "N/Rt Arrow"
+        "val": "N"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Rt Arrow"
       }
     ],
-    "id": "pww106"
+    "id": "pow106"
   },
   {
     "description": "Previous Slide",
@@ -2102,10 +2174,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "P/Lt Arrow"
+        "val": "P"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Lt Arrow"
       }
     ],
-    "id": "pww107"
+    "id": "pow107"
   },
   {
     "description": "Start Slideshow",
@@ -2132,7 +2212,7 @@
         "val": "B"
       }
     ],
-    "id": "pww108"
+    "id": "pow108"
   },
   {
     "description": "Close powerpint",
@@ -2151,7 +2231,7 @@
         "val": "FandX"
       }
     ],
-    "id": "pww109"
+    "id": "pow109"
   },
   {
     "description": "Home tab",
@@ -2170,7 +2250,7 @@
         "val": "H"
       }
     ],
-    "id": "pww110"
+    "id": "pow110"
   },
   {
     "description": "File tab",
@@ -2189,7 +2269,7 @@
         "val": "F"
       }
     ],
-    "id": "pww111"
+    "id": "pow111"
   },
   {
     "description": "Insert tab",
@@ -2208,7 +2288,7 @@
         "val": "N"
       }
     ],
-    "id": "pww112"
+    "id": "pow112"
   },
   {
     "description": "Transition tab",
@@ -2227,7 +2307,7 @@
         "val": "T"
       }
     ],
-    "id": "pww113"
+    "id": "pow113"
   },
   {
     "description": "Animation tab",
@@ -2246,7 +2326,7 @@
         "val": "A"
       }
     ],
-    "id": "pww114"
+    "id": "pow114"
   },
   {
     "description": "Slideshow tab",
@@ -2265,7 +2345,7 @@
         "val": "S"
       }
     ],
-    "id": "pww115"
+    "id": "pow115"
   },
   {
     "description": "Review tab",
@@ -2284,7 +2364,7 @@
         "val": "R"
       }
     ],
-    "id": "pww116"
+    "id": "pow116"
   },
   {
     "description": "Design tab",
@@ -2303,7 +2383,7 @@
         "val": "G"
       }
     ],
-    "id": "pww117"
+    "id": "pow117"
   },
   {
     "description": "To search item",
@@ -2322,7 +2402,7 @@
         "val": "Q"
       }
     ],
-    "id": "pww118"
+    "id": "pow118"
   },
   {
     "description": "View tab",
@@ -2341,6 +2421,6 @@
         "val": "W"
       }
     ],
-    "id": "pww119"
+    "id": "pow119"
   }
 ]

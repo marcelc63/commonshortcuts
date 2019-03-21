@@ -24,7 +24,7 @@
         "val": "N"
       }
     ],
-    "id": "prew0"
+    "id": "prw0"
   },
   {
     "description": "Save Project",
@@ -43,7 +43,7 @@
         "val": "S"
       }
     ],
-    "id": "prew1"
+    "id": "prw1"
   },
   {
     "description": "Save As",
@@ -70,7 +70,7 @@
         "val": "S"
       }
     ],
-    "id": "prew2"
+    "id": "prw2"
   },
   {
     "description": "Save Copy",
@@ -97,7 +97,7 @@
         "val": "S"
       }
     ],
-    "id": "prew3"
+    "id": "prw3"
   },
   {
     "description": "Close",
@@ -116,7 +116,7 @@
         "val": "W"
       }
     ],
-    "id": "prew4"
+    "id": "prw4"
   },
   {
     "description": "Title",
@@ -135,7 +135,7 @@
         "val": "T"
       }
     ],
-    "id": "prew5"
+    "id": "prw5"
   },
   {
     "description": "Open Existing Project",
@@ -154,7 +154,7 @@
         "val": "O"
       }
     ],
-    "id": "prew6"
+    "id": "prw6"
   },
   {
     "description": "Open in Adobe bridge",
@@ -181,7 +181,7 @@
         "val": "O"
       }
     ],
-    "id": "prew7"
+    "id": "prw7"
   },
   {
     "description": "Sequence",
@@ -200,7 +200,7 @@
         "val": "N"
       }
     ],
-    "id": "prew8"
+    "id": "prw8"
   },
   {
     "description": "Exit",
@@ -219,7 +219,7 @@
         "val": "Q"
       }
     ],
-    "id": "prew9"
+    "id": "prw9"
   },
   {
     "description": "Import",
@@ -238,7 +238,7 @@
         "val": "I"
       }
     ],
-    "id": "prew10"
+    "id": "prw10"
   },
   {
     "description": "Import from media browser",
@@ -265,7 +265,7 @@
         "val": "I"
       }
     ],
-    "id": "prew11"
+    "id": "prw11"
   },
   {
     "description": "Media",
@@ -284,7 +284,7 @@
         "val": "M"
       }
     ],
-    "id": "prew12"
+    "id": "prw12"
   },
   {
     "description": "Find",
@@ -303,7 +303,7 @@
         "val": "F"
       }
     ],
-    "id": "prew13"
+    "id": "prw13"
   },
   {
     "description": "Selection",
@@ -330,7 +330,7 @@
         "val": "H"
       }
     ],
-    "id": "prew14"
+    "id": "prw14"
   },
   {
     "description": "Copy",
@@ -349,7 +349,7 @@
         "val": "C"
       }
     ],
-    "id": "prew15"
+    "id": "prw15"
   },
   {
     "description": "Cut",
@@ -368,7 +368,7 @@
         "val": "X"
       }
     ],
-    "id": "prew16"
+    "id": "prw16"
   },
   {
     "description": "Paste",
@@ -387,7 +387,7 @@
         "val": "V"
       }
     ],
-    "id": "prew17"
+    "id": "prw17"
   },
   {
     "description": "Undo",
@@ -406,7 +406,7 @@
         "val": "Z"
       }
     ],
-    "id": "prew18"
+    "id": "prw18"
   },
   {
     "description": "Redo",
@@ -422,7 +422,15 @@
       },
       {
         "type": "symbol",
-        "val": "Y/Ctrl"
+        "val": "Y"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -441,7 +449,7 @@
         "val": "Z"
       }
     ],
-    "id": "prew19"
+    "id": "prw19"
   },
   {
     "description": "Select All",
@@ -460,7 +468,7 @@
         "val": "A"
       }
     ],
-    "id": "prew20"
+    "id": "prw20"
   },
   {
     "description": "Deselect All",
@@ -487,7 +495,7 @@
         "val": "A"
       }
     ],
-    "id": "prew21"
+    "id": "prw21"
   },
   {
     "description": "Edit",
@@ -506,7 +514,7 @@
         "val": "E"
       }
     ],
-    "id": "prew22"
+    "id": "prw22"
   },
   {
     "description": "Paste Insert",
@@ -533,7 +541,7 @@
         "val": "V"
       }
     ],
-    "id": "prew23"
+    "id": "prw23"
   },
   {
     "description": "Paste Attributes",
@@ -560,7 +568,7 @@
         "val": "V"
       }
     ],
-    "id": "prew24"
+    "id": "prw24"
   },
   {
     "description": "Clear",
@@ -571,7 +579,7 @@
         "val": "Del"
       }
     ],
-    "id": "prew25"
+    "id": "prw25"
   },
   {
     "description": "Delete forever",
@@ -590,7 +598,7 @@
         "val": "Del"
       }
     ],
-    "id": "prew26"
+    "id": "prw26"
   },
   {
     "description": "Duplicate",
@@ -614,10 +622,18 @@
       },
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
-    "id": "prew27"
+    "id": "prw27"
   },
   {
     "description": "Link",
@@ -636,7 +652,7 @@
         "val": "L"
       }
     ],
-    "id": "prew28"
+    "id": "prw28"
   },
   {
     "description": "Group",
@@ -655,7 +671,7 @@
         "val": "G"
       }
     ],
-    "id": "prew29"
+    "id": "prw29"
   },
   {
     "description": "Ungroup",
@@ -682,7 +698,7 @@
         "val": "G"
       }
     ],
-    "id": "prew30"
+    "id": "prw30"
   },
   {
     "description": "Speed",
@@ -701,7 +717,7 @@
         "val": "R"
       }
     ],
-    "id": "prew31"
+    "id": "prw31"
   },
   {
     "description": "Capture",
@@ -712,7 +728,7 @@
         "val": "F5"
       }
     ],
-    "id": "prew32"
+    "id": "prw32"
   },
   {
     "description": "Insert",
@@ -720,14 +736,10 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": ""
-      },
-      {
-        "type": "symbol",
-        "val": ""
+        "val": ","
       }
     ],
-    "id": "prew33"
+    "id": "prw33"
   },
   {
     "description": "Overwrite",
@@ -738,7 +750,7 @@
         "val": "."
       }
     ],
-    "id": "prew34"
+    "id": "prw34"
   },
   {
     "description": "Add edit",
@@ -757,7 +769,7 @@
         "val": "K"
       }
     ],
-    "id": "prew35"
+    "id": "prw35"
   },
   {
     "description": "Add edit to track",
@@ -784,7 +796,7 @@
         "val": "K"
       }
     ],
-    "id": "prew36"
+    "id": "prw36"
   },
   {
     "description": "Video transition",
@@ -803,7 +815,7 @@
         "val": "D"
       }
     ],
-    "id": "prew37"
+    "id": "prw37"
   },
   {
     "description": "Audio transition",
@@ -830,7 +842,7 @@
         "val": "D"
       }
     ],
-    "id": "prew38"
+    "id": "prw38"
   },
   {
     "description": "Reverse match frame",
@@ -849,7 +861,7 @@
         "val": "R"
       }
     ],
-    "id": "prew39"
+    "id": "prw39"
   },
   {
     "description": "Zoom in/Zoom out",
@@ -857,10 +869,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "=/-"
+        "val": "="
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
       }
     ],
-    "id": "prew40"
+    "id": "prw40"
   },
   {
     "description": "Snap",
@@ -871,7 +891,7 @@
         "val": "S"
       }
     ],
-    "id": "prew41"
+    "id": "prw41"
   },
   {
     "description": "Go to selected clip start",
@@ -890,7 +910,7 @@
         "val": "Home"
       }
     ],
-    "id": "prew42"
+    "id": "prw42"
   },
   {
     "description": "Go to selected clip end",
@@ -909,7 +929,7 @@
         "val": "End"
       }
     ],
-    "id": "prew43"
+    "id": "prw43"
   },
   {
     "description": "Go to sequence clip start",
@@ -920,7 +940,7 @@
         "val": "Home"
       }
     ],
-    "id": "prew44"
+    "id": "prw44"
   },
   {
     "description": "Go to sequence clip end",
@@ -931,7 +951,7 @@
         "val": "End"
       }
     ],
-    "id": "prew45"
+    "id": "prw45"
   },
   {
     "description": "Increse volume",
@@ -942,7 +962,7 @@
         "val": "]"
       }
     ],
-    "id": "prew46"
+    "id": "prw46"
   },
   {
     "description": "Minimize all tracks",
@@ -961,7 +981,7 @@
         "val": "-"
       }
     ],
-    "id": "prew47"
+    "id": "prw47"
   },
   {
     "description": "Mark in/Mark out",
@@ -969,10 +989,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "I/O"
+        "val": "I"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
       }
     ],
-    "id": "prew48"
+    "id": "prw48"
   },
   {
     "description": "Mark clip",
@@ -983,7 +1011,7 @@
         "val": "X"
       }
     ],
-    "id": "prew49"
+    "id": "prw49"
   },
   {
     "description": "Mark selection",
@@ -991,10 +1019,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
-    "id": "prew50"
+    "id": "prw50"
   },
   {
     "description": "Go to in",
@@ -1013,7 +1049,7 @@
         "val": "I"
       }
     ],
-    "id": "prew51"
+    "id": "prw51"
   },
   {
     "description": "Go to out",
@@ -1032,7 +1068,7 @@
         "val": "O"
       }
     ],
-    "id": "prew52"
+    "id": "prw52"
   },
   {
     "description": "Clear in/Clear out",
@@ -1056,7 +1092,15 @@
       },
       {
         "type": "symbol",
-        "val": "I/Ctrl"
+        "val": "I"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1075,7 +1119,7 @@
         "val": "O"
       }
     ],
-    "id": "prew53"
+    "id": "prw53"
   },
   {
     "description": "Clear in  and out",
@@ -1102,7 +1146,7 @@
         "val": "X"
       }
     ],
-    "id": "prew54"
+    "id": "prw54"
   },
   {
     "description": "Add marker",
@@ -1113,7 +1157,7 @@
         "val": "M"
       }
     ],
-    "id": "prew55"
+    "id": "prw55"
   },
   {
     "description": "Previous marker",
@@ -1140,7 +1184,7 @@
         "val": "M"
       }
     ],
-    "id": "prew56"
+    "id": "prw56"
   },
   {
     "description": "Next marker",
@@ -1159,7 +1203,7 @@
         "val": "M"
       }
     ],
-    "id": "prew57"
+    "id": "prw57"
   },
   {
     "description": "Clear current marker",
@@ -1186,7 +1230,7 @@
         "val": "M"
       }
     ],
-    "id": "prew58"
+    "id": "prw58"
   },
   {
     "description": "Left align",
@@ -1213,7 +1257,7 @@
         "val": "L"
       }
     ],
-    "id": "prew59"
+    "id": "prw59"
   },
   {
     "description": "Center align",
@@ -1240,7 +1284,7 @@
         "val": "C"
       }
     ],
-    "id": "prew60"
+    "id": "prw60"
   },
   {
     "description": "Right align",
@@ -1267,7 +1311,7 @@
         "val": "R"
       }
     ],
-    "id": "prew61"
+    "id": "prw61"
   },
   {
     "description": "Stopping tab",
@@ -1294,7 +1338,7 @@
         "val": "T"
       }
     ],
-    "id": "prew62"
+    "id": "prw62"
   },
   {
     "description": "Templates",
@@ -1313,7 +1357,7 @@
         "val": "J"
       }
     ],
-    "id": "prew63"
+    "id": "prw63"
   },
   {
     "description": "Project",
@@ -1332,7 +1376,7 @@
         "val": "1"
       }
     ],
-    "id": "prew64"
+    "id": "prw64"
   },
   {
     "description": "Source monitor",
@@ -1351,7 +1395,7 @@
         "val": "2"
       }
     ],
-    "id": "prew65"
+    "id": "prw65"
   },
   {
     "description": "Timeline",
@@ -1370,7 +1414,7 @@
         "val": "3"
       }
     ],
-    "id": "prew66"
+    "id": "prw66"
   },
   {
     "description": "Program monitor",
@@ -1389,7 +1433,7 @@
         "val": "4"
       }
     ],
-    "id": "prew67"
+    "id": "prw67"
   },
   {
     "description": "Effect control",
@@ -1408,7 +1452,7 @@
         "val": "5"
       }
     ],
-    "id": "prew68"
+    "id": "prw68"
   },
   {
     "description": "Audio track mixer",
@@ -1427,7 +1471,7 @@
         "val": "6"
       }
     ],
-    "id": "prew69"
+    "id": "prw69"
   },
   {
     "description": "Effects",
@@ -1446,7 +1490,7 @@
         "val": "7"
       }
     ],
-    "id": "prew70"
+    "id": "prw70"
   },
   {
     "description": "Media browser",
@@ -1465,7 +1509,7 @@
         "val": "8"
       }
     ],
-    "id": "prew71"
+    "id": "prw71"
   },
   {
     "description": "Audio clip mixer",
@@ -1484,7 +1528,7 @@
         "val": "9"
       }
     ],
-    "id": "prew72"
+    "id": "prw72"
   },
   {
     "description": "Cut to camera",
@@ -1503,7 +1547,7 @@
         "val": "1..9"
       }
     ],
-    "id": "prew73"
+    "id": "prw73"
   },
   {
     "description": "Clear poster frame",
@@ -1530,7 +1574,7 @@
         "val": "P"
       }
     ],
-    "id": "prew74"
+    "id": "prw74"
   },
   {
     "description": "Export frame",
@@ -1557,7 +1601,7 @@
         "val": "E"
       }
     ],
-    "id": "prew75"
+    "id": "prw75"
   },
   {
     "description": "Select Camera",
@@ -1568,7 +1612,7 @@
         "val": "1..9"
       }
     ],
-    "id": "prew76"
+    "id": "prw76"
   },
   {
     "description": "Record video",
@@ -1579,7 +1623,7 @@
         "val": "V"
       }
     ],
-    "id": "prew77"
+    "id": "prw77"
   },
   {
     "description": "Record Audio",
@@ -1590,7 +1634,7 @@
         "val": "A"
       }
     ],
-    "id": "prew78"
+    "id": "prw78"
   },
   {
     "description": "Eject",
@@ -1601,7 +1645,7 @@
         "val": "E"
       }
     ],
-    "id": "prew79"
+    "id": "prw79"
   },
   {
     "description": "Fast forward",
@@ -1612,7 +1656,7 @@
         "val": "F"
       }
     ],
-    "id": "prew80"
+    "id": "prw80"
   },
   {
     "description": "Go to in point",
@@ -1623,7 +1667,7 @@
         "val": "Q"
       }
     ],
-    "id": "prew81"
+    "id": "prw81"
   },
   {
     "description": "Go to out point",
@@ -1634,7 +1678,7 @@
         "val": "W"
       }
     ],
-    "id": "prew82"
+    "id": "prw82"
   },
   {
     "description": "Rewind",
@@ -1645,7 +1689,7 @@
         "val": "R"
       }
     ],
-    "id": "prew83"
+    "id": "prw83"
   },
   {
     "description": "Record",
@@ -1656,7 +1700,7 @@
         "val": "G"
       }
     ],
-    "id": "prew84"
+    "id": "prw84"
   },
   {
     "description": "Stop",
@@ -1667,7 +1711,7 @@
         "val": "S"
       }
     ],
-    "id": "prew85"
+    "id": "prw85"
   },
   {
     "description": "Step back",
@@ -1678,7 +1722,7 @@
         "val": "Left Arrow"
       }
     ],
-    "id": "prew86"
+    "id": "prw86"
   },
   {
     "description": "Step forward",
@@ -1689,7 +1733,7 @@
         "val": "Right arrow"
       }
     ],
-    "id": "prew87"
+    "id": "prw87"
   },
   {
     "description": "Remove effects/delete item",
@@ -1700,7 +1744,7 @@
         "val": "Bkspace"
       }
     ],
-    "id": "prew88"
+    "id": "prw88"
   },
   {
     "description": "Play",
@@ -1711,7 +1755,7 @@
         "val": "Spacebar"
       }
     ],
-    "id": "prew89"
+    "id": "prw89"
   },
   {
     "description": "Record on/off",
@@ -1722,7 +1766,7 @@
         "val": "0"
       }
     ],
-    "id": "prew90"
+    "id": "prw90"
   },
   {
     "description": "Next/Previous",
@@ -1730,10 +1774,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Down arrow/Up arrow"
+        "val": "Down arrow"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Up arrow"
       }
     ],
-    "id": "prew91"
+    "id": "prw91"
   },
   {
     "description": "Track select tool",
@@ -1744,7 +1796,7 @@
         "val": "A"
       }
     ],
-    "id": "prew92"
+    "id": "prw92"
   },
   {
     "description": "Ripple edit tool",
@@ -1755,7 +1807,7 @@
         "val": "B"
       }
     ],
-    "id": "prew93"
+    "id": "prw93"
   },
   {
     "description": "Razor tool",
@@ -1766,7 +1818,7 @@
         "val": "C"
       }
     ],
-    "id": "prew94"
+    "id": "prw94"
   },
   {
     "description": "Hand tool",
@@ -1777,7 +1829,7 @@
         "val": "H"
       }
     ],
-    "id": "prew95"
+    "id": "prw95"
   },
   {
     "description": "Rolling edit tool",
@@ -1788,7 +1840,7 @@
         "val": "N"
       }
     ],
-    "id": "prew96"
+    "id": "prw96"
   },
   {
     "description": "Pen tool",
@@ -1799,7 +1851,7 @@
         "val": "P"
       }
     ],
-    "id": "prew97"
+    "id": "prw97"
   },
   {
     "description": "Slide tool",
@@ -1810,7 +1862,7 @@
         "val": "U"
       }
     ],
-    "id": "prew98"
+    "id": "prw98"
   },
   {
     "description": "Selection tool",
@@ -1821,7 +1873,7 @@
         "val": "V"
       }
     ],
-    "id": "prew99"
+    "id": "prw99"
   },
   {
     "description": "Slip tool",
@@ -1832,7 +1884,7 @@
         "val": "Y"
       }
     ],
-    "id": "prew100"
+    "id": "prw100"
   },
   {
     "description": "Zoom tool",
@@ -1843,6 +1895,6 @@
         "val": "Z"
       }
     ],
-    "id": "prew101"
+    "id": "prw101"
   }
 ]

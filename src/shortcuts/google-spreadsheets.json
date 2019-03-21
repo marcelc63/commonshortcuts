@@ -114,7 +114,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Left / Ctrl"
+        "val": "Arrow Left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -141,7 +149,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Down / Ctrl"
+        "val": "Arrow Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -168,7 +184,15 @@
       },
       {
         "type": "symbol",
-        "val": "Page Down / Ctrl"
+        "val": "Page Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -195,7 +219,15 @@
       },
       {
         "type": "symbol",
-        "val": "Page Down / Alt"
+        "val": "Page Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -249,7 +281,15 @@
       },
       {
         "type": "symbol",
-        "val": "Page Up/Page Down"
+        "val": "Page Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
       }
     ],
     "id": "gsp12"
@@ -1074,7 +1114,15 @@
       },
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
     "id": "gsp55"

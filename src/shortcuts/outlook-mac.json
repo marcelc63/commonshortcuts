@@ -1,7 +1,7 @@
 [
   {
     "description": "Save an item",
-    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -20,7 +20,7 @@
   },
   {
     "description": "Print an item",
-    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -39,7 +39,7 @@
   },
   {
     "description": "Undo the last action",
-    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -58,7 +58,7 @@
   },
   {
     "description": "Redo the last action",
-    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -77,7 +77,7 @@
   },
   {
     "description": "Minimize the active window",
-    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -96,7 +96,7 @@
   },
   {
     "description": "Create a new folder in the navigation pane",
-    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -123,7 +123,7 @@
   },
   {
     "description": "Create new email (in Mail view)",
-    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -142,7 +142,7 @@
   },
   {
     "description": "Hide the reading pane or show it on the right",
-    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -161,7 +161,7 @@
   },
   {
     "description": "Hide the reading pane or show it below",
-    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -188,7 +188,7 @@
   },
   {
     "description": "Move the selected item to a different folder",
-    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -215,7 +215,7 @@
   },
   {
     "description": "Copy the selected item to a different folder",
-    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -242,7 +242,7 @@
   },
   {
     "description": "Select all items in the item list, if the item list is the active pane",
-    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -261,7 +261,7 @@
   },
   {
     "description": "Minimize or expand the ribbon",
-    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -288,7 +288,7 @@
   },
   {
     "description": "Hide Outlook",
-    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -307,7 +307,7 @@
   },
   {
     "description": "Quit Outlook",
-    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -326,7 +326,7 @@
   },
   {
     "description": "Start dictation",
-    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -345,7 +345,7 @@
   },
   {
     "description": "Insert emoji",
-    "category": "The following table shows frequently used shortcuts in Outlook 2016 for Mac",
+    "category": "",
     "shortcut": [
       {
         "type": "symbol",
@@ -536,11 +536,7 @@
       },
       {
         "type": "symbol",
-        "val": ""
-      },
-      {
-        "type": "symbol",
-        "val": " (Comma)"
+        "val": ", (Comma)"
       }
     ],
     "id": "oum25"
@@ -1014,7 +1010,7 @@
       },
       {
         "type": "symbol",
-        "val": "   (Opening Bracket)"
+        "val": "(Opening Bracket)"
       }
     ],
     "id": "oum47"
@@ -1041,7 +1037,7 @@
       },
       {
         "type": "symbol",
-        "val": "   (Closing Bracket)"
+        "val": "(Closing Bracket)"
       }
     ],
     "id": "oum48"
@@ -1060,7 +1056,7 @@
       },
       {
         "type": "symbol",
-        "val": "   (Opening Bracket)"
+        "val": "(Opening Bracket)"
       }
     ],
     "id": "oum49"
@@ -1087,7 +1083,7 @@
       },
       {
         "type": "symbol",
-        "val": "   (Closing Bracket)"
+        "val": "(Closing Bracket)"
       }
     ],
     "id": "oum50"
@@ -1160,7 +1156,7 @@
       },
       {
         "type": "symbol",
-        "val": " (Plus Sign)"
+        "val": "(Plus Sign)"
       }
     ],
     "id": "oum53"
@@ -1583,7 +1579,7 @@
       },
       {
         "type": "symbol",
-        "val": "   (Opening Bracket)"
+        "val": "(Opening Bracket)"
       }
     ],
     "id": "oum74"
@@ -1610,7 +1606,7 @@
       },
       {
         "type": "symbol",
-        "val": "   (Closing Bracket)"
+        "val": "(Closing Bracket)"
       }
     ],
     "id": "oum75"
@@ -1678,7 +1674,7 @@
       },
       {
         "type": "symbol",
-        "val": "   (Opening Bracket)"
+        "val": "(Opening Bracket)"
       }
     ],
     "id": "oum79"
@@ -1697,7 +1693,7 @@
       },
       {
         "type": "symbol",
-        "val": "   (Closing Bracket)"
+        "val": "(Closing Bracket)"
       }
     ],
     "id": "oum80"
@@ -1724,7 +1720,7 @@
       },
       {
         "type": "symbol",
-        "val": "   (Opening Bracket)"
+        "val": "(Opening Bracket)"
       }
     ],
     "id": "oum81"
@@ -1751,7 +1747,7 @@
       },
       {
         "type": "symbol",
-        "val": "   (Closing Bracket)"
+        "val": "(Closing Bracket)"
       }
     ],
     "id": "oum82"
@@ -1838,7 +1834,7 @@
       },
       {
         "type": "symbol",
-        "val": "   (Opening Bracket)"
+        "val": "(Opening Bracket)"
       }
     ],
     "id": "oum87"
@@ -1857,7 +1853,7 @@
       },
       {
         "type": "symbol",
-        "val": "   (Closing Bracket)"
+        "val": "(Closing Bracket)"
       }
     ],
     "id": "oum88"
@@ -1884,7 +1880,7 @@
       },
       {
         "type": "symbol",
-        "val": "   (Opening Bracket)"
+        "val": "(Opening Bracket)"
       }
     ],
     "id": "oum89"
@@ -1911,7 +1907,7 @@
       },
       {
         "type": "symbol",
-        "val": "   (Closing Bracket)"
+        "val": "(Closing Bracket)"
       }
     ],
     "id": "oum90"
@@ -1998,7 +1994,7 @@
       },
       {
         "type": "symbol",
-        "val": "   (Opening Bracket)"
+        "val": "(Opening Bracket)"
       }
     ],
     "id": "oum95"
@@ -2017,7 +2013,7 @@
       },
       {
         "type": "symbol",
-        "val": "   (Closing Bracket)"
+        "val": "(Closing Bracket)"
       }
     ],
     "id": "oum96"
@@ -2044,7 +2040,7 @@
       },
       {
         "type": "symbol",
-        "val": "   (Opening Bracket)"
+        "val": "(Opening Bracket)"
       }
     ],
     "id": "oum97"
@@ -2071,7 +2067,7 @@
       },
       {
         "type": "symbol",
-        "val": "   (Closing Bracket)"
+        "val": "(Closing Bracket)"
       }
     ],
     "id": "oum98"
@@ -2451,7 +2447,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Forward Delete"
+        "val": "F"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "ward Delete"
       },
       {
         "type": "operator",
@@ -2459,7 +2463,7 @@
       },
       {
         "type": "symbol",
-        "val": " {  (Opening Brace)"
+        "val": "{  (Opening Brace)"
       }
     ],
     "id": "oum118"
@@ -2470,7 +2474,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Forward Delete"
+        "val": "F"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "ward Delete"
       },
       {
         "type": "operator",
@@ -2478,7 +2490,7 @@
       },
       {
         "type": "symbol",
-        "val": " }  (Closing Brace)"
+        "val": "}  (Closing Brace)"
       }
     ],
     "id": "oum119"
@@ -2500,11 +2512,31 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Forward Delete or if your keyboard doesn't have a Forward Delete key"
+        "val": "F"
+      },
+      {
+        "type": "operator",
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": " use FN"
+        "val": "ward Delete"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "if your keyboard doesn't have a F"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "ward Delete key, use FN"
       },
       {
         "type": "operator",

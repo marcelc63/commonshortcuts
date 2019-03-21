@@ -13,7 +13,15 @@
       },
       {
         "type": "symbol",
-        "val": "V or Ctrl"
+        "val": "V"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -40,7 +48,15 @@
       },
       {
         "type": "symbol",
-        "val": "C or Ctrl"
+        "val": "C"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -78,7 +94,15 @@
       },
       {
         "type": "symbol",
-        "val": "S or Ctrl"
+        "val": "S"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -105,7 +129,15 @@
       },
       {
         "type": "symbol",
-        "val": "Z or Ctrl"
+        "val": "Z"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -132,7 +164,15 @@
       },
       {
         "type": "symbol",
-        "val": "Y or Ctrl"
+        "val": "Y"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -159,7 +199,15 @@
       },
       {
         "type": "symbol",
-        "val": "X or Ctrl"
+        "val": "X"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -186,7 +234,15 @@
       },
       {
         "type": "symbol",
-        "val": "B or Ctrl"
+        "val": "B"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -213,7 +269,15 @@
       },
       {
         "type": "symbol",
-        "val": "P or Ctrl"
+        "val": "P"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -259,7 +323,15 @@
       },
       {
         "type": "symbol",
-        "val": "D or Ctrl"
+        "val": "D"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -286,7 +358,15 @@
       },
       {
         "type": "symbol",
-        "val": "R or Ctrl"
+        "val": "R"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -340,7 +420,15 @@
       },
       {
         "type": "symbol",
-        "val": "- or Ctrl"
+        "val": "-"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -367,7 +455,15 @@
       },
       {
         "type": "symbol",
-        "val": "= or F9"
+        "val": "="
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
       }
     ],
     "id": "exm14"
@@ -386,7 +482,15 @@
       },
       {
         "type": "symbol",
-        "val": "W or Ctrl"
+        "val": "W"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -432,7 +536,15 @@
       },
       {
         "type": "symbol",
-        "val": "G or F5"
+        "val": "G"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "F5"
       }
     ],
     "id": "exm17"
@@ -451,7 +563,15 @@
       },
       {
         "type": "symbol",
-        "val": "1 or Ctrl"
+        "val": "1"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -478,7 +598,15 @@
       },
       {
         "type": "symbol",
-        "val": "H or ⌘"
+        "val": "H"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "⌘"
       },
       {
         "type": "operator",
@@ -521,7 +649,15 @@
       },
       {
         "type": "symbol",
-        "val": "V or Ctrl"
+        "val": "V"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -575,7 +711,15 @@
       },
       {
         "type": "symbol",
-        "val": "I or Ctrl"
+        "val": "I"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -602,7 +746,15 @@
       },
       {
         "type": "symbol",
-        "val": "N or Ctrl"
+        "val": "N"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -664,7 +816,15 @@
       },
       {
         "type": "symbol",
-        "val": "S or F12"
+        "val": "S"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "F12"
       }
     ],
     "id": "exm25"
@@ -675,7 +835,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "F1 or ⌘"
+        "val": "F1"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "⌘"
       },
       {
         "type": "operator",
@@ -683,7 +851,15 @@
       },
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
     "id": "exm26"
@@ -702,7 +878,15 @@
       },
       {
         "type": "symbol",
-        "val": "A or ⌘"
+        "val": "A"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "⌘"
       },
       {
         "type": "operator",
@@ -745,7 +929,15 @@
       },
       {
         "type": "symbol",
-        "val": "F or Ctrl"
+        "val": "F"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -788,7 +980,15 @@
       },
       {
         "type": "symbol",
-        "val": "R or Ctrl"
+        "val": "R"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -948,7 +1148,15 @@
       },
       {
         "type": "symbol",
-        "val": "P or Ctrl"
+        "val": "P"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -975,7 +1183,15 @@
       },
       {
         "type": "symbol",
-        "val": "P or Ctrl"
+        "val": "P"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1173,7 +1389,15 @@
       },
       {
         "type": "symbol",
-        "val": "F10 or ⌘"
+        "val": "F10"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "⌘"
       },
       {
         "type": "operator",
@@ -1421,7 +1645,15 @@
       },
       {
         "type": "symbol",
-        "val": "Page Down or Option"
+        "val": "Page Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
       },
       {
         "type": "operator",
@@ -1448,7 +1680,15 @@
       },
       {
         "type": "symbol",
-        "val": "Page Down or Option"
+        "val": "Page Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
       },
       {
         "type": "operator",
@@ -1513,7 +1753,15 @@
       },
       {
         "type": "symbol",
-        "val": "F or Shift"
+        "val": "F"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -1619,7 +1867,15 @@
       },
       {
         "type": "symbol",
-        "val": "Return or Ctrl"
+        "val": "Return"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1715,11 +1971,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "On a MacBook"
-      },
-      {
-        "type": "symbol",
-        "val": " pressFn"
+        "val": "On a MacBook, pressFn"
       },
       {
         "type": "operator",
@@ -1812,7 +2064,15 @@
       },
       {
         "type": "symbol",
-        "val": "D or ⌘"
+        "val": "D"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "⌘"
       },
       {
         "type": "operator",
@@ -1839,7 +2099,15 @@
       },
       {
         "type": "symbol",
-        "val": "R or ⌘"
+        "val": "R"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "⌘"
       },
       {
         "type": "operator",
@@ -1926,7 +2194,15 @@
       },
       {
         "type": "symbol",
-        "val": "Return or Ctrl"
+        "val": "Return"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1991,7 +2267,15 @@
       },
       {
         "type": "symbol",
-        "val": "K or Ctrl"
+        "val": "K"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -2105,7 +2389,15 @@
       },
       {
         "type": "symbol",
-        "val": "T or F4"
+        "val": "T"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "F4"
       }
     ],
     "id": "exm101"
@@ -2346,7 +2638,15 @@
       },
       {
         "type": "symbol",
-        "val": "T or Ctrl"
+        "val": "T"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -2381,7 +2681,15 @@
       },
       {
         "type": "symbol",
-        "val": "Return or Ctrl"
+        "val": "Return"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -2416,7 +2724,15 @@
       },
       {
         "type": "symbol",
-        "val": "Spacebar or ⌘"
+        "val": "Spacebar"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "⌘"
       },
       {
         "type": "operator",
@@ -3016,7 +3332,15 @@
       },
       {
         "type": "symbol",
-        "val": ") or Ctrl"
+        "val": ")"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -3051,7 +3375,15 @@
       },
       {
         "type": "symbol",
-        "val": ") or Ctrl"
+        "val": ")"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -3086,7 +3418,15 @@
       },
       {
         "type": "symbol",
-        "val": "( or Ctrl"
+        "val": "("
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -3121,7 +3461,15 @@
       },
       {
         "type": "symbol",
-        "val": "( or Ctrl"
+        "val": "("
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -3227,7 +3575,15 @@
       },
       {
         "type": "symbol",
-        "val": "Return or Ctrl"
+        "val": "Return"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -3262,7 +3618,15 @@
       },
       {
         "type": "symbol",
-        "val": "Return or Ctrl"
+        "val": "Return"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -3625,7 +3989,15 @@
       },
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
     "id": "exm165"
@@ -3763,7 +4135,15 @@
       },
       {
         "type": "symbol",
-        "val": "C or Ctrl"
+        "val": "C"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -3790,7 +4170,15 @@
       },
       {
         "type": "symbol",
-        "val": "V or Ctrl"
+        "val": "V"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -3817,7 +4205,15 @@
       },
       {
         "type": "symbol",
-        "val": "X or Ctrl"
+        "val": "X"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -3893,7 +4289,15 @@
       },
       {
         "type": "symbol",
-        "val": ") or Ctrl"
+        "val": ")"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -3928,7 +4332,15 @@
       },
       {
         "type": "symbol",
-        "val": ") or Ctrl"
+        "val": ")"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -3963,7 +4375,15 @@
       },
       {
         "type": "symbol",
-        "val": "( or Ctrl"
+        "val": "("
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -3998,7 +4418,15 @@
       },
       {
         "type": "symbol",
-        "val": "( or Ctrl"
+        "val": "("
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -4229,7 +4657,15 @@
       },
       {
         "type": "symbol",
-        "val": "F or Ctrl"
+        "val": "F"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -4571,7 +5007,15 @@
       },
       {
         "type": "symbol",
-        "val": "F7 or Ctrl"
+        "val": "F7"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -4731,7 +5175,15 @@
       },
       {
         "type": "symbol",
-        "val": "F10 or ⌘"
+        "val": "F10"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "⌘"
       },
       {
         "type": "operator",
@@ -4841,5 +5293,11 @@
       }
     ],
     "id": "exm224"
-  }  
+  },
+  {
+    "description": "*Excel 2016 for Mac uses the function keys for common commands, including Copy and Paste. For quick access to these shortcuts, you can change your Apple system preferences so you don't have to press the FN key every time you use a function key shortcut",
+    "category": "The following table provides the function key shortcuts for Excel 2016 for Mac*",
+    "shortcut": [],
+    "id": "exm225"
+  }
 ]

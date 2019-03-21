@@ -8,8 +8,12 @@
         "val": "G"
       },
       {
+        "type": "operator",
+        "val": "then"
+      },
+      {
         "type": "symbol",
-        "val": " then I"
+        "val": "I"
       }
     ],
     "id": "gmw0"
@@ -23,8 +27,12 @@
         "val": "G"
       },
       {
+        "type": "operator",
+        "val": "then"
+      },
+      {
         "type": "symbol",
-        "val": " then S"
+        "val": "S"
       }
     ],
     "id": "gmw1"
@@ -38,8 +46,12 @@
         "val": "G"
       },
       {
+        "type": "operator",
+        "val": "then"
+      },
+      {
         "type": "symbol",
-        "val": " then T"
+        "val": "T"
       }
     ],
     "id": "gmw2"
@@ -53,8 +65,12 @@
         "val": "G"
       },
       {
+        "type": "operator",
+        "val": "then"
+      },
+      {
         "type": "symbol",
-        "val": " then D"
+        "val": "D"
       }
     ],
     "id": "gmw3"
@@ -68,8 +84,12 @@
         "val": "G"
       },
       {
+        "type": "operator",
+        "val": "then"
+      },
+      {
         "type": "symbol",
-        "val": " then A"
+        "val": "A"
       }
     ],
     "id": "gmw4"
@@ -83,8 +103,12 @@
         "val": "G"
       },
       {
+        "type": "operator",
+        "val": "then"
+      },
+      {
         "type": "symbol",
-        "val": " then C"
+        "val": "C"
       }
     ],
     "id": "gmw5"
@@ -98,8 +122,12 @@
         "val": "G"
       },
       {
+        "type": "operator",
+        "val": "then"
+      },
+      {
         "type": "symbol",
-        "val": " then L"
+        "val": "L"
       }
     ],
     "id": "gmw6"
@@ -132,7 +160,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "J/K"
+        "val": "J"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
       }
     ],
     "id": "gmw9"
@@ -157,12 +193,28 @@
         "val": "*"
       },
       {
-        "type": "symbol",
-        "val": " then A / *"
+        "type": "operator",
+        "val": "then"
       },
       {
         "type": "symbol",
-        "val": " then N"
+        "val": "A"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "*"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "N"
       }
     ],
     "id": "gmw11"
@@ -176,12 +228,28 @@
         "val": "*"
       },
       {
-        "type": "symbol",
-        "val": " then R/*"
+        "type": "operator",
+        "val": "then"
       },
       {
         "type": "symbol",
-        "val": " then U"
+        "val": "R"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "*"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "U"
       }
     ],
     "id": "gmw12"
@@ -195,12 +263,28 @@
         "val": "*"
       },
       {
-        "type": "symbol",
-        "val": " then S/*"
+        "type": "operator",
+        "val": "then"
       },
       {
         "type": "symbol",
-        "val": " then T"
+        "val": "S"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "*"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "T"
       }
     ],
     "id": "gmw13"
@@ -219,7 +303,15 @@
       },
       {
         "type": "symbol",
-        "val": "U/Shift"
+        "val": "U"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -238,7 +330,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "O or Enter"
+        "val": "O"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Enter"
       }
     ],
     "id": "gmw15"
@@ -334,7 +434,15 @@
       },
       {
         "type": "symbol",
-        "val": "/-"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
       }
     ],
     "id": "gmw23"
@@ -356,7 +464,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "J/K"
+        "val": "J"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "K"
       }
     ],
     "id": "gmw25"
@@ -367,7 +483,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "N/P"
+        "val": "N"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "P"
       }
     ],
     "id": "gmw26"
@@ -495,7 +619,15 @@
       },
       {
         "type": "symbol",
-        "val": "[/Ctrl"
+        "val": "["
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -522,7 +654,15 @@
       },
       {
         "type": "symbol",
-        "val": "{/Ctrl"
+        "val": "{"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -585,7 +725,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "E/["
+        "val": "E"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "["
       }
     ],
     "id": "gmw40"
@@ -678,7 +826,15 @@
       },
       {
         "type": "symbol",
-        "val": "./Ctrl"
+        "val": "."
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -686,11 +842,7 @@
       },
       {
         "type": "symbol",
-        "val": ""
-      },
-      {
-        "type": "symbol",
-        "val": ""
+        "val": ","
       }
     ],
     "id": "gmw47"
@@ -806,7 +958,15 @@
       },
       {
         "type": "symbol",
-        "val": "/-"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
       }
     ],
     "id": "gmw51"
@@ -833,7 +993,15 @@
       },
       {
         "type": "symbol",
-        "val": "5/6"
+        "val": "5"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "6"
       }
     ],
     "id": "gmw52"
@@ -1044,7 +1212,15 @@
       },
       {
         "type": "symbol",
-        "val": "]/["
+        "val": "]"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "["
       }
     ],
     "id": "gmw61"
@@ -1125,11 +1301,7 @@
       },
       {
         "type": "symbol",
-        "val": ""
-      },
-      {
-        "type": "symbol",
-        "val": ""
+        "val": ","
       }
     ],
     "id": "gmw64"
@@ -1162,8 +1334,12 @@
         "val": "G"
       },
       {
+        "type": "operator",
+        "val": "then"
+      },
+      {
         "type": "symbol",
-        "val": " then K"
+        "val": "K"
       }
     ],
     "id": "gmw66"
@@ -1212,7 +1388,15 @@
       },
       {
         "type": "symbol",
-        "val": "Up Arrow /Ctrl"
+        "val": "Up Arrow"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1231,7 +1415,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Tab/Shift"
+        "val": "Tab"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -1307,7 +1499,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Left/Alt"
+        "val": "Arrow Left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -1326,7 +1526,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "End/Home"
+        "val": "End"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Home"
       }
     ],
     "id": "gmw75"
@@ -1337,7 +1545,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Page Up/Page Down"
+        "val": "Page Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
       }
     ],
     "id": "gmw76"
@@ -1359,8 +1575,12 @@
         "val": "d"
       },
       {
+        "type": "operator",
+        "val": "then"
+      },
+      {
         "type": "symbol",
-        "val": " then multiple tab's"
+        "val": "multiple tab's"
       }
     ],
     "id": "gmw77"
@@ -1371,7 +1591,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Tab/Shift"
+        "val": "Tab"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",

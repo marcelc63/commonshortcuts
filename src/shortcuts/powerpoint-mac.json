@@ -8,7 +8,7 @@
         "val": "Delete"
       }
     ],
-    "id": "pwm0"
+    "id": "pom0"
   },
   {
     "description": "Delete one character to the right",
@@ -27,7 +27,7 @@
         "val": "Delete"
       }
     ],
-    "id": "pwm1"
+    "id": "pom1"
   },
   {
     "description": "Cut selected text or object",
@@ -46,7 +46,7 @@
         "val": "X"
       }
     ],
-    "id": "pwm2"
+    "id": "pom2"
   },
   {
     "description": "Copy selected text or object",
@@ -65,7 +65,7 @@
         "val": "C"
       }
     ],
-    "id": "pwm3"
+    "id": "pom3"
   },
   {
     "description": "Paste cut or copied text or object",
@@ -84,7 +84,7 @@
         "val": "V"
       }
     ],
-    "id": "pwm4"
+    "id": "pom4"
   },
   {
     "description": "Paste special",
@@ -111,7 +111,7 @@
         "val": "V"
       }
     ],
-    "id": "pwm5"
+    "id": "pom5"
   },
   {
     "description": "Increase the font size",
@@ -138,7 +138,7 @@
         "val": ">"
       }
     ],
-    "id": "pwm6"
+    "id": "pom6"
   },
   {
     "description": "Decrease the font size",
@@ -165,7 +165,7 @@
         "val": "<"
       }
     ],
-    "id": "pwm7"
+    "id": "pom7"
   },
   {
     "description": "Apply bold formatting",
@@ -184,7 +184,7 @@
         "val": "B"
       }
     ],
-    "id": "pwm8"
+    "id": "pom8"
   },
   {
     "description": "Apply an underline",
@@ -203,7 +203,7 @@
         "val": "U"
       }
     ],
-    "id": "pwm9"
+    "id": "pom9"
   },
   {
     "description": "Apply italic formatting",
@@ -222,7 +222,7 @@
         "val": "I"
       }
     ],
-    "id": "pwm10"
+    "id": "pom10"
   },
   {
     "description": "Center a paragraph",
@@ -241,7 +241,7 @@
         "val": "E"
       }
     ],
-    "id": "pwm11"
+    "id": "pom11"
   },
   {
     "description": "Justify a paragraph",
@@ -260,7 +260,7 @@
         "val": "J"
       }
     ],
-    "id": "pwm12"
+    "id": "pom12"
   },
   {
     "description": "Left align a paragraph",
@@ -279,7 +279,7 @@
         "val": "L"
       }
     ],
-    "id": "pwm13"
+    "id": "pom13"
   },
   {
     "description": "Right align a paragraph",
@@ -298,7 +298,7 @@
         "val": "R"
       }
     ],
-    "id": "pwm14"
+    "id": "pom14"
   },
   {
     "description": "Redo the last action",
@@ -317,7 +317,7 @@
         "val": "Y"
       }
     ],
-    "id": "pwm15"
+    "id": "pom15"
   },
   {
     "description": "Undo the last action",
@@ -336,7 +336,7 @@
         "val": "Z"
       }
     ],
-    "id": "pwm16"
+    "id": "pom16"
   },
   {
     "description": "Open the Format Text dialog box, Font options",
@@ -355,7 +355,7 @@
         "val": "T"
       }
     ],
-    "id": "pwm17"
+    "id": "pom17"
   },
   {
     "description": "Open the Format Text dialog box, Paragraph options",
@@ -382,7 +382,7 @@
         "val": "M"
       }
     ],
-    "id": "pwm18"
+    "id": "pom18"
   },
   {
     "description": "To Move To the beginning of a word or one word to the left",
@@ -401,7 +401,7 @@
         "val": "Arrow Left"
       }
     ],
-    "id": "pwm19"
+    "id": "pom19"
   },
   {
     "description": "To Move One word to the right",
@@ -420,7 +420,7 @@
         "val": "Arrow Right"
       }
     ],
-    "id": "pwm20"
+    "id": "pom20"
   },
   {
     "description": "To Move To the end of a line",
@@ -439,7 +439,7 @@
         "val": "Arrow Right"
       }
     ],
-    "id": "pwm21"
+    "id": "pom21"
   },
   {
     "description": "To Move To the beginning of a line",
@@ -458,7 +458,7 @@
         "val": "Arrow Left"
       }
     ],
-    "id": "pwm22"
+    "id": "pom22"
   },
   {
     "description": "To Move To the beginning of a paragraph or up one paragraph",
@@ -477,7 +477,7 @@
         "val": "Arrow Up"
       }
     ],
-    "id": "pwm23"
+    "id": "pom23"
   },
   {
     "description": "To Move Down one paragraph",
@@ -496,7 +496,7 @@
         "val": "Arrow Down"
       }
     ],
-    "id": "pwm24"
+    "id": "pom24"
   },
   {
     "description": "To Move To the start or end of all the text in the object you are editing",
@@ -512,10 +512,18 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Up/Arrow Down"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
       }
     ],
-    "id": "pwm25"
+    "id": "pom25"
   },
   {
     "description": "Select the next object",
@@ -526,7 +534,7 @@
         "val": "Tab"
       }
     ],
-    "id": "pwm26"
+    "id": "pom26"
   },
   {
     "description": "Select the previous object",
@@ -545,7 +553,7 @@
         "val": "Tab"
       }
     ],
-    "id": "pwm27"
+    "id": "pom27"
   },
   {
     "description": "Select all objects and all text",
@@ -564,7 +572,7 @@
         "val": "A"
       }
     ],
-    "id": "pwm28"
+    "id": "pom28"
   },
   {
     "description": "Move the selected object in the direction of the arrow",
@@ -572,7 +580,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Keys or ⌘"
+        "val": "Arrow Keys"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "⌘"
       },
       {
         "type": "operator",
@@ -583,7 +599,7 @@
         "val": "Arrow Key"
       }
     ],
-    "id": "pwm29"
+    "id": "pom29"
   },
   {
     "description": "Group the selected objects",
@@ -610,7 +626,7 @@
         "val": "G"
       }
     ],
-    "id": "pwm30"
+    "id": "pom30"
   },
   {
     "description": "Ungroup the selected objects",
@@ -645,7 +661,7 @@
         "val": "G"
       }
     ],
-    "id": "pwm31"
+    "id": "pom31"
   },
   {
     "description": "Regroup the selected objects",
@@ -672,7 +688,7 @@
         "val": "J"
       }
     ],
-    "id": "pwm32"
+    "id": "pom32"
   },
   {
     "description": "Rotate the selected object clockwise",
@@ -691,7 +707,7 @@
         "val": "Arrow Right"
       }
     ],
-    "id": "pwm33"
+    "id": "pom33"
   },
   {
     "description": "Rotate the selected object counterclockwise",
@@ -710,7 +726,7 @@
         "val": "Arrow Left"
       }
     ],
-    "id": "pwm34"
+    "id": "pom34"
   },
   {
     "description": "Format the selected object",
@@ -737,7 +753,7 @@
         "val": "1"
       }
     ],
-    "id": "pwm35"
+    "id": "pom35"
   },
   {
     "description": "Duplicate selected objects",
@@ -756,7 +772,7 @@
         "val": "D"
       }
     ],
-    "id": "pwm36"
+    "id": "pom36"
   },
   {
     "description": "Resize selected objects",
@@ -775,7 +791,7 @@
         "val": "Arrow Keys"
       }
     ],
-    "id": "pwm37"
+    "id": "pom37"
   },
   {
     "description": "Create a new presentation",
@@ -794,7 +810,7 @@
         "val": "N"
       }
     ],
-    "id": "pwm38"
+    "id": "pom38"
   },
   {
     "description": "Create a new presentation with a template from the PowerPoint Presentation gallery",
@@ -821,7 +837,7 @@
         "val": "P"
       }
     ],
-    "id": "pwm39"
+    "id": "pom39"
   },
   {
     "description": "Insert a new slide",
@@ -837,7 +853,15 @@
       },
       {
         "type": "symbol",
-        "val": "M or ⌘"
+        "val": "M"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "⌘"
       },
       {
         "type": "operator",
@@ -856,7 +880,7 @@
         "val": "N"
       }
     ],
-    "id": "pwm40"
+    "id": "pom40"
   },
   {
     "description": "Zoom out",
@@ -875,7 +899,7 @@
         "val": "- (Minus Sign)"
       }
     ],
-    "id": "pwm41"
+    "id": "pom41"
   },
   {
     "description": "Zoom in",
@@ -902,7 +926,7 @@
         "val": ""
       }
     ],
-    "id": "pwm42"
+    "id": "pom42"
   },
   {
     "description": "Make a copy of the selected slide",
@@ -929,7 +953,7 @@
         "val": "D"
       }
     ],
-    "id": "pwm43"
+    "id": "pom43"
   },
   {
     "description": "Open a presentation",
@@ -948,7 +972,7 @@
         "val": "O"
       }
     ],
-    "id": "pwm44"
+    "id": "pom44"
   },
   {
     "description": "Close a presentation",
@@ -967,7 +991,7 @@
         "val": "W"
       }
     ],
-    "id": "pwm45"
+    "id": "pom45"
   },
   {
     "description": "Print a presentation",
@@ -986,7 +1010,7 @@
         "val": "P"
       }
     ],
-    "id": "pwm46"
+    "id": "pom46"
   },
   {
     "description": "Save a presentation",
@@ -1005,7 +1029,7 @@
         "val": "S"
       }
     ],
-    "id": "pwm47"
+    "id": "pom47"
   },
   {
     "description": "Save a presentation with a different name, location, or file format.",
@@ -1032,7 +1056,7 @@
         "val": "S"
       }
     ],
-    "id": "pwm48"
+    "id": "pom48"
   },
   {
     "description": "Quit PowerPoint",
@@ -1051,7 +1075,7 @@
         "val": "Q"
       }
     ],
-    "id": "pwm49"
+    "id": "pom49"
   },
   {
     "description": "Find text and formatting",
@@ -1070,7 +1094,7 @@
         "val": "F"
       }
     ],
-    "id": "pwm50"
+    "id": "pom50"
   },
   {
     "description": "Add a hyperlink to selected text, an image, or an object",
@@ -1089,7 +1113,7 @@
         "val": "K"
       }
     ],
-    "id": "pwm51"
+    "id": "pom51"
   },
   {
     "description": "Cancel a command, such as Save As",
@@ -1100,7 +1124,7 @@
         "val": "ESC"
       }
     ],
-    "id": "pwm52"
+    "id": "pom52"
   },
   {
     "description": "Undo an action",
@@ -1119,7 +1143,7 @@
         "val": "Z"
       }
     ],
-    "id": "pwm53"
+    "id": "pom53"
   },
   {
     "description": "Redo or repeat an action",
@@ -1138,7 +1162,7 @@
         "val": "Y"
       }
     ],
-    "id": "pwm54"
+    "id": "pom54"
   },
   {
     "description": "Move through multiple open presentations.",
@@ -1157,7 +1181,7 @@
         "val": "~"
       }
     ],
-    "id": "pwm55"
+    "id": "pom55"
   },
   {
     "description": "Open a recent file",
@@ -1184,7 +1208,7 @@
         "val": "O"
       }
     ],
-    "id": "pwm56"
+    "id": "pom56"
   },
   {
     "description": "Switch to normal view",
@@ -1203,7 +1227,7 @@
         "val": "1"
       }
     ],
-    "id": "pwm57"
+    "id": "pom57"
   },
   {
     "description": "Switch to slide sorter view",
@@ -1222,7 +1246,7 @@
         "val": "2"
       }
     ],
-    "id": "pwm58"
+    "id": "pom58"
   },
   {
     "description": "Switch to notes page view",
@@ -1241,7 +1265,7 @@
         "val": "3"
       }
     ],
-    "id": "pwm59"
+    "id": "pom59"
   },
   {
     "description": "Switch to outline view",
@@ -1260,7 +1284,7 @@
         "val": "4"
       }
     ],
-    "id": "pwm60"
+    "id": "pom60"
   },
   {
     "description": "Switch to slide show",
@@ -1287,7 +1311,7 @@
         "val": "Return"
       }
     ],
-    "id": "pwm61"
+    "id": "pom61"
   },
   {
     "description": "Switch to full screen (hide menus)",
@@ -1314,7 +1338,7 @@
         "val": "F"
       }
     ],
-    "id": "pwm62"
+    "id": "pom62"
   },
   {
     "description": "Switch to presenter view",
@@ -1333,7 +1357,7 @@
         "val": "Return"
       }
     ],
-    "id": "pwm63"
+    "id": "pom63"
   },
   {
     "description": "Show or hide guides",
@@ -1368,7 +1392,7 @@
         "val": "G"
       }
     ],
-    "id": "pwm64"
+    "id": "pom64"
   },
   {
     "description": "Switch to handout master view",
@@ -1392,7 +1416,15 @@
       },
       {
         "type": "symbol",
-        "val": "2 or Shift"
+        "val": "2"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -1400,10 +1432,18 @@
       },
       {
         "type": "symbol",
-        "val": "(click Slide Sorter View)"
+        "val": "(click Slide S"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "ter View)"
       }
     ],
-    "id": "pwm65"
+    "id": "pom65"
   },
   {
     "description": "Switch to slide master view",
@@ -1427,7 +1467,15 @@
       },
       {
         "type": "symbol",
-        "val": "1 or Shift"
+        "val": "1"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -1435,10 +1483,18 @@
       },
       {
         "type": "symbol",
-        "val": "(click Normal View)"
+        "val": "(click N"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "mal View)"
       }
     ],
-    "id": "pwm66"
+    "id": "pom66"
   },
   {
     "description": "Switch to notes master view",
@@ -1465,7 +1521,7 @@
         "val": "3"
       }
     ],
-    "id": "pwm67"
+    "id": "pom67"
   },
   {
     "description": "To Select One character to the right",
@@ -1484,7 +1540,7 @@
         "val": "Arrow Right"
       }
     ],
-    "id": "pwm68"
+    "id": "pom68"
   },
   {
     "description": "To Select One character to the left",
@@ -1503,7 +1559,7 @@
         "val": "Arrow Left"
       }
     ],
-    "id": "pwm69"
+    "id": "pom69"
   },
   {
     "description": "To Select From the insertion point to the same point one line up",
@@ -1522,7 +1578,7 @@
         "val": "Arrow Up"
       }
     ],
-    "id": "pwm70"
+    "id": "pom70"
   },
   {
     "description": "To Select From the insertion point to the same point one line down",
@@ -1541,7 +1597,7 @@
         "val": "Arrow Down"
       }
     ],
-    "id": "pwm71"
+    "id": "pom71"
   },
   {
     "description": "To Select All text to the start of the line",
@@ -1568,7 +1624,7 @@
         "val": "Arrow Left"
       }
     ],
-    "id": "pwm72"
+    "id": "pom72"
   },
   {
     "description": "To Select All text to the end of the line",
@@ -1595,7 +1651,7 @@
         "val": "Arrow Right"
       }
     ],
-    "id": "pwm73"
+    "id": "pom73"
   },
   {
     "description": "To Select From the insertion point to the end of the paragraph",
@@ -1622,7 +1678,7 @@
         "val": "Arrow Down"
       }
     ],
-    "id": "pwm74"
+    "id": "pom74"
   },
   {
     "description": "To Select From the insertion point to the beginning of the paragraph",
@@ -1649,13 +1705,13 @@
         "val": "Arrow Up"
       }
     ],
-    "id": "pwm75"
+    "id": "pom75"
   },
   {
     "description": "You can use the following keyboard shortcuts while running your slide show in full-screen mode, with or without the presenter view. TIP: You can press the / key during a slide show to see a list of keyboard shortcuts.",
     "category": "Slide shows",
     "shortcut": [],
-    "id": "pwm76"
+    "id": "pom76"
   },
   {
     "description": "Perform the next animation or advance to the next slide",
@@ -1663,26 +1719,26 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "N "
+        "val": "N , Page Down , Arrow Right , Arrow Down ,"
+      },
+      {
+        "type": "operator",
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": " Page Down "
+        "val": "the SPACEBAR ("
+      },
+      {
+        "type": "operator",
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": " Arrow Right "
-      },
-      {
-        "type": "symbol",
-        "val": " Arrow Down "
-      },
-      {
-        "type": "symbol",
-        "val": " or the SPACEBAR (or click the mouse button)"
+        "val": "click the mouse button)"
       }
     ],
-    "id": "pwm77"
+    "id": "pom77"
   },
   {
     "description": "Return to the previous animation or return to the previous slide",
@@ -1690,26 +1746,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "P "
+        "val": "P , Page Up , Arrow Left , Arrow Up ,"
+      },
+      {
+        "type": "operator",
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": " Page Up "
-      },
-      {
-        "type": "symbol",
-        "val": " Arrow Left "
-      },
-      {
-        "type": "symbol",
-        "val": " Arrow Up "
-      },
-      {
-        "type": "symbol",
-        "val": " or Delete"
+        "val": "Delete"
       }
     ],
-    "id": "pwm78"
+    "id": "pom78"
   },
   {
     "description": "Go to slide number",
@@ -1717,14 +1765,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "The number of the slide that you want to view"
+        "val": "The number of the slide that you want to view, and"
+      },
+      {
+        "type": "operator",
+        "val": "then"
       },
       {
         "type": "symbol",
-        "val": " and then press Return"
+        "val": "press Return"
       }
     ],
-    "id": "pwm79"
+    "id": "pom79"
   },
   {
     "description": "Display a black screen, or return to the slide show from a black screen",
@@ -1732,10 +1784,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "B or ."
+        "val": "B"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "."
       }
     ],
-    "id": "pwm80"
+    "id": "pom80"
   },
   {
     "description": "Display a white screen, or return to the slide show from a white screen",
@@ -1743,14 +1803,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "W or "
+        "val": "W"
+      },
+      {
+        "type": "operator",
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": ""
+        "val": ","
       }
     ],
-    "id": "pwm81"
+    "id": "pom81"
   },
   {
     "description": "Play slide show from the first slide",
@@ -1774,10 +1838,10 @@
       },
       {
         "type": "symbol",
-        "val": " Return"
+        "val": "Return"
       }
     ],
-    "id": "pwm82"
+    "id": "pom82"
   },
   {
     "description": "Play slide show from the current slide",
@@ -1796,7 +1860,7 @@
         "val": "Return"
       }
     ],
-    "id": "pwm83"
+    "id": "pom83"
   },
   {
     "description": "End a slide show",
@@ -1804,7 +1868,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "ESC  or ⌘"
+        "val": "ESC"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "⌘"
       },
       {
         "type": "operator",
@@ -1812,7 +1884,15 @@
       },
       {
         "type": "symbol",
-        "val": ".  or ⌘"
+        "val": "."
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "⌘"
       },
       {
         "type": "operator",
@@ -1823,7 +1903,7 @@
         "val": "-"
       }
     ],
-    "id": "pwm84"
+    "id": "pom84"
   },
   {
     "description": "Erase on-screen annotations",
@@ -1834,7 +1914,7 @@
         "val": "E"
       }
     ],
-    "id": "pwm85"
+    "id": "pom85"
   },
   {
     "description": "Go to next hidden slide if the next slide is hidden",
@@ -1845,7 +1925,7 @@
         "val": "H"
       }
     ],
-    "id": "pwm86"
+    "id": "pom86"
   },
   {
     "description": "Redisplay hidden pointer and/or change the pointer to a pen",
@@ -1864,7 +1944,7 @@
         "val": "P"
       }
     ],
-    "id": "pwm87"
+    "id": "pom87"
   },
   {
     "description": "Redisplay hidden pointer and/or change the pointer to an arrow",
@@ -1883,7 +1963,7 @@
         "val": "A"
       }
     ],
-    "id": "pwm88"
+    "id": "pom88"
   },
   {
     "description": "Hide the pointer on mouse move",
@@ -1902,7 +1982,7 @@
         "val": "H"
       }
     ],
-    "id": "pwm89"
+    "id": "pom89"
   },
   {
     "description": "Display the contextual menu",
@@ -1913,7 +1993,7 @@
         "val": "Hold down Ctrl and click the mouse button"
       }
     ],
-    "id": "pwm90"
+    "id": "pom90"
   },
   {
     "description": "Show Thesaurus entry for a selected word",
@@ -1948,7 +2028,7 @@
         "val": "R"
       }
     ],
-    "id": "pwm91"
+    "id": "pom91"
   },
   {
     "description": "Show Smart Lookup entry for a selected word or phrase",
@@ -1983,7 +2063,7 @@
         "val": "L"
       }
     ],
-    "id": "pwm92"
+    "id": "pom92"
   },
   {
     "description": "Switch to presenter view",
@@ -2002,7 +2082,7 @@
         "val": "Return"
       }
     ],
-    "id": "pwm93"
+    "id": "pom93"
   },
   {
     "description": "Move to the next cell",
@@ -2013,7 +2093,7 @@
         "val": "Tab"
       }
     ],
-    "id": "pwm94"
+    "id": "pom94"
   },
   {
     "description": "Move to the preceding cell",
@@ -2032,7 +2112,7 @@
         "val": "Tab"
       }
     ],
-    "id": "pwm95"
+    "id": "pom95"
   },
   {
     "description": "Move to the next line or row",
@@ -2043,7 +2123,7 @@
         "val": "Arrow Down"
       }
     ],
-    "id": "pwm96"
+    "id": "pom96"
   },
   {
     "description": "Move to the preceding line or row",
@@ -2054,7 +2134,7 @@
         "val": "Arrow Up"
       }
     ],
-    "id": "pwm97"
+    "id": "pom97"
   },
   {
     "description": "Start a new paragraph in a cell",
@@ -2065,7 +2145,7 @@
         "val": "Return"
       }
     ],
-    "id": "pwm98"
+    "id": "pom98"
   },
   {
     "description": "Add a new row at the bottom of the table",
@@ -2076,7 +2156,7 @@
         "val": "Tab at the end of the last row"
       }
     ],
-    "id": "pwm99"
+    "id": "pom99"
   },
   {
     "description": "Close the active window",
@@ -2095,7 +2175,7 @@
         "val": "W"
       }
     ],
-    "id": "pwm100"
+    "id": "pom100"
   },
   {
     "description": "Perform the action assigned to a default button in a dialog box",
@@ -2106,7 +2186,7 @@
         "val": "Return"
       }
     ],
-    "id": "pwm101"
+    "id": "pom101"
   },
   {
     "description": "Cancel a command and close the dialog box",
@@ -2117,7 +2197,7 @@
         "val": "ESC"
       }
     ],
-    "id": "pwm102"
+    "id": "pom102"
   },
   {
     "description": "Hide the current window",
@@ -2136,7 +2216,7 @@
         "val": "H"
       }
     ],
-    "id": "pwm103"
+    "id": "pom103"
   },
   {
     "description": "Minimize the current window",
@@ -2155,6 +2235,6 @@
         "val": "M"
       }
     ],
-    "id": "pwm104"
+    "id": "pom104"
   }
 ]

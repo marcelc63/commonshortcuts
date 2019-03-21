@@ -184,7 +184,9 @@ export default {
       if (lastThree === "win" || lastThree === "mac") {
         let name = this.software.slice(0, -3);
         console.log("name", name);
-        let newBatch = list.filter(x => x.name.toLowerCase() === name);
+        let newBatch = list.filter(x => {
+          return x.name.replace(/\s/g, "").toLowerCase() === name;
+        });
         let check = newBatch.length;
         console.log(newBatch, check);
         if (check > 1) {

@@ -146,7 +146,15 @@
       },
       {
         "type": "symbol",
-        "val": "Period / Ctrl"
+        "val": "Period"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -181,7 +189,15 @@
       },
       {
         "type": "symbol",
-        "val": "Tab or Shift"
+        "val": "Tab"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -279,7 +295,15 @@
       },
       {
         "type": "symbol",
-        "val": "E or F3"
+        "val": "E"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
       }
     ],
     "id": "ouw14"
@@ -298,7 +322,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Up or Ctrl"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -306,11 +338,15 @@
       },
       {
         "type": "symbol",
-        "val": ""
+        "val": ","
+      },
+      {
+        "type": "operator",
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": " or Alt"
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -329,7 +365,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Space / Shift"
+        "val": "Space"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -367,7 +411,15 @@
       },
       {
         "type": "symbol",
-        "val": "B or Alt"
+        "val": "B"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -635,7 +687,15 @@
       },
       {
         "type": "symbol",
-        "val": "S or Shift"
+        "val": "S"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -692,7 +752,15 @@
       },
       {
         "type": "symbol",
-        "val": "Z or Alt"
+        "val": "Z"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -974,7 +1042,15 @@
       },
       {
         "type": "symbol",
-        "val": "X or Shift"
+        "val": "X"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -1001,7 +1077,15 @@
       },
       {
         "type": "symbol",
-        "val": "C or Ctrl"
+        "val": "C"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1028,7 +1112,15 @@
       },
       {
         "type": "symbol",
-        "val": "V or Shift"
+        "val": "V"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -1112,7 +1204,15 @@
       },
       {
         "type": "symbol",
-        "val": "] or Ctrl"
+        "val": "]"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1147,7 +1247,15 @@
       },
       {
         "type": "symbol",
-        "val": "[ or Ctrl"
+        "val": "["
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1301,7 +1409,15 @@
       },
       {
         "type": "symbol",
-        "val": "T / Ctrl"
+        "val": "T"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1382,7 +1498,15 @@
       },
       {
         "type": "symbol",
-        "val": "Z or Ctrl"
+        "val": "Z"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1490,7 +1614,15 @@
       },
       {
         "type": "symbol",
-        "val": "T / Ctrl"
+        "val": "T"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1544,7 +1676,15 @@
       },
       {
         "type": "symbol",
-        "val": "L / Ctrl"
+        "val": "L"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -2401,7 +2541,15 @@
       },
       {
         "type": "symbol",
-        "val": "M or F9"
+        "val": "M"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "F9"
       }
     ],
     "id": "ouw104"
@@ -2599,7 +2747,15 @@
       },
       {
         "type": "symbol",
-        "val": "Q / Ctrl"
+        "val": "Q"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -3233,7 +3389,15 @@
       },
       {
         "type": "symbol",
-        "val": "= or Ctrl"
+        "val": "="
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -3268,7 +3432,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Right / Ctrl"
+        "val": "Arrow Right"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -3295,7 +3467,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Down / Alt"
+        "val": "Arrow Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -3322,7 +3502,15 @@
       },
       {
         "type": "symbol",
-        "val": "Page Down / Alt"
+        "val": "Page Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -3349,7 +3537,15 @@
       },
       {
         "type": "symbol",
-        "val": "Home / Alt"
+        "val": "Home"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -3376,7 +3572,15 @@
       },
       {
         "type": "symbol",
-        "val": "- or Ctrl"
+        "val": "-"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -3438,11 +3642,15 @@
       },
       {
         "type": "symbol",
-        "val": ""
+        "val": ","
+      },
+      {
+        "type": "operator",
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": " or Ctrl"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -3458,11 +3666,15 @@
       },
       {
         "type": "symbol",
-        "val": ""
+        "val": ","
+      },
+      {
+        "type": "operator",
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": " / Ctrl"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -3470,7 +3682,15 @@
       },
       {
         "type": "symbol",
-        "val": ". or Ctrl"
+        "val": "."
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -3543,7 +3763,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "F3 or Ctrl"
+        "val": "F3"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -4126,8 +4354,12 @@
         "val": "K"
       },
       {
+        "type": "operator",
+        "val": "then"
+      },
+      {
         "type": "symbol",
-        "val": " then Enter"
+        "val": "Enter"
       }
     ],
     "id": "ouw182"
@@ -4428,7 +4660,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Tab or Shift"
+        "val": "Tab"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -4477,7 +4717,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Right / Arrow Left"
+        "val": "Arrow Right"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
       }
     ],
     "id": "ouw200"
@@ -4488,7 +4736,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Up / Arrow Down"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
       }
     ],
     "id": "ouw201"
@@ -4499,7 +4755,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Home / End"
+        "val": "Home"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
       }
     ],
     "id": "ouw202"
@@ -4532,8 +4796,12 @@
         "val": "F"
       },
       {
+        "type": "operator",
+        "val": "then"
+      },
+      {
         "type": "symbol",
-        "val": " then P"
+        "val": "P"
       }
     ],
     "id": "ouw204"
@@ -4555,12 +4823,20 @@
         "val": "F"
       },
       {
-        "type": "symbol",
-        "val": " then F"
+        "type": "operator",
+        "val": "then"
       },
       {
         "type": "symbol",
-        "val": " then 1"
+        "val": "F"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "1"
       }
     ],
     "id": "ouw205"
@@ -4579,11 +4855,15 @@
       },
       {
         "type": "symbol",
-        "val": "S"
+        "val": "S,"
+      },
+      {
+        "type": "operator",
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": " or Alt"
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -4613,12 +4893,20 @@
         "val": "F"
       },
       {
-        "type": "symbol",
-        "val": " then P"
+        "type": "operator",
+        "val": "then"
       },
       {
         "type": "symbol",
-        "val": " then I"
+        "val": "P"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
       }
     ],
     "id": "ouw207"
@@ -4640,12 +4928,20 @@
         "val": "F"
       },
       {
-        "type": "symbol",
-        "val": " then P"
+        "type": "operator",
+        "val": "then"
       },
       {
         "type": "symbol",
-        "val": " then L"
+        "val": "P"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "L"
       }
     ],
     "id": "ouw208"
@@ -4667,12 +4963,20 @@
         "val": "F"
       },
       {
-        "type": "symbol",
-        "val": " then P"
+        "type": "operator",
+        "val": "then"
       },
       {
         "type": "symbol",
-        "val": " then R"
+        "val": "P"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "R"
       }
     ],
     "id": "ouw209"
@@ -4808,7 +5112,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Page Down / Page Up"
+        "val": "Page Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up"
       }
     ],
     "id": "ouw217"
@@ -4827,7 +5139,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Up or Shift"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -4854,7 +5174,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Up or Ctrl"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -4903,7 +5231,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Up / Arrow Down"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
       }
     ],
     "id": "ouw222"
@@ -4914,7 +5250,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Home / End"
+        "val": "Home"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
       }
     ],
     "id": "ouw223"
@@ -4925,7 +5269,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Page Up / Page Down"
+        "val": "Page Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
       }
     ],
     "id": "ouw224"
@@ -4936,7 +5288,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Right / Arrow Left"
+        "val": "Arrow Right"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
       }
     ],
     "id": "ouw225"
@@ -5066,7 +5426,15 @@
       },
       {
         "type": "symbol",
-        "val": "Home / Shift"
+        "val": "Home"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -5093,7 +5461,15 @@
       },
       {
         "type": "symbol",
-        "val": "Page Up / Shift"
+        "val": "Page Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -5112,7 +5488,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Tab / Shift"
+        "val": "Tab"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -5153,7 +5537,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Home / End"
+        "val": "Home"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
       }
     ],
     "id": "ouw236"
@@ -5164,7 +5556,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Page Up / Page Down"
+        "val": "Page Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
       }
     ],
     "id": "ouw237"
@@ -5175,7 +5575,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Up / Arrow Down"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
       }
     ],
     "id": "ouw238"
@@ -5186,7 +5594,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Left / Arrow Right"
+        "val": "Arrow Left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
       }
     ],
     "id": "ouw239"
@@ -5197,7 +5613,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Left / Arrow Right"
+        "val": "Arrow Left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
       }
     ],
     "id": "ouw240"
@@ -5216,7 +5640,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Left or Shift"
+        "val": "Arrow Left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -5251,7 +5683,15 @@
       },
       {
         "type": "symbol",
-        "val": "Space or Ctrl"
+        "val": "Space"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -5289,7 +5729,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Home / End"
+        "val": "Home"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
       }
     ],
     "id": "ouw244"
@@ -5308,7 +5756,15 @@
       },
       {
         "type": "symbol",
-        "val": "Home / Ctrl"
+        "val": "Home"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -5327,7 +5783,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Enter or Arrow Right"
+        "val": "Enter"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
       }
     ],
     "id": "ouw246"
@@ -5338,7 +5802,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Enter or Arrow Left"
+        "val": "Enter"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
       }
     ],
     "id": "ouw247"
@@ -5360,7 +5832,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Home / End"
+        "val": "Home"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
       }
     ],
     "id": "ouw249"
@@ -5382,7 +5862,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "ArrowLeft / Arrow Right"
+        "val": "ArrowLeft"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
       }
     ],
     "id": "ouw251"
@@ -5420,7 +5908,15 @@
       },
       {
         "type": "symbol",
-        "val": "key for number of days"
+        "val": "key f"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "number of days"
       }
     ],
     "id": "ouw253"
@@ -5496,7 +5992,15 @@
       },
       {
         "type": "symbol",
-        "val": "Tab or F6"
+        "val": "Tab"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "F6"
       }
     ],
     "id": "ouw257"
@@ -5526,7 +6030,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Left / Arrow Right"
+        "val": "Arrow Left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
       }
     ],
     "id": "ouw259"
@@ -5545,7 +6057,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Down / Alt"
+        "val": "Arrow Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -5586,7 +6106,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Up / Arrow Down"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
       }
     ],
     "id": "ouw263"
@@ -5597,7 +6125,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Page Up / Page Down"
+        "val": "Page Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
       }
     ],
     "id": "ouw264"
@@ -5616,7 +6152,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Up or Shift"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -5643,7 +6187,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Up or Alt"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -5678,7 +6230,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Up or Alt"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -5732,7 +6292,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Up or Alt"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -5751,7 +6319,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Home / End"
+        "val": "Home"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
       }
     ],
     "id": "ouw270"
@@ -5762,7 +6338,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Page Up / Page Down"
+        "val": "Page Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
       }
     ],
     "id": "ouw271"
@@ -5781,11 +6365,7 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Left"
-      },
-      {
-        "type": "symbol",
-        "val": " Shift"
+        "val": "Arrow Left, Shift"
       },
       {
         "type": "operator",
@@ -5793,11 +6373,7 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Right"
-      },
-      {
-        "type": "symbol",
-        "val": " Shift"
+        "val": "Arrow Right, Shift"
       },
       {
         "type": "operator",
@@ -5805,11 +6381,7 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Up"
-      },
-      {
-        "type": "symbol",
-        "val": " Shift"
+        "val": "Arrow Up, Shift"
       },
       {
         "type": "operator",
@@ -5817,7 +6389,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Down or Shift"
+        "val": "Arrow Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -5825,7 +6405,15 @@
       },
       {
         "type": "symbol",
-        "val": "Home or Shift"
+        "val": "Home"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -5855,7 +6443,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Page Up / Page Down"
+        "val": "Page Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
       }
     ],
     "id": "ouw274"
@@ -5874,7 +6470,15 @@
       },
       {
         "type": "symbol",
-        "val": "Home / Alt"
+        "val": "Home"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -5901,7 +6505,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Up / Alt"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
       },
       {
         "type": "operator",

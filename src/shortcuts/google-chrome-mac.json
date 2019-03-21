@@ -78,7 +78,15 @@
       },
       {
         "type": "symbol",
-        "val": "[/ Command"
+        "val": "["
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
       },
       {
         "type": "operator",
@@ -86,7 +94,15 @@
       },
       {
         "type": "symbol",
-        "val": "]/"
+        "val": "]"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
     "id": "gcm3"
@@ -249,7 +265,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Home/End in address bar"
+        "val": "Home"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "End in address bar"
       }
     ],
     "id": "gcm12"
@@ -339,7 +363,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Down/Arrow Up with focus on webpage"
+        "val": "Arrow Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up with focus on webpage"
       }
     ],
     "id": "gcm18"
@@ -350,7 +382,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Space/Shift"
+        "val": "Space"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -369,7 +409,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Home/End"
+        "val": "Home"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
       }
     ],
     "id": "gcm20"
@@ -396,7 +444,15 @@
       },
       {
         "type": "symbol",
-        "val": "/-"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
       }
     ],
     "id": "gcm21"
@@ -515,7 +571,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Left/Arrow Right"
+        "val": "Arrow Left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
       }
     ],
     "id": "gcm26"
@@ -933,8 +997,12 @@
         "val": "D"
       },
       {
+        "type": "operator",
+        "val": "then"
+      },
+      {
         "type": "symbol",
-        "val": " then F6"
+        "val": "F6"
       }
     ],
     "id": "gcm47"
@@ -956,8 +1024,12 @@
         "val": "F"
       },
       {
+        "type": "operator",
+        "val": "then"
+      },
+      {
         "type": "symbol",
-        "val": " then b"
+        "val": "b"
       }
     ],
     "id": "gcm48"

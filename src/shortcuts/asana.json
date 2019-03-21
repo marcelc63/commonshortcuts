@@ -16,7 +16,7 @@
         "val": "U"
       }
     ],
-    "id": "as0"
+    "id": "asa0"
   },
   {
     "description": "Mark as Today in MyTask",
@@ -35,7 +35,7 @@
         "val": "Y"
       }
     ],
-    "id": "as1"
+    "id": "asa1"
   },
   {
     "description": "Mark as Later in MyTask",
@@ -54,7 +54,7 @@
         "val": "L"
       }
     ],
-    "id": "as2"
+    "id": "asa2"
   },
   {
     "description": "Move Up",
@@ -65,7 +65,7 @@
         "val": "K"
       }
     ],
-    "id": "as3"
+    "id": "asa3"
   },
   {
     "description": "Move Down",
@@ -76,7 +76,7 @@
         "val": "J"
       }
     ],
-    "id": "as4"
+    "id": "asa4"
   },
   {
     "description": "Move to Inbox",
@@ -87,7 +87,7 @@
         "val": "U"
       }
     ],
-    "id": "as5"
+    "id": "asa5"
   },
   {
     "description": "Archieve",
@@ -98,7 +98,7 @@
         "val": "I"
       }
     ],
-    "id": "as6"
+    "id": "asa6"
   },
   {
     "description": "Jump to Inbox",
@@ -109,7 +109,7 @@
         "val": "H"
       }
     ],
-    "id": "as7"
+    "id": "asa7"
   },
   {
     "description": "Jump to Archieve",
@@ -120,7 +120,7 @@
         "val": "S"
       }
     ],
-    "id": "as8"
+    "id": "asa8"
   },
   {
     "description": "Follow/Unfollow",
@@ -131,7 +131,7 @@
         "val": "F"
       }
     ],
-    "id": "as9"
+    "id": "asa9"
   },
   {
     "description": "Assign Selected Tasks",
@@ -150,7 +150,7 @@
         "val": "A"
       }
     ],
-    "id": "as10"
+    "id": "asa10"
   },
   {
     "description": "Comment on Selected Tasks",
@@ -169,7 +169,7 @@
         "val": "C"
       }
     ],
-    "id": "as11"
+    "id": "asa11"
   },
   {
     "description": "Set Due Date",
@@ -188,7 +188,7 @@
         "val": "D"
       }
     ],
-    "id": "as12"
+    "id": "asa12"
   },
   {
     "description": "Add a tag to the task",
@@ -207,7 +207,7 @@
         "val": "T"
       }
     ],
-    "id": "as13"
+    "id": "asa13"
   },
   {
     "description": "Add Follower",
@@ -226,7 +226,7 @@
         "val": "F"
       }
     ],
-    "id": "as14"
+    "id": "asa14"
   },
   {
     "description": "Search for a project,tag,person or task",
@@ -242,10 +242,18 @@
       },
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
-    "id": "as15"
+    "id": "asa15"
   },
   {
     "description": "Jump to Task List",
@@ -264,7 +272,7 @@
         "val": "Enter"
       }
     ],
-    "id": "as16"
+    "id": "asa16"
   },
   {
     "description": "Focus Subtasks",
@@ -283,7 +291,7 @@
         "val": "S"
       }
     ],
-    "id": "as17"
+    "id": "asa17"
   },
   {
     "description": "Post Comment",
@@ -302,7 +310,7 @@
         "val": "Enter"
       }
     ],
-    "id": "as18"
+    "id": "asa18"
   },
   {
     "description": "Quick add task",
@@ -321,7 +329,7 @@
         "val": "Q"
       }
     ],
-    "id": "as19"
+    "id": "asa19"
   },
   {
     "description": "Show keyboard Shortcuts(Windows Only)",
@@ -337,10 +345,18 @@
       },
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
-    "id": "as20"
+    "id": "asa20"
   },
   {
     "description": "Expand Right Pane",
@@ -351,7 +367,7 @@
         "val": "Tab"
       }
     ],
-    "id": "as21"
+    "id": "asa21"
   },
   {
     "description": "Collapse Right Pane",
@@ -362,7 +378,7 @@
         "val": "Esc"
       }
     ],
-    "id": "as22"
+    "id": "asa22"
   },
   {
     "description": "Enter in Focus Mode",
@@ -381,7 +397,7 @@
         "val": "X"
       }
     ],
-    "id": "as23"
+    "id": "asa23"
   },
   {
     "description": "Change Selection",
@@ -389,10 +405,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Up Arrow/Down Arrow"
+        "val": "Up Arrow"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Down Arrow"
       }
     ],
-    "id": "as24"
+    "id": "asa24"
   },
   {
     "description": "Select Range",
@@ -411,7 +435,7 @@
         "val": "Click"
       }
     ],
-    "id": "as25"
+    "id": "asa25"
   },
   {
     "description": "Multi Select Individuals(Windows Only)",
@@ -430,7 +454,7 @@
         "val": "Click"
       }
     ],
-    "id": "as26"
+    "id": "asa26"
   },
   {
     "description": "New Task",
@@ -441,7 +465,7 @@
         "val": "Enter"
       }
     ],
-    "id": "as27"
+    "id": "asa27"
   },
   {
     "description": "Delete Selected Task",
@@ -460,7 +484,7 @@
         "val": "Bkspace"
       }
     ],
-    "id": "as28"
+    "id": "asa28"
   },
   {
     "description": "Delete Current Task",
@@ -471,7 +495,7 @@
         "val": "Bkspace"
       }
     ],
-    "id": "as29"
+    "id": "asa29"
   },
   {
     "description": "Complete Selected Task",
@@ -490,7 +514,7 @@
         "val": "Enter"
       }
     ],
-    "id": "as30"
+    "id": "asa30"
   },
   {
     "description": "Move Up",
@@ -509,7 +533,7 @@
         "val": "Up Arrow"
       }
     ],
-    "id": "as31"
+    "id": "asa31"
   },
   {
     "description": "Move Down",
@@ -528,7 +552,7 @@
         "val": "Down Arrow"
       }
     ],
-    "id": "as32"
+    "id": "asa32"
   },
   {
     "description": "Jump Up to next selection",
@@ -555,7 +579,7 @@
         "val": "Up Arrow"
       }
     ],
-    "id": "as33"
+    "id": "asa33"
   },
   {
     "description": "Jump Down to next selection",
@@ -582,7 +606,7 @@
         "val": "Down Arrow"
       }
     ],
-    "id": "as34"
+    "id": "asa34"
   },
   {
     "description": "Copy selected task",
@@ -601,7 +625,7 @@
         "val": "C"
       }
     ],
-    "id": "as35"
+    "id": "asa35"
   },
   {
     "description": "Paste selected task",
@@ -620,7 +644,7 @@
         "val": "V"
       }
     ],
-    "id": "as36"
+    "id": "asa36"
   },
   {
     "description": "Select Favourite as Selected Task",
@@ -639,7 +663,7 @@
         "val": "H"
       }
     ],
-    "id": "as37"
+    "id": "asa37"
   },
   {
     "description": "Assign to Me",
@@ -658,7 +682,7 @@
         "val": "M"
       }
     ],
-    "id": "as38"
+    "id": "asa38"
   },
   {
     "description": "Type a colon at end of a task name to create a session",
@@ -669,7 +693,7 @@
         "val": ":"
       }
     ],
-    "id": "as39"
+    "id": "asa39"
   },
   {
     "description": "New Task",
@@ -680,7 +704,7 @@
         "val": "Return"
       }
     ],
-    "id": "as40"
+    "id": "asa40"
   },
   {
     "description": "Delete Selected Task",
@@ -699,7 +723,7 @@
         "val": "Bkspace"
       }
     ],
-    "id": "as41"
+    "id": "asa41"
   },
   {
     "description": "Delete Current Task",
@@ -710,7 +734,7 @@
         "val": "Bkspace"
       }
     ],
-    "id": "as42"
+    "id": "asa42"
   },
   {
     "description": "Complete Selected Task",
@@ -729,7 +753,7 @@
         "val": "Return"
       }
     ],
-    "id": "as43"
+    "id": "asa43"
   },
   {
     "description": "Move Up",
@@ -748,7 +772,7 @@
         "val": "Up Arrow"
       }
     ],
-    "id": "as44"
+    "id": "asa44"
   },
   {
     "description": "Move Down",
@@ -767,7 +791,7 @@
         "val": "Down Arrow"
       }
     ],
-    "id": "as45"
+    "id": "asa45"
   },
   {
     "description": "Jump Up to next selection",
@@ -794,7 +818,7 @@
         "val": "Up Arrow"
       }
     ],
-    "id": "as46"
+    "id": "asa46"
   },
   {
     "description": "Jump Down to next selection",
@@ -821,7 +845,7 @@
         "val": "Down Arrow"
       }
     ],
-    "id": "as47"
+    "id": "asa47"
   },
   {
     "description": "Copy selected task",
@@ -840,7 +864,7 @@
         "val": "C"
       }
     ],
-    "id": "as48"
+    "id": "asa48"
   },
   {
     "description": "Paste selected task",
@@ -859,7 +883,7 @@
         "val": "V"
       }
     ],
-    "id": "as49"
+    "id": "asa49"
   },
   {
     "description": "Select Favourite as Selected Task",
@@ -878,7 +902,7 @@
         "val": "H"
       }
     ],
-    "id": "as50"
+    "id": "asa50"
   },
   {
     "description": "Assign to Me",
@@ -897,7 +921,7 @@
         "val": "M"
       }
     ],
-    "id": "as51"
+    "id": "asa51"
   },
   {
     "description": "Type a colon at end of a task name to create a session",
@@ -908,6 +932,6 @@
         "val": ":"
       }
     ],
-    "id": "as52"
+    "id": "asa52"
   }
 ]

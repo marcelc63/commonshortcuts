@@ -363,7 +363,15 @@
       },
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
     "id": "gsl18"
@@ -382,7 +390,15 @@
       },
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
     "id": "gsl19"
@@ -393,7 +409,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Home / End"
+        "val": "Home"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
       }
     ],
     "id": "gsl20"
@@ -412,7 +436,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Up / Arrow Down"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
       }
     ],
     "id": "gsl21"
@@ -439,7 +471,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Up / Arrow Down"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
       }
     ],
     "id": "gsl22"
@@ -458,7 +498,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Up / Arrow Down"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
       }
     ],
     "id": "gsl23"
@@ -477,7 +525,15 @@
       },
       {
         "type": "symbol",
-        "val": "Home / Shift"
+        "val": "Home"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -496,7 +552,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Page Up / Page Down"
+        "val": "Page Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
       }
     ],
     "id": "gsl25"
@@ -839,11 +903,7 @@
       },
       {
         "type": "symbol",
-        "val": ""
-      },
-      {
-        "type": "symbol",
-        "val": ""
+        "val": ","
       }
     ],
     "id": "gsl38"

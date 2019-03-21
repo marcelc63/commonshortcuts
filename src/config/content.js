@@ -154,13 +154,13 @@ const list = [
     var: "googledrive"
   },
   {
-    name: "GMail",
+    name: "Google Mail",
     platform: "mac",
     file: "google-mail-mac",
     var: "googlemailmac"
   },
   {
-    name: "GMail",
+    name: "Google Mail",
     platform: "windows",
     file: "google-mail-win",
     var: "googlemailwin"

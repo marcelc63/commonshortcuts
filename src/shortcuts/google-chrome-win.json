@@ -59,7 +59,15 @@
       },
       {
         "type": "symbol",
-        "val": "W/\nCtrl"
+        "val": "W"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -132,7 +140,15 @@
       },
       {
         "type": "symbol",
-        "val": "Tab/Ctrl"
+        "val": "Tab"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -167,7 +183,15 @@
       },
       {
         "type": "symbol",
-        "val": "Tab/Ctrl"
+        "val": "Tab"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -248,7 +272,15 @@
       },
       {
         "type": "symbol",
-        "val": "W/\nAlt"
+        "val": "W"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -351,7 +383,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Ctrl "
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -359,7 +391,15 @@
       },
       {
         "type": "symbol",
-        "val": " click on \"Search Google for\" from a drop down menu"
+        "val": "click on \"Search Google f"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "\" from a drop down menu"
       }
     ],
     "id": "gcw14"
@@ -370,7 +410,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Shift "
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -378,7 +418,15 @@
       },
       {
         "type": "symbol",
-        "val": " click on \"Search Google for\" from a drop down menu"
+        "val": "click on \"Search Google f"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "\" from a drop down menu"
       }
     ],
     "id": "gcw15"
@@ -411,7 +459,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Hold Ctrl "
+        "val": "Hold Ctrl"
       },
       {
         "type": "operator",
@@ -419,7 +467,7 @@
       },
       {
         "type": "symbol",
-        "val": " click on tabs in the tab bar"
+        "val": "click on tabs in the tab bar"
       }
     ],
     "id": "gcw18"
@@ -430,7 +478,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Hold Shift "
+        "val": "Hold Shift"
       },
       {
         "type": "operator",
@@ -438,7 +486,7 @@
       },
       {
         "type": "symbol",
-        "val": " click on two tabs in the tab bar"
+        "val": "click on two tabs in the tab bar"
       }
     ],
     "id": "gcw19"
@@ -457,7 +505,15 @@
       },
       {
         "type": "symbol",
-        "val": "L/\nAlt"
+        "val": "L"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -511,7 +567,15 @@
       },
       {
         "type": "symbol",
-        "val": "E/\nCtrl"
+        "val": "E"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -533,8 +597,12 @@
         "val": "Arrow Down to highlight"
       },
       {
+        "type": "operator",
+        "val": "then"
+      },
+      {
         "type": "symbol",
-        "val": " then Shift "
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -542,7 +610,7 @@
       },
       {
         "type": "symbol",
-        "val": " Delete"
+        "val": "Delete"
       }
     ],
     "id": "gcw23"
@@ -578,7 +646,7 @@
     "id": "gcw25"
   },
   {
-    "description": "Open the site or a search in a new background tab",
+    "description": "Open the site or a search in a new background tab (doesn't work in Windows 10)",
     "category": "Address Bar",
     "shortcut": [
       {
@@ -662,7 +730,7 @@
     "id": "gcw29"
   },
   {
-    "description": "Add www. to beginning and .com to end of input and open the web address in a new background tab",
+    "description": "Add www. to beginning and .com to end of input and open the web address in a new background tab (doesn't work in Windows 10)",
     "category": "Address Bar",
     "shortcut": [
       {
@@ -743,7 +811,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Down/Arrow Up"
+        "val": "Arrow Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
       }
     ],
     "id": "gcw34"
@@ -754,7 +830,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Page Down/Page Up"
+        "val": "Page Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Up"
       }
     ],
     "id": "gcw35"
@@ -765,7 +849,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Space/Shift"
+        "val": "Space"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -784,7 +876,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Home/End"
+        "val": "Home"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
       }
     ],
     "id": "gcw37"
@@ -811,7 +911,15 @@
       },
       {
         "type": "symbol",
-        "val": "]/-"
+        "val": "]"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
       }
     ],
     "id": "gcw38"
@@ -920,7 +1028,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Left/Arrow Right"
+        "val": "Arrow Left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
       }
     ],
     "id": "gcw45"
@@ -931,7 +1047,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "F5/Ctrl"
+        "val": "F5"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -958,7 +1082,15 @@
       },
       {
         "type": "symbol",
-        "val": "F5/Shift"
+        "val": "F5"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -988,7 +1120,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Tab/Shift"
+        "val": "Tab"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -1365,7 +1505,15 @@
       },
       {
         "type": "symbol",
-        "val": "F/F3"
+        "val": "F"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "F3"
       }
     ],
     "id": "gcw68"
@@ -1376,7 +1524,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Enter/Shift"
+        "val": "Enter"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -1403,7 +1559,15 @@
       },
       {
         "type": "symbol",
-        "val": "G/Ctrl"
+        "val": "G"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1563,8 +1727,12 @@
         "val": "F"
       },
       {
+        "type": "operator",
+        "val": "then"
+      },
+      {
         "type": "symbol",
-        "val": " then B"
+        "val": "B"
       }
     ],
     "id": "gcw77"
@@ -1591,7 +1759,15 @@
       },
       {
         "type": "symbol",
-        "val": "I (or F12)"
+        "val": "I ("
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "F12)"
       }
     ],
     "id": "gcw78"
@@ -1702,7 +1878,15 @@
       },
       {
         "type": "symbol",
-        "val": "[/]"
+        "val": "["
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "]"
       }
     ],
     "id": "gcw83"
@@ -1840,7 +2024,15 @@
       },
       {
         "type": "symbol",
-        "val": "]/-"
+        "val": "]"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
       }
     ],
     "id": "gcw89"
@@ -1889,7 +2081,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Up/Arrow Down"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
       }
     ],
     "id": "gcw92"
@@ -1908,7 +2108,15 @@
       },
       {
         "type": "symbol",
-        "val": "Z/Ctrl"
+        "val": "Z"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1927,7 +2135,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Right/Arrow Left"
+        "val": "Arrow Right"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Left"
       }
     ],
     "id": "gcw94"
@@ -2069,7 +2285,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Tab/Shift"
+        "val": "Tab"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -2088,7 +2312,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Up/Arrow Down"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
       }
     ],
     "id": "gcw105"
@@ -2099,7 +2331,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Page Up/Page Down"
+        "val": "Page Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
       }
     ],
     "id": "gcw106"
@@ -2118,7 +2358,15 @@
       },
       {
         "type": "symbol",
-        "val": "Page Up/Page Down"
+        "val": "Page Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
       }
     ],
     "id": "gcw107"
@@ -2137,7 +2385,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Up/Arrow Down"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
       }
     ],
     "id": "gcw108"
@@ -2148,11 +2404,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "F8"
-      },
-      {
-        "type": "symbol",
-        "val": " Ctrl"
+        "val": "F8, Ctrl"
       },
       {
         "type": "operator",
@@ -2171,11 +2423,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "F8"
-      },
-      {
-        "type": "symbol",
-        "val": " Ctrl"
+        "val": "F8, Ctrl"
       },
       {
         "type": "operator",
@@ -2194,11 +2442,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "F10"
-      },
-      {
-        "type": "symbol",
-        "val": " Ctrl"
+        "val": "F10, Ctrl"
       },
       {
         "type": "operator",
@@ -2217,11 +2461,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "F11"
-      },
-      {
-        "type": "symbol",
-        "val": " Ctrl"
+        "val": "F11, Ctrl"
       },
       {
         "type": "operator",
@@ -2248,11 +2488,7 @@
       },
       {
         "type": "symbol",
-        "val": "F11"
-      },
-      {
-        "type": "symbol",
-        "val": " Ctrl"
+        "val": "F11, Ctrl"
       },
       {
         "type": "operator",
@@ -2287,11 +2523,15 @@
       },
       {
         "type": "symbol",
-        "val": "./"
+        "val": "."
+      },
+      {
+        "type": "operator",
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": ""
+        "val": ","
       }
     ],
     "id": "gcw114"
@@ -2351,7 +2591,15 @@
       },
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
     "id": "gcw118"
@@ -2489,7 +2737,7 @@
       },
       {
         "type": "symbol",
-        "val": "number "
+        "val": "number"
       },
       {
         "type": "operator",
@@ -2635,7 +2883,7 @@
       },
       {
         "type": "symbol",
-        "val": "number "
+        "val": "number"
       },
       {
         "type": "operator",
@@ -2662,7 +2910,15 @@
       },
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
     "id": "gcw131"
@@ -2798,7 +3054,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Up/Arrow Down"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
       }
     ],
     "id": "gcw139"

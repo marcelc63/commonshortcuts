@@ -70,7 +70,15 @@
       },
       {
         "type": "symbol",
-        "val": "C/Ctrl"
+        "val": "C"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -710,7 +718,15 @@
       },
       {
         "type": "symbol",
-        "val": "S/F12"
+        "val": "S"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "F12"
       }
     ],
     "id": "wow35"
@@ -1856,7 +1872,15 @@
       },
       {
         "type": "symbol",
-        "val": "P and IL/IR"
+        "val": "P and IL"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "IR"
       }
     ],
     "id": "wow97"
@@ -1875,7 +1899,15 @@
       },
       {
         "type": "symbol",
-        "val": "P and SB/SA"
+        "val": "P and SB"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "SA"
       }
     ],
     "id": "wow98"
@@ -2549,11 +2581,7 @@
       },
       {
         "type": "symbol",
-        "val": "f8"
-      },
-      {
-        "type": "symbol",
-        "val": " and arrow keys"
+        "val": "f8, and arrow keys"
       }
     ],
     "id": "wow136"

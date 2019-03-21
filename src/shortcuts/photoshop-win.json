@@ -1173,11 +1173,7 @@
       },
       {
         "type": "symbol",
-        "val": ""
-      },
-      {
-        "type": "symbol",
-        "val": ""
+        "val": ","
       }
     ],
     "id": "phw48"
@@ -1196,7 +1192,15 @@
       },
       {
         "type": "symbol",
-        "val": "]/]"
+        "val": "]"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "]"
       }
     ],
     "id": "phw49"
@@ -1223,7 +1227,15 @@
       },
       {
         "type": "symbol",
-        "val": "]/]"
+        "val": "]"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "]"
       }
     ],
     "id": "phw50"
@@ -1242,7 +1254,15 @@
       },
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
     "id": "phw51"
@@ -2090,7 +2110,15 @@
       },
       {
         "type": "symbol",
-        "val": "Tab/Ctrl"
+        "val": "Tab"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -2117,7 +2145,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "F/Shift"
+        "val": "F"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -2152,7 +2188,15 @@
       },
       {
         "type": "symbol",
-        "val": "]/-"
+        "val": "]"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
       }
     ],
     "id": "phw101"
@@ -2204,8 +2248,12 @@
         "val": "Press and hold H"
       },
       {
+        "type": "operator",
+        "val": "then"
+      },
+      {
         "type": "symbol",
-        "val": " then Click"
+        "val": "Click"
       }
     ],
     "id": "phw104"
@@ -2292,7 +2340,15 @@
       },
       {
         "type": "symbol",
-        "val": "Page Up/Page Down"
+        "val": "Page Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
       }
     ],
     "id": "phw109"
@@ -2303,7 +2359,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Page Up/Page Down"
+        "val": "Page Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Page Down"
       }
     ],
     "id": "phw110"
@@ -2314,7 +2378,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Home/End"
+        "val": "Home"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "End"
       }
     ],
     "id": "phw111"
@@ -2509,7 +2581,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "F/Shift"
+        "val": "F"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -2725,7 +2805,7 @@
       },
       {
         "type": "symbol",
-        "val": " tool"
+        "val": "tool"
       }
     ],
     "id": "phw136"
@@ -2755,7 +2835,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Down/Arrow Up"
+        "val": "Arrow Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
       }
     ],
     "id": "phw138"
@@ -2766,7 +2854,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Tab/Shift"
+        "val": "Tab"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -2796,7 +2892,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "[/]"
+        "val": "["
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "]"
       }
     ],
     "id": "phw141"
@@ -2815,7 +2919,15 @@
       },
       {
         "type": "symbol",
-        "val": "[/]"
+        "val": "["
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "]"
       }
     ],
     "id": "phw142"
@@ -2861,7 +2973,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Tab/Shift"
+        "val": "Tab"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -2888,7 +3008,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Up/Arrow Down"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
       }
     ],
     "id": "phw145"
@@ -2899,7 +3027,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Arrow Up/Arrow Down"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
       }
     ],
     "id": "phw146"
@@ -2948,7 +3084,15 @@
       },
       {
         "type": "symbol",
-        "val": "/-"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
       }
     ],
     "id": "phw149"
@@ -3084,7 +3228,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Any selection tool then press and hold Shift"
+        "val": "Any selection tool"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "press and hold Shift"
       }
     ],
     "id": "phw157"
@@ -3095,7 +3247,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Any selection tool "
+        "val": "Any selection tool"
       },
       {
         "type": "operator",
@@ -3122,7 +3274,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Any selection tool "
+        "val": "Any selection tool"
       },
       {
         "type": "operator",
@@ -3274,7 +3426,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Move Tool "
+        "val": "Move Tool"
       },
       {
         "type": "operator",
@@ -3301,7 +3453,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Any selection "
+        "val": "Any selection"
       },
       {
         "type": "operator",
@@ -3320,7 +3472,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Move Tool "
+        "val": "Move Tool"
       },
       {
         "type": "operator",
@@ -3358,7 +3510,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Magnetic Lasso Tool "
+        "val": "Magnetic Lasso Tool"
       },
       {
         "type": "operator",
@@ -3366,7 +3518,15 @@
       },
       {
         "type": "symbol",
-        "val": "[/]"
+        "val": "["
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "]"
       }
     ],
     "id": "phw171"
@@ -3377,7 +3537,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Crop tool "
+        "val": "Crop tool"
       },
       {
         "type": "operator",
@@ -3396,7 +3556,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
     "id": "phw173"
@@ -3407,7 +3575,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Ruler Tool "
+        "val": "Ruler Tool"
       },
       {
         "type": "operator",
@@ -3589,7 +3757,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Direct selection tool "
+        "val": "Direct selection tool"
       },
       {
         "type": "operator",
@@ -3616,7 +3784,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Direct selection tool "
+        "val": "Direct selection tool"
       },
       {
         "type": "operator",
@@ -3643,11 +3811,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Pen (any Pen Tool)"
+        "val": "Pen (any Pen Tool), Path Selection"
+      },
+      {
+        "type": "operator",
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": " Path Selection / Direct Selection tool "
+        "val": "Direct Selection tool"
       },
       {
         "type": "operator",
@@ -3704,7 +3876,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Magnetic Pen Tool "
+        "val": "Magnetic Pen Tool"
       },
       {
         "type": "operator",
@@ -3712,7 +3884,7 @@
       },
       {
         "type": "symbol",
-        "val": " Double-click"
+        "val": "Double-click"
       }
     ],
     "id": "phw189"
@@ -3723,7 +3895,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Magnetic Pen Tool "
+        "val": "Magnetic Pen Tool"
       },
       {
         "type": "operator",
@@ -3739,7 +3911,7 @@
       },
       {
         "type": "symbol",
-        "val": " Double-click"
+        "val": "Double-click"
       }
     ],
     "id": "phw190"
@@ -3750,7 +3922,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Any Painting Tool "
+        "val": "Any Painting Tool"
       },
       {
         "type": "operator",
@@ -3774,7 +3946,7 @@
       },
       {
         "type": "symbol",
-        "val": " Right-click and drag"
+        "val": "Right-click and drag"
       }
     ],
     "id": "phw191"
@@ -3785,7 +3957,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Any painting / shape tool "
+        "val": "Any painting"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "shape tool"
       },
       {
         "type": "operator",
@@ -3804,7 +3984,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Eyedropper tool "
+        "val": "Eyedropper tool"
       },
       {
         "type": "operator",
@@ -3831,7 +4011,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Eyedropper tool "
+        "val": "Eyedropper tool"
       },
       {
         "type": "operator",
@@ -3850,7 +4030,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Color sampler tool "
+        "val": "Col"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "sampler tool"
       },
       {
         "type": "operator",
@@ -3877,7 +4065,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Any Painting / Editing Tool "
+        "val": "Any Painting"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Editing Tool"
       },
       {
         "type": "operator",
@@ -3885,7 +4081,7 @@
       },
       {
         "type": "symbol",
-        "val": " 0..9"
+        "val": "0..9"
       }
     ],
     "id": "phw196"
@@ -3896,7 +4092,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Any Painting / Editing Tool "
+        "val": "Any Painting"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Editing Tool"
       },
       {
         "type": "operator",
@@ -3939,7 +4143,7 @@
       },
       {
         "type": "symbol",
-        "val": " 1...9"
+        "val": "1...9"
       }
     ],
     "id": "phw198"
@@ -3988,7 +4192,15 @@
       },
       {
         "type": "symbol",
-        "val": "]/-"
+        "val": "]"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
       }
     ],
     "id": "phw201"
@@ -4075,7 +4287,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
     "id": "phw206"
@@ -4086,7 +4306,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Any Painting Tool "
+        "val": "Any Painting Tool"
       },
       {
         "type": "operator",
@@ -4129,7 +4349,15 @@
       },
       {
         "type": "symbol",
-        "val": "]/-"
+        "val": "]"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
       }
     ],
     "id": "phw208"
@@ -4815,7 +5043,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Sponge tool "
+        "val": "Sponge tool"
       },
       {
         "type": "operator",
@@ -4850,7 +5078,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Sponge tool "
+        "val": "Sponge tool"
       },
       {
         "type": "operator",
@@ -4885,7 +5113,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Dodge tool/Burn tool "
+        "val": "Dodge tool"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Burn tool"
       },
       {
         "type": "operator",
@@ -4920,7 +5156,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Dodge tool/Burn tool "
+        "val": "Dodge tool"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Burn tool"
       },
       {
         "type": "operator",
@@ -4955,7 +5199,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Dodge tool/Burn tool "
+        "val": "Dodge tool"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Burn tool"
       },
       {
         "type": "operator",
@@ -5093,19 +5345,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Click 2x"
+        "val": "Click 2x, 3x, 4x,"
+      },
+      {
+        "type": "operator",
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": " 3x"
-      },
-      {
-        "type": "symbol",
-        "val": " 4x"
-      },
-      {
-        "type": "symbol",
-        "val": " / 5x in fast succession"
+        "val": "5x in fast succession"
       }
     ],
     "id": "phw244"
@@ -5200,15 +5448,15 @@
       },
       {
         "type": "symbol",
-        "val": " L"
+        "val": "L,C,"
+      },
+      {
+        "type": "operator",
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": "C"
-      },
-      {
-        "type": "symbol",
-        "val": " /R"
+        "val": "R"
       }
     ],
     "id": "phw249"
@@ -5483,7 +5731,15 @@
       },
       {
         "type": "symbol",
-        "val": "</>"
+        "val": "<"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ">"
       }
     ],
     "id": "phw258"
@@ -5502,7 +5758,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Down/Arrow Up"
+        "val": "Arrow Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
       }
     ],
     "id": "phw259"
@@ -5529,7 +5793,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Down/Arrow Up"
+        "val": "Arrow Down"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Up"
       }
     ],
     "id": "phw260"
@@ -5548,7 +5820,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Left/Arrow Right"
+        "val": "Arrow Left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Right"
       }
     ],
     "id": "phw261"
@@ -5771,7 +6051,15 @@
       },
       {
         "type": "symbol",
-        "val": "Arrow Up/Arrow Down"
+        "val": "Arrow Up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Arrow Down"
       }
     ],
     "id": "phw274"
@@ -5839,7 +6127,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Double-click recorded command"
+        "val": "Double-click rec"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "ded command"
       }
     ],
     "id": "phw278"
@@ -5934,7 +6230,15 @@
       },
       {
         "type": "symbol",
-        "val": "Click the action/Command"
+        "val": "Click the action"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
       }
     ],
     "id": "phw283"
@@ -5953,7 +6257,15 @@
       },
       {
         "type": "symbol",
-        "val": "Click the action/Command"
+        "val": "Click the action"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
       }
     ],
     "id": "phw284"
@@ -5972,7 +6284,23 @@
       },
       {
         "type": "symbol",
-        "val": "3/4/5"
+        "val": "3"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "4"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "5"
       }
     ],
     "id": "phw285"
@@ -6002,7 +6330,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Delete/Backspace"
+        "val": "Delete"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Backspace"
       }
     ],
     "id": "phw287"
@@ -6078,7 +6414,7 @@
       },
       {
         "type": "symbol",
-        "val": " Paste Frames command from the Panel pop?up menu"
+        "val": "Paste Frames command from the Panel pop?up menu"
       }
     ],
     "id": "phw291"
@@ -6127,7 +6463,7 @@
       },
       {
         "type": "symbol",
-        "val": " Right-click "
+        "val": "Right-click"
       },
       {
         "type": "operator",
@@ -6135,7 +6471,15 @@
       },
       {
         "type": "symbol",
-        "val": " drag left / right"
+        "val": "drag left"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "right"
       }
     ],
     "id": "phw294"
@@ -6154,7 +6498,7 @@
       },
       {
         "type": "symbol",
-        "val": " Right-click "
+        "val": "Right-click"
       },
       {
         "type": "operator",
@@ -6162,7 +6506,15 @@
       },
       {
         "type": "symbol",
-        "val": " drag up / down"
+        "val": "drag up"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "down"
       }
     ],
     "id": "phw295"
@@ -6173,11 +6525,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": ""
+        "val": ","
+      },
+      {
+        "type": "operator",
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": "/."
+        "val": "."
       }
     ],
     "id": "phw296"
@@ -6196,11 +6552,15 @@
       },
       {
         "type": "symbol",
-        "val": ""
+        "val": ","
+      },
+      {
+        "type": "operator",
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": "/."
+        "val": "."
       }
     ],
     "id": "phw297"
@@ -6257,7 +6617,23 @@
       },
       {
         "type": "symbol",
-        "val": "3/4/5"
+        "val": "3"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "4"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "5"
       }
     ],
     "id": "phw300"
@@ -6295,11 +6671,15 @@
       },
       {
         "type": "symbol",
-        "val": "Click channel thumbnail"
+        "val": "Click channel thumbnail,"
+      },
+      {
+        "type": "operator",
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": " or Alt"
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -6307,7 +6687,23 @@
       },
       {
         "type": "symbol",
-        "val": "3/4/5"
+        "val": "3"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "4"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "5"
       }
     ],
     "id": "phw302"
@@ -6453,7 +6849,15 @@
       },
       {
         "type": "symbol",
-        "val": "Click color channel"
+        "val": "Click col"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "channel"
       }
     ],
     "id": "phw308"
@@ -6483,7 +6887,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Double-click alpha / spot channel thumbnail"
+        "val": "Double-click alpha"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "spot channel thumbnail"
       }
     ],
     "id": "phw310"
@@ -6567,7 +6979,15 @@
       },
       {
         "type": "symbol",
-        "val": "</>"
+        "val": "<"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ">"
       }
     ],
     "id": "phw314"
@@ -6594,7 +7014,15 @@
       },
       {
         "type": "symbol",
-        "val": "[/]"
+        "val": "["
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "]"
       }
     ],
     "id": "phw315"
@@ -6613,7 +7041,23 @@
       },
       {
         "type": "symbol",
-        "val": "Click color in color bar"
+        "val": "Click col"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "in col"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "bar"
       }
     ],
     "id": "phw316"
@@ -6624,7 +7068,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Right-click color bar"
+        "val": "Right-click col"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "bar"
       }
     ],
     "id": "phw317"
@@ -6643,7 +7095,15 @@
       },
       {
         "type": "symbol",
-        "val": "Click color bar"
+        "val": "Click col"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "bar"
       }
     ],
     "id": "phw318"
@@ -6662,7 +7122,7 @@
       },
       {
         "type": "symbol",
-        "val": " New Snapshot"
+        "val": "New Snapshot"
       }
     ],
     "id": "phw319"
@@ -6765,7 +7225,23 @@
       },
       {
         "type": "symbol",
-        "val": " Clear History (in History panel pop?up menu)"
+        "val": "Clear Hist"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "y (in Hist"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "y panel pop?up menu)"
       }
     ],
     "id": "phw324"
@@ -7095,11 +7571,7 @@
       },
       {
         "type": "symbol",
-        "val": ""
-      },
-      {
-        "type": "symbol",
-        "val": ""
+        "val": ","
       }
     ],
     "id": "phw338"
@@ -7126,7 +7598,15 @@
       },
       {
         "type": "symbol",
-        "val": "[/]"
+        "val": "["
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "]"
       }
     ],
     "id": "phw339"
@@ -7145,7 +7625,15 @@
       },
       {
         "type": "symbol",
-        "val": "[/]"
+        "val": "["
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "]"
       }
     ],
     "id": "phw340"
@@ -7164,7 +7652,15 @@
       },
       {
         "type": "symbol",
-        "val": "[/]"
+        "val": "["
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "]"
       }
     ],
     "id": "phw341"
@@ -7213,8 +7709,12 @@
         "val": "Highlight layers you want to merge"
       },
       {
+        "type": "operator",
+        "val": "then"
+      },
+      {
         "type": "symbol",
-        "val": " then Control "
+        "val": "Control"
       },
       {
         "type": "operator",
@@ -7249,7 +7749,15 @@
       },
       {
         "type": "symbol",
-        "val": "[/]"
+        "val": "["
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "]"
       }
     ],
     "id": "phw344"
@@ -7268,7 +7776,7 @@
       },
       {
         "type": "symbol",
-        "val": " Merge Down command from the Panel pop?up menu"
+        "val": "Merge Down command from the Panel pop?up menu"
       }
     ],
     "id": "phw345"
@@ -7287,7 +7795,7 @@
       },
       {
         "type": "symbol",
-        "val": " Merge Visible command from the Panel pop?up menu"
+        "val": "Merge Visible command from the Panel pop?up menu"
       }
     ],
     "id": "phw346"
@@ -7328,7 +7836,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
     "id": "phw349"
@@ -7339,7 +7855,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Double-click layer effect/style"
+        "val": "Double-click layer effect"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "style"
       }
     ],
     "id": "phw350"
@@ -7350,7 +7874,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Alt-Double-click layer effect/style"
+        "val": "Alt-Double-click layer effect"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "style"
       }
     ],
     "id": "phw351"
@@ -7380,7 +7912,15 @@
       },
       {
         "type": "symbol",
-        "val": "Click vector mask thumbnail"
+        "val": "Click vect"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "mask thumbnail"
       }
     ],
     "id": "phw353"
@@ -7655,11 +8195,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Right-click layer group and choose Group Properties"
+        "val": "Right-click layer group and choose Group Properties,"
+      },
+      {
+        "type": "operator",
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": " / Double-click group"
+        "val": "Double-click group"
       }
     ],
     "id": "phw370"

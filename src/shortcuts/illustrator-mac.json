@@ -222,7 +222,15 @@
       },
       {
         "type": "symbol",
-        "val": "Up Arrow/down arrow"
+        "val": "Up Arrow"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "down arrow"
       }
     ],
     "id": "ilm11"
@@ -241,7 +249,15 @@
       },
       {
         "type": "symbol",
-        "val": "Right Arrow/Left Arrow"
+        "val": "Right Arrow"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Left Arrow"
       }
     ],
     "id": "ilm12"
@@ -252,7 +268,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Drag then Command"
+        "val": "Drag"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
       },
       {
         "type": "operator",
@@ -271,7 +295,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Drag then Option"
+        "val": "Drag"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "Option"
       },
       {
         "type": "operator",
@@ -342,7 +374,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Select Path then Command"
+        "val": "Select Path"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "Command"
       },
       {
         "type": "operator",
@@ -361,7 +401,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Select Path then Shift"
+        "val": "Select Path"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -488,7 +536,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "5 then Click"
+        "val": "5"
+      },
+      {
+        "type": "operator",
+        "val": "then"
+      },
+      {
+        "type": "symbol",
+        "val": "Click"
       },
       {
         "type": "operator",
@@ -790,7 +846,15 @@
       },
       {
         "type": "symbol",
-        "val": "/-"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
       }
     ],
     "id": "ilm43"
@@ -1637,7 +1701,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
     "id": "ilm96"
@@ -1656,7 +1728,15 @@
       },
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
     "id": "ilm97"
@@ -1683,7 +1763,15 @@
       },
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
     "id": "ilm98"
@@ -1694,7 +1782,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "]/["
+        "val": "]"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "["
       }
     ],
     "id": "ilm99"
@@ -1705,7 +1801,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "1/0"
+        "val": "1"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "0"
       }
     ],
     "id": "ilm100"

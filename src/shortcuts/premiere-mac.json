@@ -5,7 +5,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Option"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -13,7 +13,7 @@
       },
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -24,7 +24,7 @@
         "val": "N"
       }
     ],
-    "id": "prem0"
+    "id": "prm0"
   },
   {
     "description": "Save Project",
@@ -32,7 +32,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -43,7 +43,7 @@
         "val": "S"
       }
     ],
-    "id": "prem1"
+    "id": "prm1"
   },
   {
     "description": "Save As",
@@ -51,7 +51,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Shift"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -59,7 +59,7 @@
       },
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -70,7 +70,7 @@
         "val": "S"
       }
     ],
-    "id": "prem2"
+    "id": "prm2"
   },
   {
     "description": "Save Copy",
@@ -78,7 +78,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Option"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -86,7 +86,7 @@
       },
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "alt"
       },
       {
         "type": "operator",
@@ -97,7 +97,7 @@
         "val": "S"
       }
     ],
-    "id": "prem3"
+    "id": "prm3"
   },
   {
     "description": "Close",
@@ -105,7 +105,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -116,34 +116,7 @@
         "val": "W"
       }
     ],
-    "id": "prem4"
-  },
-  {
-    "description": "Close Project",
-    "category": "General Shortcuts",
-    "shortcut": [
-      {
-        "type": "symbol",
-        "val": "Shift"
-      },
-      {
-        "type": "operator",
-        "val": "+"
-      },
-      {
-        "type": "symbol",
-        "val": "Command"
-      },
-      {
-        "type": "operator",
-        "val": "+"
-      },
-      {
-        "type": "symbol",
-        "val": "W"
-      }
-    ],
-    "id": "prem5"
+    "id": "prm4"
   },
   {
     "description": "Title",
@@ -151,7 +124,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -162,7 +135,7 @@
         "val": "T"
       }
     ],
-    "id": "prem6"
+    "id": "prm5"
   },
   {
     "description": "Open Existing Project",
@@ -170,7 +143,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -181,7 +154,7 @@
         "val": "O"
       }
     ],
-    "id": "prem7"
+    "id": "prm6"
   },
   {
     "description": "Open in Adobe bridge",
@@ -189,7 +162,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Option"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -197,7 +170,7 @@
       },
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -208,7 +181,7 @@
         "val": "O"
       }
     ],
-    "id": "prem8"
+    "id": "prm7"
   },
   {
     "description": "Sequence",
@@ -216,7 +189,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -227,7 +200,7 @@
         "val": "N"
       }
     ],
-    "id": "prem9"
+    "id": "prm8"
   },
   {
     "description": "Exit",
@@ -235,7 +208,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -246,7 +219,7 @@
         "val": "Q"
       }
     ],
-    "id": "prem10"
+    "id": "prm9"
   },
   {
     "description": "Import",
@@ -254,7 +227,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -265,7 +238,7 @@
         "val": "I"
       }
     ],
-    "id": "prem11"
+    "id": "prm10"
   },
   {
     "description": "Import from media browser",
@@ -273,7 +246,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Option"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -281,7 +254,7 @@
       },
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -292,7 +265,7 @@
         "val": "I"
       }
     ],
-    "id": "prem12"
+    "id": "prm11"
   },
   {
     "description": "Media",
@@ -300,7 +273,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -311,7 +284,7 @@
         "val": "M"
       }
     ],
-    "id": "prem13"
+    "id": "prm12"
   },
   {
     "description": "Find",
@@ -319,7 +292,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -330,7 +303,7 @@
         "val": "F"
       }
     ],
-    "id": "prem14"
+    "id": "prm13"
   },
   {
     "description": "Selection",
@@ -338,7 +311,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Shift"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -346,7 +319,7 @@
       },
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -357,7 +330,7 @@
         "val": "H"
       }
     ],
-    "id": "prem15"
+    "id": "prm14"
   },
   {
     "description": "Copy",
@@ -365,7 +338,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -376,7 +349,7 @@
         "val": "C"
       }
     ],
-    "id": "prem16"
+    "id": "prm15"
   },
   {
     "description": "Cut",
@@ -384,7 +357,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -395,7 +368,7 @@
         "val": "X"
       }
     ],
-    "id": "prem17"
+    "id": "prm16"
   },
   {
     "description": "Paste",
@@ -403,7 +376,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -414,7 +387,7 @@
         "val": "V"
       }
     ],
-    "id": "prem18"
+    "id": "prm17"
   },
   {
     "description": "Undo",
@@ -422,7 +395,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -433,7 +406,7 @@
         "val": "Z"
       }
     ],
-    "id": "prem19"
+    "id": "prm18"
   },
   {
     "description": "Redo",
@@ -441,7 +414,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -449,50 +422,20 @@
       },
       {
         "type": "symbol",
-        "val": "Y/Shift"
+        "val": "Y"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
         "val": "+"
       },
-      {
-        "type": "symbol",
-        "val": "Command"
-      },
-      {
-        "type": "operator",
-        "val": "+"
-      },
-      {
-        "type": "symbol",
-        "val": "Z"
-      }
-    ],
-    "id": "prem20"
-  },
-  {
-    "description": "Select All",
-    "category": "General Shortcuts",
-    "shortcut": [
-      {
-        "type": "symbol",
-        "val": "Command"
-      },
-      {
-        "type": "operator",
-        "val": "+"
-      },
-      {
-        "type": "symbol",
-        "val": "A"
-      }
-    ],
-    "id": "prem21"
-  },
-  {
-    "description": "Deselect All",
-    "category": "General Shortcuts",
-    "shortcut": [
       {
         "type": "symbol",
         "val": "Shift"
@@ -503,7 +446,18 @@
       },
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Z"
+      }
+    ],
+    "id": "prm19"
+  },
+  {
+    "description": "Select All",
+    "category": "General Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -514,7 +468,34 @@
         "val": "A"
       }
     ],
-    "id": "prem22"
+    "id": "prm20"
+  },
+  {
+    "description": "Deselect All",
+    "category": "General Shortcuts",
+    "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "A"
+      }
+    ],
+    "id": "prm21"
   },
   {
     "description": "Edit",
@@ -522,7 +503,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -533,12 +514,20 @@
         "val": "E"
       }
     ],
-    "id": "prem23"
+    "id": "prm22"
   },
   {
     "description": "Paste Insert",
     "category": "General Shortcuts",
     "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
       {
         "type": "symbol",
         "val": "Shift"
@@ -549,18 +538,10 @@
       },
       {
         "type": "symbol",
-        "val": "Command"
-      },
-      {
-        "type": "operator",
-        "val": "+"
-      },
-      {
-        "type": "symbol",
         "val": "V"
       }
     ],
-    "id": "prem24"
+    "id": "prm23"
   },
   {
     "description": "Paste Attributes",
@@ -568,7 +549,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Option"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -576,7 +557,7 @@
       },
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -587,7 +568,7 @@
         "val": "V"
       }
     ],
-    "id": "prem25"
+    "id": "prm24"
   },
   {
     "description": "Clear",
@@ -595,10 +576,10 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Forward Del"
+        "val": "Del"
       }
     ],
-    "id": "prem26"
+    "id": "prm25"
   },
   {
     "description": "Delete forever",
@@ -614,15 +595,23 @@
       },
       {
         "type": "symbol",
-        "val": "Forward Del"
+        "val": "Del"
       }
     ],
-    "id": "prem27"
+    "id": "prm26"
   },
   {
     "description": "Duplicate",
     "category": "General Shortcuts",
     "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
       {
         "type": "symbol",
         "val": "Shift"
@@ -633,37 +622,18 @@
       },
       {
         "type": "symbol",
-        "val": "Command"
+        "val": ""
       },
       {
         "type": "operator",
-        "val": "+"
+        "val": "or"
       },
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
       }
     ],
-    "id": "prem28"
-  },
-  {
-    "description": "Bin",
-    "category": "General Shortcuts",
-    "shortcut": [
-      {
-        "type": "symbol",
-        "val": "Command"
-      },
-      {
-        "type": "operator",
-        "val": "+"
-      },
-      {
-        "type": "symbol",
-        "val": "/"
-      }
-    ],
-    "id": "prem29"
+    "id": "prm27"
   },
   {
     "description": "Link",
@@ -671,7 +641,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -682,7 +652,7 @@
         "val": "L"
       }
     ],
-    "id": "prem30"
+    "id": "prm28"
   },
   {
     "description": "Group",
@@ -690,7 +660,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -701,12 +671,20 @@
         "val": "G"
       }
     ],
-    "id": "prem31"
+    "id": "prm29"
   },
   {
     "description": "Ungroup",
     "category": "Clipping Shortcuts",
     "shortcut": [
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
       {
         "type": "symbol",
         "val": "Shift"
@@ -717,18 +695,10 @@
       },
       {
         "type": "symbol",
-        "val": "Command"
-      },
-      {
-        "type": "operator",
-        "val": "+"
-      },
-      {
-        "type": "symbol",
         "val": "G"
       }
     ],
-    "id": "prem32"
+    "id": "prm30"
   },
   {
     "description": "Speed",
@@ -736,7 +706,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -747,7 +717,7 @@
         "val": "R"
       }
     ],
-    "id": "prem33"
+    "id": "prm31"
   },
   {
     "description": "Capture",
@@ -758,7 +728,7 @@
         "val": "F5"
       }
     ],
-    "id": "prem34"
+    "id": "prm32"
   },
   {
     "description": "Insert",
@@ -766,14 +736,10 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": ""
-      },
-      {
-        "type": "symbol",
-        "val": ""
+        "val": ","
       }
     ],
-    "id": "prem35"
+    "id": "prm33"
   },
   {
     "description": "Overwrite",
@@ -784,7 +750,7 @@
         "val": "."
       }
     ],
-    "id": "prem36"
+    "id": "prm34"
   },
   {
     "description": "Add edit",
@@ -792,7 +758,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -803,7 +769,7 @@
         "val": "K"
       }
     ],
-    "id": "prem37"
+    "id": "prm35"
   },
   {
     "description": "Add edit to track",
@@ -811,7 +777,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -830,7 +796,7 @@
         "val": "K"
       }
     ],
-    "id": "prem38"
+    "id": "prm36"
   },
   {
     "description": "Video transition",
@@ -838,7 +804,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -849,7 +815,7 @@
         "val": "D"
       }
     ],
-    "id": "prem39"
+    "id": "prm37"
   },
   {
     "description": "Audio transition",
@@ -857,7 +823,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -876,7 +842,7 @@
         "val": "D"
       }
     ],
-    "id": "prem40"
+    "id": "prm38"
   },
   {
     "description": "Reverse match frame",
@@ -895,7 +861,7 @@
         "val": "R"
       }
     ],
-    "id": "prem41"
+    "id": "prm39"
   },
   {
     "description": "Zoom in/Zoom out",
@@ -903,10 +869,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "=/-"
+        "val": "="
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "-"
       }
     ],
-    "id": "prem42"
+    "id": "prm40"
   },
   {
     "description": "Snap",
@@ -917,7 +891,7 @@
         "val": "S"
       }
     ],
-    "id": "prem43"
+    "id": "prm41"
   },
   {
     "description": "Go to selected clip start",
@@ -936,7 +910,7 @@
         "val": "Home"
       }
     ],
-    "id": "prem44"
+    "id": "prm42"
   },
   {
     "description": "Go to selected clip end",
@@ -955,7 +929,7 @@
         "val": "End"
       }
     ],
-    "id": "prem45"
+    "id": "prm43"
   },
   {
     "description": "Go to sequence clip start",
@@ -966,7 +940,7 @@
         "val": "Home"
       }
     ],
-    "id": "prem46"
+    "id": "prm44"
   },
   {
     "description": "Go to sequence clip end",
@@ -977,18 +951,18 @@
         "val": "End"
       }
     ],
-    "id": "prem47"
+    "id": "prm45"
   },
   {
-    "description": "Increse/Decrese volume",
+    "description": "Increse volume",
     "category": "Clipping Shortcuts",
     "shortcut": [
       {
         "type": "symbol",
-        "val": "]/["
+        "val": "]"
       }
     ],
-    "id": "prem48"
+    "id": "prm46"
   },
   {
     "description": "Minimize all tracks",
@@ -1007,110 +981,7 @@
         "val": "-"
       }
     ],
-    "id": "prem49"
-  },
-  {
-    "description": "Next in Sequence",
-    "category": "Clipping Shortcuts",
-    "shortcut": [
-      {
-        "type": "symbol",
-        "val": "Shift"
-      },
-      {
-        "type": "operator",
-        "val": "+"
-      },
-      {
-        "type": "symbol",
-        "val": ""
-      },
-      {
-        "type": "operator",
-        "val": "+"
-      },
-      {
-        "type": "symbol",
-        "val": ""
-      }
-    ],
-    "id": "prem50"
-  },
-  {
-    "description": "Previous in Sequence",
-    "category": "Clipping Shortcuts",
-    "shortcut": [
-      {
-        "type": "symbol",
-        "val": "Option"
-      },
-      {
-        "type": "operator",
-        "val": "+"
-      },
-      {
-        "type": "symbol",
-        "val": ""
-      },
-      {
-        "type": "operator",
-        "val": "+"
-      },
-      {
-        "type": "symbol",
-        "val": ""
-      }
-    ],
-    "id": "prem51"
-  },
-  {
-    "description": "Extract",
-    "category": "Clipping Shortcuts",
-    "shortcut": [
-      {
-        "type": "symbol",
-        "val": "'"
-      }
-    ],
-    "id": "prem52"
-  },
-  {
-    "description": "Make Subclip",
-    "category": "Clipping Shortcuts",
-    "shortcut": [
-      {
-        "type": "symbol",
-        "val": "Command"
-      },
-      {
-        "type": "operator",
-        "val": "+"
-      },
-      {
-        "type": "symbol",
-        "val": "U"
-      }
-    ],
-    "id": "prem53"
-  },
-  {
-    "description": "Audio Channels",
-    "category": "Clipping Shortcuts",
-    "shortcut": [
-      {
-        "type": "symbol",
-        "val": "Shift"
-      },
-      {
-        "type": "operator",
-        "val": "+"
-      },
-      {
-        "type": "symbol",
-        "val": "G"
-      }
-    ],
-    "id": "prem54"
+    "id": "prm47"
   },
   {
     "description": "Mark in/Mark out",
@@ -1118,10 +989,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "I/O"
+        "val": "I"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "O"
       }
     ],
-    "id": "prem55"
+    "id": "prm48"
   },
   {
     "description": "Mark clip",
@@ -1132,7 +1011,7 @@
         "val": "X"
       }
     ],
-    "id": "prem56"
+    "id": "prm49"
   },
   {
     "description": "Mark selection",
@@ -1140,10 +1019,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
-    "id": "prem57"
+    "id": "prm50"
   },
   {
     "description": "Go to in",
@@ -1162,7 +1049,7 @@
         "val": "I"
       }
     ],
-    "id": "prem58"
+    "id": "prm51"
   },
   {
     "description": "Go to out",
@@ -1181,7 +1068,7 @@
         "val": "O"
       }
     ],
-    "id": "prem59"
+    "id": "prm52"
   },
   {
     "description": "Clear in/Clear out",
@@ -1189,7 +1076,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Option"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1197,7 +1084,31 @@
       },
       {
         "type": "symbol",
-        "val": "I/Option"
+        "val": "Shift"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "I"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -1208,7 +1119,7 @@
         "val": "O"
       }
     ],
-    "id": "prem60"
+    "id": "prm53"
   },
   {
     "description": "Clear in  and out",
@@ -1216,7 +1127,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Option"
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Shift"
       },
       {
         "type": "operator",
@@ -1227,7 +1146,7 @@
         "val": "X"
       }
     ],
-    "id": "prem61"
+    "id": "prm54"
   },
   {
     "description": "Add marker",
@@ -1238,7 +1157,7 @@
         "val": "M"
       }
     ],
-    "id": "prem62"
+    "id": "prm55"
   },
   {
     "description": "Previous marker",
@@ -1246,7 +1165,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1265,7 +1184,7 @@
         "val": "M"
       }
     ],
-    "id": "prem63"
+    "id": "prm56"
   },
   {
     "description": "Next marker",
@@ -1284,7 +1203,7 @@
         "val": "M"
       }
     ],
-    "id": "prem64"
+    "id": "prm57"
   },
   {
     "description": "Clear current marker",
@@ -1292,7 +1211,15 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Option"
+        "val": "Ctrl"
+      },
+      {
+        "type": "operator",
+        "val": "+"
+      },
+      {
+        "type": "symbol",
+        "val": "Alt"
       },
       {
         "type": "operator",
@@ -1303,7 +1230,7 @@
         "val": "M"
       }
     ],
-    "id": "prem65"
+    "id": "prm58"
   },
   {
     "description": "Left align",
@@ -1311,7 +1238,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1330,7 +1257,7 @@
         "val": "L"
       }
     ],
-    "id": "prem66"
+    "id": "prm59"
   },
   {
     "description": "Center align",
@@ -1338,7 +1265,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1357,7 +1284,7 @@
         "val": "C"
       }
     ],
-    "id": "prem67"
+    "id": "prm60"
   },
   {
     "description": "Right align",
@@ -1365,7 +1292,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1384,7 +1311,7 @@
         "val": "R"
       }
     ],
-    "id": "prem68"
+    "id": "prm61"
   },
   {
     "description": "Stopping tab",
@@ -1392,7 +1319,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1411,7 +1338,7 @@
         "val": "T"
       }
     ],
-    "id": "prem69"
+    "id": "prm62"
   },
   {
     "description": "Templates",
@@ -1419,7 +1346,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1430,7 +1357,7 @@
         "val": "J"
       }
     ],
-    "id": "prem70"
+    "id": "prm63"
   },
   {
     "description": "Project",
@@ -1449,7 +1376,7 @@
         "val": "1"
       }
     ],
-    "id": "prem71"
+    "id": "prm64"
   },
   {
     "description": "Source monitor",
@@ -1468,7 +1395,7 @@
         "val": "2"
       }
     ],
-    "id": "prem72"
+    "id": "prm65"
   },
   {
     "description": "Timeline",
@@ -1487,7 +1414,7 @@
         "val": "3"
       }
     ],
-    "id": "prem73"
+    "id": "prm66"
   },
   {
     "description": "Program monitor",
@@ -1506,7 +1433,7 @@
         "val": "4"
       }
     ],
-    "id": "prem74"
+    "id": "prm67"
   },
   {
     "description": "Effect control",
@@ -1525,7 +1452,7 @@
         "val": "5"
       }
     ],
-    "id": "prem75"
+    "id": "prm68"
   },
   {
     "description": "Audio track mixer",
@@ -1544,7 +1471,7 @@
         "val": "6"
       }
     ],
-    "id": "prem76"
+    "id": "prm69"
   },
   {
     "description": "Effects",
@@ -1563,7 +1490,7 @@
         "val": "7"
       }
     ],
-    "id": "prem77"
+    "id": "prm70"
   },
   {
     "description": "Media browser",
@@ -1582,7 +1509,7 @@
         "val": "8"
       }
     ],
-    "id": "prem78"
+    "id": "prm71"
   },
   {
     "description": "Audio clip mixer",
@@ -1601,7 +1528,7 @@
         "val": "9"
       }
     ],
-    "id": "prem79"
+    "id": "prm72"
   },
   {
     "description": "Cut to camera",
@@ -1609,7 +1536,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Commandl"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1620,7 +1547,7 @@
         "val": "1..9"
       }
     ],
-    "id": "prem80"
+    "id": "prm73"
   },
   {
     "description": "Clear poster frame",
@@ -1628,7 +1555,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1647,7 +1574,7 @@
         "val": "P"
       }
     ],
-    "id": "prem81"
+    "id": "prm74"
   },
   {
     "description": "Export frame",
@@ -1655,7 +1582,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Command"
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -1674,10 +1601,10 @@
         "val": "E"
       }
     ],
-    "id": "prem82"
+    "id": "prm75"
   },
   {
-    "description": "Select Camera <Specific number>",
+    "description": "Select Camera",
     "category": "Window Shortcuts",
     "shortcut": [
       {
@@ -1685,34 +1612,7 @@
         "val": "1..9"
       }
     ],
-    "id": "prem83"
-  },
-  {
-    "description": "Replace Current Workplace",
-    "category": "Window Shortcuts",
-    "shortcut": [
-      {
-        "type": "symbol",
-        "val": "Option"
-      },
-      {
-        "type": "operator",
-        "val": "+"
-      },
-      {
-        "type": "symbol",
-        "val": "Shift"
-      },
-      {
-        "type": "operator",
-        "val": "+"
-      },
-      {
-        "type": "symbol",
-        "val": "0"
-      }
-    ],
-    "id": "prem84"
+    "id": "prm76"
   },
   {
     "description": "Record video",
@@ -1723,7 +1623,7 @@
         "val": "V"
       }
     ],
-    "id": "prem85"
+    "id": "prm77"
   },
   {
     "description": "Record Audio",
@@ -1734,7 +1634,7 @@
         "val": "A"
       }
     ],
-    "id": "prem86"
+    "id": "prm78"
   },
   {
     "description": "Eject",
@@ -1745,7 +1645,7 @@
         "val": "E"
       }
     ],
-    "id": "prem87"
+    "id": "prm79"
   },
   {
     "description": "Fast forward",
@@ -1756,7 +1656,7 @@
         "val": "F"
       }
     ],
-    "id": "prem88"
+    "id": "prm80"
   },
   {
     "description": "Go to in point",
@@ -1767,7 +1667,7 @@
         "val": "Q"
       }
     ],
-    "id": "prem89"
+    "id": "prm81"
   },
   {
     "description": "Go to out point",
@@ -1778,7 +1678,7 @@
         "val": "W"
       }
     ],
-    "id": "prem90"
+    "id": "prm82"
   },
   {
     "description": "Rewind",
@@ -1789,7 +1689,7 @@
         "val": "R"
       }
     ],
-    "id": "prem91"
+    "id": "prm83"
   },
   {
     "description": "Record",
@@ -1800,7 +1700,7 @@
         "val": "G"
       }
     ],
-    "id": "prem92"
+    "id": "prm84"
   },
   {
     "description": "Stop",
@@ -1811,7 +1711,7 @@
         "val": "S"
       }
     ],
-    "id": "prem93"
+    "id": "prm85"
   },
   {
     "description": "Step back",
@@ -1822,7 +1722,7 @@
         "val": "Left Arrow"
       }
     ],
-    "id": "prem94"
+    "id": "prm86"
   },
   {
     "description": "Step forward",
@@ -1833,7 +1733,7 @@
         "val": "Right arrow"
       }
     ],
-    "id": "prem95"
+    "id": "prm87"
   },
   {
     "description": "Remove effects/delete item",
@@ -1841,10 +1741,10 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Del"
+        "val": "Bkspace"
       }
     ],
-    "id": "prem96"
+    "id": "prm88"
   },
   {
     "description": "Play",
@@ -1855,7 +1755,7 @@
         "val": "Spacebar"
       }
     ],
-    "id": "prem97"
+    "id": "prm89"
   },
   {
     "description": "Record on/off",
@@ -1866,7 +1766,7 @@
         "val": "0"
       }
     ],
-    "id": "prem98"
+    "id": "prm90"
   },
   {
     "description": "Next/Previous",
@@ -1874,43 +1774,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Down arrow/Up arrow"
-      }
-    ],
-    "id": "prem99"
-  },
-  {
-    "description": "Shuttle Stop",
-    "category": "Panel Shortcuts",
-    "shortcut": [
+        "val": "Down arrow"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
       {
         "type": "symbol",
-        "val": "K"
+        "val": "Up arrow"
       }
     ],
-    "id": "prem100"
-  },
-  {
-    "description": "Shuttle Right",
-    "category": "Panel Shortcuts",
-    "shortcut": [
-      {
-        "type": "symbol",
-        "val": "J"
-      }
-    ],
-    "id": "prem101"
-  },
-  {
-    "description": "Shuttle Left",
-    "category": "Panel Shortcuts",
-    "shortcut": [
-      {
-        "type": "symbol",
-        "val": "L"
-      }
-    ],
-    "id": "prem102"
+    "id": "prm91"
   },
   {
     "description": "Track select tool",
@@ -1921,7 +1796,7 @@
         "val": "A"
       }
     ],
-    "id": "prem103"
+    "id": "prm92"
   },
   {
     "description": "Ripple edit tool",
@@ -1932,7 +1807,7 @@
         "val": "B"
       }
     ],
-    "id": "prem104"
+    "id": "prm93"
   },
   {
     "description": "Razor tool",
@@ -1943,7 +1818,7 @@
         "val": "C"
       }
     ],
-    "id": "prem105"
+    "id": "prm94"
   },
   {
     "description": "Hand tool",
@@ -1954,7 +1829,7 @@
         "val": "H"
       }
     ],
-    "id": "prem106"
+    "id": "prm95"
   },
   {
     "description": "Rolling edit tool",
@@ -1965,7 +1840,7 @@
         "val": "N"
       }
     ],
-    "id": "prem107"
+    "id": "prm96"
   },
   {
     "description": "Pen tool",
@@ -1976,7 +1851,7 @@
         "val": "P"
       }
     ],
-    "id": "prem108"
+    "id": "prm97"
   },
   {
     "description": "Slide tool",
@@ -1987,7 +1862,7 @@
         "val": "U"
       }
     ],
-    "id": "prem109"
+    "id": "prm98"
   },
   {
     "description": "Selection tool",
@@ -1998,7 +1873,7 @@
         "val": "V"
       }
     ],
-    "id": "prem110"
+    "id": "prm99"
   },
   {
     "description": "Slip tool",
@@ -2009,7 +1884,7 @@
         "val": "Y"
       }
     ],
-    "id": "prem111"
+    "id": "prm100"
   },
   {
     "description": "Zoom tool",
@@ -2020,6 +1895,6 @@
         "val": "Z"
       }
     ],
-    "id": "prem112"
+    "id": "prm101"
   }
 ]

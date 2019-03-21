@@ -8,7 +8,7 @@
         "val": "a"
       }
     ],
-    "id": "dr0"
+    "id": "dro0"
   },
   {
     "description": "Uncheck all files",
@@ -19,7 +19,7 @@
         "val": "n"
       }
     ],
-    "id": "dr1"
+    "id": "dro1"
   },
   {
     "description": "Copy checked files",
@@ -30,7 +30,7 @@
         "val": "c"
       }
     ],
-    "id": "dr2"
+    "id": "dro2"
   },
   {
     "description": "Move checked files",
@@ -41,7 +41,7 @@
         "val": "m"
       }
     ],
-    "id": "dr3"
+    "id": "dro3"
   },
   {
     "description": "Up a directory",
@@ -52,7 +52,7 @@
         "val": "u"
       }
     ],
-    "id": "dr4"
+    "id": "dro4"
   },
   {
     "description": "Check deleted files",
@@ -63,7 +63,7 @@
         "val": "p"
       }
     ],
-    "id": "dr5"
+    "id": "dro5"
   },
   {
     "description": "Invert checked files",
@@ -74,7 +74,7 @@
         "val": "i"
       }
     ],
-    "id": "dr6"
+    "id": "dro6"
   },
   {
     "description": "Search",
@@ -82,10 +82,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "/"
+        "val": ""
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": ""
       }
     ],
-    "id": "dr7"
+    "id": "dro7"
   },
   {
     "description": "Show/hide deleted files",
@@ -96,7 +104,7 @@
         "val": "d"
       }
     ],
-    "id": "dr8"
+    "id": "dro8"
   },
   {
     "description": "Hide Popup/ back tally",
@@ -107,7 +115,7 @@
         "val": "esc"
       }
     ],
-    "id": "dr9"
+    "id": "dro9"
   },
   {
     "description": "Show keyboard shortcuts",
@@ -118,7 +126,7 @@
         "val": "?"
       }
     ],
-    "id": "dr10"
+    "id": "dro10"
   },
   {
     "description": "Highlight previous / highlight next file",
@@ -126,10 +134,18 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "k / j"
+        "val": "k"
+      },
+      {
+        "type": "operator",
+        "val": "or"
+      },
+      {
+        "type": "symbol",
+        "val": "j"
       }
     ],
-    "id": "dr11"
+    "id": "dro11"
   },
   {
     "description": "Check highlighted file",
@@ -140,7 +156,7 @@
         "val": "space"
       }
     ],
-    "id": "dr12"
+    "id": "dro12"
   },
   {
     "description": "View highlighted file",
@@ -151,7 +167,7 @@
         "val": "o"
       }
     ],
-    "id": "dr13"
+    "id": "dro13"
   },
   {
     "description": "Save the screenshot to your Dropbox.",
@@ -162,7 +178,7 @@
         "val": "PrtSc"
       }
     ],
-    "id": "dr14"
+    "id": "dro14"
   },
   {
     "description": "Save the screenshot to your Dropbox and copy a link to the Clipboard.",
@@ -170,7 +186,7 @@
     "shortcut": [
       {
         "type": "symbol",
-        "val": "Ctrl "
+        "val": "Ctrl"
       },
       {
         "type": "operator",
@@ -178,9 +194,9 @@
       },
       {
         "type": "symbol",
-        "val": " PrtSc"
+        "val": "PrtSc"
       }
     ],
-    "id": "dr15"
+    "id": "dro15"
   }
 ]
