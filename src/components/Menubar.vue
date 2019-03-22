@@ -178,22 +178,18 @@ export default {
         : "menu__options";
     },
     viewPlatform: function(platform) {
-      console.log(platform);
       this.$store.dispatch("save", { key: "platform", data: platform });
       let lastThree = this.software.slice(-3);
       if (lastThree === "win" || lastThree === "mac") {
         let name = this.software.slice(0, -3);
-        console.log("name", name);
         let newBatch = list.filter(x => {
           return x.name.replace(/\s/g, "").toLowerCase() === name;
         });
         let check = newBatch.length;
-        console.log(newBatch, check);
         if (check > 1) {
           let newTab = newBatch.filter(
             x => x.var.toLowerCase() !== this.software
           )[0];
-          console.log(newTab);
           this.$store.dispatch("save", { key: "software", data: newTab.var });
         }
       }

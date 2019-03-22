@@ -42,7 +42,6 @@ import Menubar from "@/components/Menubar.vue";
 
 // New Shortcuts
 import { shortcuts, softwares } from "@/config/content.js";
-console.log(shortcuts);
 
 // Dependencies
 import axios from "axios";

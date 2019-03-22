@@ -4,7 +4,6 @@ import Vuex from "vuex";
 Vue.use(Vuex);
 
 function saveStorage(key, val) {
-  console.log("store");
   let storage = window.localStorage;
   let toStore = JSON.stringify(val);
   storage.setItem(key, toStore);

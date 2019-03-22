@@ -39,12 +39,22 @@
 .pr-10 {
   padding-right: 10px;
 }
+
+.text {
+  color: #a0a0a0; //Four
+  font-size: 14px;
+}
 </style>
 
 
 <template>
   <div class="shortcuts d-flex flex-row row">
     <div class="col-md-8 offset-md-2">
+      <p
+        class="text"
+        v-if="bookmarks[software].length === 0"
+      >You have not bookmarked any shortcuts yet. Click the All Shortcuts tab on the menubar on the left to view and add shortcuts you need :)</p>
+
       <div v-for="(category, categoryIn) in group" :key="categoryIn" class="mb-30" :id="categoryIn">
         <div v-if="filteredShortcuts(category).length !== 0">
           <p class="text-left pointer" @click="viewCollapse(category)">
@@ -122,13 +132,7 @@ export default {
           return x.category;
         })
       );
-      console.log();
       return category;
-      let mid = Math.floor(category.length / 2);
-      return [
-        category.slice(0, category.length - mid),
-        category.slice(category.length - mid, category.length)
-      ];
     }
   },
   methods: {
