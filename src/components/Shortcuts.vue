@@ -52,7 +52,7 @@
     <div class="col-md-8 offset-md-2">
       <p
         class="text"
-        v-if="bookmarks[software].length === 0"
+        v-if="bookmarks[software].length === 0 && tab === 'bookmarks'"
       >You have not bookmarked any shortcuts yet. Click the All Shortcuts tab on the menubar on the left to view and add shortcuts you need :)</p>
 
       <div v-for="(category, categoryIn) in group" :key="categoryIn" class="mb-30" :id="categoryIn">

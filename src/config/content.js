@@ -86,168 +86,197 @@ export const softwares = {
   wordwin: []
 };
 
+export const category = ["Productivity", "Collaboration", "Design", "Utility"];
+
 const list = [
   {
     name: "Acrobat",
     platform: "mac",
     file: "acrobat-mac",
-    var: "acrobatmac"
+    var: "acrobatmac",
+    category: "Utility"
   },
   {
     name: "Acrobat",
     platform: "windows",
     file: "acrobat-win",
-    var: "acrobatwin"
+    var: "acrobatwin",
+    category: "Utility"
   },
   {
     name: "Asana",
     platform: "all",
     file: "asana",
-    var: "asana"
+    var: "asana",
+    category: "Collaboration"
   },
   {
     name: "Dropbox",
     platform: "all",
     file: "dropbox",
-    var: "dropbox"
+    var: "dropbox",
+    category: "Collaboration"
   },
   {
     name: "Excel",
     platform: "mac",
     file: "excel-mac",
-    var: "excelmac"
+    var: "excelmac",
+    category: "Productivity"
   },
   {
     name: "Excel",
     platform: "windows",
     file: "excel-win",
-    var: "excelwin"
+    var: "excelwin",
+    category: "Productivity"
   },
   {
     name: "Chrome",
     platform: "mac",
     file: "google-chrome-mac",
-    var: "googlechromemac"
+    var: "googlechromemac",
+    category: "Utility"
   },
   {
     name: "Chrome",
     platform: "windows",
     file: "google-chrome-win",
-    var: "googlechromewin"
+    var: "googlechromewin",
+    category: "Utility"
   },
   {
     name: "Google Docs",
     platform: "mac",
     file: "google-docs-mac",
-    var: "googledocsmac"
+    var: "googledocsmac",
+    category: "Collaboration"
   },
   {
     name: "Google Docs",
     platform: "windows",
     file: "google-docs-win",
-    var: "googledocswin"
+    var: "googledocswin",
+    category: "Collaboration"
   },
   {
     name: "Google Drive",
     platform: "all",
     file: "google-drive",
-    var: "googledrive"
+    var: "googledrive",
+    category: "Collaboration"
   },
   {
     name: "Google Mail",
     platform: "mac",
     file: "google-mail-mac",
-    var: "googlemailmac"
+    var: "googlemailmac",
+    category: "Productivity"
   },
   {
     name: "Google Mail",
     platform: "windows",
     file: "google-mail-win",
-    var: "googlemailwin"
+    var: "googlemailwin",
+    category: "Productivity"
   },
   {
     name: "Google Slides",
     platform: "all",
     file: "google-slides",
-    var: "googleslides"
+    var: "googleslides",
+    category: "Productivity"
   },
   {
     name: "Google Spreadsheets",
     platform: "all",
     file: "google-spreadsheets",
-    var: "googlespreadsheets"
+    var: "googlespreadsheets",
+    category: "Productivity"
   },
   {
     name: "Illustrator",
     platform: "mac",
     file: "illustrator-mac",
-    var: "illustratormac"
+    var: "illustratormac",
+    category: "Design"
   },
   {
     name: "Illustrator",
     platform: "windows",
     file: "illustrator-win",
-    var: "illustratorwin"
+    var: "illustratorwin",
+    category: "Design"
   },
   {
     name: "Outlook",
     platform: "mac",
     file: "outlook-mac",
-    var: "outlookmac"
+    var: "outlookmac",
+    category: "Productivity"
   },
   {
     name: "Outlook",
     platform: "windows",
     file: "outlook-win",
-    var: "outlookwin"
+    var: "outlookwin",
+    category: "Productivity"
   },
   {
     name: "Photoshop",
     platform: "mac",
     file: "photoshop-mac",
-    var: "photoshopmac"
+    var: "photoshopmac",
+    category: "Design"
   },
   {
     name: "Photoshop",
     platform: "windows",
     file: "photoshop-win",
-    var: "photoshopwin"
+    var: "photoshopwin",
+    category: "Design"
   },
   {
     name: "Premiere",
     platform: "mac",
     file: "premiere-mac",
-    var: "premieremac"
+    var: "premieremac",
+    category: "Design"
   },
   {
     name: "Premiere",
     platform: "windows",
     file: "premiere-win",
-    var: "premierewin"
+    var: "premierewin",
+    category: "Design"
   },
   {
     name: "Powerpoint",
     platform: "mac",
     file: "powerpoint-mac",
-    var: "powerpointmac"
+    var: "powerpointmac",
+    category: "Productivity"
   },
   {
     name: "Powerpoint",
     platform: "windows",
     file: "powerpoint-win",
-    var: "powerpointwin"
+    var: "powerpointwin",
+    category: "Productivity"
   },
   {
     name: "Word",
     platform: "mac",
     file: "word-mac",
-    var: "wordmac"
+    var: "wordmac",
+    category: "Productivity"
   },
   {
     name: "Word",
     platform: "windows",
     file: "word-win",
-    var: "wordwin"
+    var: "wordwin",
+    category: "Productivity"
   }
 ];
 

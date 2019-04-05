@@ -87,10 +87,10 @@ p {
         </span>
       </div>
 
-      <div class="mb-20 d-flex flex-column">
-        <span class="menu__headline">Software</span>
+      <div class="mb-20 d-flex flex-column" v-for="(cat, catIn) in category" :key="catIn">
+        <span class="menu__headline">{{cat}}</span>
         <span
-          v-for="(item, index) in list"
+          v-for="(item, index) in listCategory(cat)"
           :key="index"
           :class="classSoftware(item.var)"
           @click="viewSoftware(item.var)"
@@ -98,12 +98,6 @@ p {
           <i class="fa fa-chevron-right icon" aria-hidden="true"></i>
           {{item.name}}
         </span>
-        <!-- <span :class="classSoftware('excel')" @click="viewSoftware('excel')">
-          <i class="fa fa-chevron-right icon" aria-hidden="true"></i> Excel
-        </span>
-        <span :class="classSoftware('vim')" @click="viewSoftware('vim')">
-          <i class="fa fa-chevron-right icon" aria-hidden="true"></i> Vim
-        </span>-->
       </div>
 
       <div class="mb-20 d-flex flex-column">
@@ -136,6 +130,7 @@ p {
 
 <script>
 import list from "@/config/content.js";
+import { category } from "@/config/content.js";
 
 export default {
   name: "Menubar",
@@ -145,6 +140,9 @@ export default {
       return list.filter(x => {
         return x.platform === this.platform || x.platform === "all";
       });
+    },
+    category: function() {
+      return category;
     },
     software: function() {
       return this.$store.state.software;
@@ -163,6 +161,11 @@ export default {
     }
   },
   methods: {
+    listCategory: function(category) {
+      return this.list.filter(x => {
+        return x.category === category;
+      });
+    },
     ucfirst: function(string) {
       return string.charAt(0).toUpperCase() + string.slice(1);
     },

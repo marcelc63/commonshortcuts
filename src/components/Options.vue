@@ -1,6 +1,6 @@
 <style scoped lang="scss">
 .w-100 {
-  width: 100%;
+  width: 100% !important;
 }
 .wrapper {
   width: 100%;
@@ -30,6 +30,8 @@
 
 .options {
   min-height: 90px;
+  max-width: 650px;
+  width: 100%;
   position: fixed;
   top: 40px;
   z-index: 2;
@@ -49,6 +51,11 @@
   color: #383838; //Five
   cursor: pointer;
 }
+
+.software {
+  margin-top: 5px;
+  color: #a0a0a0; //Four
+}
 </style>
 
 <template>
@@ -56,15 +63,26 @@
     <div class="nav flex-column" @click="nav" v-if="showNavMenu">
       <i class="fa fa-bars" aria-hidden="true"></i>
     </div>
-    <input v-model="search" class="search-box" placeholder="Find shortcuts...">
+    <input v-model="search" class="search-box" :placeholder="'Find '+software+' shortcuts...'">
   </div>
 </template>
 
 <script>
+import list from "@/config/content.js";
+
 export default {
   name: "Options",
   props: {},
   computed: {
+    software: {
+      get() {
+        let software = this.$store.state.software;
+        return list.filter(x => x.var === software)[0].name;
+      },
+      set(val) {
+        this.$store.dispatch("load", { key: "search", data: val });
+      }
+    },
     search: {
       get() {
         return this.$store.state.search;
