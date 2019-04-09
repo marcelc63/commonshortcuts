@@ -6,6 +6,7 @@
   color: #a0a0a0; //Four
   height: 100vh;
   min-width: 240px;
+  max-width: 240px;
   padding: 20px 10px;
   z-index: 3;
   overflow-y: scroll;
@@ -67,6 +68,23 @@ p {
     position: absolute;
   }
 }
+
+.category {
+  color: #a0a0a0; //Four
+  padding: 3px 10px;
+  font-size: 12px;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 2px;
+  margin-bottom: 0px;
+  a {
+    color: #a0a0a0; //Four
+  }
+  &:hover {
+    // background: #e8e7e4; //Three
+    background: #e8e8e8; //Three
+  }
+}
 </style>
 
 <template>
@@ -97,6 +115,11 @@ p {
         >
           <i class="fa fa-chevron-right icon" aria-hidden="true"></i>
           {{item.name}}
+          <div v-if="software === item.var" class="d-flex flex-column">
+            <p v-for="(category, categoryIn) in group" :key="categoryIn" class="category">
+              <a :href="'#cat'+categoryIn">{{category}}</a>
+            </p>
+          </div>
         </span>
       </div>
 
@@ -107,6 +130,15 @@ p {
         </span>
         <span :class="classPlatform('mac')" @click="viewPlatform('mac')">
           <i class="fa fa-apple icon" aria-hidden="true"></i> macOS
+        </span>
+      </div>
+
+      <div class="mb-20 d-flex flex-column">
+        <span class="menu__headline">About</span>
+        <span class="menu__options">
+          <a href="https://twitter.com/marcelc63">
+            <i class="fa fa-twitter icon" aria-hidden="true"></i> marcelc63
+          </a>
         </span>
       </div>
 
@@ -144,6 +176,9 @@ export default {
     category: function() {
       return category;
     },
+    shortcuts: function() {
+      return this.$store.state.shortcuts;
+    },
     software: function() {
       return this.$store.state.software;
     },
@@ -158,6 +193,23 @@ export default {
     },
     showNavMenu: function() {
       return screen.width < 628 ? true : false;
+    },
+    group: function() {
+      let software = this.software;
+      let shortcuts = this.shortcuts[software];
+
+      var uniqueArray = arrArg => {
+        return arrArg.filter((elem, pos, arr) => {
+          return arr.indexOf(elem) == pos;
+        });
+      };
+
+      let category = uniqueArray(
+        shortcuts.map(x => {
+          return x.category;
+        })
+      );
+      return category;
     }
   },
   methods: {

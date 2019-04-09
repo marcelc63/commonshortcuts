@@ -21,7 +21,7 @@
     <!-- <Toolbar/> -->
     <div class="d-flex flex-row">
       <Menubar/>
-      <div class="hello d-flex flex-column align-items-center" v-if="isLoaded">
+      <div class="hello d-flex flex-column align-items-center" v-if="isLoaded" id="container">
         <!-- <Control/> -->
         <Options/>
         <Shortcuts/>
