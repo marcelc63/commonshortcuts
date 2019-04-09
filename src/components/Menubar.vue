@@ -111,14 +111,15 @@ p {
           v-for="(item, index) in listCategory(cat)"
           :key="index"
           :class="classSoftware(item.var)"
-          @click="viewSoftware(item.var)"
         >
-          <i class="fa fa-chevron-right icon" aria-hidden="true"></i>
-          {{item.name}}
+          <span class="d-flex flex-row align-items-center" @click="viewSoftware(item.var)">
+            <i class="fa fa-chevron-right icon" aria-hidden="true"></i>
+            {{item.name}}
+          </span>
           <div v-if="software === item.var" class="d-flex flex-column">
-            <p v-for="(category, categoryIn) in group" :key="categoryIn" class="category">
+            <span v-for="(category, categoryIn) in group" :key="categoryIn" class="category">
               <a :href="'#cat'+categoryIn">{{category}}</a>
-            </p>
+            </span>
           </div>
         </span>
       </div>

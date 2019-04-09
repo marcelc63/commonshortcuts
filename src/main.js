@@ -7,8 +7,6 @@ Vue.config.productionTip = false;
 
 var VueScrollTo = require("vue-scrollto");
 
-Vue.use(VueScrollTo);
-
 // You can also pass in the default options
 Vue.use(VueScrollTo, {
   container: "#container",
@@ -16,12 +14,15 @@ Vue.use(VueScrollTo, {
   easing: "ease",
   offset: 0,
   force: true,
-  cancelable: true,
-  onStart: false,
+  cancelable: true,  
   onDone: false,
   onCancel: false,
   x: false,
-  y: true
+  y: true,
+  onStart: function(element) {
+    // scrolling started
+    console.log('hi')
+  }
 });
 
 new Vue({

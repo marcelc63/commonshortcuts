@@ -12,8 +12,13 @@
   // max-width: 1150px;
   // width: 100%;
   height: 100% !important;
-  margin-top: 150px;
+  // margin-top: 150px;
   position: relative;
+}
+.shortcuts__container {
+  padding-top: 150px;
+  margin-bottom: -100px;
+  // margin-top: -50px;
 }
 @media only screen and (max-width: 600px) {
   .shortcuts {
@@ -57,7 +62,12 @@
         v-if="bookmarks[software].length === 0 && tab === 'bookmarks'"
       >You have not bookmarked any shortcuts yet. Click the All Shortcuts tab on the menubar on the left to view and add shortcuts you need :)</p>
 
-      <div v-for="(category, categoryIn) in group" :key="categoryIn" class="mb-30" :id="'cat'+categoryIn">
+      <div
+        v-for="(category, categoryIn) in group"
+        :key="categoryIn"
+        class="mb-30 shortcuts__container"
+        :id="'cat'+categoryIn"
+      >
         <div v-if="filteredShortcuts(category).length !== 0">
           <p class="text-left pointer" @click="viewCollapse(category)">
             <b>
@@ -78,7 +88,7 @@
           <a :href="'#'+categoryIn">{{category}}</a>
         </p>
       </div>
-    </div> -->
+    </div>-->
   </div>
 </template>
 
