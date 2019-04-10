@@ -48,6 +48,7 @@
 }
 
 .text {
+  padding-top: 150px;
   color: #a0a0a0; //Four
   font-size: 14px;
 }
@@ -67,19 +68,18 @@
         :key="categoryIn"
         class="mb-30 shortcuts__container"
         :id="'cat'+categoryIn"
+        v-show="filteredShortcuts(category).length !== 0"
       >
-        <div v-if="filteredShortcuts(category).length !== 0">
-          <p class="text-left pointer" @click="viewCollapse(category)">
-            <b>
-              {{ category }}
-              <i
-                :class="classCollapse(category) ? 'fa fa-caret-down' : 'fa fa-caret-up'"
-                aria-hidden="true"
-              ></i>
-            </b>
-          </p>
-          <Card :category="category"/>
-        </div>
+        <p class="text-left pointer" @click="viewCollapse(category)">
+          <b>
+            {{ category }}
+            <i
+              :class="classCollapse(category) ? 'fa fa-caret-down' : 'fa fa-caret-up'"
+              aria-hidden="true"
+            ></i>
+          </b>
+        </p>
+        <Card :category="category"/>
       </div>
     </div>
     <!-- <div class="col-md-2">
