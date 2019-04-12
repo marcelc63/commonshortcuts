@@ -27,7 +27,7 @@
         <Shortcuts/>
       </div>
     </div>
-    <AboutUs/>
+    <!-- <AboutUs/> -->
   </div>
 </template>
 

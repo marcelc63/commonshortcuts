@@ -20,9 +20,19 @@
   margin-bottom: -100px;
   // margin-top: -50px;
 }
+// @media only screen and (max-width: 600px) {
+//   .shortcuts {
+//     margin-top: 100px;
+//   }
+// }
+
 @media only screen and (max-width: 600px) {
   .shortcuts {
-    margin-top: 100px;
+    margin-top: 0px;
+  }
+  .shortcuts__container {
+    padding-top: 100px;
+    margin-bottom: -100px;
   }
 }
 
