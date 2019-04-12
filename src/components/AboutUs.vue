@@ -7,15 +7,14 @@
     <div class="aboutus__inner">
       <p class="aboutus__title">Welcome to Common Shortcuts!</p>
       <p class="aboutus__text">
-        Common Shortcuts is a way to search and bookmark common Excel and
-        Vim shortcuts so you no longer have to dig the web. It's made to
+        Common Shortcuts is a way to find and bookmark shortcuts you need so you no longer have to dig the web. It's made to
         save everyone's time when using softwares they interact with daily.
       </p>
 
       <p class="aboutus__headline">About Me</p>
       <p class="aboutus__text">
         My name is
-        <a href="https://marcelchristianis.com" target="_blank">Marcel Christianis</a>, 22 years old, from Indonesia. I believe in the intersection of
+        <a href="https://marcelchristianis.com" target="_blank">Marcel Christianis</a>, 23 years old, from Indonesia. I believe in the intersection of
         code, design, and business. Follow me on
         <a
           href="https://twitter.com/marcelc63"
@@ -26,13 +25,11 @@
 
       <p class="aboutus__headline">Credits</p>
       <p class="aboutus__text">
-        Shortcuts sourced for Vim from
-        <a href="https://vim.rtorr.com" target="_blank">vim.rtorr.com</a>
-        and Excel from
+        Shortcuts sourced from Shortcuts World
         <a
-          href="https://office-hack.com/en/excel/shortcutkey-list/"
+          href="https://shortcutworld.com"
           target="_blank"
-        >office-hacks</a>
+        >https://shortcutworld.com</a>
       </p>
 
       <!-- Begin Mailchimp Signup Form -->
